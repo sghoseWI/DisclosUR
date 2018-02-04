@@ -2,6 +2,7 @@
 
 import pyopenstates
 
-pyopenstates.set_api_key('e84a8eb4-223e-4603-93ee-41d87f23fc56')
+#api key stored locally for now - probably shouldn't be public.
+pyopenstates.set_api_key(api_jey)
 
 legislators = pyopenstates.locate_legislators(lat,lon)
