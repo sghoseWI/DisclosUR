@@ -7,15 +7,26 @@ import urllib3
 import json
 
 #api key stored locally for now - probably shouldn't be public.
-pyopenstates.set_api_key(ok_jey)
+#pyopenstates.set_api_key(ok_jey)
 
 gmaps_key = ""
 
-location_string = "+".join(address.split())
-url = "https://maps.googleapis.com/maps/api/geocode/json?address={}&key={}".format(location_string, gmaps_key)
-#example https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=YOUR_API_KEY
+def get_google_data(gmaps_key, address):
+	'''
+	Returns location data in JSON
+	'''
+	location_string = "+".join(address.split())
+	myurl = "https://maps.googleapis.com/maps/api/geocode/json?address={}&key={}".format(location_string, gmaps_key)
+	#example https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=YOUR_API_KEY
 
-# Extract lat and lon from JSON here
+	# Extract lat and lon from JSON here
+	pm = urllib3.PoolManager()
 
-legislators = pyopenstates.locate_legislators(lat,lon)
+	google_data = pm.urlopen(url=myurl, method="GET")
+	hm = google_data.read()
+	
+	#rv = json.loads(hm.decode())
+	return type(hm)
+
+#legislators = pyopenstates.locate_legislators(lat,lon)
 
