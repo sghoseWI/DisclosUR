@@ -11,7 +11,7 @@ import json
 
 gmaps_key = ""
 
-def get_google_data(gmaps_key, address):
+def get_location(gmaps_key, address):
     '''
     Returns location data in JSON
     '''
@@ -22,7 +22,11 @@ def get_google_data(gmaps_key, address):
     # Extract lat and lon from JSON here
 
     r = requests.get(myurl)
-    return r.json() 
+    google_data = r.json()
+    loc_dict = google_data['results'][0]['geometry']['location']
+    lat, lon = loc_dict['lat'], loc_dict['lon']
+    return lat, lon
+
 
 #legislators = pyopenstates.locate_legislators(lat,lon)
 
