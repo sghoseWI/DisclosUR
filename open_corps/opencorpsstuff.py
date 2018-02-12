@@ -9,8 +9,11 @@ import os
 
 def open_corporates(legislator_dict):
     company_numbers = corporation_search(legislator_dict)
-    company_info = get_company_info(company_numbers)
-    return company_info
+    if not company_numbers:
+        return "No matching results"
+    else:
+        company_info = get_company_info(company_numbers, legislator_dict)
+        return company_info
 
 def corporation_search(legislator_dict):
     '''
@@ -25,14 +28,12 @@ def corporation_search(legislator_dict):
     company_numbers = [] # what we eventually feed into get_company_info
 
     for business in legislator_dict["businesses"]:
-        if business is not "N/A":
+        # if business is not "N/A": should actually never happen
             # build the search query
             business = business.replace(" ", "+")
             print(business) # test
             search_url = "https://api.opencorporates.com/v0.4/companies/search?q=" + business
             print(search_url) # test
-            # will need to build in conditionals for additional parameters
-            # also need to validate businesses are real businesses
             # payload = {"?q":business} introduces an extraneous %3F for unknown reasons
 
             # make the api call
@@ -57,9 +58,23 @@ def get_company_info(company_numbers):
     for company in company_numbers:
         print(company)
         search_url = "https://api.opencorporates.com/v0.4/companies/" + company
-
         response = requests.get(search_url)
         if response.status_code == 200:
             result = json.loads(response.content)
-        company_list.append(result)
+        else:
+            print("no response")
+    # figure out this stupid dict organization
+        company_list.append(result["results"]["company"])
+
+    #while len(company_list) > 5:
     return company_list
+
+# have a dict of filters and then iterate through each of the filters until
+# company list is trimmed to a reasonable length
+# maybe a better idea to pump the dynamic query directly to sql, filter there?
+# or feed into a dataframe and filter with pandas?
+def trim_corps(company_list, filter):
+        if len(company_list) > 5:
+        trim_corps(company_list)
+    else:
+        return company_list
