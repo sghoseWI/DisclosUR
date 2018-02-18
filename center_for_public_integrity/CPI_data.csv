@@ -891,8 +891,8 @@ cpi_id,lawmaker_id,lawmaker,state,body,district,employer_business_interest,indus
 889,1262442,"TALAMANTES-EGGMAN, SUSAN",CA,ASSEMBLY,13,N/A,NONE,https://apps.publicintegrity.org/disclosure/documents/3926230-CA-TALAMANTES-EGGMAN-SUSAN
 890,6485735,"THURMOND, TONY",CA,ASSEMBLY,15,N/A,NONE,https://apps.publicintegrity.org/disclosure/documents/3926232-CA-THURMOND-TONY-K
 891,11022760,"TING, PHIL",CA,ASSEMBLY,19,LUBIN OLSON & NIEWIADOMSKI LLP,LAWYERS & LOBBYISTS,https://apps.publicintegrity.org/disclosure/documents/3926245-CA-TING-PHIL
-892,330788,"VIDAK, JAMES",CA,SENATE,14,ANDY VIDAK,,
-"CROP PRODUCTION & BASIC PROCESSING & LIVESTOCK""",https://apps.publicintegrity.org/disclosure/documents/3926267-CA-VIDAK-JAMES-ANDREW-ANDY,,,,,,,
+892,330788,"VIDAK, JAMES",CA,SENATE,14,ANDY VIDAK,"
+CROP PRODUCTION & BASIC PROCESSING & LIVESTOCK",https://apps.publicintegrity.org/disclosure/documents/3926267-CA-VIDAK-JAMES-ANDREW-ANDY
 893,13008823,"WAGNER, DONALD",CA,ASSEMBLY,68,LAW OFFICES OF DONALD P. WAGNER,LAWYERS & LOBBYISTS,https://apps.publicintegrity.org/disclosure/documents/3926287-CA-WAGNER-DONALD-P-DON
 894,1569939,"WALDRON, MARIE",CA,ASSEMBLY,75,WALDRON ENTERPRISES LLC,EMPLOYER LISTED/CATEGORY UNKNOWN,https://apps.publicintegrity.org/disclosure/documents/3926298-CA-WALDRON-MARIE
 895,13008894,"WEBER, SHIRLEY",CA,ASSEMBLY,79,N/A,NONE,https://apps.publicintegrity.org/disclosure/documents/3926309-CA-WEBER-SHIRLEY
@@ -1010,8 +1010,8 @@ cpi_id,lawmaker_id,lawmaker,state,body,district,employer_business_interest,indus
 1007,6011410,"LEE, SANFORD (PETE)",CO,HOUSE,18,COMMUNITY PREP CHARTER SCHOOL,EDUCATION,https://apps.publicintegrity.org/disclosure/documents/4053333-CO-LEE-SANFORD-E-PETE
 1008,6011410,"LEE, SANFORD (PETE)",CO,HOUSE,18,NAACP,MINORITY & DISABILITY GROUPS,https://apps.publicintegrity.org/disclosure/documents/4053333-CO-LEE-SANFORD-E-PETE
 1009,6011410,"LEE, SANFORD (PETE)",CO,HOUSE,18,PIKES PEAK MENTAL HEALTH,HEALTH SERVICES,https://apps.publicintegrity.org/disclosure/documents/4053333-CO-LEE-SANFORD-E-PETE
-1010,6011410,"LEE, SANFORD (PETE)",CO,HOUSE,18,PIKES PEAK RJ COUNCIL,,
-"NONPROFIT INSTITUTIONS""",https://apps.publicintegrity.org/disclosure/documents/4053333-CO-LEE-SANFORD-E-PETE,,,,,,,
+1010,6011410,"LEE, SANFORD (PETE)",CO,HOUSE,18,PIKES PEAK RJ COUNCIL,"
+NONPROFIT INSTITUTIONS",https://apps.publicintegrity.org/disclosure/documents/4053333-CO-LEE-SANFORD-E-PETE
 1011,6011410,"LEE, SANFORD (PETE)",CO,HOUSE,18,RENTAL INCOME,REAL ESTATE,https://apps.publicintegrity.org/disclosure/documents/4053333-CO-LEE-SANFORD-E-PETE
 1012,23439536,"LONTINE, SUSAN",CO,HOUSE,1,"MAIN STREET MEDIA, LLC",TV & MOVIE PRODUCTION/DISTRIBUTION,https://apps.publicintegrity.org/disclosure/documents/4053345-CO-LONTINE-SUSAN
 1013,23439536,"LONTINE, SUSAN",CO,HOUSE,1,"MARCONI, INC",MISCELLANEOUS FINANCE,https://apps.publicintegrity.org/disclosure/documents/4053345-CO-LONTINE-SUSAN
@@ -1943,8 +1943,8 @@ cpi_id,lawmaker_id,lawmaker,state,body,district,employer_business_interest,indus
 1939,13011461,"JEFFARES, RICHARD",GA,SENATE,17,"J & T ENVIRONMENTAL SERVICES, INC",ENVIRONMENTAL SERVICES & EQUIPMENT,https://apps.publicintegrity.org/disclosure/documents/3925900-GA-JEFFARES-RICHARD-M-RICK
 1940,13011461,"JEFFARES, RICHARD",GA,SENATE,17,"NEWTON PLANTATION WATER SYSTEM, INC",WASTE MANAGEMENT,https://apps.publicintegrity.org/disclosure/documents/3925900-GA-JEFFARES-RICHARD-M-RICK
 1941,24360838,"JONES II, HAROLD V.",GA,SENATE,22,LAW OFFICES OF HAROLD JONES II,LAWYERS & LOBBYISTS,https://apps.publicintegrity.org/disclosure/documents/3925902-GA-JONES-II-HAROLD-V
-1942,24360838,"JONES II, HAROLD V.",GA,SENATE,22,LYONS JONES AND FRAIL LLC,,
-"LAWYERS & LOBBYISTS""",https://apps.publicintegrity.org/disclosure/documents/3925902-GA-JONES-II-HAROLD-V,,,,,,,
+1942,24360838,"JONES II, HAROLD V.",GA,SENATE,22,LYONS JONES AND FRAIL LLC,"
+LAWYERS & LOBBYISTS",https://apps.publicintegrity.org/disclosure/documents/3925902-GA-JONES-II-HAROLD-V
 1943,6459717,"JONES, EMANUEL",GA,SENATE,10,"DSA, INC",COMPUTER EQUIPMENT & SERVICES,https://apps.publicintegrity.org/disclosure/documents/3925903-GA-JONES-EMANUEL
 1944,6459717,"JONES, EMANUEL",GA,SENATE,10,HENRY CO COLLISION CENTER,AUTOMOTIVE,https://apps.publicintegrity.org/disclosure/documents/3925903-GA-JONES-EMANUEL
 1945,6459717,"JONES, EMANUEL",GA,SENATE,10,"LEGACY AUTOMOTIVE OF COLUMBUS, LLC",AUTOMOTIVE,https://apps.publicintegrity.org/disclosure/documents/3925903-GA-JONES-EMANUEL
@@ -10145,7 +10145,7 @@ cpi_id,lawmaker_id,lawmaker,state,body,district,employer_business_interest,indus
 10140,13007100,"ANDEREGG, JAKE",UT,HOUSE,6,ZIONS BANK,COMMERCIAL BANKS,https://apps.publicintegrity.org/disclosure/documents/3930959-UT-ANDEREGG-JAKE
 10141,13007184,"ARENT, PATRICE",UT,HOUSE,36,BOULDER MOUNTAIN LODGE,LODGING & TOURISM,https://apps.publicintegrity.org/disclosure/documents/3930964-UT-ARENT-PATRICE
 10142,6700256,"BARLOW, STEWART",UT,HOUSE,17,"STEWART E. BARLOW, M.D., P.C.",HEALTH PROFESSIONALS,https://apps.publicintegrity.org/disclosure/documents/3930968-UT-BARLOW-STEWART-E
-10143,6647149,"BRAMBLE, CURT",UT,SENATE,16,"BRAMBLE & COMPANY, CPAðS",ACCOUNTANTS,https://apps.publicintegrity.org/disclosure/documents/3930973-UT-BRAMBLE-CURT
+10143,6647149,"BRAMBLE, CURT",UT,SENATE,16,"BRAMBLE & COMPANY, CPA’S",ACCOUNTANTS,https://apps.publicintegrity.org/disclosure/documents/3930973-UT-BRAMBLE-CURT
 10144,6501868,"BRISCOE, JOEL",UT,HOUSE,25,INSIGHT RESEARCH,BUSINESS SERVICES,https://apps.publicintegrity.org/disclosure/documents/3930977-UT-BRISCOE-JOEL-K
 10145,1150081,"CHAVEZ-HOUCK, REBECCA",UT,HOUSE,24,N/A,NONE,https://apps.publicintegrity.org/disclosure/documents/3930980-UT-CHAVEZ-HOUCK-REBECCA
 10146,24352019,"CHEW, SCOTT",UT,HOUSE,55,"CHEW LIVESTOCK, INC.",CROP PRODUCTION & BASIC PROCESSING & LIVESTOCK,https://apps.publicintegrity.org/disclosure/documents/3930984-UT-CHEW-SCOTT-H
@@ -10288,7 +10288,7 @@ cpi_id,lawmaker_id,lawmaker,state,body,district,employer_business_interest,indus
 10283,13007285,"URQUHART, STEVE",UT,SENATE,29,"SHU, PC",EMPLOYER LISTED/CATEGORY UNKNOWN,https://apps.publicintegrity.org/disclosure/documents/3931162-UT-URQUHART-STEVE
 10284,6669232,"VAN TASSELL, KEVIN",UT,SENATE,26,ZIONS BANK,COMMERCIAL BANKS,https://apps.publicintegrity.org/disclosure/documents/3931163-UT-VAN-TASSELL-KEVIN-T
 10285,9838132,"VICKERS, EVAN",UT,SENATE,28,"BULLOCH BUILDING, LLC.",REAL ESTATE,https://apps.publicintegrity.org/disclosure/documents/3931165-UT-VICKERS-EVAN-J
-10286,9838132,"VICKERS, EVAN",UT,SENATE,28,BULLOCHðS DRUG STORE,RETAIL SALES,https://apps.publicintegrity.org/disclosure/documents/3931165-UT-VICKERS-EVAN-J
+10286,9838132,"VICKERS, EVAN",UT,SENATE,28,BULLOCH’S DRUG STORE,RETAIL SALES,https://apps.publicintegrity.org/disclosure/documents/3931165-UT-VICKERS-EVAN-J
 10287,9838132,"VICKERS, EVAN",UT,SENATE,28,TOWNSHIP PROFESSIONAL PHARMACY,RETAIL SALES,https://apps.publicintegrity.org/disclosure/documents/3931165-UT-VICKERS-EVAN-J
 10288,9840132,"WARD, RAYMOND",UT,HOUSE,19,COPE FAMILY MEDICINE LLC,HEALTH PROFESSIONALS,https://apps.publicintegrity.org/disclosure/documents/3931166-UT-WARD-RAYMOND
 10289,6607017,"WEBB, R CURT",UT,HOUSE,5,CACHE TITLE COMPANY,MISCELLANEOUS FINANCE,https://apps.publicintegrity.org/disclosure/documents/3931168-UT-WEBB-R-CURT

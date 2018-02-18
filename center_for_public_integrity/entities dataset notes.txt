@@ -1,0 +1,14 @@
+Excludes:
+Civil Servants/Public Officials
+Elderly / Social Security
+Trade Unions
+Military
+None
+Public Sector Unions
+Retired
+Transportation Unions
+
+Anyone who described themselves as "self-employed" without providing an entity name
+Any variation on "rental income" or 'investment income' which did not include an entity name
+Generic 'law office' without entity name
+"Farmland" or "farms" without an entity name
