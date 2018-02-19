@@ -37,5 +37,6 @@ def get_legislator_data(address, gmaps_key=gmaps_key, os_key=os_key):
 	'''
 	pyopenstates.set_api_key(os_key)
 	lat, lon = get_location(address, gmaps_key)
-	return pyopenstates.locate_legislators(lat, lon)[0]['full_name']
+	return pyopenstates.locate_legislators(lat, lon)
+        #return pyopenstates.locate_legislators(lat, lon)[0]['full_name']
 
