@@ -10,7 +10,7 @@ Financial disclosure at the state level and its relation to corporate entities.
 * requests
 * json
 * python-dotenv
-
+* os
 
 Initial Project Presentation:
 https://prezi.com/view/yda9L3iN2IWJhWulWExb/
