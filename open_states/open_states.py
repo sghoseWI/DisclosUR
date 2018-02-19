@@ -5,11 +5,14 @@
 import pyopenstates
 import requests 
 import json
+import os
+import re
+from dotenv import get_key, find_dotenv 
 
 #api key stored locally for now - probably shouldn't be public.
 
-os_key = ""
-gmaps_key = ""
+os_key = get_key(find_dotenv(),'OPEN_STATES_KEY') 
+gmaps_key = get_key(find_dotenv(),'GMAPS_KEY') 
 
 def get_location(address, gmaps_key=gmaps_key):
     '''
@@ -29,14 +32,14 @@ def get_location(address, gmaps_key=gmaps_key):
     return lat,lon
 
 def get_legislator_data(address, gmaps_key=gmaps_key, os_key=os_key):
-	'''
-	Returns legislator metadata from an address.
-		Calls get_location (google maps api).
-		Input: address (string), api keys
-		Output: Dictionary (JSON)
-	'''
-	pyopenstates.set_api_key(os_key)
-	lat, lon = get_location(address, gmaps_key)
-	return pyopenstates.locate_legislators(lat, lon)
-        #return pyopenstates.locate_legislators(lat, lon)[0]['full_name']
+    '''
+    Returns legislator metadata from an address.
+        Calls get_location (google maps api).
+        Input: address (string), api keys
+        Output: list of names (strings)
+    '''
+    pyopenstates.set_api_key(os_key)
+    lat, lon = get_location(address, gmaps_key)
+    metadata =  pyopenstates.locate_legislators(lat, lon)
+    return [metadata[i]['full_name'] for i in range(len(metadata))]
 
