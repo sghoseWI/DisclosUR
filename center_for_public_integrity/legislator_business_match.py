@@ -13,7 +13,7 @@ cur = con.cursor()
 
 # Return all results of query
 cur.execute('SELECT legislator FROM CPI_data left join  \
-WHERE ')
+WHERE legislator != "NA"')
 cur.fetchall()
 
 def join_leg_bus(csv):
