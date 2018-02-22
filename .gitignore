@@ -1,1 +1,3 @@
+# The following files will not be pushed to the repo
+
 *.env
