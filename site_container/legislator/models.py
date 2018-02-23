@@ -1,12 +1,12 @@
 from django.db import models
 
-class Legislator(models.Model):
+class Lawmaker(models.Model):
     """
-    Model representing a legislator.
+    Model representing a legislaTor.
     """
     name = models.CharField(max_length=50)
-    corporations = models.ManytoMany(Corps)
-    state = models.ForeignKey(State)
+    corps = models.ManyToManyField(Corps, verbose_name="list of corporations")
+    state = models.ForeignKey(State, verbose_name="the lawmaker's state")
     party = models.ForeignKey(Party)
 
     def __str__(self):
@@ -15,7 +15,7 @@ class Legislator(models.Model):
 class Corps(models.Model):
     """
     Model representing a Corporation.
-    Multiple Corps may be tied to multiple Legislator objects.
+    Multiple Corps may be tied To multiple Lawmaker objects.
     """
     name = models.TextField()
     industry = models.ForiegnKey(Industry)
@@ -26,13 +26,13 @@ class Corps(models.Model):
 class State(models.Model):
     """
     Model representing a State.
-    A State has multiple Legislator objects, (ForeignKey).
-    A State has multiple Corps (ManytoMany).
-    A State has multiple Industry objects (ManytoMany).
+    A State has multiple Lawmaker objects, (ForeignKey).
+    A State has multiple Corps (ManyToManyField).
+    A State has multiple Industry objects (ManyToManyField).
     """
     name = models.CharField(max_length=15)
     abbr = models.CharField(max_length=2)
-    industries = models.ManytoMany(Industry)
+    industries = models.ManyToManyField(Industry)
 
     def __str__(self):
         return self.abbr
@@ -41,7 +41,7 @@ class Industry(models.Model):
     """
     Model representing an Industry.
     An Industry has multiple Corps.
-    An Industy has multiple Legislator objects.
+    An Industy has multiple Lawmaker objects.
     An Industry has multiple States.
     An Industry has multiple Party objects.
     """
@@ -49,7 +49,7 @@ class Industry(models.Model):
 class Party(models.Model):
     """
     Model representing a political party.
-    A Party has multiple Legislator objects (ForeignKey).
+    A Party has multiple Lawmaker objects (ForeignKey).
     A Party has multiple Industry objects.
     """
     name = models.CharField(max_length=15)
