@@ -43,7 +43,6 @@ def legislator_to_corps(legislators):
 
     c = db.cursor()
     for legislator in legislators:
-      print(legislator)
       r = c.execute(query, [legislator])
       corps = r.fetchall()
       corps = list({corp[0] for corp in corps})
