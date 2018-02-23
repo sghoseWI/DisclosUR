@@ -1,10 +1,13 @@
 from prompt_toolkit import prompt, AbortAction
 from prompt_toolkit.history import InMemoryHistory
 from prompt_toolkit.contrib.completers import WordCompleter
-#import open_states
+import open_states
+import center_for_public_integrity.query_cpi as qc
 
 def find_connections(address):
-    pass
+    legislators = open_states.get_legislator_names(address)
+    leg_corp_dict = qc.legislator_to_corps(legislators)
+    return leg_corp_dict
 
 def main():
     history = InMemoryHistory()
@@ -16,7 +19,7 @@ def main():
                           on_abort=AbortAction.RETRY)
             output = find_connections(address)
 
-            print(messages)
+            print(output)
         except EOFError:
             break  # Control-D pressed.
 
