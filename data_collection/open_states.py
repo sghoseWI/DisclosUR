@@ -36,10 +36,22 @@ def get_legislator_data(address, gmaps_key=gmaps_key, os_key=os_key):
     Returns legislator metadata from an address.
         Calls get_location (google maps api).
         Input: address (string), api keys
-        Output: list of names (strings)
+        Output: metadata (list of dictionaries)
     '''
     pyopenstates.set_api_key(os_key)
     lat, lon = get_location(address, gmaps_key)
-    metadata =  pyopenstates.locate_legislators(lat, lon)
-    return [metadata[i]['full_name'] for i in range(len(metadata))]
+    return pyopenstates.locate_legislators(lat, lon)
+    
+def get_legislator_names(address):
+    '''
+
+    '''
+    rv = []
+    metadata = get_legislator_data(address)
+    for i, legislator in enumerate(metadata):
+        last = metadata[i]['last_name'].upper()
+        first = metadata[i]['first_name'].upper()
+        rv.append("{}, {}".format(last, first))
+    return rv
+    
 

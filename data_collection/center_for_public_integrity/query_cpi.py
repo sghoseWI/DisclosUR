@@ -26,3 +26,28 @@ def find_corps(legislators):
     db.close()
     return list({corp[0] for corp in corps})
 
+def legislator_to_corps(legislators):
+    '''
+    Same as above, but returns a dict.
+    '''
+    rv = {}
+    if legislators == None:
+        return rv
+    db = sqlite3.connect('cpi.db')
+
+    query = '''
+            SELECT employer_business_interest
+            FROM cpi
+            WHERE lawmaker = ?
+            '''
+
+    c = db.cursor()
+    for legislator in legislators:
+      print(legislator)
+      r = c.execute(query, [legislator])
+      corps = r.fetchall()
+      corps = list({corp[0] for corp in corps})
+      rv[legislator] = corps
+
+    db.close()
+    return rv
