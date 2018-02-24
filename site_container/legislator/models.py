@@ -1,16 +1,25 @@
 from django.db import models
 
-class Lawmaker(models.Model):
+class Industry(models.Model):
     """
-    Model representing a legislaTor.
+    Model representing an Industry.
+    An Industry has multiple Corps.
+    An Industy has multiple Lawmaker objects.
+    An Industry has multiple States.
+    An Industry has multiple Party objects.
     """
-    name = models.CharField(max_length=50)
-    corps = models.ManyToManyField(Corps, verbose_name="list of corporations")
-    state = models.ForeignKey(State, verbose_name="the lawmaker's state")
-    party = models.ForeignKey(Party)
+    name = models.CharField(max_length=25)
+
+class Party(models.Model):
+    """
+    Model representing a political party.
+    A Party has multiple Lawmaker objects (ForeignKey).
+    A Party has multiple Industry objects.
+    """
+    name = models.CharField(max_length=15)
 
     def __str__(self):
-        return self.name , self.state, self.party
+        return self.name
 
 class Corps(models.Model):
     """
@@ -18,7 +27,7 @@ class Corps(models.Model):
     Multiple Corps may be tied To multiple Lawmaker objects.
     """
     name = models.TextField()
-    industry = models.ForiegnKey(Industry)
+    industry = models.ForeignKey(Industry, on_delete=models.CASCADE)
 
     def __str__(self):
         return self.name
@@ -37,22 +46,16 @@ class State(models.Model):
     def __str__(self):
         return self.abbr
 
-class Industry(models.Model):
+class Lawmaker(models.Model):
     """
-    Model representing an Industry.
-    An Industry has multiple Corps.
-    An Industy has multiple Lawmaker objects.
-    An Industry has multiple States.
-    An Industry has multiple Party objects.
+    Model representing a legislaTor.
     """
-
-class Party(models.Model):
-    """
-    Model representing a political party.
-    A Party has multiple Lawmaker objects (ForeignKey).
-    A Party has multiple Industry objects.
-    """
-    name = models.CharField(max_length=15)
+    name = models.CharField(max_length=50)
+    corps = models.ManyToManyField(Corps, verbose_name="list of corporations")
+    state = models.ForeignKey(State,
+                              verbose_name="the lawmaker's state",
+                              on_delete=models.CASCADE)
+    party = models.ForeignKey(Party, on_delete=models.CASCADE)
 
     def __str__(self):
-        return self.name
+        return self.name , self.state, self.party
