@@ -8,12 +8,8 @@ import matplotlib.pyplot as plt
 
 
 sns.set(style="darkgrid")
-my_data = pd.read_csv("CPI_data_prac.csv")
+my_data = pd.read_csv('CPI_data_cleaned.csv', sep=',', encoding='latin-1')
 ax = sns.countplot(x="industry", data=my_data)
 
+plt.xlabel('industry')
 plt.show(ax)
-
-# sns.set_style("whitegrid")
-# tips = pd.read_csv('CPI_data.csv')
-# ax = sns.barplot(x="cpi_id", y="body", data=tips)
-# plt.show(ax)
