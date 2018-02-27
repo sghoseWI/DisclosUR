@@ -58,4 +58,4 @@ class Lawmaker(models.Model):
     party = models.ForeignKey(Party, on_delete=models.CASCADE)
 
     def __str__(self):
-        return self.name , self.state, self.party
+        return "{},{},{}".format(self.name , self.state, self.party)
