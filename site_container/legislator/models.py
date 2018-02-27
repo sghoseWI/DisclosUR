@@ -28,6 +28,23 @@ class Corps(models.Model):
     """
     name = models.TextField()
     industry = models.ForeignKey(Industry, on_delete=models.CASCADE)
+    lawmaker = models.ManyToManyField(Lawmaker, verbose_name =
+        "lawmakers with an interest in this entity", on_delete=models.CASCADE)
+
+    # corresponding to OpenCorporates attributes
+    jurisdiction_code = models.SlugField()
+    current_status = models.SlugField()
+    company_type = models.CharField()
+    incorporation_date = models.DateField()
+    opencorporates_url = models.URLField()
+    alternative_names = models.TextField() #OpenCorp returns an array
+    registered_address_in_full = models.TextField()
+    registry_url = models.URLField()
+    company_number = models.CharField() # may not be strictly a number
+    controlling_entity = models.TextField()
+    ultimate_beneficial_owners = models.TextField()
+    officers = models.TextField() # OpenCorps returns a list of dicts. Might be
+        # better to implement this as a separate model
 
     def __str__(self):
         return self.name
