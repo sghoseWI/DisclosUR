@@ -26,24 +26,25 @@ class Corps(models.Model):
     Model representing a Corporation.
     Multiple Corps may be tied To multiple Lawmaker objects.
     """
-    name = models.TextField()
+    name = models.TextField(default='')
     industry = models.ForeignKey(Industry, on_delete=models.CASCADE)
-    lawmaker = models.ManyToManyField(Lawmaker, verbose_name =
-        "lawmakers with an interest in this entity", on_delete=models.CASCADE)
-
     # corresponding to OpenCorporates attributes
-    jurisdiction_code = models.SlugField()
-    current_status = models.SlugField()
-    company_type = models.CharField()
-    incorporation_date = models.DateField()
-    opencorporates_url = models.URLField()
-    alternative_names = models.TextField() #OpenCorp returns an array
-    registered_address_in_full = models.TextField()
-    registry_url = models.URLField()
-    company_number = models.CharField() # may not be strictly a number
-    controlling_entity = models.TextField()
-    ultimate_beneficial_owners = models.TextField()
-    officers = models.TextField() # OpenCorps returns a list of dicts. Might be
+    jurisdiction_code = models.SlugField(default='')
+    current_status = models.SlugField(default='')
+    company_type = models.CharField(max_length=10, default='Corp')
+
+    #incorporation_date = models.DateField(default=0000-00-00)
+    # This needs a datetime object as a value - don't use this
+    # type if you want to just use text representation
+
+    opencorporates_url = models.URLField(default='')
+    alternative_names = models.TextField(default='') #OpenCorp returns an array
+    registered_address_in_full = models.TextField(default='')
+    registry_url = models.URLField(default='')
+    company_number = models.CharField(max_length=10, default='N/A') # may not be strictly a number
+    controlling_entity = models.TextField(default='')
+    ultimate_beneficial_owners = models.TextField(default='')
+    officers = models.TextField(default='') # OpenCorps returns a list of dicts. Might be
         # better to implement this as a separate model
 
     def __str__(self):
