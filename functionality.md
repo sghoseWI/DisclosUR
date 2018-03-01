@@ -27,10 +27,10 @@ dataset (rather than an address query like the user form will do)
   3. For the purposes of populating the database, we will not query states that we know do not have business interest information
 
 3. The lawmaker information is passed to a script that queries the CPI database
-  1. Is the CPI database already loaded into Django? How do we do that?
-  2. If the CPI database is manually loaded into Django, is it queried through a separate back-end script / app, or in one of the main django container modules?
-  3. Do we pass the attributes of the specific instance of the lawmaker object we're querying, or in some other form?
-  4. If the CPI database is pre-loaded, do we need to create lawmaker, industry, state, and corp objects with each query, or can we precreate them based on everything that is in CPI, and just append attributes as we run through the query process?
+  * Is the CPI database already loaded into Django? How do we do that?
+  * If the CPI database is manually loaded into Django, is it queried through a separate back-end script / app, or in one of the main django container modules?
+  * Do we pass the attributes of the specific instance of the lawmaker object we're querying, or in some other form?
+  * If the CPI database is pre-loaded, do we need to create lawmaker, industry, state, and corp objects with each query, or can we precreate them based on everything that is in CPI, and just append attributes as we run through the query process?
 
 4. The CPI script returns a packet of information about the lawmaker, their business / employment interests, and the industry of each business / employment interest
   1. Business / employment interest objects are created ("corps") and associated with the lawmaker, industry objects are created or updated with associations to the lawmaker and the corps, the lawmaker is updated with new associations / a link to his disclosure URL
