@@ -5,14 +5,15 @@
 ### Overview:
 **We will run several thousand queries in order to populate the back-
 end Django database with all of the information pertaining to lawmakers and companies.
-After this step is completed, user queries based on the 2015 CPI data-set will not
-be sent to APIs; instead, they will query the database locally**
+This will combine the speed of static data with the functionality of dynamic querying - particularly as data changes over time.**
 
 ### Output
 
 **A fully populated Django back-end database**
 
 ### Process Flow & Steps Needed To Implement
+*We may want to highlight dynamic and static functionality at each point - rather than selling this as two separate processes*
+
 
 *Note: This process repeats for all lawmakers*
 
@@ -23,7 +24,7 @@ dataset (rather than an address query like the user form will do)
 
 2. The OpenStates script makes a call to an API and returns a packet of information about a lawmakers
   * This information is then stored in a Lawmaker model, as the model's attributes
-  * A state model is created and associated with the lawmaker (or is it easier to pre-create all the State models?)
+  * A state model is created and associated with the lawmaker.
   * For the purposes of populating the database, we will not query states that we know do not have business interest information
 
 3. The lawmaker information is passed to a script that queries the CPI database
