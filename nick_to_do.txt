@@ -1,0 +1,6 @@
+populate main db with legislators with open states bulk dl
+	ie running all legislators through CPI
+
+Add BOOLEAN for TRUE if from 2015 dataset -- 
+
+
