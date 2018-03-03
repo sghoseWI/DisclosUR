@@ -4,14 +4,17 @@
 from django.contrib import admin
 from django.urls import include, path
 from django.views.generic import RedirectView
+from legislator import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('legislator/', include('legislator.urls')),
-    path('', RedirectView.as_view(url='/legislator/', permanent=True)),
+    path('home/', views.home, name="home"),
+    path('non_disc/', views.non_disc, name="non_disc"),
+    path('full_results/', views.full_results, name="full_results")
 ]
 
-# Keeping if we want to use static files later 
+# Keeping if we want to use static files later
 from django.conf import settings
 from django.conf.urls.static import static
 
