@@ -27,7 +27,7 @@ class Corps(models.Model):
     Multiple Corps may be tied To multiple Lawmaker objects.
     """
     name = models.TextField()
-    industry = models.ForeignKey(Industry, on_delete=models.CASCADE)
+    industry = models.CharField(max_length=50, default='None')
 
     def __str__(self):
         return self.name
@@ -41,7 +41,6 @@ class State(models.Model):
     """
     name = models.CharField(max_length=15)
     abbr = models.CharField(max_length=2)
-    industries = models.ManyToManyField(Industry)
 
     def __str__(self):
         return self.abbr
@@ -55,7 +54,10 @@ class Lawmaker(models.Model):
     state = models.ForeignKey(State,
                               verbose_name="the lawmaker's state",
                               on_delete=models.CASCADE)
-    party = models.ForeignKey(Party, on_delete=models.CASCADE)
+    district = models.CharField(max_length=3, default='unknown')
+    body = models.CharField(max_length=15,default='unknown')
+    party = models.CharField(max_length=3,default='u')
+    cpi_15 = models.BooleanField(default=False)
 
     def __str__(self):
         return "{},{},{}".format(self.name , self.state, self.party)
