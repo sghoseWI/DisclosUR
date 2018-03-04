@@ -50,7 +50,8 @@ class Lawmaker(models.Model):
     Model representing a legislaTor.
     """
     name = models.CharField(max_length=50)
-    corps = models.ManyToManyField(Corps, verbose_name="list of corporations")
+    #corps = models.ManyToManyField(Corps, verbose_name="list of corporations")
+    corp = models.CharField(max_length=50,default='')
     state = models.ForeignKey(State,
                               verbose_name="the lawmaker's state",
                               on_delete=models.CASCADE)
