@@ -1,9 +1,7 @@
 from django.contrib import admin
 
-from .models import Industry, Party, Corps, State, Lawmaker 
+from .models import Lawmaker, FinancialInterest, OpenCorps 
 
-admin.site.register(Industry)
-admin.site.register(Party)
-admin.site.register(Corps)
-admin.site.register(State)
+admin.site.register(FinancialInterest)
+admin.site.register(OpenCorps)
 admin.site.register(Lawmaker)

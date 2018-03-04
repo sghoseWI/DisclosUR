@@ -18,11 +18,12 @@ for record in L:
     state_ob.save()
     corp_ob, _ = Corps.objects.get_or_create(name=corp_name, industry=indu_ob, defaults=None)
     corp_ob.save()
-    lm_ob = Lawmaker(name = lawmaker, district=district, body=body,
+    lm_ob, made_new_guy = Lawmaker.objects.get_or_create(name = lawmaker, district=district, body=body,
                     state=state_ob, cpi_15=True)
     lm_ob.save()
     lm_ob.corps.add(corp_ob)
     lm_ob.save()
-    print('saving', lawmaker)
+    if made_new_guy:
+        print('saving', lawmaker)
 
     #model.objects. get or create?

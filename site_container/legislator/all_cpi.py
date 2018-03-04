@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 '''
 Meant to populate the main database with all legislators from the
 2015 CPI dataset. This will return a list of tuples, with each tuple
@@ -5,7 +6,7 @@ being:
 
     lawmaker, state, district, body, corp, industry
 '''
-import sqlite3 
+import sqlite3
 
 def get_cpi_tuples():
     '''
