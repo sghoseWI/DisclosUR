@@ -9,6 +9,9 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    path('', views.index, name='index'),
-
+    path('index', views.index, name='index'),
+    path('address', views.get_address, name='address'),
+    path('', views.home, name='home'),
+    path('non_disc', views.non_disc, name='non_disclosure'),
+    path('full_results', views.full_results, name='results'),
 ]

@@ -23,4 +23,8 @@ def full_results(request):
     return render(request, 'full_info.html', context={})
 
     # render(request, 'home_page.html', {})
+from .forms import AddressForm
 
+def get_address(request):
+    form = AddressForm()
+    return render(request, 'address.html', {'form': form})
