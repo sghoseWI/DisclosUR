@@ -2,7 +2,7 @@ from django.db import models
 
 class Lawmaker(models.Model):
     """
-    Model representing a legislaTor.
+    Model representing a legislator.
     """
     name = models.CharField(max_length=50)
     party = models.CharField(max_length=50, null = True) # allows null for values added later by OpenStates
