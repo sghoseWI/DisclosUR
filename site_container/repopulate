@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+# Repopulates the db
+
+python3 manage.py flush --no-input
+python3 manage.py makemigrations legislator
+python3 manage.py migrate
+python3 populate_from_cpi.py 

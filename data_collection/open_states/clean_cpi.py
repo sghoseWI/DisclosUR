@@ -35,12 +35,6 @@ def get_party(name, state):
         return 'Not in Open States'
     return party_val
 
-def make_line():
-    pass
-
-def write_line():
-    pass
-
 if __name__ == "__main__":
     db = sqlite3.connect('legislator_db.sqlite3')
     c = db.cursor()
@@ -48,6 +42,6 @@ if __name__ == "__main__":
         name,state = clean_name_state(row.lawmaker.split(),row.state.lower())
         party_val = get_party(name, state)
         df.loc[index, 'party'] = party_val 
-        df.loc[index, 'name'] = name[0]
-        print(df.loc[index, 'name'], '-->', party_val) 
+        df.loc[index, 'lawmaker'] = name[0]
+        print(name[0], '-->', party_val) 
     df.to_csv('cpi_cleaned.csv')
