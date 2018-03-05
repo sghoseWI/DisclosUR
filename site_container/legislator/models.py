@@ -1,61 +1,48 @@
 from django.db import models
 
-class Industry(models.Model):
-    """
-    Model representing an Industry.
-    An Industry has multiple Corps.
-    An Industy has multiple Lawmaker objects.
-    An Industry has multiple States.
-    An Industry has multiple Party objects.
-    """
-    name = models.CharField(max_length=25)
-
-class Party(models.Model):
-    """
-    Model representing a political party.
-    A Party has multiple Lawmaker objects (ForeignKey).
-    A Party has multiple Industry objects.
-    """
-    name = models.CharField(max_length=15)
-
-    def __str__(self):
-        return self.name
-
-class Corps(models.Model):
-    """
-    Model representing a Corporation.
-    Multiple Corps may be tied To multiple Lawmaker objects.
-    """
-    name = models.TextField()
-    industry = models.ForeignKey(Industry, on_delete=models.CASCADE)
-
-    def __str__(self):
-        return self.name
-
-class State(models.Model):
-    """
-    Model representing a State.
-    A State has multiple Lawmaker objects, (ForeignKey).
-    A State has multiple Corps (ManyToManyField).
-    A State has multiple Industry objects (ManyToManyField).
-    """
-    name = models.CharField(max_length=15)
-    abbr = models.CharField(max_length=2)
-    industries = models.ManyToManyField(Industry)
-
-    def __str__(self):
-        return self.abbr
-
 class Lawmaker(models.Model):
     """
     Model representing a legislaTor.
     """
     name = models.CharField(max_length=50)
-    corps = models.ManyToManyField(Corps, verbose_name="list of corporations")
-    state = models.ForeignKey(State,
-                              verbose_name="the lawmaker's state",
-                              on_delete=models.CASCADE)
-    party = models.ForeignKey(Party, on_delete=models.CASCADE)
+    party = models.CharField(max_length=50, null = True) # allows null for values added later by OpenStates
+    state = models.CharField(max_length=2)
+    body = models.CharField(max_length=50)
+    district = models.CharField(max_length=50)
+    disclosure_url = models.URLField(null = True)
+    lawmaker_id = models.IntegerField(primary_key = True)
+    cpi_2015 = models.BooleanField(default=False)
+    non_standard_FI = models.TextField(default='')
+    non_standard_IN = models.TextField(default='')
 
     def __str__(self):
-        return "{},{},{}".format(self.name , self.state, self.party)
+        return self.name
+
+class FinancialInterest(models.Model):
+    """
+    Model representing an employer or business interest.
+    """
+    name = models.TextField()
+    industry = models.TextField()
+    lawmaker = models.ForeignKey(Lawmaker, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return self.name
+
+class OpenCorps(models.Model):
+    """
+    Model representing an OpenCorporates entry for a given financial interest.
+    """
+    name = models.TextField()
+    company_number = models.CharField(max_length = 25)
+    company_type = models.CharField(max_length = 25, null=True)
+    incorporation_date = models.CharField(max_length = 25, null = True)
+    opencorporates_url = models.URLField(null = True)
+    alternative_names = models.TextField(null = True)
+    registered_address_in_full	= models.TextField(null=True)
+    registry_url = models.URLField(null = True)
+    ultimate_beneficial_owners = models.TextField(null = True)
+    finterest = models.ForeignKey(FinancialInterest,on_delete=models.CASCADE)
+
+    def __str__(self):
+        return self.name
