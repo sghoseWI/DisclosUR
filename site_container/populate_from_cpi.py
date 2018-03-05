@@ -22,3 +22,10 @@ for index, row in df.iterrows():
             cpi_2015 = True)
         lawmaker.save()
         print('saving', lawmaker)
+
+    lawmaker = Lawmaker.objects.get(pk=index)
+    # create the financial interest entity and associate it to the lawmaker
+    fi_entity = FinancialInterest.objects.create(name = row["employer_business_interest"],
+            industry = row["industry"],
+            lawmaker = lawmaker)
+    fi_entity.save()
