@@ -6,7 +6,7 @@ django.setup()
 from legislator.models import * #be specific later
 import pandas as pd
 
-cpi_file = 'cpi_data_entities.csv'
+cpi_file = 'cpi_with_party.csv'
 df = pd.read_csv(cpi_file, index_col = "lawmaker_id", encoding = "ISO-8859-1")
 
 for index, row in df.iterrows():
@@ -19,6 +19,7 @@ for index, row in df.iterrows():
             lawmaker_id = index,
             district = row["district"],
             disclosure_url = row["disclosure_report"],
+            party = row["party"],
             cpi_2015 = True)
         lawmaker.save()
         print('saving', lawmaker)
