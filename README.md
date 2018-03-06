@@ -1,4 +1,6 @@
-# DisclosUR
+DisclosUR
+=========
+
 Financial disclosure at the state level and its relation to corporate entities.
 
 ## Contributors
@@ -6,7 +8,7 @@ Financial disclosure at the state level and its relation to corporate entities.
 [Nick Tallant](https://github.com/ndtallant) | [Saptarshi Ghose](https://github.com/saptarshighose) |  [Sam Gallicchio](https://github.com/SRGallicchio)
 
 ## Installation
-To install dependent packages for this project, simply run
+To install dependent packages by running:
 
 ```
 pip3 install -r requirements.txt
