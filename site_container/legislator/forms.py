@@ -7,9 +7,7 @@ class AddressForm(forms.Form):
     document that testing!
     '''
     address = forms.CharField(label='Enter an Address:')
-    #input_type = 'text'
     template_name = 'django/forms/widgets/text.html'
-
 
 
 
