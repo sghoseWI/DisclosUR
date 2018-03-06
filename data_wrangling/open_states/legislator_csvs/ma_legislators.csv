@@ -1,0 +1,427 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+MAL000001,Steven A. Baddour,Steven,A.,Baddour,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/sbaddour.jpg,2011-07-08 21:34:37.089000,2013-01-04 00:07:59.493000
+MAL000002,Frederick E. Berry,Frederick,E.,Berry,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/fberry.jpg,2011-07-08 21:34:37.091000,2013-01-04 00:07:59.471000
+MAL000003,Stephen M. Brewer,Stephen,M.,Brewer,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/sbrewer.jpg,2011-07-08 21:34:37.092000,2015-01-09 19:28:50.258000
+MAL000004,Gale D. Candaras,Gale,D.,Candaras,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/gcandaras.jpg,2011-07-08 21:34:37.094000,2015-01-09 19:28:50.244000
+MAL000007,Katherine Clark,Katherine M.,,Clark,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/kclark.jpg,2011-07-08 21:34:37.100000,2014-04-21 13:57:12.091000
+MAL000012,Benjamin B. Downing,Benjamin,B.,Downing,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/bdowning.jpg,2011-07-08 21:34:37.109000,2017-01-09 06:44:03.819000
+MAL000014,Susan C. Fargo,Susan,C.,Fargo,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/sfargo.jpg,2011-07-08 21:34:37.113000,2013-01-04 00:07:59.472000
+MAL000015,Barry R. Finegold,Barry,R.,Finegold,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/bfinegold.jpg,2011-07-08 21:34:37.114000,2015-01-09 19:28:50.249000
+MAL000017,Jack Hart,Jack,,Hart,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/jhart.jpg,2011-07-08 21:34:37.118000,2013-06-17 14:51:07.758000
+MAL000018,Robert L. Hedlund,Robert,L.,Hedlund,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/rhedlund.jpg,2011-07-08 21:34:37.120000,2016-02-19 19:36:44.872000
+MAL000020,Brian A. Joyce,Brian,A.,Joyce,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/bjoyce.jpg,2011-07-08 21:34:37.124000,2017-01-09 06:44:03.820000
+MAL000022,Thomas P. Kennedy,Thomas,P.,Kennedy,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tkennedy.jpg,2011-07-08 21:34:37.127000,2015-12-11 21:50:12.962000
+MAL000023,Michael R. Knapik,Michael,R.,Knapik,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mknapik.jpg,2011-07-08 21:34:37.129000,2013-11-21 14:37:41.265000
+MAL000027,Richard T. Moore,Richard,T.,Moore,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/rmoore.jpg,2011-07-08 21:34:37.137000,2015-01-09 19:28:50.255000
+MAL000028,Therese Murray,Therese,,Murray,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tmurray.jpg,2011-07-08 21:34:37.163000,2015-01-09 19:28:50.246000
+MAL000030,Anthony Petruccelli,Anthony W.,,Petruccelli,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/apetruccelli.jpg,2011-07-08 21:34:37.167000,2016-02-19 19:34:05.957000
+MAL000038,Steven A. Tolman,Steven,A.,Tolman,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/stolman.jpg,2011-07-08 21:34:37.181000,2012-06-29 04:07:33.995000
+MAL000040,Daniel A. Wolf,Daniel,A.,Wolf,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dwolf.jpg,2011-07-08 21:34:37.185000,2017-01-09 06:44:03.822000
+MAL000041,Paul Adams,Paul,,Adams,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/padams.jpg,2011-07-08 21:34:37.187000,2013-01-04 00:07:59.474000
+MAL000042,Kevin Aguiar,Kevin,,Aguiar,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/kaguiar.jpg,2011-07-08 21:34:37.189000,2013-01-04 00:07:59.475000
+MAL000043,Denise Andrews,Denise,,Andrews,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/deandrews.jpg,2011-07-08 21:34:37.191000,2015-01-09 19:28:50.228000
+MAL000044,James Arciero,James,,Arciero,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jarciero.jpg,2011-07-08 21:34:37.192000,2017-01-09 06:44:03.692000
+MAL000045,Brian M. Ashe,Brian,M.,Ashe,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/bashe.jpg,2011-07-08 21:34:37.194000,2017-01-09 06:44:03.635000
+MAL000046,Cory Atkins,Cory,,Atkins,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/catkins.jpg,2011-07-08 21:34:37.196000,2017-01-09 06:44:03.651000
+MAL000047,Demetrius J. Atsalis,Demetrius,J.,Atsalis,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/datsalis.jpg,2011-07-08 21:34:37.198000,2013-01-04 00:07:59.476000
+MAL000048,Bruce J. Ayers,Bruce,J.,Ayers,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/bayers.jpg,2011-07-08 21:34:37.200000,2017-01-09 06:44:03.638000
+MAL000049,Ruth B. Balser,Ruth,B.,Balser,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/rbalser.jpg,2011-07-08 21:34:37.202000,2017-01-09 06:44:03.782000
+MAL000050,F. Jay Barrows,F. Jay,,Barrows,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/fbarrows.jpg,2011-07-08 21:34:37.203000,2017-01-09 06:44:03.681000
+MAL000051,Carlo P. Basile,Carlo,P.,Basile,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/cbasile.jpg,2011-07-08 21:34:37.205000,2015-01-09 19:28:50.220000
+MAL000052,Richard Bastien,Richard,,Bastien,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/rbastien.jpg,2011-07-08 21:34:37.207000,2013-01-04 00:07:59.478000
+MAL000053,Matthew A. Beaton,Matthew,A.,Beaton,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mbeaton.jpg,2011-07-08 21:34:37.209000,2015-01-09 19:28:50.204000
+MAL000054,Jennifer E. Benson,Jennifer,E.,Benson,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jbenson.jpg,2011-07-08 21:34:37.211000,2017-01-09 06:44:03.707000
+MAL000055,John J. Binienda,John,J.,Binienda,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jbinienda.jpg,2011-07-08 21:34:37.213000,2015-01-09 19:28:50.230000
+MAL000056,Nicholas A. Boldyga,Nicholas,A.,Boldyga,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/nboldyga.jpg,2011-07-08 21:34:37.215000,2017-01-09 06:44:03.758000
+MAL000057,Garrett J. Bradley,Garrett,J.,Bradley,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/gbradley.jpg,2011-07-08 21:34:37.216000,2017-01-09 06:44:03.685000
+MAL000059,Paul A. Brodeur,Paul,A.,Brodeur,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/pbrodeur.jpg,2011-07-08 21:34:37.220000,2017-01-09 06:44:03.762000
+MAL000061,Antonio F.D. Cabral,Antonio,F.D.,Cabral,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/acabral.jpg,2011-07-08 21:34:37.230000,2017-01-09 06:44:03.629000
+MAL000062,Thomas J. Calter,Thomas,J.,Calter,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tcalter.jpg,2011-07-08 21:34:37.232000,2017-01-09 06:44:03.800000
+MAL000063,Linda Dean Campbell,Linda,Dean,Campbell,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ldcampbell.jpg,2011-07-08 21:34:37.234000,2017-01-09 06:44:03.735000
+MAL000064,Christine E. Canavan,Christine,E.,Canavan,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ccanavan.jpg,2011-07-08 21:34:37.236000,2015-01-09 19:28:50.236000
+MAL000065,James M. Cantwell,James,M.,Cantwell,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jcantwell.jpg,2011-07-08 21:34:37.238000,2017-01-09 06:44:03.697000
+MAL000066,Gailanne M. Cariddi,Gailanne,M.,Cariddi,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/gcariddi.jpg,2011-07-08 21:34:37.240000,2017-01-09 06:44:03.684000
+MAL000067,Tackey Chan,Tackey,,Chan,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tchan.jpg,2011-07-08 21:34:37.241000,2017-01-09 06:44:03.797000
+MAL000068,Cheryl A. Coakley-Rivera,Cheryl,A.,Coakley-Rivera,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ccoakleyrivera.jpg,2011-07-08 21:34:37.243000,2015-01-09 19:28:50.234000
+MAL000069,Nick Collins,Nick,,Collins,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ncollins.jpg,2011-07-08 21:34:37.245000,2017-01-09 06:44:03.760000
+MAL000070,Thomas P. Conroy,Thomas,P.,Conroy,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tconroy.jpg,2011-07-08 21:34:37.247000,2015-01-09 19:28:50.238000
+MAL000071,Edward F. Coppinger,Edward,F.,Coppinger,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ecoppinger.jpg,2011-07-08 21:34:37.249000,2017-01-09 06:44:03.675000
+MAL000072,Michael A. Costello,Michael,A.,Costello,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mcostello.jpg,2011-07-08 21:34:37.251000,2015-01-09 19:28:50.216000
+MAL000073,Geraldine Creedon,Geraldine,,Creedon,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/gcreedon.jpg,2011-07-08 21:34:37.253000,2013-01-04 00:07:59.479000
+MAL000074,Sean Curran,Sean,,Curran,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/scurran.jpg,2011-07-08 21:34:37.254000,2015-01-09 19:28:50.224000
+MAL000075,Mark J. Cusack,Mark,J.,Cusack,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mcusack.jpg,2011-07-08 21:34:37.256000,2017-01-09 06:44:03.750000
+MAL000076,Angelo L. D'Emilia,Angelo,L.,D'Emilia,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ademilia.jpg,2011-07-08 21:34:37.258000,2017-01-09 06:44:03.625000
+MAL000077,Robert A. DeLeo,Robert,A.,DeLeo,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/rdeleo.jpg,2011-07-08 21:34:37.260000,2017-01-09 06:44:03.776000
+MAL000079,Brian S. Dempsey,Brian,S.,Dempsey,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/bdempsey.jpg,2011-07-08 21:34:37.263000,2017-01-09 06:44:03.637000
+MAL000080,Marcos A. Devers,Marcos,A.,Devers,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mdevers.jpg,2011-07-08 21:34:37.265000,2017-01-09 06:44:03.747000
+MAL000081,Geoffrey G. Diehl,Geoffrey,G.,Diehl,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/gdiehl.jpg,2011-07-08 21:34:37.267000,2017-06-01 07:02:09.239000
+MAL000082,Stephen L. DiNatale,Stephen,L.,DiNatale,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/sdinatale.jpg,2011-07-08 21:34:37.269000,2016-09-24 09:08:13.439000
+MAL000083,Paul J. Donato,Paul,J.,Donato,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/pdonato.jpg,2011-07-08 21:34:37.271000,2017-01-09 06:44:03.764000
+MAL000084,Peter Durant,Peter J.,,Durant,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/pdurant.jpg,2011-07-08 21:34:37.273000,2017-01-09 06:44:03.771000
+MAL000085,James J. Dwyer,James,J.,Dwyer,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jdwyer.jpg,2011-07-08 21:34:37.275000,2017-01-09 06:44:03.694000
+MAL000086,Carolyn C. Dykema,Carolyn,C.,Dykema,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/cdykema.jpg,2011-07-08 21:34:37.276000,2017-01-09 06:44:03.644000
+MAL000087,Lori A. Ehrlich,Lori,A.,Ehrlich,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/lehrlich.jpg,2011-07-08 21:34:37.278000,2017-01-09 06:44:03.736000
+MAL000088,Christopher G. Fallon,Christopher,G.,Fallon,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/cfallon.jpg,2011-07-08 21:34:37.280000,2015-01-09 19:28:50.242000
+MAL000090,Robert F. Fennell,Robert,F.,Fennell,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/rfennell.jpg,2011-07-08 21:34:37.284000,2016-09-24 09:08:13.440000
+MAL000091,Kimberly N. Ferguson,Kimberly,N.,Ferguson,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/kferguson.jpg,2011-07-08 21:34:37.287000,2017-01-09 06:44:03.733000
+MAL000092,John V. Fernandes,John,V.,Fernandes,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jfernandes.jpg,2011-07-08 21:34:37.289000,2017-01-09 06:44:03.714000
+MAL000093,Ann-Margaret Ferrante,Ann-Margaret,,Ferrante,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/amferrante.jpg,2011-07-08 21:34:37.291000,2017-01-09 06:44:03.628000
+MAL000094,Michael J. Finn,Michael,J.,Finn,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mfinn.jpg,2011-07-08 21:34:37.292000,2017-01-09 06:44:03.753000
+MAL000096,Gloria L. Fox,Gloria,L.,Fox,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/gfox.jpg,2011-07-08 21:34:37.296000,2017-01-09 06:44:03.689000
+MAL000097,John P. Fresolo,John,P.,Fresolo,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/jfresolo.jpg,2011-07-08 21:34:37.298000,2013-09-26 18:58:19.720000
+MAL000098,Paul K. Frost,Paul,K.,Frost,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/pfrost.jpg,2011-07-08 21:34:37.300000,2017-01-09 06:44:03.766000
+MAL000099,William C. Galvin,William,C.,Galvin,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/wgalvin.jpg,2011-07-08 21:34:37.302000,2017-01-09 06:44:03.814000
+MAL000100,Sean Garballey,Sean,,Garballey,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/sgarballey.jpg,2011-07-08 21:34:37.304000,2017-01-09 06:44:03.785000
+MAL000101,Denise C. Garlick,Denise,C.,Garlick,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dgarlick.jpg,2011-07-08 21:34:37.306000,2017-01-09 06:44:03.666000
+MAL000102,Colleen M. Garry,Colleen,M.,Garry,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/cgarry.jpg,2011-07-08 21:34:37.307000,2017-01-09 06:44:03.650000
+MAL000103,Susan Williams Gifford,Susan,Williams,Gifford,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/sgifford.jpg,2011-07-08 21:34:37.309000,2017-01-09 06:44:03.795000
+MAL000105,Thomas A. Golden Jr.,Thomas,A.,Golden,Jr.,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tgolden.jpg,2011-07-08 21:34:37.313000,2017-01-09 06:44:03.799000
+MAL000106,Patricia A. Haddad,Patricia,A.,Haddad,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/phaddad.jpg,2011-07-08 21:34:37.315000,2017-01-09 06:44:03.761000
+MAL000107,Sheila C. Harrington,Sheila,C.,Harrington,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/sharrington.jpg,2011-07-08 21:34:37.317000,2017-01-09 06:44:03.788000
+MAL000108,Jonathan Hecht,Jonathan,,Hecht,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jhecht.jpg,2011-07-08 21:34:37.319000,2017-01-09 06:44:03.718000
+MAL000109,Carlos Henriquez,Carlos,,Henriquez,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/chenriquez.jpg,2011-07-08 21:34:37.320000,2014-03-04 17:53:00.418000
+MAL000110,Bradford Hill,Bradford R.,,Hill,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/bhill.jpg,2011-07-08 21:34:37.322000,2017-01-09 06:44:03.631000
+MAL000111,Kate Hogan,Kate,,Hogan,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/khogan.jpg,2011-07-08 21:34:37.324000,2017-01-09 06:44:03.726000
+MAL000112,Russell E. Holmes,Russell,E.,Holmes,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/rholmes.jpg,2011-07-08 21:34:37.326000,2017-01-09 06:44:03.781000
+MAL000113,Kevin G. Honan,Kevin,G.,Honan,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/khonan.jpg,2011-07-08 21:34:37.328000,2017-01-09 06:44:03.730000
+MAL000114,Steven S. Howitt,Steven,S.,Howitt,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/showitt.jpg,2011-07-08 21:34:37.330000,2017-01-09 06:44:03.792000
+MAL000116,Randy Hunt,Randy,,Hunt,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/rhunt.jpg,2011-07-08 21:34:37.333000,2017-01-09 06:44:03.775000
+MAL000117,Bradley H. Jones Jr,Bradley,H.,Jones,Jr.,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/bjones.jpg,2011-07-08 21:34:37.335000,2017-01-09 06:44:03.633000
+MAL000118,Louis L. Kafka,Louis,L.,Kafka,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/lkafka.jpg,2011-07-08 21:34:37.337000,2017-01-09 06:44:03.737000
+MAL000119,Michael F. Kane,Michael,F.,Kane,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/mkane.jpg,2011-07-08 21:34:37.339000,2013-01-04 00:07:59.494000
+MAL000120,Jay R. Kaufman,Jay,R.,Kaufman,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jkaufman.jpg,2011-07-08 21:34:37.341000,2017-01-09 06:44:03.703000
+MAL000121,John D. Keenan,John,D.,Keenan,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jkeenan.jpg,2011-07-08 21:34:37.343000,2015-01-09 19:28:50.232000
+MAL000122,Kay Khan,Kay,,Khan,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/kkhan.jpg,2011-07-08 21:34:37.345000,2017-01-09 06:44:03.727000
+MAL000123,Peter V. Kocot,Peter,V.,Kocot,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/pkocot.jpg,2011-07-08 21:34:37.346000,2017-01-09 06:44:03.773000
+MAL000124,Robert M. Koczera,Robert,M.,Koczera,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/rkoczera.jpg,2011-07-08 21:34:37.348000,2017-01-09 06:44:03.777000
+MAL000125,Stephen Kulik,Stephen,,Kulik,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/skulik.jpg,2011-07-08 21:34:37.350000,2017-01-09 06:44:03.791000
+MAL000126,Kevin J. Kuros,Kevin,J.,Kuros,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/kkuros.jpg,2011-07-08 21:34:37.352000,2017-01-09 06:44:03.732000
+MAL000127,John J. Lawn,John,J.,Lawn,Jr.,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jlawn.jpg,2011-07-08 21:34:37.354000,2017-01-09 06:44:03.712000
+MAL000128,Steven L. Levy,Steven,L.,Levy,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/slevy.jpg,2011-07-08 21:34:37.356000,2013-01-04 00:07:59.480000
+MAL000130,David Paul Linsky,David,Paul,Linsky,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dlinsky.jpg,2011-07-08 21:34:37.359000,2017-01-09 06:44:03.664000
+MAL000131,Marc T. Lombardo,Marc,T.,Lombardo,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mlombardo.jpg,2011-07-08 21:34:37.361000,2017-01-09 06:44:03.746000
+MAL000132,James J. Lyons Jr,James,J.,Lyons,Jr.,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jalyons.jpg,2011-07-08 21:34:37.363000,2017-01-09 06:44:03.695000
+MAL000133,Timothy R. Madden,Timothy,R.,Madden,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tmadden.jpg,2011-07-08 21:34:37.364000,2017-01-09 06:44:03.807000
+MAL000134,John J. Mahoney,John,J.,Mahoney,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jmahoney.jpg,2011-07-08 21:34:37.366000,2017-01-09 06:44:03.713000
+MAL000135,Elizabeth A. Malia,Elizabeth,A.,Malia,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/lmalia.jpg,2011-07-08 21:34:37.377000,2017-01-09 06:44:03.676000
+MAL000136,Ronald Mariano,Ronald,,Mariano,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/rmariano.jpg,2011-07-08 21:34:37.379000,2017-01-09 06:44:03.779000
+MAL000137,Paul W. Mark,Paul,W.,Mark,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/pmark.jpg,2011-07-08 21:34:37.381000,2017-01-09 06:44:03.770000
+MAL000138,Christopher M. Markey,Christopher,M.,Markey,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/cmarkey.jpg,2011-07-08 21:34:37.382000,2017-01-09 06:44:03.648000
+MAL000139,Paul McMurtry,Paul,,McMurtry,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/pmcmurtry.jpg,2011-07-08 21:34:37.384000,2017-01-09 06:44:03.767000
+MAL000140,James R. Miceli,James,R.,Miceli,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jmiceli.jpg,2011-07-08 21:34:37.386000,2017-01-09 06:44:03.701000
+MAL000141,Aaron M. Michlewitz,Aaron,M.,Michlewitz,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/amichlewitz.jpg,2011-07-08 21:34:37.388000,2017-01-09 06:44:03.618000
+MAL000142,Michael J. Moran,Michael,J.,Moran,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mjmoran.jpg,2011-07-08 21:34:37.395000,2017-01-09 06:44:03.754000
+MAL000143,Charles A. Murphy,Charles,A.,Murphy,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/cmurphy.jpg,2011-07-08 21:34:37.397000,2013-01-04 00:07:59.481000
+MAL000144,James M. Murphy,James,M.,Murphy,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jmmurphy.jpg,2011-07-08 21:34:37.400000,2017-01-09 06:44:03.700000
+MAL000145,Kevin J. Murphy,Kevin,J.,Murphy,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/kmurphy.jpg,2011-07-08 21:34:37.404000,2015-01-09 19:28:50.193000
+MAL000146,David M. Nangle,David,M.,Nangle,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dnangle.jpg,2011-07-08 21:34:37.405000,2017-01-09 06:44:03.662000
+MAL000147,Harold P. Naughton Jr,Harold,P.,Naughton,Jr.,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/hnaughton.jpg,2011-07-08 21:34:37.407000,2017-01-09 06:44:03.691000
+MAL000148,Rhonda L. Nyman,Rhonda,L.,Nyman,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/rhnyman.jpg,2011-07-08 21:34:37.409000,2015-01-09 19:28:50.208000
+MAL000149,Shaunna O'Connell,Shaunna L.,,O'Connell,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/soconnell.jpg,2011-07-08 21:34:37.411000,2017-01-09 06:44:03.786000
+MAL000150,James J. O'Day,James,J.,O'Day,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/joday.jpg,2011-07-08 21:34:37.424000,2017-01-09 06:44:03.696000
+MAL000151,Eugene L. O'Flaherty,Eugene,L.,O'Flaherty,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/goflaherty.jpg,2011-07-08 21:34:37.426000,2014-04-21 14:22:54.307000
+MAL000152,Jerald A. Parisella,Jerald,A.,Parisella,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jparisella.jpg,2011-07-08 21:34:37.428000,2017-01-09 06:44:03.708000
+MAL000153,Sarah K. Peake,Sarah,K.,Peake,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/speake.jpg,2011-07-08 21:34:37.430000,2017-01-09 06:44:03.783000
+MAL000154,Vincent A. Pedone,Vincent,A.,Pedone,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/vpedone.jpg,2011-07-08 21:34:37.432000,2012-06-05 15:28:06.935000
+MAL000155,Alice Hanlon Peisch,Alice,Hanlon,Peisch,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/apeisch.jpg,2011-07-08 21:34:37.433000,2017-01-09 06:44:03.623000
+MAL000156,George N. Peterson Jr,George,N.,Peterson,Jr.,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/gpeterson.jpg,2011-07-08 21:34:37.435000,2015-01-09 19:28:50.226000
+MAL000157,Thomas M. Petrolati,Thomas,M.,Petrolati,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tpetrolati.jpg,2011-07-08 21:34:37.437000,2017-01-09 06:44:03.802000
+MAL000159,Elizabeth A. Poirier,Elizabeth,A.,Poirier,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/epoirier.jpg,2011-07-08 21:34:37.441000,2017-01-09 06:44:03.677000
+MAL000160,Denise Provost,Denise,,Provost,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dprovost.jpg,2011-07-08 21:34:37.443000,2017-01-09 06:44:03.668000
+MAL000161,Angelo J. Puppolo Jr.,Angelo,J.,Puppolo,Jr.,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/apuppolo.jpg,2011-07-08 21:34:37.462000,2017-01-09 06:44:03.624000
+MAL000162,Kathi-Anne Reinstein,Kathi-Anne,,Reinstein,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/kreinstein.jpg,2011-07-08 21:34:37.464000,2014-04-21 14:25:12.641000
+MAL000163,John H. Rogers,John,H.,Rogers,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jrogers.jpg,2011-07-08 21:34:37.466000,2017-01-09 06:44:03.711000
+MAL000164,Dennis A. Rosa,Dennis,A.,Rosa,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/drosa.jpg,2011-07-08 21:34:37.468000,2017-01-09 06:44:03.669000
+MAL000165,George T. Ross,George,T.,Ross,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/gross.jpg,2011-07-08 21:34:37.471000,2013-01-04 00:07:59.482000
+MAL000166,Byron Rushing,Byron,,Rushing,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/brushing.jpg,2011-07-08 21:34:37.473000,2017-01-09 06:44:03.640000
+MAL000167,Jeffrey Sanchez,Jeffrey,,Sánchez,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jsanchez.jpg,2011-07-08 21:34:37.475000,2017-01-09 06:44:03.705000
+MAL000168,Tom Sannicandro,Tom,,Sannicandro,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tsannicandro.jpg,2011-07-08 21:34:37.477000,2017-01-09 06:44:03.810000
+MAL000169,Angelo M. Scaccia,Angelo,M.,Scaccia,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ascaccia.jpg,2011-07-08 21:34:37.479000,2017-01-09 06:44:03.626000
+MAL000170,Paul A. Schmid,Paul,A.,Schmid,III,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/pschmid.jpg,2011-07-08 21:34:37.480000,2017-01-09 06:44:03.763000
+MAL000171,John W. Scibak,John,W.,Scibak,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jscibak.jpg,2011-07-08 21:34:37.482000,2017-01-09 06:44:03.715000
+MAL000172,Carl M. Sciortino Jr,Carl,M.,Sciortino,Jr.,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/csciortino.jpg,2011-07-08 21:34:37.484000,2015-01-09 19:28:50.240000
+MAL000173,Stephen Stat Smith,Stephen,Stat,Smith,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/ssmith.jpg,2011-07-08 21:34:37.486000,2013-01-04 00:07:59.483000
+MAL000174,Frank I. Smizik,Frank,I.,Smizik,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/fsmizik.jpg,2011-07-08 21:34:37.488000,2017-01-09 06:44:03.683000
+MAL000175,Todd M. Smola,Todd,M.,Smola,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tsmola.jpg,2011-07-08 21:34:37.490000,2017-01-09 06:44:03.809000
+MAL000176,Theodore C. Speliotis,Theodore,C.,Speliotis,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tspeliotis.jpg,2011-07-08 21:34:37.493000,2017-01-09 06:44:03.798000
+MAL000177,Christopher N. Speranzo,Christopher,N.,Speranzo,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/CSperanzo.jpg,2011-07-08 21:34:37.495000,2012-06-05 15:29:04.128000
+MAL000178,Joyce A. Spiliotis,Joyce,A.,Spiliotis,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/jspiliotis.jpg,2011-07-08 21:34:37.496000,2013-01-04 00:07:59.484000
+MAL000179,Harriett L. Stanley,Harriett,L.,Stanley,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/hstanley.jpg,2011-07-08 21:34:37.498000,2013-01-04 00:07:59.485000
+MAL000180,Thomas M. Stanley,Thomas,M.,Stanley,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tstanley.jpg,2011-07-08 21:34:37.500000,2017-01-09 06:44:03.803000
+MAL000181,Ellen Story,Ellen,,Story,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/estory.jpg,2011-07-08 21:34:37.502000,2017-01-09 06:44:03.679000
+MAL000182,William M. Straus,William,M.,Straus,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/wstraus.jpg,2011-07-08 21:34:37.504000,2017-01-09 06:44:03.815000
+MAL000183,David B. Sullivan,David,B.,Sullivan,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/dsullivan.jpg,2011-07-08 21:34:37.505000,2013-09-26 18:59:17.939000
+MAL000184,Benjamin Swan,Benjamin,,Swan,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/bswan.jpg,2011-07-08 21:34:37.507000,2017-01-09 06:44:03.630000
+MAL000185,Walter F. Timilty,Walter,F.,Timilty,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/wtimilty.jpg,2011-07-08 21:34:37.509000,2017-06-01 07:02:09.246000
+MAL000186,Timothy J. Toomey Jr,Timothy,J.,Toomey,Jr.,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ttoomey.jpg,2011-07-08 21:34:37.511000,2017-01-09 06:44:03.805000
+MAL000187,David M. Torrisi,David,M.,Torrisi,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/dtorrisi.jpg,2011-07-08 21:34:37.512000,2013-01-04 00:07:59.486000
+MAL000188,Cleon H. Turner,Cleon,H.,Turner,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/cturner.jpg,2011-07-08 21:34:37.514000,2015-01-09 19:28:50.213000
+MAL000189,James E. Vallee,James,E.,Vallee,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/jvallee.jpg,2011-07-08 21:34:37.529000,2013-01-04 00:07:59.495000
+MAL000190,David T. Vieira,David,T.,Vieira,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dvieira.jpg,2011-07-08 21:34:37.530000,2017-01-09 06:44:03.665000
+MAL000191,Chris Walsh,Chris,,Walsh,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/cwalsh.jpg,2011-07-08 21:34:37.532000,2017-01-09 06:44:03.645000
+MAL000192,Joseph F. Wagner,Joseph,F.,Wagner,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jfwagner.jpg,2011-07-08 21:34:37.534000,2017-01-09 06:44:03.721000
+MAL000193,Martin J. Walsh,Martin,J.,Walsh,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mwalsh.jpg,2011-07-08 21:34:37.544000,2014-04-21 14:25:53.791000
+MAL000194,Steven M. Walsh,Steven,M.,Walsh,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/swalsh.jpg,2011-07-08 21:34:37.546000,2015-01-09 19:28:50.202000
+MAL000195,Martha M. Walz,Martha,M.,Walz,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/mwalz.jpg,2011-07-08 21:34:37.548000,2013-07-18 13:36:23.743000
+MAL000196,Daniel K. Webster,Daniel,K.,Webster,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/dwebster.jpg,2011-07-08 21:34:37.557000,2013-01-04 00:07:59.487000
+MAL000197,Daniel B. Winslow,Daniel,B.,Winslow,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dwinslow.jpg,2011-07-08 21:34:37.559000,2014-02-14 15:07:56.796000
+MAL000198,Alice K. Wolf,Alice,K.,Wolf,,,False,ma,,,,http://www.malegislature.gov/Images/MemberProfile/Web/awolf.jpg,2011-07-08 21:34:37.560000,2013-01-04 00:07:59.492000
+MAL000199,Donald H. Wong,Donald,H.,Wong,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dwong.jpg,2011-07-08 21:34:37.562000,2017-01-09 06:44:03.671000
+MAL000201,Keiko M. Orrall,Keiko M.,,Orrall,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/korrall.jpg,2011-10-25 04:09:50.376000,2017-01-09 06:44:03.728000
+MAL000202,Tricia Farley-Bouvier,Tricia,,Farley-Bouvier,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/tfarleybouvier.jpg,2011-11-15 23:52:35.735000,2017-01-09 06:44:03.812000
+MAL000212,Josh S. Cutler,Josh S.,,Cutler,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jcutler.jpg,2013-01-04 00:07:58.303000,2017-01-09 06:44:03.723000
+MAL000213,Marjorie C. Decker,Marjorie C.,,Decker,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mdecker.jpg,2013-01-04 00:07:58.316000,2017-01-09 06:44:03.748000
+MAL000214,Kenneth I. Gordon,Kenneth I.,,Gordon,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/kgordon.jpg,2013-01-04 00:07:58.526000,2017-06-01 07:02:09.242000
+MAL000215,Danielle W. Gregoire,Danielle W.,,Gregoire,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dgregoire.jpg,2013-01-04 00:07:58.533000,2017-01-09 06:44:03.658000
+MAL000216,Paul R. Heroux,Paul R.,,Heroux,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/pheroux.jpg,2013-01-04 00:07:58.570000,2017-01-09 06:44:03.768000
+MAL000217,Mary S. Keefe,Mary S.,,Keefe,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mkeefe.jpg,2013-01-04 00:07:58.653000,2017-01-09 06:44:03.751000
+MAL000218,Brian R. Mannal,Brian R.,,Mannal,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/bmannal.jpg,2013-01-04 00:07:58.756000,2017-01-09 06:44:03.636000
+MAL000219,Leonard Mirra,Leonard,,Mirra,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/lmirra.jpg,2013-01-04 00:07:58.803000,2017-06-01 07:02:09.244000
+MAL000220,Frank A. Moran,Frank A.,,Moran,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/fmoran.jpg,2013-01-04 00:07:58.810000,2017-01-09 06:44:03.682000
+MAL000221,David M. Rogers,David M.,,Rogers,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/drogers.jpg,2013-01-04 00:07:58.954000,2017-01-09 06:44:03.663000
+MAL000222,Jeffrey N. Roy,Jeffrey N.,,Roy,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jroy.jpg,2013-01-04 00:07:58.975000,2017-01-09 06:44:03.704000
+MAL000223,Alan Silvia,Alan,,Silvia,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/asilvia.jpg,2013-01-04 00:07:59.035000,2017-01-09 06:44:03.621000
+MAL000224,Aaron Vega,Aaron,,Vega,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/avega.jpg,2013-01-04 00:07:59.116000,2017-01-09 06:44:03.619000
+MAL000225,Jonathan D. Zlotnik,Jonathan D.,,Zlotnik,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jzlotnik.jpg,2013-01-04 00:07:59.179000,2017-01-09 06:44:03.717000
+MAL000226,Diana DiZoglio,Diana,,DiZoglio,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ddizoglio.jpg,2013-01-06 00:08:09.690000,2017-01-09 06:44:03.670000
+MAL000231,Claire D. Cronin,Claire D.,,Cronin,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ccronin.jpg,2013-01-09 00:08:03.657000,2017-01-09 06:44:03.649000
+MAL000284,Jay D. Livingstone,Jay D.,,Livingstone,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jlivingstone.jpg,2013-07-18 06:37:06.442000,2017-01-09 06:44:03.702000
+MAL000303,Daniel Cullinane,Daniel,,Cullinane,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dcullinane.jpg,2013-09-26 05:10:38.491000,2017-06-01 07:02:09.237000
+MAL000304,Daniel M. Donahue,Daniel M.,,Donahue,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ddonahue.jpg,2013-09-26 05:10:38.771000,2017-01-09 06:44:03.657000
+MAL000305,Carole A. Fiola,Carole A.,,Fiola,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/cfiola.jpg,2013-09-26 05:10:38.918000,2017-01-09 06:44:03.643000
+MAL000309,Shawn Dooley,Shawn,,Dooley,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/sdooley.jpg,2014-02-14 04:47:02.880000,2017-01-09 06:44:03.787000
+MAL000325,Daniel J. Ryan,Daniel J.,,Ryan,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dryan.jpg,2014-04-19 03:51:19.525000,2017-01-09 06:44:03.656000
+MAL000326,John C. Velis,John C.,,Velis,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jvelis.jpg,2014-04-19 03:51:19.578000,2017-01-09 06:44:03.710000
+MAL000327,RoseLee Vincent,RoseLee,,Vincent,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/rvincent.jpg,2014-04-19 03:51:19.781000,2017-01-09 06:44:03.780000
+MAL000329,Daniel J. Hunt,Daniel J.,,Hunt,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dhunt.jpg,2014-04-19 03:51:19.838000,2017-01-09 06:44:03.655000
+MAL000330,Wayne Matewsky,Wayne,,Matewsky,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/wmatewsky.jpg,2014-04-21 18:48:26.081000,2015-01-09 19:28:50.222000
+MAL000331,Leah Cole,Leah,,Cole,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/lcole.jpg,2014-04-21 18:48:26.209000,2016-09-24 09:08:13.437000
+MAL000332,Evandro C. Carvalho,Evandro C.,,Carvalho,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ECarvalho.jpg,2014-05-20 02:20:54.280000,2017-01-09 06:44:03.680000
+MAL000338,Mathew Muratore,Mathew,,Muratore,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mmuratore.jpg,2015-01-09 19:28:48.881000,2017-01-09 06:44:03.752000
+MAL000340,Joseph D. McKenna,Joseph D.,,McKenna,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jmckenna.jpg,2015-01-09 19:28:49.083000,2017-01-09 06:44:03.720000
+MAL000341,"Donald R. Berthiaume, Jr.",Donald R.,,Berthiaume,Jr.,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dberthiaume.jpg,2015-01-09 19:28:49.243000,2017-01-09 06:44:03.672000
+MAL000346,"David K. Muradian, Jr.",David K.,,Muradian,Jr.,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dmuradian.jpg,2015-01-15 00:17:25.131000,2017-01-09 06:44:03.660000
+MAL000347,Carlos Gonzalez,Carlos,,Gonzalez,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/cagonzalez.jpg,2015-01-15 00:17:25.223000,2017-01-09 06:44:03.641000
+MAL000348,Paul Tucker,Paul,,Tucker,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ptucker.jpg,2015-01-15 00:17:25.295000,2017-01-09 06:44:03.769000
+MAL000349,Jose F. Tosado,Jose F.,,Tosado,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jtosado.jpg,2015-01-15 00:17:25.417000,2017-01-09 06:44:03.719000
+MAL000350,Susannah M. Whipps Lee,Susannah M. Whipps,,Lee,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/swhippslee.jpg,2015-01-15 00:17:25.680000,2017-01-09 06:44:03.796000
+MAL000351,Michelle M. DuBois,Michelle M.,,DuBois,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mdubois.jpg,2015-01-16 00:18:45.851000,2017-01-09 06:44:03.757000
+MAL000352,Michael S. Day,Michael S.,,Day,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/mday.jpg,2015-01-16 00:18:45.912000,2017-01-09 06:44:03.755000
+MAL000353,David F. DeCoste,David F.,,DeCoste,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/ddecoste.jpg,2015-01-16 00:18:45.928000,2017-01-09 06:44:03.659000
+MAL000354,Christine P. Barber,Christine P.,,Barber,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/cbarber.jpg,2015-01-16 00:18:45.956000,2017-01-09 06:44:03.647000
+MAL000355,Carmine L. Gentile,Carmine L.,,Gentile,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/cgentile.jpg,2015-01-16 00:18:45.994000,2017-01-09 06:44:03.642000
+MAL000356,Brendan P. Crighton,Brendan P.,,Crighton,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/bcrighton.jpg,2015-01-16 00:18:46.042000,2017-01-09 06:44:03.634000
+MAL000357,"Joseph W. McGonagle, Jr.",Joseph W.,,McGonagle,Jr.,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jmcgonagle.jpg,2015-01-16 00:18:46.164000,2017-01-09 06:44:03.722000
+MAL000358,Kate D. Campanale,Kate D.,,Campanale,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/kcampanale.jpg,2015-01-16 00:18:46.269000,2017-01-09 06:44:03.725000
+MAL000359,James M. Kelcourse,James M.,,Kelcourse,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/jkelcourse.jpg,2015-01-16 00:18:46.373000,2017-01-09 06:44:03.699000
+MAL000360,Steven Ultrino,Steven,,Ultrino,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/sultrino.jpg,2015-01-16 00:18:46.421000,2017-01-09 06:44:03.793000
+MAL000361,Barbara L'Italien,Barbara,,L'Italien,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/blitalien.jpg,2015-01-21 00:18:45.670000,2017-01-09 06:44:03.818000
+MAL000362,Rady Mom,Rady,,Mom,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/rmom.jpg,2015-01-21 00:18:45.880000,2017-01-09 06:44:03.774000
+MAL000363,Timothy R. Whelan,Timothy R.,,Whelan,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/twhelan.jpg,2015-01-21 00:18:46.126000,2017-01-09 06:44:03.808000
+MAL000388,Adrian Madaro,Adrian,,Madaro,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/amadaro.jpg,2015-04-10 01:09:51.171000,2017-01-09 06:44:03.620000
+MAL000389,Hannah Kane,Hannah,,Kane,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/hkane.jpg,2015-04-10 01:09:51.203000,2017-01-09 06:44:03.690000
+MAL000392,Gerard Cassidy,Gerard,,Cassidy,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/gcassidy.jpg,2016-03-12 08:38:49.376000,2017-01-09 06:44:03.688000
+MAL000393,Stephan Hay,Stephan,,Hay,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/shay.jpg,2016-03-12 08:38:50.008000,2017-01-09 06:44:03.790000
+MAL000394,Thomas P. Walsh,Thomas P.,,Walsh,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/twalsh.jpg,2016-03-12 08:38:50.294000,2017-01-09 06:44:03.804000
+MAL000397,Daniel Cahill,Daniel,,Cahill,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/dcahill.jpg,2016-05-20 08:01:42.380000,2017-01-09 06:44:03.653000
+MAL000398,Patrick M. OConnor,Patrick M.,,OConnor,,,False,ma,,,,https://malegislature.gov/Images/MemberProfile/Web/po'connor.jpg,2016-05-20 08:01:42.484000,2017-01-09 06:44:03.823000
+MAL000158,William Smitty Pignatelli,William,Smitty,Pignatelli,,,True,ma,lower,Fourth Berkshire,Democratic,https://malegislature.gov/Legislators/Profile/170/WSP1.jpg,2011-07-08 21:34:37.439000,2017-06-01 07:03:12.419000
+MAL000403,"John J. Lawn, Jr.",John,,Lawn,Jr.,,True,ma,lower,Tenth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/JJL2.jpg,2017-01-09 06:44:02.230000,2017-06-01 07:03:12.329000
+MAL000404,David Paul Linsky,David Paul,,Linsky,,,True,ma,lower,Fifth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/DPL1.jpg,2017-01-09 06:44:02.241000,2017-06-01 07:03:11.252000
+MAL000405,James M. Murphy,James,,Murphy,,,True,ma,lower,Fourth Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/JMM1.jpg,2017-01-09 06:44:02.246000,2017-06-01 07:03:11.706000
+MAL000406,Natalie Higgins,Natalie,,Higgins,,,True,ma,lower,Fourth Worcester,Democratic,https://malegislature.gov/Legislators/Profile/170/N_H1.jpg,2017-01-09 06:44:02.252000,2017-06-01 07:03:12.500000
+MAL000407,Jerald A. Parisella,Jerald,,Parisella,,,True,ma,lower,Sixth Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/JAP1.jpg,2017-01-09 06:44:02.257000,2017-06-01 07:03:12.719000
+MAL000408,Keiko M. Orrall,Keiko,,Orrall,,,True,ma,lower,Twelfth Bristol,Republican,https://malegislature.gov/Legislators/Profile/170/KMO1.jpg,2017-01-09 06:44:02.262000,2017-06-01 07:03:12.598000
+MAL000410,Kate Hogan,Kate,,Hogan,,,True,ma,lower,Third Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/K_H1.jpg,2017-01-09 06:44:02.273000,2017-06-01 07:03:12.293000
+MAL000411,Nick Collins,Nick,,Collins,,,True,ma,lower,Fourth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/N_C1.jpg,2017-01-09 06:44:02.279000,2017-06-01 07:03:12.627000
+MAL000412,Jonathan D. Zlotnik,Jonathan,,Zlotnik,,,True,ma,lower,Second Worcester,Democratic,https://malegislature.gov/Legislators/Profile/170/JDZ1.jpg,2017-01-09 06:44:02.285000,2017-06-01 07:03:12.485000
+MAL000413,Paul K. Frost,Paul,,Frost,,,True,ma,lower,Seventh Worcester,Republican,https://malegislature.gov/Legislators/Profile/170/PKF1.jpg,2017-01-09 06:44:02.290000,2017-06-01 07:03:11.483000
+MAL000414,Thomas M. Petrolati,Thomas,,Petrolati,,,True,ma,lower,Seventh Hampden,Democratic,https://malegislature.gov/Legislators/Profile/170/TMP1.jpg,2017-01-09 06:44:02.295000,2017-06-01 07:03:12.044000
+MAL000415,Edward F. Coppinger,Edward,,Coppinger,,,True,ma,lower,Tenth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/E_C1.jpg,2017-01-09 06:44:02.301000,2017-06-01 07:03:10.964000
+MAL000416,Paul Tucker,Paul,,Tucker,,,True,ma,lower,Seventh Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/PFT1.jpg,2017-01-09 06:44:02.314000,2017-06-01 07:03:12.086000
+MAL000418,Christine P. Barber,Christine,,Barber,,,True,ma,lower,Thirty-Fourth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/CPB2.jpg,2017-01-09 06:44:02.325000,2017-06-01 07:03:12.629000
+MAL000419,Louis L. Kafka,Louis,,Kafka,,,True,ma,lower,Eighth Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/LLK1.jpg,2017-01-09 06:44:02.330000,2017-06-01 07:03:12.232000
+MAL000420,John J. Mahoney,John,,Mahoney,,,True,ma,lower,Thirteenth Worcester,Democratic,https://malegislature.gov/Legislators/Profile/170/JJM1.jpg,2017-01-09 06:44:02.335000,2017-06-01 07:03:11.881000
+MAL000421,Sarah K. Peake,Sarah,,Peake,,,True,ma,lower,Fourth Barnstable,Democratic,https://malegislature.gov/Legislators/Profile/170/SKP1.jpg,2017-01-09 06:44:02.347000,2017-06-01 07:03:12.230000
+MAL000422,Alan Silvia,Alan,,Silvia,,,True,ma,lower,Seventh Bristol,Democratic,https://malegislature.gov/Legislators/Profile/170/A_S1.jpg,2017-01-09 06:44:02.358000,2017-06-01 07:03:12.753000
+MAL000423,James M. Cantwell,James,,Cantwell,,,True,ma,lower,Fourth Plymouth,Democratic,https://malegislature.gov/Legislators/Profile/170/JMC2.jpg,2017-01-09 06:44:02.364000,2017-06-01 07:03:12.819000
+MAL000424,Daniel J. Hunt,Daniel,,Hunt,,,True,ma,lower,Thirteenth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/djh1.jpg,2017-01-09 06:44:02.369000,2017-06-01 07:03:12.768000
+MAL000425,William C. Galvin,William,,Galvin,,,True,ma,lower,Sixth Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/WCG1.jpg,2017-01-09 06:44:02.374000,2017-06-01 07:03:12.248000
+MAL000426,Susannah M. Whipps,Susannah,,Whipps,,,True,ma,lower,Second Franklin,Republican,https://malegislature.gov/Legislators/Profile/170/SLG1.jpg,2017-01-09 06:44:02.380000,2017-06-01 07:03:12.055000
+MAL000427,Jeffrey Sánchez,Jeffrey,,Sánchez,,,True,ma,lower,Fifteenth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/J_S1.jpg,2017-01-09 06:44:02.386000,2017-06-01 07:03:12.821000
+MAL000428,Sheila C. Harrington,Sheila,,Harrington,,,True,ma,lower,First Middlesex,Republican,https://malegislature.gov/Legislators/Profile/170/SCH1.jpg,2017-01-09 06:44:02.392000,2017-06-01 07:03:12.242000
+MAL000429,Diana DiZoglio,Diana,,DiZoglio,,,True,ma,lower,Fourteenth Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/D_D1.jpg,2017-01-09 06:44:02.403000,2017-06-01 07:03:11.901000
+MAL000430,Kate D. Campanale,Kate,,Campanale,,,True,ma,lower,Seventeenth Worcester,Republican,https://malegislature.gov/Legislators/Profile/170/KDC1.jpg,2017-01-09 06:44:02.409000,2017-06-01 07:03:12.157000
+MAL000431,Chris Walsh,Chris,,Walsh,,,True,ma,lower,Sixth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/CJW1.jpg,2017-01-09 06:44:02.422000,2017-06-01 07:03:12.711000
+MAL000432,Stephan Hay,Stephan,,Hay,,,True,ma,lower,Third Worcester,Democratic,https://malegislature.gov/Legislators/Profile/170/S_H1.jpg,2017-01-09 06:44:02.428000,2017-06-01 07:03:12.576000
+MAL000434,Jose F. Tosado,Jose,,Tosado,,,True,ma,lower,Ninth Hampden,Democratic,https://malegislature.gov/Legislators/Profile/170/JFT1.jpg,2017-01-09 06:44:02.441000,2017-06-01 07:03:12.411000
+MAL000435,William M. Straus,William,,Straus,,,True,ma,lower,Tenth Bristol,Democratic,https://malegislature.gov/Legislators/Profile/170/WMS1.jpg,2017-01-09 06:44:02.447000,2017-06-01 07:03:12.683000
+MAL000436,Robert M. Koczera,Robert,,Koczera,,,True,ma,lower,Eleventh Bristol,Democratic,https://malegislature.gov/Legislators/Profile/170/RMK1.jpg,2017-01-09 06:44:02.453000,2017-06-01 07:03:12.635000
+MAL000437,Susan Williams Gifford,Susan Williams,,Gifford,,,True,ma,lower,Second Plymouth,Republican,https://malegislature.gov/Legislators/Profile/170/SWG1.jpg,2017-01-09 06:44:02.466000,2017-06-01 07:03:11.722000
+MAL000438,Danielle W. Gregoire,Danielle,,Gregoire,,,True,ma,lower,Fourth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/DWG1.jpg,2017-01-09 06:44:02.478000,2017-06-01 07:03:11.436000
+MAL000439,F. Jay Barrows,F. Jay,,Barrows,,,True,ma,lower,First Bristol,Republican,https://malegislature.gov/Legislators/Profile/170/FJB1.jpg,2017-01-09 06:44:02.485000,2017-06-01 07:03:12.007000
+MAL000440,Joseph F. Wagner,Joseph,,Wagner,,,True,ma,lower,Eighth Hampden,Democratic,https://malegislature.gov/Legislators/Profile/170/JFW1.jpg,2017-01-09 06:44:02.490000,2017-06-01 07:03:12.585000
+MAL000441,Carolyn C. Dykema,Carolyn,,Dykema,,,True,ma,lower,Eighth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/CCD1.jpg,2017-01-09 06:44:02.496000,2017-06-01 07:03:12.799000
+MAL000442,Antonio F. D. Cabral,Antonio F.,,Cabral,,,True,ma,lower,Thirteenth Bristol,Democratic,https://malegislature.gov/Legislators/Profile/170/AFC1.jpg,2017-01-09 06:44:02.501000,2017-06-01 07:03:11.210000
+MAL000443,David T. Vieira,David,,Vieira,,,True,ma,lower,Third Barnstable,Republican,https://malegislature.gov/Legislators/Profile/170/DTV1.jpg,2017-01-09 06:44:02.506000,2017-06-01 07:03:12.246000
+MAL000444,Russell E. Holmes,Russell,,Holmes,,,True,ma,lower,Sixth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/REH1.jpg,2017-01-09 06:44:02.512000,2017-06-01 07:03:12.723000
+MAL000445,"David K. Muradian, Jr.",David,,Muradian,Jr.,,True,ma,lower,Ninth Worcester,Republican,https://malegislature.gov/Legislators/Profile/170/DKM1.jpg,2017-01-09 06:44:02.517000,2017-06-01 07:03:12.511000
+MAL000446,Brian M. Ashe,Brian,,Ashe,,,True,ma,lower,Second Hampden,Democratic,https://malegislature.gov/Legislators/Profile/170/BMA1.jpg,2017-01-09 06:44:02.523000,2017-06-01 07:03:12.762000
+MAL000447,Michael J. Moran,Michael,,Moran,,,True,ma,lower,Eighteenth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/MJM1.jpg,2017-01-09 06:44:02.528000,2017-06-01 07:03:12.234000
+MAL000448,Carlos Gonzalez,Carlos,,Gonzalez,,,True,ma,lower,Tenth Hampden,Democratic,https://malegislature.gov/Legislators/Profile/170/C_G1.jpg,2017-01-09 06:44:02.534000,2017-06-01 07:03:12.489000
+MAL000449,Daniel M. Donahue,Daniel,,Donahue,,,True,ma,lower,Sixteenth Worcester,Democratic,https://malegislature.gov/Legislators/Profile/170/DMD1.jpg,2017-01-09 06:44:02.539000,2017-06-01 07:03:12.814000
+MAL000450,Aaron Vega,Aaron,,Vega,,,True,ma,lower,Fifth Hampden,Democratic,https://malegislature.gov/Legislators/Profile/170/A_V1.jpg,2017-01-09 06:44:02.545000,2017-06-01 07:03:12.365000
+MAL000451,Marjorie C. Decker,Marjorie,,Decker,,,True,ma,lower,Twenty-Fifth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/MCD1.jpg,2017-01-09 06:44:02.550000,2017-06-01 07:03:12.236000
+MAL000452,Jack Lewis,Jack,,Lewis,,,True,ma,lower,Seventh Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/JPL1.jpg,2017-01-09 06:44:02.568000,2017-06-01 07:03:12.709000
+MAL000453,Paul R. Heroux,Paul,,Heroux,,,True,ma,lower,Second Bristol,Democratic,https://malegislature.gov/Legislators/Profile/170/PRH1.jpg,2017-01-09 06:44:02.573000,2017-06-01 07:03:12.539000
+MAL000454,James R. Miceli,James,,Miceli,,,True,ma,lower,Nineteenth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/JRM1.jpg,2017-01-09 06:44:02.579000,2017-06-01 07:03:12.174000
+MAL000456,Jay R. Kaufman,Jay,,Kaufman,,,True,ma,lower,Fifteenth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/JRK1.jpg,2017-01-09 06:44:02.596000,2017-06-01 07:03:12.764000
+MAL000457,Peter V. Kocot,Peter,,Kocot,,,True,ma,lower,First Hampshire,Democratic,https://malegislature.gov/Legislators/Profile/170/PVK1.jpg,2017-01-09 06:44:02.601000,2017-06-01 07:03:12.013000
+MAL000458,Kevin J. Kuros,Kevin,,Kuros,,,True,ma,lower,Eighth Worcester,Republican,https://malegislature.gov/Legislators/Profile/170/KJK1.jpg,2017-01-09 06:44:02.607000,2017-06-01 07:03:12.574000
+MAL000459,Sean Garballey,Sean,,Garballey,,,True,ma,lower,Twenty-Third Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/S_G1.jpg,2017-01-09 06:44:02.618000,2017-06-01 07:03:12.563000
+MAL000460,James M. Kelcourse,James,,Kelcourse,,,True,ma,lower,First Essex,Republican,https://malegislature.gov/Legislators/Profile/170/JMK1.jpg,2017-01-09 06:44:02.624000,2017-06-01 07:03:12.604000
+MAL000461,Bud Williams,Bud,,Williams,,,True,ma,lower,Eleventh Hampden,Democratic,https://malegislature.gov/Legislators/Profile/170/BLW1.jpg,2017-01-09 06:44:02.629000,2017-06-01 07:03:12.578000
+MAL000462,Paul McMurtry,Paul,,McMurtry,,,True,ma,lower,Eleventh Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/P_M1.jpg,2017-01-09 06:44:02.635000,2017-06-01 07:03:10.989000
+MAL000463,Nicholas A. Boldyga,Nicholas,,Boldyga,,,True,ma,lower,Third Hampden,Republican,https://malegislature.gov/Legislators/Profile/170/NAG1.jpg,2017-01-09 06:44:02.641000,2017-06-01 07:03:12.095000
+MAL000464,James J. O'Day,James,,O'Day,,,True,ma,lower,Fourteenth Worcester,Democratic,https://malegislature.gov/Legislators/Profile/170/JJO1.jpg,2017-01-09 06:44:02.646000,2017-06-01 07:03:12.532000
+MAL000465,"Thomas A. Golden, Jr.",Thomas,,Golden,Jr.,,True,ma,lower,Sixteenth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/TAG1.jpg,2017-01-09 06:44:02.652000,2017-06-01 07:03:12.203000
+MAL000466,Peter J. Durant,Peter,,Durant,,,True,ma,lower,Sixth Worcester,Republican,https://malegislature.gov/Legislators/Profile/170/PJD2.jpg,2017-01-09 06:44:02.663000,2017-06-01 07:03:12.766000
+MAL000467,John H. Rogers,John,,Rogers,,,True,ma,lower,Twelfth Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/JHR1.jpg,2017-01-09 06:44:02.669000,2017-06-01 07:03:12.355000
+MAL000468,Donald H. Wong,Donald,,Wong,,,True,ma,lower,Ninth Essex,Republican,https://malegislature.gov/Legislators/Profile/170/DHW1.jpg,2017-01-09 06:44:02.674000,2017-06-01 07:03:12.520000
+MAL000469,Geoff Diehl,Geoff,,Diehl,,,True,ma,lower,Seventh Plymouth,Republican,https://malegislature.gov/Legislators/Profile/170/J_D1.jpg,2017-01-09 06:44:02.679000,2017-06-01 07:03:12.481000
+MAL000470,David F. DeCoste,David,,DeCoste,,,True,ma,lower,Fifth Plymouth,Republican,https://malegislature.gov/Legislators/Profile/170/DFD1.jpg,2017-01-09 06:44:02.685000,2017-06-01 07:03:12.718000
+MAL000471,Timothy R. Whelan,Timothy,,Whelan,,,True,ma,lower,First Barnstable,Republican,https://malegislature.gov/Legislators/Profile/170/TRW1.jpg,2017-01-09 06:44:02.690000,2017-06-01 07:03:12.715000
+MAL000472,Tackey Chan,Tackey,,Chan,,,True,ma,lower,Second Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/T_C1.jpg,2017-01-09 06:44:02.696000,2017-06-01 07:03:12.808000
+MAL000473,Carmine L. Gentile,Carmine,,Gentile,,,True,ma,lower,Thirteenth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/CLG1.jpg,2017-01-09 06:44:02.701000,2017-06-01 07:03:12.787000
+MAL000474,Colleen M. Garry,Colleen,,Garry,,,True,ma,lower,Thirty-Sixth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/CMG1.jpg,2017-01-09 06:44:02.706000,2017-06-01 07:03:12.782000
+MAL000475,"Harold P. Naughton, Jr.",Harold,,Naughton,Jr.,,True,ma,lower,Twelfth Worcester,Democratic,https://malegislature.gov/Legislators/Profile/170/HPN1.jpg,2017-01-09 06:44:02.712000,2017-06-01 07:03:11.202000
+MAL000476,Thomas P. Walsh,Thomas,,Walsh,,,True,ma,lower,Twelfth Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/TJW1.jpg,2017-01-09 06:44:02.718000,2017-06-01 07:03:12.686000
+MAL000477,Ann-Margaret Ferrante,Ann-Margaret,,Ferrante,,,True,ma,lower,Fifth Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/AMF1.jpg,2017-01-09 06:44:02.723000,2017-06-01 07:03:12.255000
+MAL000478,Jeffrey N. Roy,Jeffrey,,Roy,,,True,ma,lower,Tenth Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/JNR1.jpg,2017-01-09 06:44:02.735000,2017-06-01 07:03:12.809000
+MAL000479,Mathew Muratore,Mathew,,Muratore,,,True,ma,lower,First Plymouth,Republican,https://malegislature.gov/Legislators/Profile/170/MJM2.jpg,2017-01-09 06:44:02.740000,2017-06-01 07:03:12.806000
+MAL000480,Tricia Farley-Bouvier,Tricia,,Farley-Bouvier,,,True,ma,lower,Third Berkshire,Democratic,https://malegislature.gov/Legislators/Profile/170/TFB1.jpg,2017-01-09 06:44:02.746000,2017-06-01 07:03:12.480000
+MAL000481,Thomas M. Stanley,Thomas,,Stanley,,,True,ma,lower,Ninth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/TMS1.jpg,2017-01-09 06:44:02.751000,2017-06-01 07:03:12.516000
+MAL000483,Evandro C. Carvalho,Evandro,,Carvalho,,,True,ma,lower,Fifth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/ecc1.jpg,2017-01-09 06:44:02.763000,2017-06-01 07:03:12.487000
+MAL000484,Jennifer E. Benson,Jennifer,,Benson,,,True,ma,lower,Thirty-Seventh Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/JEB1.jpg,2017-01-09 06:44:02.770000,2017-06-01 07:03:12.417000
+MAL000485,Bruce J. Ayers,Bruce,,Ayers,,,True,ma,lower,First Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/BJA1.jpg,2017-01-09 06:44:02.775000,2017-06-01 07:03:11.552000
+MAL000486,Angelo M. Scaccia,Angelo,,Scaccia,,,True,ma,lower,Fourteenth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/AMS1.jpg,2017-01-09 06:44:02.781000,2017-06-01 07:03:12.313000
+MAL000487,Elizabeth A. Malia,Elizabeth,,Malia,,,True,ma,lower,Eleventh Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/EAM1.jpg,2017-01-09 06:44:02.787000,2017-06-01 07:03:12.726000
+MAL000488,Joseph D. McKenna,Joseph,,McKenna,,,True,ma,lower,Eighteenth Worcester,Republican,https://malegislature.gov/Legislators/Profile/170/JDM1.jpg,2017-01-09 06:44:02.793000,2017-06-01 07:03:12.400000
+MAL000489,"Angelo J. Puppolo, Jr.",Angelo,,Puppolo,Jr.,,True,ma,lower,Twelfth Hampden,Democratic,https://malegislature.gov/Legislators/Profile/170/AJP1.jpg,2017-01-09 06:44:02.805000,2017-06-01 07:03:12.492000
+MAL000490,Hannah Kane,Hannah,,Kane,,,True,ma,lower,Eleventh Worcester,Republican,https://malegislature.gov/Legislators/Profile/170/HEK1.jpg,2017-01-09 06:44:02.812000,2017-06-01 07:03:12.700000
+MAL000491,Josh S. Cutler,Josh,,Cutler,,,True,ma,lower,Sixth Plymouth,Democratic,https://malegislature.gov/Legislators/Profile/170/JSC1.jpg,2017-01-09 06:44:02.817000,2017-06-01 07:03:12.221000
+MAL000492,Solomon Goldstein-Rose,Solomon,,Goldstein-Rose,,,True,ma,lower,Third Hampshire,Democratic,https://malegislature.gov/Legislators/Profile/170/SIG1.jpg,2017-01-09 06:44:02.823000,2017-06-01 07:03:12.659000
+MAL000493,Brendan P. Crighton,Brendan,,Crighton,,,True,ma,lower,Eleventh Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/BPC1.jpg,2017-01-09 06:44:02.834000,2017-06-01 07:03:12.758000
+MAL000494,Lori A. Ehrlich,Lori,,Ehrlich,,,True,ma,lower,Eighth Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/LAE1.jpg,2017-01-09 06:44:02.846000,2017-06-01 07:03:10.895000
+MAL000495,Kevin G. Honan,Kevin,,Honan,,,True,ma,lower,Seventeenth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/KGH1.jpg,2017-01-09 06:44:02.851000,2017-06-01 07:03:12.623000
+MAL000496,Marc T. Lombardo,Marc,,Lombardo,,,True,ma,lower,Twenty-Second Middlesex,Republican,https://malegislature.gov/Legislators/Profile/170/MTL1.jpg,2017-01-09 06:44:02.856000,2017-06-01 07:03:12.495000
+MAL000497,"Joseph W. McGonagle, Jr.",Joseph,,McGonagle,Jr.,,True,ma,lower,Twenty-Eighth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/jwm1.jpg,2017-01-09 06:44:02.862000,2017-06-01 07:03:12.695000
+MAL000498,Linda Dean Campbell,Linda Dean,,Campbell,,,True,ma,lower,Fifteenth Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/LDC1.jpg,2017-01-09 06:44:02.873000,2017-06-01 07:03:12.751000
+MAL000499,Steven Ultrino,Steven,,Ultrino,,,True,ma,lower,Thirty-Third Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/S_G2.jpg,2017-01-09 06:44:02.879000,2017-06-01 07:03:12.795000
+MAL000500,Denise Provost,Denise,,Provost,,,True,ma,lower,Twenty-Seventh Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/D_P1.jpg,2017-01-09 06:44:02.884000,2017-06-01 07:03:12.059000
+MAL000501,Elizabeth A. Poirier,Elizabeth,,Poirier,,,True,ma,lower,Fourteenth Bristol,Republican,https://malegislature.gov/Legislators/Profile/170/EAP1.jpg,2017-01-09 06:44:02.889000,2017-06-01 07:03:12.019000
+MAL000502,Patricia A. Haddad,Patricia,,Haddad,,,True,ma,lower,Fifth Bristol,Democratic,https://malegislature.gov/Legislators/Profile/170/PAH1.jpg,2017-01-09 06:44:02.895000,2017-06-01 07:03:12.238000
+MAL000503,Rady Mom,Rady,,Mom,,,True,ma,lower,Eighteenth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/R_M2.jpg,2017-01-09 06:44:02.900000,2017-06-01 07:03:12.107000
+MAL000504,John C. Velis,John,,Velis,,,True,ma,lower,Fourth Hampden,Democratic,https://malegislature.gov/Legislators/Profile/170/jcv1.jpg,2017-01-09 06:44:02.906000,2017-06-01 07:03:12.793000
+MAL000505,Frank I. Smizik,Frank,,Smizik,,,True,ma,lower,Fifteenth Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/FIS1.jpg,2017-01-09 06:44:02.911000,2017-06-01 07:03:11.284000
+MAL000506,Daniel Cahill,Daniel,,Cahill,,,True,ma,lower,Tenth Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/DFC1.jpg,2017-01-09 06:44:02.922000,2017-06-01 07:03:12.730000
+MAL000507,"Paul A. Schmid, III",Paul,,Schmid,III,,True,ma,lower,Eighth Bristol,Democratic,https://malegislature.gov/Legislators/Profile/170/PAS1.jpg,2017-01-09 06:44:02.927000,2017-06-01 07:03:12.736000
+MAL000508,Byron Rushing,Byron,,Rushing,,,True,ma,lower,Ninth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/B_R1.jpg,2017-01-09 06:44:02.933000,2017-06-01 07:03:12.257000
+MAL000509,James Arciero,James,,Arciero,,,True,ma,lower,Second Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/J_A1.jpg,2017-01-09 06:44:02.938000,2017-06-01 07:03:12.424000
+MAL000510,Randy Hunt,Randy,,Hunt,,,True,ma,lower,Fifth Barnstable,Republican,https://malegislature.gov/Legislators/Profile/170/R_H1.jpg,2017-01-09 06:44:02.944000,2017-06-01 07:03:12.791000
+MAL000511,Steven S. Howitt,Steven,,Howitt,,,True,ma,lower,Fourth Bristol,Republican,https://malegislature.gov/Legislators/Profile/170/SSH1.jpg,2017-01-09 06:44:02.950000,2017-06-01 07:03:12.675000
+MAL000512,Mark J. Cusack,Mark,,Cusack,,,True,ma,lower,Fifth Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/MJC1.jpg,2017-01-09 06:44:02.955000,2017-06-01 07:03:11.315000
+MAL000513,Gailanne M. Cariddi,Gailanne,,Cariddi,,,True,ma,lower,First Berkshire,Democratic,https://malegislature.gov/Legislators/Profile/170/GMC1.jpg,2017-01-09 06:44:02.961000,2017-06-01 07:03:11.810000
+MAL000514,David M. Rogers,David,,Rogers,,,True,ma,lower,Twenty-Fourth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/DMR1.jpg,2017-01-09 06:44:02.972000,2017-06-01 07:03:12.172000
+MAL000515,Michael S. Day,Michael,,Day,,,True,ma,lower,Thirty-First Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/MSD1.jpg,2017-01-09 06:44:02.978000,2017-06-01 07:03:11.939000
+MAL000516,Jay D. Livingstone,Jay,,Livingstone,,,True,ma,lower,Eighth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/J_L1.jpg,2017-01-09 06:44:02.991000,2017-06-01 07:03:12.738000
+MAL000517,Juana Matias,Juana,,Matias,,,True,ma,lower,Sixteenth Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/JBM1.jpg,2017-01-09 06:44:03.003000,2017-06-01 07:03:12.404000
+MAL000518,"James J. Lyons, Jr.",James,,Lyons,Jr.,,True,ma,lower,Eighteenth Essex,Republican,https://malegislature.gov/Legislators/Profile/170/JJL1.jpg,2017-01-09 06:44:03.008000,2017-06-01 07:03:12.289000
+MAL000519,Daniel Cullinane,Daniel,,Cullinane,,,True,ma,lower,Twelfth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/D_C1.jpg,2017-01-09 06:44:03.014000,2017-06-01 07:03:12.005000
+MAL000520,Theodore C. Speliotis,Theodore,,Speliotis,,,True,ma,lower,Thirteenth Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/TCS1.jpg,2017-01-09 06:44:03.019000,2017-06-01 07:03:11.519000
+MAL000521,Shaunna L. O'Connell,Shaunna,,O'Connell,,,True,ma,lower,Third Bristol,Republican,https://malegislature.gov/Legislators/Profile/170/SLO1.jpg,2017-01-09 06:44:03.025000,2017-06-01 07:03:12.390000
+MAL000522,Jonathan Hecht,Jonathan,,Hecht,,,True,ma,lower,Twenty-Ninth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/J_H1.jpg,2017-01-09 06:44:03.037000,2017-06-01 07:03:12.376000
+MAL000523,Adrian Madaro,Adrian,,Madaro,,,True,ma,lower,First Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/ACM1.jpg,2017-01-09 06:44:03.042000,2017-06-01 07:03:12.702000
+MAL000524,James J. Dwyer,James,,Dwyer,,,True,ma,lower,Thirtieth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/JJD1.jpg,2017-01-09 06:44:03.048000,2017-06-01 07:03:12.760000
+MAL000525,Paul Brodeur,Paul,,Brodeur,,,True,ma,lower,Thirty-Second Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/P_B1.jpg,2017-01-09 06:44:03.053000,2017-06-01 07:03:10.928000
+MAL000526,Ronald Mariano,Ronald,,Mariano,,,True,ma,lower,Third Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/R_M1.jpg,2017-01-09 06:44:03.059000,2017-06-01 07:03:12.240000
+MAL000528,Claire D. Cronin,Claire,,Cronin,,,True,ma,lower,Eleventh Plymouth,Democratic,https://malegislature.gov/Legislators/Profile/170/CDC1.jpg,2017-01-09 06:44:03.075000,2017-06-01 07:03:11.913000
+MAL000529,Daniel J. Ryan,Daniel,,Ryan,,,True,ma,lower,Second Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/djr1.jpg,2017-01-09 06:44:03.081000,2017-06-01 07:03:12.664000
+MAL000530,Paul W. Mark,Paul,,Mark,,,True,ma,lower,Second Berkshire,Democratic,https://malegislature.gov/Legislators/Profile/170/PWM1.jpg,2017-01-09 06:44:03.092000,2017-06-01 07:03:11.479000
+MAL000531,Gerard Cassidy,Gerard,,Cassidy,,,True,ma,lower,Ninth Plymouth,Democratic,https://malegislature.gov/Legislators/Profile/170/G_C2.jpg,2017-01-09 06:44:03.098000,2017-06-01 07:03:12.497000
+MAL000532,Ruth B. Balser,Ruth,,Balser,,,True,ma,lower,Twelfth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/RBB1.jpg,2017-01-09 06:44:03.103000,2017-06-01 07:03:12.426000
+MAL000533,Mike Connolly,Mike,,Connolly,,,True,ma,lower,Twenty-Sixth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/M_C1.jpg,2017-01-09 06:44:03.109000,2017-06-01 07:03:12.643000
+MAL000534,Michelle M. DuBois,Michelle,,DuBois,,,True,ma,lower,Tenth Plymouth,Democratic,https://malegislature.gov/Legislators/Profile/170/MMD1.jpg,2017-01-09 06:44:03.114000,2017-06-01 07:03:12.514000
+MAL000535,RoseLee Vincent,RoseLee,,Vincent,,,True,ma,lower,Sixteenth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/r_v1.jpg,2017-01-09 06:44:03.126000,2017-06-01 07:03:12.090000
+MAL000536,Stephen Kulik,Stephen,,Kulik,,,True,ma,lower,First Franklin,Democratic,https://malegislature.gov/Legislators/Profile/170/S_K1.jpg,2017-01-09 06:44:03.131000,2017-06-01 07:03:12.142000
+MAL000537,Cory Atkins,Cory,,Atkins,,,True,ma,lower,Fourteenth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/C_A1.jpg,2017-01-09 06:44:03.137000,2017-06-01 07:03:11.584000
+MAL000538,Todd M. Smola,Todd,,Smola,,,True,ma,lower,First Hampden,Republican,https://malegislature.gov/Legislators/Profile/170/TMS2.jpg,2017-01-09 06:44:03.149000,2017-06-01 07:03:12.077000
+MAL000539,Brian S. Dempsey,Brian,,Dempsey,,,True,ma,lower,Third Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/BSD1.jpg,2017-01-09 06:44:03.161000,2017-06-01 07:03:12.125000
+MAL000540,Robert A. DeLeo,Robert,,DeLeo,,,True,ma,lower,Nineteenth Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/RAD1.jpg,2017-01-09 06:44:03.173000,2017-06-01 07:02:09.436000
+MAL000541,Carole A. Fiola,Carole,,Fiola,,,True,ma,lower,Sixth Bristol,Democratic,https://malegislature.gov/Legislators/Profile/170/CAF1.jpg,2017-01-09 06:44:03.178000,2017-06-01 07:03:12.602000
+MAL000542,"Donald R. Berthiaume, Jr.",Donald,,Berthiaume,Jr.,,True,ma,lower,Fifth Worcester,Republican,https://malegislature.gov/Legislators/Profile/170/DRB1.jpg,2017-01-09 06:44:03.184000,2017-06-01 07:03:12.331000
+MAL000543,"Bradley H. Jones, Jr.",Bradley,,Jones,Jr.,,True,ma,lower,Twentieth Middlesex,Republican,https://malegislature.gov/Legislators/Profile/170/BHJ1.jpg,2017-01-09 06:44:03.189000,2017-06-01 07:02:09.258000
+MAL000544,Chynah Tyler,Chynah,,Tyler,,,True,ma,lower,Seventh Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/C_T1.jpg,2017-01-09 06:44:03.195000,2017-06-01 07:03:12.609000
+MAL000545,Brian Murray,Brian,,Murray,,,True,ma,lower,Tenth Worcester,Democratic,https://malegislature.gov/Legislators/Profile/170/BWM1.jpg,2017-01-09 06:44:03.201000,2017-06-01 07:03:12.780000
+MAL000546,Kenneth I. Gordon,Kenneth,,Gordon,,,True,ma,lower,Twenty-First Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/KIG1.jpg,2017-01-09 06:44:03.206000,2017-06-01 07:03:11.216000
+MAL000547,Shawn Dooley,Shawn,,Dooley,,,True,ma,lower,Ninth Norfolk,Republican,https://malegislature.gov/Legislators/Profile/170/S_D1.jpg,2017-01-09 06:44:03.212000,2017-06-01 07:03:12.748000
+MAL000548,Kimberly N. Ferguson,Kimberly,,Ferguson,,,True,ma,lower,First Worcester,Republican,https://malegislature.gov/Legislators/Profile/170/KNF1.jpg,2017-01-09 06:44:03.217000,2017-06-01 07:03:12.251000
+MAL000549,Angelo L. D'Emilia,Angelo,,D'Emilia,,,True,ma,lower,Eighth Plymouth,Republican,https://malegislature.gov/Legislators/Profile/170/ALD1.jpg,2017-01-09 06:44:03.223000,2017-06-01 07:03:12.153000
+MAL000550,Bradford R. Hill,Bradford,,Hill,,,True,ma,lower,Fourth Essex,Republican,https://malegislature.gov/Legislators/Profile/170/BRH1.jpg,2017-01-09 06:44:03.229000,2017-06-01 07:03:11.716000
+MAL000551,Joan Meschino,Joan,,Meschino,,,True,ma,lower,Third Plymouth,Democratic,https://malegislature.gov/Legislators/Profile/170/J_M1.jpg,2017-01-09 06:44:03.235000,2017-06-01 07:03:12.681000
+MAL000552,Kay Khan,Kay,,Khan,,,True,ma,lower,Eleventh Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/K_K1.jpg,2017-01-09 06:44:03.240000,2017-06-01 07:03:12.359000
+MAL000553,Denise C. Garlick,Denise,,Garlick,,,True,ma,lower,Thirteenth Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/DCG1.jpg,2017-01-09 06:44:03.247000,2017-06-01 07:03:11.390000
+MAL000554,Dylan Fernandes,Dylan,,Fernandes,,,True,ma,lower,"Barnstable, Dukes and Nantucket",Democratic,https://malegislature.gov/Legislators/Profile/170/DAF1.jpg,2017-01-09 06:44:03.259000,2017-06-01 07:03:12.537000
+MAL000555,David M. Nangle,David,,Nangle,,,True,ma,lower,Seventeenth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/DMN1.jpg,2017-01-09 06:44:03.265000,2017-06-01 07:03:12.244000
+MAL000556,Frank A. Moran,Frank,,Moran,,,True,ma,lower,Seventeenth Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/FAM1.jpg,2017-01-09 06:44:03.270000,2017-06-01 07:03:12.721000
+MAL000557,Leonard Mirra,Leonard,,Mirra,,,True,ma,lower,Second Essex,Republican,https://malegislature.gov/Legislators/Profile/170/L_M1.jpg,2017-01-09 06:44:03.288000,2017-06-01 07:02:09.405000
+MAL000558,Alice Hanlon Peisch,Alice Hanlon,,Peisch,,,True,ma,lower,Fourteenth Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/AHP1.jpg,2017-01-09 06:44:03.294000,2017-06-01 07:03:11.756000
+MAL000559,Mary S. Keefe,Mary,,Keefe,,,True,ma,lower,Fifteenth Worcester,Democratic,https://malegislature.gov/Legislators/Profile/170/MSK1.jpg,2017-01-09 06:44:03.299000,2017-06-01 07:03:12.291000
+MAL000560,Thomas J. Calter,Thomas,,Calter,,,True,ma,lower,Twelfth Plymouth,Democratic,https://malegislature.gov/Legislators/Profile/170/TJC1.jpg,2017-01-09 06:44:03.318000,2017-06-01 07:03:12.483000
+MAL000561,Christopher M. Markey,Christopher,,Markey,,,True,ma,lower,Ninth Bristol,Democratic,https://malegislature.gov/Legislators/Profile/170/CMM1.jpg,2017-01-09 06:44:03.330000,2017-06-01 07:03:12.003000
+MAL000562,William Driscoll,William,,Driscoll,,,True,ma,lower,Seventh Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/WJD1.jpg,2017-01-09 06:44:03.335000,2017-06-01 07:03:12.704000
+MAL000563,Paul J. Donato,Paul,,Donato,,,True,ma,lower,Thirty-Fifth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/PJD1.jpg,2017-01-09 06:44:03.341000,2017-06-01 07:03:12.227000
+MAL000564,Michael J. Finn,Michael,,Finn,,,True,ma,lower,Sixth Hampden,Democratic,https://malegislature.gov/Legislators/Profile/170/MJF1.jpg,2017-01-09 06:44:03.346000,2017-06-01 07:03:11.392000
+MAL000565,Aaron Michlewitz,Aaron,,Michlewitz,,,True,ma,lower,Third Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/AMM1.jpg,2017-01-09 06:44:03.352000,2017-06-01 07:03:11.047000
+MAL000566,John W. Scibak,John,,Scibak,,,True,ma,lower,Second Hampshire,Democratic,https://malegislature.gov/Legislators/Profile/170/JWS1.jpg,2017-01-09 06:44:03.358000,2017-06-01 07:03:12.048000
+MAL000567,"William L. Crocker, Jr.",William,,Crocker,Jr.,,True,ma,lower,Second Barnstable,Republican,https://malegislature.gov/Legislators/Profile/170/WLC1.jpg,2017-01-09 06:44:03.363000,2017-06-01 07:03:12.388000
+MAL000005,Harriette L. Chandler,Harriette,L.,Chandler,,,True,ma,upper,First Worcester,Democratic,https://malegislature.gov/Legislators/Profile/170/HLC0.jpg,2011-07-08 21:34:37.096000,2017-06-01 07:03:11.460000
+MAL000006,Sonia Chang-Diaz,Sonia,,Chang-Diaz,,,True,ma,upper,Second Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/SCD0.jpg,2011-07-08 21:34:37.098000,2017-06-01 07:03:12.594000
+MAL000008,Cynthia Stone Creem,Cynthia,Stone,Creem,,,True,ma,upper,First Middlesex and Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/CSC0.jpg,2011-07-08 21:34:37.101000,2017-06-01 07:03:12.772000
+MAL000009,Sal N. DiDomenico,Sal,N.,DiDomenico,,,True,ma,upper,Middlesex and Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/SND0.jpg,2011-07-08 21:34:37.103000,2017-06-01 07:03:12.457000
+MAL000010,Kenneth J. Donnelly,Kenneth,J.,Donnelly,,,True,ma,upper,Fourth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/KJD0.jpg,2011-07-08 21:34:37.105000,2017-06-01 07:02:09.243000
+MAL000011,Eileen Donoghue,Eileen,,Donoghue,,,True,ma,upper,First Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/EMD0.jpg,2011-07-08 21:34:37.107000,2017-06-01 07:03:12.518000
+MAL000013,James B. Eldridge,James,B.,Eldridge,,,True,ma,upper,Middlesex and Worcester,Democratic,https://malegislature.gov/Legislators/Profile/170/JBE0.jpg,2011-07-08 21:34:37.111000,2017-06-01 07:03:12.437000
+MAL000016,Jennifer L. Flanagan,Jennifer,L.,Flanagan,,,True,ma,upper,Worcester and Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/JLF0.jpg,2011-07-08 21:34:37.116000,2017-06-01 07:03:12.713000
+MAL000019,Patricia D. Jehlen,Patricia,D.,Jehlen,,,True,ma,upper,Second Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/PDJ0.jpg,2011-07-08 21:34:37.122000,2017-06-01 07:03:12.472000
+MAL000021,John F. Keenan,John,F.,Keenan,,,True,ma,upper,Norfolk and Plymouth,Democratic,https://malegislature.gov/Legislators/Profile/170/JFK0.jpg,2011-07-08 21:34:37.125000,2017-06-01 07:03:12.697000
+MAL000024,Thomas M. McGee,Thomas,M.,McGee,,,True,ma,upper,Third Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/TMM0.jpg,2011-07-08 21:34:37.131000,2017-06-01 07:03:12.693000
+MAL000025,Mark C. Montigny,Mark,C.,Montigny,,,True,ma,upper,Second Bristol and Plymouth,Democratic,https://malegislature.gov/Legislators/Profile/170/MCM0.jpg,2011-07-08 21:34:37.133000,2017-06-01 07:03:11.690000
+MAL000026,Michael O. Moore,Michael,O.,Moore,,,True,ma,upper,Second Worcester,Democratic,https://malegislature.gov/Legislators/Profile/170/MOM0.jpg,2011-07-08 21:34:37.135000,2017-06-01 07:03:12.556000
+MAL000029,Marc R. Pacheco,Marc,R.,Pacheco,,,True,ma,upper,First Plymouth and Bristol,Democratic,https://malegislature.gov/Legislators/Profile/170/MRP0.jpg,2011-07-08 21:34:37.165000,2017-06-01 07:03:12.570000
+MAL000031,Michael J. Rodrigues,Michael,J.,Rodrigues,,,True,ma,upper,First Bristol and Plymouth,Democratic,https://malegislature.gov/Legislators/Profile/170/MJR0.jpg,2011-07-08 21:34:37.168000,2017-06-01 07:03:12.777000
+MAL000032,Stanley C. Rosenberg,Stanley,C.,Rosenberg,,,True,ma,upper,"Hampshire, Franklin and Worcester",Democratic,https://malegislature.gov/Legislators/Profile/170/SCR0.jpg,2011-07-08 21:34:37.170000,2017-06-01 07:02:09.512000
+MAL000033,Richard J. Ross,Richard,J.,Ross,,,True,ma,upper,"Norfolk, Bristol and Middlesex",Republican,https://malegislature.gov/Legislators/Profile/170/RJR0.jpg,2011-07-08 21:34:37.172000,2017-06-01 07:03:12.444000
+MAL000034,Michael F. Rush,Michael,F.,Rush,,,True,ma,upper,Norfolk and Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/MFR0.jpg,2011-07-08 21:34:37.174000,2017-06-01 07:03:12.688000
+MAL000035,Karen Spilka,Karen,,Spilka,,,True,ma,upper,Second Middlesex and Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/KES0.jpg,2011-07-08 21:34:37.176000,2017-06-01 07:03:12.447000
+MAL000036,Bruce E. Tarr,Bruce,E.,Tarr,,,True,ma,upper,First Essex and Middlesex,Republican,https://malegislature.gov/Legislators/Profile/170/BET0.jpg,2011-07-08 21:34:37.178000,2017-06-01 07:03:12.825000
+MAL000037,James E. Timilty,James,E.,Timilty,,,True,ma,upper,Bristol and Norfolk,Democratic,https://malegislature.gov/Legislators/Profile/170/JET0.jpg,2011-07-08 21:34:37.179000,2017-06-01 07:02:09.240000
+MAL000039,James T. Welch,James,T.,Welch,,,True,ma,upper,Hampden,Democratic,https://malegislature.gov/Legislators/Profile/170/JTW0.jpg,2011-07-08 21:34:37.183000,2017-06-01 07:03:12.816000
+MAL000058,Michael D. Brady,Michael,D.,Brady,,,True,ma,upper,Second Plymouth and Bristol,Democratic,https://malegislature.gov/Legislators/Profile/170/MDB0.jpg,2011-07-08 21:34:37.218000,2017-06-01 07:03:12.770000
+MAL000060,William N. Brownsberger,William,N.,Brownsberger,,,True,ma,upper,Second Suffolk and Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/WNB0.jpg,2011-07-08 21:34:37.228000,2017-06-01 07:03:12.733000
+MAL000078,Viriato Manuel deMacedo,Viriato,Manuel,deMacedo,,,True,ma,upper,Plymouth and Barnstable,Republican,https://malegislature.gov/Legislators/Profile/170/VMD0.jpg,2011-07-08 21:34:37.262000,2017-06-01 07:03:12.553000
+MAL000089,Ryan C. Fattman,Ryan,C.,Fattman,,,True,ma,upper,Worcester and Norfolk,Republican,https://malegislature.gov/Legislators/Profile/170/RCF0.jpg,2011-07-08 21:34:37.282000,2017-06-01 07:03:12.775000
+MAL000095,Linda Dorcena Forry,Linda,Dorcena,Forry,,,True,ma,upper,First Suffolk,Democratic,https://malegislature.gov/Legislators/Profile/170/LDF0.jpg,2011-07-08 21:34:37.294000,2017-06-01 07:03:12.670000
+MAL000104,Anne M. Gobi,Anne,M.,Gobi,,,True,ma,upper,"Worcester, Hampden, Hampshire and Middlesex",Democratic,https://malegislature.gov/Legislators/Profile/170/AMG0.jpg,2011-07-08 21:34:37.311000,2017-06-01 07:03:12.551000
+MAL000115,Donald F. Humason Jr,Donald,F.,Humason,Jr.,,True,ma,upper,Second Hampden and Hampshire,Republican,https://malegislature.gov/Legislators/Profile/170/DFH0.jpg,2011-07-08 21:34:37.332000,2017-06-01 07:03:12.740000
+MAL000129,Jason M. Lewis,Jason,M.,Lewis,,,True,ma,upper,Fifth Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/jml0.jpg,2011-07-08 21:34:37.357000,2017-06-01 07:03:12.797000
+MAL000233,Michael J. Barrett,Michael,,Barrett,,,True,ma,upper,Third Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/MJB0.jpg,2013-01-09 17:02:38.607000,2017-06-01 07:03:12.812000
+MAL000238,Joan B. Lovely,Joan,,Lovely,,,True,ma,upper,Second Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/JBL0.jpg,2013-01-09 17:02:38.683000,2017-06-01 07:03:12.455000
+MAL000239,Kathleen O'Connor Ives,Kathleen O'Connor,,Ives,,,True,ma,upper,First Essex,Democratic,https://malegislature.gov/Legislators/Profile/170/KAO0.jpg,2013-01-09 17:02:38.701000,2017-06-01 07:03:12.746000
+MAL000339,Eric P. Lesser,Eric,,Lesser,,,True,ma,upper,First Hampden and Hampshire,Democratic,https://malegislature.gov/Legislators/Profile/170/EPL0.jpg,2015-01-09 19:28:48.922000,2017-06-01 07:03:12.801000
+MAL000396,Joseph A. Boncore,Joseph,,Boncore,,,True,ma,upper,First Suffolk and Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/JAB0.jpg,2016-05-20 08:01:42.084000,2017-06-01 07:03:12.789000
+MAL000409,Julian Cyr,Julian,,Cyr,,,True,ma,upper,Cape and Islands,Democratic,https://malegislature.gov/Legislators/Profile/170/JAC0.jpg,2017-01-09 06:44:02.268000,2017-06-01 07:03:12.614000
+MAL000417,Adam G. Hinds,Adam,,Hinds,,,True,ma,upper,"Berkshire, Hampshire, Franklin and Hampden",Democratic,https://malegislature.gov/Legislators/Profile/170/AGH0.jpg,2017-01-09 06:44:02.319000,2017-06-01 07:03:12.647000
+MAL000433,Barbara A. L'Italien,Barbara,,L'Italien,,,True,ma,upper,Second Essex and Middlesex,Democratic,https://malegislature.gov/Legislators/Profile/170/BAL0.jpg,2017-01-09 06:44:02.435000,2017-06-01 07:03:12.803000
+MAL000482,Walter F. Timilty,Walter,,Timilty,,,True,ma,upper,"Norfolk, Bristol and Plymouth",Democratic,https://malegislature.gov/Legislators/Profile/170/WFT0.jpg,2017-01-09 06:44:02.757000,2017-06-01 07:03:12.530000
+MAL000527,Patrick M. O'Connor,Patrick,,O'Connor,,,True,ma,upper,Plymouth and Norfolk,Republican,https://malegislature.gov/Legislators/Profile/170/PMO.jpg,2017-01-09 06:44:03.064000,2017-06-01 07:03:12.621000

@@ -1,0 +1,248 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+SCL000002,Ralph Anderson,Ralph,,Anderson,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0027272724.jpg,2011-11-14 21:05:40.251000,2012-12-07 20:19:12.544000
+SCL000003,Lee Bright,Lee,,Bright,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0193181795.jpg,2011-11-14 21:05:40.262000,2016-12-30 01:17:06.682000
+SCL000004,Kevin L. Bryant,Kevin,L.,Bryant,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0238636335.jpg,2011-11-14 21:05:40.272000,2017-04-10 02:46:41.610000
+SCL000007,Raymond E. Cleary III,Raymond,E.,Cleary,III,,False,sc,,,,http://www.scstatehouse.gov/images/members/0353693140.jpg,2011-11-14 21:05:40.459000,2016-12-30 01:17:06.687000
+SCL000008,Creighton B. Coleman,Creighton,B.,Coleman,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0379545409.jpg,2011-11-14 21:05:40.472000,2016-12-30 01:17:06.678000
+SCL000012,Dick Elliott,Dick,,Elliott,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0527272664.jpg,2011-11-14 21:05:40.513000,2012-12-07 20:19:12.545000
+SCL000013,Michael L. Fair,Michael,L.,Fair,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0554545388.jpg,2011-11-14 21:05:40.523000,2016-12-30 01:17:06.683000
+SCL000014,Robert Ford,Robert,,Ford,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0606818109.jpg,2011-11-14 21:05:40.533000,2013-10-09 14:42:48.970000
+SCL000017,Robert W. Hayes Jr.,Robert,W.,Hayes,Jr.,,False,sc,,,,http://www.scstatehouse.gov/images/members/0804545358.jpg,2011-11-14 21:05:40.570000,2016-12-30 01:17:06.688000
+SCL000020,John M. Knotts Jr.,John,M.,Knotts,Jr.,Jake,False,sc,,,,http://www.scstatehouse.gov/images/members/1024999877.jpg,2011-11-14 21:05:40.601000,2012-12-07 20:19:12.549000
+SCL000021,John C. Land III,John,C.,Land,III,,False,sc,,,,http://www.scstatehouse.gov/images/members/1049999874.jpg,2011-11-14 21:05:40.611000,2012-12-07 20:19:12.550000
+SCL000023,Phil P. Leventis,Phil,P.,Leventis,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1081818052.jpg,2011-11-14 21:05:40.631000,2012-12-07 20:19:12.551000
+SCL000024,Joel Lourie,Joel,,Lourie,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1124999865.jpg,2011-11-14 21:05:40.641000,2016-12-30 01:17:06.680000
+SCL000026,Larry A. Martin,Larry,A.,Martin,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1172727132.jpg,2011-11-14 21:05:40.671000,2016-12-30 01:17:06.681000
+SCL000030,Glenn F. McConnell,Glenn,F.,McConnell,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1213636218.jpg,2011-11-14 21:05:40.760000,2012-06-05 21:26:45.693000
+SCL000031,J. Yancey McGill,J. Yancey,,McGill,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1249999850.jpg,2011-11-14 21:05:40.770000,2015-01-13 18:23:05.320000
+SCL000033,William H. O'Dell,William,H.,O'Dell,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1427272556.jpg,2011-11-14 21:05:40.798000,2016-07-27 21:11:28.519000
+SCL000035,Clementa C. Pinckney,Clementa,C.,Pinckney,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1479545277.jpg,2011-11-14 21:05:40.819000,2015-12-11 22:41:17.165000
+SCL000038,Michael T. Rose,Michael,T.,Rose,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1581817992.jpg,2011-11-14 21:05:40.851000,2012-12-07 20:19:12.552000
+SCL000039,W. Greg Ryberg,W. Greg,,Ryberg,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1615908897.jpg,2011-11-14 21:05:40.862000,2012-12-07 20:19:12.553000
+SCL000043,Phillip W. Shoopman,Phillip,W.,Shoopman,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1687499798.jpg,2011-11-14 21:05:40.911000,2012-12-07 20:19:12.554000
+SCL000044,David L. Thomas,David,L.,Thomas,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1818181600.jpg,2011-11-14 21:05:40.922000,2012-12-07 20:19:12.556000
+SCL000047,Paul L. Agnew,Paul,L.,Agnew,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0006818181.jpg,2011-11-14 21:05:40.953000,2012-12-07 20:19:12.522000
+SCL000057,Liston D. Barfield,Liston,D.,Barfield,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0109090896.jpg,2011-11-14 21:05:41.056000,2015-01-13 18:23:05.307000
+SCL000058,James A. Battle Jr.,James,A.,Battle,Jr.,Jimmy,False,sc,,,,http://www.scstatehouse.gov/images/members/0124999985.jpg,2011-11-14 21:05:41.066000,2012-12-07 20:19:12.526000
+SCL000060,Eric J. Bikas,Eric,J.,Bikas,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0142045438.jpg,2011-11-14 21:05:41.085000,2012-12-07 20:19:12.518000
+SCL000061,Kenneth A. Bingham,Kenneth,A.,Bingham,,Kenny,False,sc,,,,http://www.scstatehouse.gov/images/members/0143181801.jpg,2011-11-14 21:05:41.095000,2016-12-30 01:17:06.665000
+SCL000062,Don C. Bowen,Don,C.,Bowen,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0165909071.jpg,2011-11-14 21:05:41.108000,2015-01-13 18:23:05.313000
+SCL000064,Joan B. Brady,Joan,B.,Brady,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0179545433.jpg,2011-11-14 21:05:41.128000,2012-12-07 20:19:12.527000
+SCL000065,Lester P. Branham Jr.,Lester,P.,Branham,Jr.,,False,sc,,,,http://www.scstatehouse.gov/images/members/0184090887.jpg,2011-11-14 21:05:41.138000,2015-01-13 18:23:05.309000
+SCL000066,Norman D. Brannon,Norman,D.,Brannon,,Doug,False,sc,,,,http://www.scstatehouse.gov/images/members/0184659069.jpg,2011-11-14 21:05:41.148000,2016-12-30 01:17:06.670000
+SCL000067,Curtis Brantley,Curtis,,Brantley,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0185227251.jpg,2011-11-14 21:05:41.158000,2012-12-07 20:19:12.521000
+SCL000068,Grady A. Brown,Grady,A.,Brown,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0209090884.jpg,2011-11-14 21:05:41.167000,2016-12-30 01:17:06.660000
+SCL000069,H. Boyd Brown,H. Boyd,,Brown,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0211363611.jpg,2011-11-14 21:05:41.177000,2012-12-07 20:19:12.524000
+SCL000071,Mia Butler Garrick,Mia Butler,,Garrick,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0279545421.jpg,2011-11-14 21:05:41.197000,2012-12-07 20:19:12.520000
+SCL000078,Kristopher R. Crawford,Kristopher,R.,Crawford,,Kris,False,sc,,,,http://www.scstatehouse.gov/images/members/0429545403.jpg,2011-11-14 21:05:41.269000,2015-01-13 18:23:05.311000
+SCL000083,Tracy R. Edge,Tracy,R.,Edge,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0521590847.jpg,2011-11-14 21:05:41.324000,2015-01-13 18:23:05.286000
+SCL000086,Marion B. Frye,Marion,B.,Frye,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0624999925.jpg,2011-11-14 21:05:41.354000,2012-12-07 20:19:12.532000
+SCL000088,Michael W. Gambrell,Michael,W.,Gambrell,,Mike,False,sc,,,,http://www.scstatehouse.gov/images/members/0635227197.jpg,2011-11-14 21:05:41.374000,2016-12-30 01:17:06.669000
+SCL000092,Nelson L. Hardwick,Nelson,L.,Hardwick,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0744318093.jpg,2011-11-14 21:05:41.414000,2015-12-11 22:43:04.585000
+SCL000093,Robert W. Harrell Jr.,Robert,W.,Harrell,Jr.,,False,sc,,,,http://www.scstatehouse.gov/images/members/0747727183.jpg,2011-11-14 21:05:41.424000,2015-01-13 18:23:05.289000
+SCL000094,James H. Harrison,James,H.,Harrison,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0768181726.jpg,2011-11-14 21:05:41.435000,2012-12-07 20:19:12.534000
+SCL000097,George M. Hearn,George,M.,Hearn,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0806818085.jpg,2011-11-14 21:05:41.466000,2012-12-07 20:19:12.535000
+SCL000102,Kenneth F. Hodges,Kenneth,F.,Hodges,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0856818079.jpg,2011-11-14 21:05:41.517000,2016-12-30 01:17:06.666000
+SCL000103,Jenny Anderson Horne,Jenny Anderson,,Horne,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0871590805.jpg,2011-11-14 21:05:41.527000,2016-12-30 01:17:06.663000
+SCL000111,Harry B. Limehouse III,Harry,B.,Limehouse,III,Chip,False,sc,,,,http://www.scstatehouse.gov/images/members/1089772596.jpg,2011-11-14 21:05:41.668000,2016-12-30 01:17:06.661000
+SCL000113,Deborah A. Long,Deborah,A.,Long,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1112499867.jpg,2011-11-14 21:05:41.688000,2016-12-30 01:17:06.656000
+SCL000119,Walton J. McLeod,Walton,J.,McLeod,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1296590754.jpg,2011-11-14 21:05:41.748000,2016-12-30 01:17:06.676000
+SCL000124,Elizabeth R. Munnerlyn,Elizabeth,R.,Munnerlyn,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1393749833.jpg,2011-11-14 21:05:41.802000,2015-01-13 18:23:05.304000
+SCL000126,Wendy K. Nanney,Wendy,K.,Nanney,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1401704378.jpg,2011-11-14 21:05:41.822000,2016-12-30 01:17:06.677000
+SCL000127,James M. Neal,James,M.,Neal,,Jimmy,False,sc,,,,http://www.scstatehouse.gov/images/members/1403408923.jpg,2011-11-14 21:05:41.832000,2012-12-07 20:19:12.537000
+SCL000128,Joseph H. Neal,Joseph,H.,Neal,,Joe,False,sc,,,,http://www.scstatehouse.gov/images/members/1402272559.jpg,2011-11-14 21:05:41.842000,2017-04-10 02:46:44.668000
+SCL000129,Denny Woodall Neilson,Denny Woodall,,Neilson,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1404545286.jpg,2011-11-14 21:05:41.852000,2012-12-07 20:19:12.538000
+SCL000130,Ralph W. Norman,Ralph,W.,Norman,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1421590739.jpg,2011-11-14 21:05:41.873000,2017-04-10 02:46:47.582000
+SCL000131,Harry L. Ott Jr.,Harry,L.,Ott,Jr.,,False,sc,,,,http://www.scstatehouse.gov/images/members/1432954374.jpg,2011-11-14 21:05:41.883000,2013-11-07 14:56:07.292000
+SCL000132,Phillip D. Owens,Phillip,D.,Owens,,Phil,False,sc,,,,http://www.scstatehouse.gov/images/members/1433948692.jpg,2011-11-14 21:05:41.893000,2015-01-13 18:23:05.300000
+SCL000133,Steve A. Parker,Steve,A.,Parker,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1434019715.jpg,2011-11-14 21:05:41.903000,2012-12-07 20:19:12.539000
+SCL000135,Andrew S. Patrick,Andrew,S.,Patrick,,Andy,False,sc,,,,http://www.scstatehouse.gov/images/members/1438636191.jpg,2011-11-14 21:05:41.923000,2015-01-13 18:23:05.292000
+SCL000136,Lewis E. Pinson,Lewis,E.,Pinson,,Gene,False,sc,,,,http://www.scstatehouse.gov/images/members/1480681641.jpg,2011-11-14 21:05:41.933000,2012-12-07 20:19:12.540000
+SCL000142,Kevin R. Ryan,Kevin,R.,Ryan,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1615340716.jpg,2011-11-14 21:05:41.995000,2012-12-07 20:19:12.541000
+SCL000145,Bakari T. Sellers,Bakari,T.,Sellers,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1648863439.jpg,2011-11-14 21:05:42.024000,2015-01-13 18:23:05.318000
+SCL000147,B. R. Skelton,B. R.,,Skelton,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1698579342.jpg,2011-11-14 21:05:42.044000,2015-01-13 18:23:05.294000
+SCL000150,J. Roland Smith,J.,Roland,Smith,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1718181612.jpg,2011-11-14 21:05:42.074000,2015-01-13 18:23:05.315000
+SCL000153,Edward L. Southard,Edward,L.,Southard,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1742613428.jpg,2011-11-14 21:05:42.103000,2016-07-27 22:33:58.588000
+SCL000161,David Tribble Jr.,David,,Tribble,Jr.,,False,sc,,,,http://www.scstatehouse.gov/images/members/1842045234.jpg,2011-11-14 21:05:42.182000,2012-12-07 20:19:12.542000
+SCL000162,Ted M. Vick,Ted,M.,Vick,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1875567957.jpg,2011-11-14 21:05:42.191000,2015-01-13 18:23:05.302000
+SCL000163,Thad T. Viers,Thad,T.,Viers,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1876136139.jpg,2011-11-14 21:05:42.207000,2012-06-06 14:16:15.543000
+SCL000173,Walter Hundley,Walter,,Hundley,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0906818073.jpg,2012-10-11 05:29:02.468000,2012-12-07 20:19:12.557000
+SCL000181,Paul Thurmond,Paul,,Thurmond,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1824431600.jpg,2012-12-07 20:19:11.180000,2016-12-30 01:17:06.686000
+SCL000190,J. Wayne George,J. Wayne,,George,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0665909011.jpg,2012-12-07 20:19:11.461000,2016-12-30 01:17:06.662000
+SCL000191,"Stephen L. Goldfinch, Jr.",Stephen L.,,Goldfinch,Jr.,,False,sc,,,,http://www.scstatehouse.gov/images/members/0682386282.jpg,2012-12-07 20:19:11.474000,2016-12-30 01:17:06.674000
+SCL000193,"Ralph Shealy Kennedy, Jr.",Ralph Shealy,,Kennedy,Jr.,,False,sc,,,,http://www.scstatehouse.gov/images/members/0987499882.jpg,2012-12-07 20:19:11.590000,2016-12-30 01:17:06.673000
+SCL000194,Mia S. McLeod,Mia S.,,McLeod,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0279545421.jpg,2012-12-07 20:19:11.664000,2016-12-30 01:17:06.668000
+SCL000198,R. Shannon Riley,R. Shannon,,Riley,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1556817995.jpg,2012-12-07 20:19:12.073000,2016-12-30 01:17:06.672000
+SCL000202,Don L. Wells,Don L.,,Wells,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1902272499.jpg,2012-12-07 20:19:12.243000,2016-12-30 01:17:06.658000
+SCL000203,Donna Hicks Wood,Donna Hicks,,Wood,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1976136127.jpg,2012-12-07 20:19:12.290000,2015-01-13 18:23:05.297000
+SCL000220,Mary E. Tinkler,Mary E.,,Tinkler,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1828408872.jpg,2015-01-13 18:23:03.185000,2016-12-30 01:17:06.667000
+SCL000223,Christopher A. Corley,Christopher A.,,Corley,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0412499951.jpg,2015-01-13 18:23:03.820000,2017-04-10 02:46:50.760000
+SCL000224,Donna C. Hicks,Donna C.,,Hicks,,,False,sc,,,,http://www.scstatehouse.gov/images/members/1976136127.jpg,2015-01-13 18:23:03.947000,2016-12-30 01:17:06.659000
+SCL000241,"Michael W. ""Mike"" Gambrell","Michael W. ""Mike""",,Gambrell,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0635227197.jpg,2016-05-25 07:21:02.889000,2016-12-30 01:17:06.685000
+SCL000244,"Sylleste H. Davis, Mrs. Michael",Michael,,Sylleste H. Davis,,,False,sc,,,,http://www.scstatehouse.gov/images/members/0456249946.jpg,2016-09-01 07:32:40.450000,2016-12-30 01:17:06.675000
+SCL000048,Terry Alexander,Terry,,Alexander,,,True,sc,lower,59,Democratic,http://www.scstatehouse.gov/images/members/0011363635.jpg,2011-11-14 21:05:40.964000,2017-06-01 06:50:34.993000
+SCL000050,Merita A. Allison,Merita,A.,Allison,,Rita,True,sc,lower,36,Republican,http://www.scstatehouse.gov/images/members/0015909089.jpg,2011-11-14 21:05:40.983000,2017-06-01 06:50:34.949000
+SCL000051,Carl L. Anderson,Carl,L.,Anderson,,,True,sc,lower,103,Democratic,http://www.scstatehouse.gov/images/members/0021590907.jpg,2011-11-14 21:05:40.993000,2017-06-01 06:50:34.874000
+SCL000052,Michael A. Anthony,Michael,A.,Anthony,,Mike,True,sc,lower,42,Democratic,http://www.scstatehouse.gov/images/members/0038636359.jpg,2011-11-14 21:05:41.006000,2017-06-01 06:50:34.951000
+SCL000053,Todd K. Atwater,Todd,K.,Atwater,,,True,sc,lower,87,Republican,http://www.scstatehouse.gov/images/members/0067045447.jpg,2011-11-14 21:05:41.016000,2017-06-01 06:50:34.996000
+SCL000054,Jimmy C. Bales,Jimmy,C.,Bales,Ed.D.,,True,sc,lower,80,Democratic,http://www.scstatehouse.gov/images/members/0097727261.jpg,2011-11-14 21:05:41.026000,2017-06-01 06:50:34.918000
+SCL000055,Nathan Ballentine,Nathan,,Ballentine,,,True,sc,lower,71,Republican,http://www.scstatehouse.gov/images/members/0102272715.jpg,2011-11-14 21:05:41.036000,2017-06-01 06:50:34.955000
+SCL000056,Bruce W. Bannister,Bruce,W.,Bannister,,,True,sc,lower,24,Republican,http://www.scstatehouse.gov/images/members/0103409079.jpg,2011-11-14 21:05:41.046000,2017-06-01 06:50:34.872000
+SCL000059,Eric M. Bedingfield,Eric,M.,Bedingfield,,,True,sc,lower,28,Republican,http://www.scstatehouse.gov/images/members/0140340893.jpg,2011-11-14 21:05:41.076000,2017-06-01 06:50:34.889000
+SCL000063,William K. Bowers,William,K.,Bowers,,Bill,True,sc,lower,122,Democratic,http://www.scstatehouse.gov/images/members/0170454525.jpg,2011-11-14 21:05:41.118000,2017-06-01 06:50:35.007000
+SCL000070,Robert L. Brown,Robert,L.,Brown,,,True,sc,lower,116,Democratic,http://www.scstatehouse.gov/images/members/0220454519.jpg,2011-11-14 21:05:41.187000,2017-06-01 06:50:34.970000
+SCL000072,William M. Chumley,William,M.,Chumley,,Bill,True,sc,lower,35,Republican,http://www.scstatehouse.gov/images/members/0351704504.jpg,2011-11-14 21:05:41.207000,2017-06-01 06:50:35.008000
+SCL000073,Alan D. Clemmons,Alan,D.,Clemmons,,,True,sc,lower,107,Republican,http://www.scstatehouse.gov/images/members/0353977231.jpg,2011-11-14 21:05:41.219000,2017-06-01 06:50:34.865000
+SCL000074,William Clyburn,William,,Clyburn,,Bill,True,sc,lower,82,Democratic,http://www.scstatehouse.gov/images/members/0363636320.jpg,2011-11-14 21:05:41.228000,2017-06-01 06:50:35.002000
+SCL000075,Gilda Cobb-Hunter,Gilda,,Cobb-Hunter,,,True,sc,lower,66,Democratic,http://www.scstatehouse.gov/images/members/0372727228.jpg,2011-11-14 21:05:41.239000,2017-06-01 06:50:34.895000
+SCL000076,J. Derham J. Cole Jr.,J. Derham,J.,Cole,Jr.,,True,sc,lower,32,Republican,http://www.scstatehouse.gov/images/members/0377840864.jpg,2011-11-14 21:05:41.249000,2017-06-01 06:50:34.903000
+SCL000079,William E. Crosby,William,E.,Crosby,,Bill,True,sc,lower,117,Republican,http://www.scstatehouse.gov/images/members/0439772675.jpg,2011-11-14 21:05:41.279000,2017-06-01 06:50:35.003000
+SCL000080,Joseph S. Daning,Joseph,S.,Daning,,,True,sc,lower,92,Republican,http://www.scstatehouse.gov/images/members/0451136310.jpg,2011-11-14 21:05:41.289000,2017-06-01 06:50:34.926000
+SCL000081,F. Gregory Delleney Jr.,F. Gregory,,Delleney,Jr.,Greg,True,sc,lower,43,Republican,http://www.scstatehouse.gov/images/members/0463636308.jpg,2011-11-14 21:05:41.299000,2017-06-01 06:50:34.890000
+SCL000082,Chandra E. Dillard,Chandra,E.,Dillard,,,True,sc,lower,23,Democratic,http://www.scstatehouse.gov/images/members/0479545397.jpg,2011-11-14 21:05:41.309000,2017-06-01 06:50:34.876000
+SCL000084,Shannon S. Erickson,Shannon,S.,Erickson,,,True,sc,lower,124,Republican,http://www.scstatehouse.gov/images/members/0539772663.jpg,2011-11-14 21:05:41.334000,2017-06-01 06:50:34.977000
+SCL000085,P. Michael Forrester,P. Michael,,Forrester,,Mike,True,sc,lower,34,Republican,http://www.scstatehouse.gov/images/members/0608522655.jpg,2011-11-14 21:05:41.344000,2017-06-01 06:50:34.958000
+SCL000087,Laurie Slade Funderburk,Laurie Slade,,Funderburk,,,True,sc,lower,52,Democratic,http://www.scstatehouse.gov/images/members/0629545379.jpg,2011-11-14 21:05:41.364000,2017-06-01 06:50:34.935000
+SCL000089,Wendell G. Gilliard,Wendell,G.,Gilliard,,,True,sc,lower,111,Democratic,http://www.scstatehouse.gov/images/members/0675568101.jpg,2011-11-14 21:05:41.384000,2017-06-01 06:50:35.001000
+SCL000090,Jerry N. Govan Jr.,Jerry,N.,Govan,Jr.,,True,sc,lower,95,Democratic,http://www.scstatehouse.gov/images/members/0702272643.jpg,2011-11-14 21:05:41.394000,2017-06-01 06:50:34.917000
+SCL000091,Daniel P. Hamilton,Daniel,P.,Hamilton,,Dan,True,sc,lower,20,Republican,http://www.scstatehouse.gov/images/members/0742045366.jpg,2011-11-14 21:05:41.404000,2017-06-01 06:50:34.882000
+SCL000095,Christopher R. Hart,Christopher,R.,Hart,,Chris,True,sc,lower,73,Democratic,http://www.scstatehouse.gov/images/members/0770454453.jpg,2011-11-14 21:05:41.445000,2017-06-01 06:50:34.880000
+SCL000096,Jackie E. Hayes,Jackie,E.,Hayes,,Coach,True,sc,lower,55,Democratic,http://www.scstatehouse.gov/images/members/0802272631.jpg,2011-11-14 21:05:41.456000,2017-06-01 06:50:34.907000
+SCL000098,Phyllis Henderson,Phyllis J.,,Henderson,,,True,sc,lower,21,Republican,http://www.scstatehouse.gov/images/members/0820454447.jpg,2011-11-14 21:05:41.476000,2017-06-01 06:50:34.964000
+SCL000099,William G. Herbkersman,William,G.,Herbkersman,,Bill,True,sc,lower,118,Republican,http://www.scstatehouse.gov/images/members/0832954446.jpg,2011-11-14 21:05:41.487000,2017-06-01 06:50:35.006000
+SCL000100,David R. Hiott,David,R.,Hiott,,,True,sc,lower,4,Republican,http://www.scstatehouse.gov/images/members/0848863535.jpg,2011-11-14 21:05:41.497000,2017-06-01 06:50:34.884000
+SCL000101,William M. Hixon,William,M.,Hixon,,Bill,True,sc,lower,83,Republican,http://www.scstatehouse.gov/images/members/0849715808.jpg,2011-11-14 21:05:41.507000,2017-06-01 06:50:35.009000
+SCL000104,Lonnie Hosey,Lonnie,,Hosey,,,True,sc,lower,91,Democratic,http://www.scstatehouse.gov/images/members/0874999895.jpg,2011-11-14 21:05:41.538000,2017-06-01 06:50:34.941000
+SCL000105,Leon Howard,Leon,,Howard,,,True,sc,lower,76,Democratic,http://www.scstatehouse.gov/images/members/0879545349.jpg,2011-11-14 21:05:41.548000,2017-06-01 06:50:34.938000
+SCL000106,Chip Huggins,Chip,,Huggins,,,True,sc,lower,85,Republican,http://www.scstatehouse.gov/images/members/0897727165.jpg,2011-11-14 21:05:41.618000,2017-06-01 06:50:34.877000
+SCL000107,Joseph H. Jefferson,Joseph,H.,Jefferson,Jr.,,True,sc,lower,102,Democratic,http://www.scstatehouse.gov/images/members/0924999889.jpg,2011-11-14 21:05:41.628000,2017-06-01 06:50:34.925000
+SCL000109,John Richard C. King,John,Richard C.,King,,,True,sc,lower,49,Democratic,http://www.scstatehouse.gov/images/members/1002272607.jpg,2011-11-14 21:05:41.648000,2017-06-01 06:50:34.920000
+SCL000110,Patsy G. Knight,Patsy,G.,Knight,,,True,sc,lower,97,Democratic,http://www.scstatehouse.gov/images/members/1023863514.jpg,2011-11-14 21:05:41.658000,2017-06-01 06:50:34.960000
+SCL000112,Dwight A. Loftis,Dwight,A.,Loftis,,,True,sc,lower,19,Republican,http://www.scstatehouse.gov/images/members/1111363503.jpg,2011-11-14 21:05:41.678000,2017-06-01 06:50:34.887000
+SCL000114,Phillip D. Lowe,Phillip,D.,Lowe,,,True,sc,lower,60,Republican,http://www.scstatehouse.gov/images/members/1125568047.jpg,2011-11-14 21:05:41.698000,2017-06-01 06:50:34.963000
+SCL000115,James H. Lucas,James,H.,Lucas,,Jay,True,sc,lower,65,Republican,http://www.scstatehouse.gov/images/members/1126136229.jpg,2011-11-14 21:05:41.708000,2017-06-01 06:50:34.910000
+SCL000116,David J. Mack III,David,J.,Mack,III,,True,sc,lower,109,Democratic,http://www.scstatehouse.gov/images/members/1129545319.jpg,2011-11-14 21:05:41.718000,2017-06-01 06:50:34.883000
+SCL000117,Peter M. McCoy Jr.,Peter,M.,McCoy,Jr.,,True,sc,lower,115,Republican,http://www.scstatehouse.gov/images/members/1215908945.jpg,2011-11-14 21:05:41.728000,2017-06-01 06:50:34.962000
+SCL000118,Joseph A. McEachern,Joseph,A.,McEachern,,Joe,True,sc,lower,77,Democratic,http://www.scstatehouse.gov/images/members/1229545307.jpg,2011-11-14 21:05:41.738000,2017-06-01 06:50:34.924000
+SCL000120,James H. Merrill,James,H.,Merrill,,,True,sc,lower,99,Republican,http://www.scstatehouse.gov/images/members/1323863478.jpg,2011-11-14 21:05:41.757000,2017-06-01 06:50:34.911000
+SCL000121,Harold Mitchell Jr.,Harold,,Mitchell,Jr.,,True,sc,lower,31,Democratic,http://www.scstatehouse.gov/images/members/1344318021.jpg,2011-11-14 21:05:41.767000,2017-06-01 06:50:34.898000
+SCL000122,Dennis C. Moss,Dennis,C.,Moss,,,True,sc,lower,29,Republican,http://www.scstatehouse.gov/images/members/1379545289.jpg,2011-11-14 21:05:41.782000,2017-06-01 06:50:34.886000
+SCL000123,V. Stephen Moss,V. Stephen,,Moss,,Steve,True,sc,lower,30,Republican,http://www.scstatehouse.gov/images/members/1386931652.jpg,2011-11-14 21:05:41.792000,2017-06-01 06:50:34.998000
+SCL000125,Christopher J. Murphy,Christopher,J.,Murphy,,Chris,True,sc,lower,98,Republican,http://www.scstatehouse.gov/images/members/1394318015.jpg,2011-11-14 21:05:41.812000,2017-06-01 06:50:34.879000
+SCL000134,J. Anne Parks,J. Anne,,Parks,,,True,sc,lower,12,Democratic,http://www.scstatehouse.gov/images/members/1434090737.jpg,2011-11-14 21:05:41.913000,2017-06-01 06:50:34.901000
+SCL000137,Michael A. Pitts,Michael,A.,Pitts,,,True,sc,lower,14,Republican,http://www.scstatehouse.gov/images/members/1481533914.jpg,2011-11-14 21:05:41.943000,2017-06-01 06:50:34.952000
+SCL000138,Thomas E. Pope,Thomas,E.,Pope,,Tommy,True,sc,lower,47,Republican,http://www.scstatehouse.gov/images/members/1484090731.jpg,2011-11-14 21:05:41.953000,2017-06-01 06:50:34.995000
+SCL000139,Joshua A. Putnam,Joshua,A.,Putnam,,,True,sc,lower,10,Republican,http://www.scstatehouse.gov/images/members/1497727093.jpg,2011-11-14 21:05:41.963000,2017-06-01 06:50:34.927000
+SCL000140,Rick Quinn,Rick,,Quinn,,,True,sc,lower,69,Republican,http://www.scstatehouse.gov/images/members/1499999820.jpg,2011-11-14 21:05:41.973000,2017-06-01 06:50:34.968000
+SCL000141,J. Todd Rutherford,J. Todd,,Rutherford,,,True,sc,lower,74,Democratic,http://www.scstatehouse.gov/images/members/1614772534.jpg,2011-11-14 21:05:41.983000,2017-06-01 06:50:34.906000
+SCL000144,William E. Sandifer III,William,E.,Sandifer,III,Bill,True,sc,lower,2,Republican,http://www.scstatehouse.gov/images/members/1629545259.jpg,2011-11-14 21:05:42.015000,2017-06-01 06:50:35.004000
+SCL000146,J. Gary Simrill,J.,Gary,Simrill,,,True,sc,lower,46,Republican,http://www.scstatehouse.gov/images/members/1697727069.jpg,2011-11-14 21:05:42.034000,2017-06-01 06:50:34.904000
+SCL000148,G. Murrell Smith Jr.,G. Murrell,,Smith,Jr.,,True,sc,lower,67,Republican,http://www.scstatehouse.gov/images/members/1703408887.jpg,2011-11-14 21:05:42.054000,2017-06-01 06:50:34.892000
+SCL000149,Garry R. Smith,Garry,R.,Smith,,,True,sc,lower,27,Republican,http://www.scstatehouse.gov/images/members/1703977069.jpg,2011-11-14 21:05:42.064000,2017-06-01 06:50:34.893000
+SCL000151,James E. Smith Jr.,James,E.,Smith,Jr.,,True,sc,lower,72,Democratic,http://www.scstatehouse.gov/images/members/1711363431.jpg,2011-11-14 21:05:42.083000,2017-06-01 06:50:34.909000
+SCL000152,F. Michael Sottile,F. Michael,,Sottile,,Mike,True,sc,lower,112,Republican,http://www.scstatehouse.gov/images/members/1742045246.jpg,2011-11-14 21:05:42.093000,2017-06-01 06:50:34.891000
+SCL000154,L. Kit Spires,L. Kit,,Spires,,,True,sc,lower,96,Republican,http://www.scstatehouse.gov/images/members/1743749791.jpg,2011-11-14 21:05:42.113000,2017-06-01 06:50:34.933000
+SCL000155,Leonidas E. Stavrinakis,Leonidas,E.,Stavrinakis,,Leon,True,sc,lower,119,Democratic,http://www.scstatehouse.gov/images/members/1747727063.jpg,2011-11-14 21:05:42.123000,2017-06-01 06:50:34.939000
+SCL000156,Tommy M. Stringer,Tommy,M.,Stringer,,,True,sc,lower,18,Republican,http://www.scstatehouse.gov/images/members/1774999787.jpg,2011-11-14 21:05:42.132000,2017-06-01 06:50:34.997000
+SCL000157,Edward R. Tallon Sr.,Edward,R.,Tallon,Sr.,Eddie,True,sc,lower,33,Republican,http://www.scstatehouse.gov/images/members/1785227059.jpg,2011-11-14 21:05:42.142000,2017-06-01 06:50:34.888000
+SCL000158,Bill Taylor,Bill,,Taylor,,,True,sc,lower,86,Republican,http://www.scstatehouse.gov/images/members/1811363419.jpg,2011-11-14 21:05:42.152000,2017-06-01 06:50:34.870000
+SCL000159,Anne J. Thayer,Anne,J.,Thayer,,,True,sc,lower,9,Republican,http://www.scstatehouse.gov/images/members/1812499783.jpg,2011-11-14 21:05:42.162000,2017-06-01 06:50:34.867000
+SCL000160,McLain R. Toole,McLain,R.,Toole,,Mac,True,sc,lower,88,Republican,http://www.scstatehouse.gov/images/members/1838636143.jpg,2011-11-14 21:05:42.172000,2017-06-01 06:50:34.947000
+SCL000164,J. David Weeks,J. David,,Weeks,,,True,sc,lower,51,Democratic,http://www.scstatehouse.gov/images/members/1898863409.jpg,2011-11-14 21:05:42.216000,2017-06-01 06:50:34.902000
+SCL000165,J. Seth Whipper,J.,Seth,Whipper,,,True,sc,lower,113,Democratic,http://www.scstatehouse.gov/images/members/1907954316.jpg,2011-11-14 21:05:42.226000,2017-06-01 06:50:34.905000
+SCL000166,W. Brian White,W. Brian,,White,,,True,sc,lower,6,Republican,http://www.scstatehouse.gov/images/members/1911363407.jpg,2011-11-14 21:05:42.236000,2017-06-01 06:50:34.999000
+SCL000167,William R. Whitmire,William,R.,Whitmire,,Bill,True,sc,lower,1,Republican,http://www.scstatehouse.gov/images/members/1914204316.jpg,2011-11-14 21:05:42.246000,2017-06-01 06:50:35.010000
+SCL000168,Robert Q. Williams,Robert,Q.,Williams,,,True,sc,lower,62,Democratic,http://www.scstatehouse.gov/images/members/1942045222.jpg,2011-11-14 21:05:42.256000,2017-06-01 06:50:34.972000
+SCL000169,Mark N. Willis,Mark,N.,Willis,,,True,sc,lower,16,Republican,http://www.scstatehouse.gov/images/members/1942613404.jpg,2011-11-14 21:05:42.266000,2017-06-01 06:50:34.945000
+SCL000172,Heather Ammons Crawford,Heather Ammons,,Crawford,,,True,sc,lower,68,Republican,http://www.scstatehouse.gov/images/members/0428977222.jpg,2012-08-08 05:52:47.378000,2017-06-01 06:50:34.899000
+SCL000184,Beth E. Bernstein,Beth E.,,Bernstein,,,True,sc,lower,78,Democratic,http://www.scstatehouse.gov/images/members/0141477256.jpg,2012-12-07 20:19:11.277000,2017-06-01 06:50:34.869000
+SCL000186,MaryGail K. Douglas,MaryGail K.,,Douglas,,,True,sc,lower,41,Democratic,http://www.scstatehouse.gov/images/members/0489772669.jpg,2012-12-07 20:19:11.403000,2017-06-01 06:50:34.946000
+SCL000187,Raye Felder,Raye,,Felder,,,True,sc,lower,26,Republican,http://www.scstatehouse.gov/images/members/0570454477.jpg,2012-12-07 20:19:11.422000,2017-06-01 06:50:34.965000
+SCL000188,"Kirkman Finlay, III",Kirkman,,Finlay,III,,True,sc,lower,75,Republican,http://www.scstatehouse.gov/images/members/0585795385.jpg,2012-12-07 20:19:11.429000,2017-06-01 06:50:34.932000
+SCL000189,Craig A. Gagnon,Craig A.,,Gagnon,,,True,sc,lower,11,Republican,http://www.scstatehouse.gov/images/members/0632954470.jpg,2012-12-07 20:19:11.448000,2017-06-01 06:50:34.881000
+SCL000192,Kevin Hardee,Kevin,,Hardee,,,True,sc,lower,105,Republican,http://www.scstatehouse.gov/images/members/0743749911.jpg,2012-12-07 20:19:11.493000,2017-06-01 06:50:34.931000
+SCL000195,Wm. Weston J. Newton,Wm. Weston J.,,Newton,,,True,sc,lower,120,Republican,http://www.scstatehouse.gov/images/members/1418749830.jpg,2012-12-07 20:19:11.728000,2017-06-01 06:50:35.013000
+SCL000196,Mandy Powers Norrell,Mandy Powers,,Norrell,,,True,sc,lower,44,Democratic,http://www.scstatehouse.gov/images/members/1493181639.jpg,2012-12-07 20:19:12.046000,2017-06-01 06:50:34.944000
+SCL000197,"Robert L. Ridgeway, III",Robert L.,,Ridgeway,III,,True,sc,lower,64,Democratic,http://www.scstatehouse.gov/images/members/1553408905.jpg,2012-12-07 20:19:12.066000,2017-06-01 06:50:34.971000
+SCL000199,"Samuel Rivers, Jr.",Samuel,,Rivers,Jr.,,True,sc,lower,15,Republican,http://www.scstatehouse.gov/images/members/1564488449.jpg,2012-12-07 20:19:12.079000,2017-06-01 06:50:34.976000
+SCL000200,Leola C. Robinson-Simpson,Leola C.,,Robinson-Simpson,,,True,sc,lower,25,Democratic,http://www.scstatehouse.gov/images/members/1567045267.jpg,2012-12-07 20:19:12.086000,2017-06-01 06:50:34.937000
+SCL000201,Mike Ryhal,Mike,,Ryhal,,,True,sc,lower,56,Republican,http://www.scstatehouse.gov/images/members/1616477079.jpg,2012-12-07 20:19:12.100000,2017-06-01 06:50:34.954000
+SCL000208,"James Mikell ""Mike"" Burns","James Mikell ""Mike""",,Burns,,,True,sc,lower,17,Republican,http://www.scstatehouse.gov/images/members/0257954515.jpg,2013-03-20 03:03:34.247000,2017-06-01 06:50:34.912000
+SCL000212,Russell L. Ott,Russell L.,,Ott,,,True,sc,lower,93,Democratic,http://www.scstatehouse.gov/images/members/1433096420.jpg,2013-11-07 06:27:09.556000,2017-06-01 06:50:34.974000
+SCL000216,"Patricia Moore ""Pat"" Henegan","Patricia Moore ""Pat""",,Henegan,,,True,sc,lower,54,Democratic,http://www.scstatehouse.gov/images/members/0829545355.jpg,2015-01-13 18:23:02.669000,2017-06-01 06:50:34.959000
+SCL000217,Gary E. Clary,Gary E.,,Clary,,,True,sc,lower,3,Republican,http://www.scstatehouse.gov/images/members/0353551095.jpg,2015-01-13 18:23:02.949000,2017-06-01 06:50:34.894000
+SCL000218,"Richard L. ""Richie"" Yow","Richard L. ""Richie""",,Yow,,,True,sc,lower,53,Republican,http://www.scstatehouse.gov/images/members/1998863577.jpg,2015-01-13 18:23:02.994000,2017-06-01 06:50:34.967000
+SCL000219,"Jeffrey E. ""Jeff"" Johnson","Jeffrey E. ""Jeff""",,Johnson,,,True,sc,lower,58,Republican,http://www.scstatehouse.gov/images/members/0938636251.jpg,2015-01-13 18:23:03.146000,2017-06-01 06:50:34.915000
+SCL000221,Roger K. Kirby,Roger K.,,Kirby,,,True,sc,lower,61,Democratic,http://www.scstatehouse.gov/images/members/1006818061.jpg,2015-01-13 18:23:03.560000,2017-06-01 06:50:34.973000
+SCL000222,"Jeffrey A. ""Jeff"" Bradley","Jeffrey A. ""Jeff""",,Bradley,,,True,sc,lower,123,Republican,http://www.scstatehouse.gov/images/members/0171590889.jpg,2015-01-13 18:23:03.729000,2017-06-01 06:50:34.914000
+SCL000225,Justin T. Bamberg,Justin T.,,Bamberg,,,True,sc,lower,90,Democratic,http://www.scstatehouse.gov/images/members/0102840897.jpg,2015-01-13 18:23:04.050000,2017-06-01 06:50:34.929000
+SCL000226,"Gregory D. ""Greg"" Duckworth","Gregory D. ""Greg""",,Duckworth,,,True,sc,lower,104,Republican,http://www.scstatehouse.gov/images/members/0497727213.jpg,2015-01-13 18:23:04.097000,2017-06-01 06:50:34.897000
+SCL000227,Neal A. Collins,Neal A.,,Collins,,,True,sc,lower,5,Republican,http://www.scstatehouse.gov/images/members/0388636317.jpg,2015-01-13 18:23:04.153000,2017-06-01 06:50:34.957000
+SCL000229,Cezar E. McKnight,Cezar E.,,McKnight,,,True,sc,lower,101,Democratic,http://www.scstatehouse.gov/images/members/1276136211.jpg,2015-01-13 18:23:04.482000,2017-06-01 06:50:34.875000
+SCL000230,Jonathon D. Hill,Jonathon D.,,Hill,,,True,sc,lower,8,Republican,http://www.scstatehouse.gov/images/members/0835227173.jpg,2015-01-13 18:23:04.546000,2017-06-01 06:50:34.922000
+SCL000234,"Wallace H. ""Jay"" Jordan, Jr.","Wallace H. ""Jay""",,Jordan,Jr.,,True,sc,lower,63,Republican,http://www.scstatehouse.gov/images/members/0957954431.jpg,2015-04-21 01:25:35.013000,2017-06-01 06:50:35
+SCL000235,Russell W. Fry,Russell W.,,Fry,,,True,sc,lower,106,Republican,http://www.scstatehouse.gov/images/members/0623863562.jpg,2015-09-25 06:05:09.788000,2017-06-01 06:50:34.975000
+SCL000242,Sylleste H. Davis,Sylleste H.,,Davis,,,True,sc,lower,100,Republican,http://www.scstatehouse.gov/images/members/0456249946.jpg,2016-06-10 07:26:33.156000,2017-06-01 06:50:34.987000
+SCL000245,Lucas Atkinson,Lucas,,Atkinson,,,True,sc,lower,57,Democratic,http://www.scstatehouse.gov/images/members/0066477265.jpg,2016-12-30 01:17:05.448000,2017-06-01 06:50:34.943000
+SCL000247,Josiah Magnuson,Josiah,,Magnuson,,,True,sc,lower,38,Republican,http://www.scstatehouse.gov/images/members/1130965774.jpg,2016-12-30 01:17:05.551000,2017-06-01 06:50:34.928000
+SCL000248,"John Taliaferro ""Jay"" West, IV","John Taliaferro ""Jay""",,West,IV,,True,sc,lower,7,Republican,http://www.scstatehouse.gov/images/members/1903408863.jpg,2016-12-30 01:17:05.569000,2017-06-01 06:50:34.921000
+SCL000249,"Katherine E. ""Katie"" Arrington","Katherine E. ""Katie""",,Arrington,,,True,sc,lower,94,Republican,http://www.scstatehouse.gov/images/members/0052272721.jpg,2016-12-30 01:17:05.574000,2017-06-01 06:50:34.930000
+SCL000251,Jason Elliott,Jason,,Elliott,,,True,sc,lower,22,Republican,http://www.scstatehouse.gov/images/members/0529545391.jpg,2016-12-30 01:17:05.636000,2017-06-01 06:50:34.913000
+SCL000252,"Micajah P. ""Micah"" Caskey, IV","Micajah P. ""Micah""",,Caskey,IV,,True,sc,lower,89,Republican,http://www.scstatehouse.gov/images/members/0329545415.jpg,2016-12-30 01:17:05.653000,2017-06-01 06:50:34.950000
+SCL000253,Bart T. Blackwell,Bart T.,,Blackwell,,,True,sc,lower,81,Republican,http://www.scstatehouse.gov/images/members/0144318165.jpg,2016-12-30 01:17:05.664000,2017-06-01 06:50:34.868000
+SCL000254,Lee Hewitt,Lee,,Hewitt,,,True,sc,lower,108,Republican,http://www.scstatehouse.gov/images/members/0834658991.jpg,2016-12-30 01:17:05.720000,2017-06-01 06:50:34.936000
+SCL000256,"Richard ""Rick"" Martin","Richard ""Rick""",,Martin,,,True,sc,lower,40,Republican,http://www.scstatehouse.gov/images/members/1178408950.jpg,2016-12-30 01:17:05.822000,2017-06-01 06:50:34.966000
+SCL000257,"Cally R. ""Cal"" Forrest","Cally R. ""Cal""",,Forrest,,,True,sc,lower,39,Republican,http://www.scstatehouse.gov/images/members/0608238564.jpg,2016-12-30 01:17:05.845000,2017-06-01 06:50:34.873000
+SCL000260,"Linda ""Lin"" Bennett","Linda ""Lin""",,Bennett,,,True,sc,lower,114,Republican,http://www.scstatehouse.gov/images/members/0140624984.jpg,2016-12-30 01:17:05.868000,2017-06-01 06:50:34.940000
+SCL000263,"William W. ""Will"" Wheeler, III","William W. ""Will""",,Wheeler,III,,True,sc,lower,50,Democratic,http://www.scstatehouse.gov/images/members/1907386135.jpg,2016-12-30 01:17:06.005000,2017-06-01 06:50:35.012000
+SCL000264,"Michael F. Rivers, Sr.",Michael F.,,Rivers,Sr.,,True,sc,lower,121,Democratic,http://www.scstatehouse.gov/images/members/1564346404.jpg,2016-12-30 01:17:06.057000,2017-06-01 06:50:34.953000
+SCL000265,"William Scott Cogswell, Jr.",William Scott,,Cogswell,Jr.,,True,sc,lower,110,Republican,http://www.scstatehouse.gov/images/members/0374999955.jpg,2016-12-30 01:17:06.075000,2017-06-01 06:50:35.011000
+SCL000266,"John R. McCravy, III",John R.,,McCravy,III,,True,sc,lower,13,Republican,http://www.scstatehouse.gov/images/members/1217045309.jpg,2016-12-30 01:17:06.128000,2017-06-01 06:50:34.919000
+SCL000267,Brandon Michael Newton,Brandon Michael,,Newton,,,True,sc,lower,45,Republican,http://www.scstatehouse.gov/images/members/1418607785.jpg,2016-12-30 01:17:06.170000,2017-06-01 06:50:34.871000
+SCL000268,Steven Wayne Long,Steven Wayne,,Long,,,True,sc,lower,37,Republican,http://www.scstatehouse.gov/images/members/1120454411.jpg,2016-12-30 01:17:06.258000,2017-06-01 06:50:34.978000
+SCL000270,Ivory Torrey Thigpen,Ivory Torrey,,Thigpen,,,True,sc,lower,79,Democratic,http://www.scstatehouse.gov/images/members/1815908873.jpg,2016-12-30 01:17:06.328000,2017-06-01 06:50:34.900000
+SCL000001,Thomas C. Alexander,Thomas,C.,Alexander,,,True,sc,upper,1,Republican,http://www.scstatehouse.gov/images/members/0013636362.jpg,2011-11-14 21:05:40.241000,2017-06-01 06:50:35.060000
+SCL000005,Paul G. Campbell Jr.,Paul,G.,Campbell,Jr.,,True,sc,upper,44,Republican,http://www.scstatehouse.gov/images/members/0301136328.jpg,2011-11-14 21:05:40.282000,2017-06-01 06:50:35.048000
+SCL000006,George E. Campsen III,George,E.,Campsen,III,Chip,True,sc,upper,43,Republican,http://www.scstatehouse.gov/images/members/0302272691.jpg,2011-11-14 21:05:40.292000,2017-06-01 06:50:35.021000
+SCL000009,John E. Courson,John,E.,Courson,,,True,sc,upper,20,Republican,http://www.scstatehouse.gov/images/members/0422727222.jpg,2011-11-14 21:05:40.482000,2017-06-01 06:50:35.030000
+SCL000010,Ronnie W. Cromer,Ronnie,W.,Cromer,,,True,sc,upper,18,Republican,http://www.scstatehouse.gov/images/members/0438636311.jpg,2011-11-14 21:05:40.493000,2017-06-01 06:50:35.051000
+SCL000011,Tom Davis,Tom,,Davis,,,True,sc,upper,46,Republican,http://www.scstatehouse.gov/images/members/0456818127.jpg,2011-11-14 21:05:40.503000,2017-06-01 06:50:35.064000
+SCL000015,Chauncey K. Gregory,Chauncey,K.,Gregory,,,True,sc,upper,16,Republican,http://www.scstatehouse.gov/images/members/0711363551.jpg,2011-11-14 21:05:40.543000,2017-06-01 06:50:35.016000
+SCL000016,Lawrence K. Grooms,Lawrence,K.,Grooms,,Larry,True,sc,upper,37,Republican,http://www.scstatehouse.gov/images/members/0729545367.jpg,2011-11-14 21:05:40.560000,2017-06-01 06:50:35.038000
+SCL000018,C. Bradley Hutto,Brad,,Hutto,,,True,sc,upper,40,Democratic,http://www.scstatehouse.gov/images/members/0912499891.jpg,2011-11-14 21:05:40.581000,2017-06-01 06:50:35.015000
+SCL000019,Darrell Jackson,Darrell,,Jackson,,,True,sc,upper,21,Democratic,http://www.scstatehouse.gov/images/members/0920454435.jpg,2011-11-14 21:05:40.591000,2017-06-01 06:50:35.019000
+SCL000022,Hugh K. Leatherman Sr.,Hugh,K.,Leatherman,Sr.,,True,sc,upper,31,Republican,http://www.scstatehouse.gov/images/members/1068181690.jpg,2011-11-14 21:05:40.621000,2017-06-01 06:50:35.028000
+SCL000025,Gerald Malloy,Gerald,,Malloy,,,True,sc,upper,29,Democratic,http://www.scstatehouse.gov/images/members/1131533956.jpg,2011-11-14 21:05:40.651000,2017-06-01 06:50:35.022000
+SCL000027,Shane R. Martin,Shane,R.,Martin,,,True,sc,upper,13,Republican,http://www.scstatehouse.gov/images/members/1179545313.jpg,2011-11-14 21:05:40.681000,2017-06-01 06:50:35.057000
+SCL000028,A. Shane Massey,A. Shane,,Massey,,,True,sc,upper,25,Republican,http://www.scstatehouse.gov/images/members/1185227131.jpg,2011-11-14 21:05:40.691000,2017-06-01 06:50:35.014000
+SCL000029,John W. Matthews Jr.,John,W.,Matthews,Jr.,,True,sc,upper,39,Democratic,http://www.scstatehouse.gov/images/members/1186363494.jpg,2011-11-14 21:05:40.750000,2017-06-01 06:50:35.032000
+SCL000032,Floyd Nicholson,Floyd,,Nicholson,,,True,sc,upper,10,Democratic,http://www.scstatehouse.gov/images/members/1419318012.jpg,2011-11-14 21:05:40.788000,2017-06-01 06:50:35.020000
+SCL000034,Harvey S. Peeler Jr.,Harvey,S.,Peeler,Jr.,,True,sc,upper,14,Republican,http://www.scstatehouse.gov/images/members/1454545280.jpg,2011-11-14 21:05:40.809000,2017-06-01 06:50:35.026000
+SCL000036,Luke A. Rankin,Luke,A.,Rankin,,,True,sc,upper,33,Republican,http://www.scstatehouse.gov/images/members/1511363455.jpg,2011-11-14 21:05:40.830000,2017-06-01 06:50:35.040000
+SCL000037,Glenn G. Reese,Glenn,G.,Reese,,,True,sc,upper,11,Democratic,http://www.scstatehouse.gov/images/members/1527272544.jpg,2011-11-14 21:05:40.841000,2017-06-01 06:50:35.024000
+SCL000040,John L. Scott Jr.,John,L.,Scott,Jr.,,True,sc,upper,19,Democratic,http://www.scstatehouse.gov/images/members/1640908894.jpg,2011-11-14 21:05:40.872000,2017-06-01 06:50:35.031000
+SCL000041,Nikki G. Setzler,Nikki,G.,Setzler,,,True,sc,upper,26,Democratic,http://www.scstatehouse.gov/images/members/1649999802.jpg,2011-11-14 21:05:40.883000,2017-06-01 06:50:35.046000
+SCL000042,Vincent A. Sheheen,Vincent,A.,Sheheen,,,True,sc,upper,27,Democratic,http://www.scstatehouse.gov/images/members/1665908891.jpg,2011-11-14 21:05:40.900000,2017-06-01 06:50:35.065000
+SCL000045,Daniel B. Verdin III,Daniel,B.,Verdin,III,Danny,True,sc,upper,9,Republican,http://www.scstatehouse.gov/images/members/1874999775.jpg,2011-11-14 21:05:40.933000,2017-06-01 06:50:35.017000
+SCL000046,Kent M. Williams,Kent,M.,Williams,,,True,sc,upper,30,Democratic,http://www.scstatehouse.gov/images/members/1938636131.jpg,2011-11-14 21:05:40.943000,2017-06-01 06:50:35.036000
+SCL000049,Karl B. Allen,Karl,B.,Allen,,,True,sc,upper,7,Democratic,http://www.scstatehouse.gov/images/members/0015340908.jpg,2011-11-14 21:05:40.973000,2017-06-01 06:50:35.034000
+SCL000077,Thomas D. Corbin,Thomas,D.,Corbin,,Tom,True,sc,upper,5,Republican,http://www.scstatehouse.gov/images/members/0402272679.jpg,2011-11-14 21:05:41.259000,2017-06-01 06:50:35.061000
+SCL000108,Kevin L. Johnson,Kevin,L.,Johnson,,,True,sc,upper,36,Democratic,http://www.scstatehouse.gov/images/members/0947727159.jpg,2011-11-14 21:05:41.638000,2017-06-01 06:50:35.037000
+SCL000143,Ronnie A. Sabb,Ronnie,A.,Sabb,,,True,sc,upper,32,Democratic,http://www.scstatehouse.gov/images/members/1617045261.jpg,2011-11-14 21:05:42.005000,2017-06-01 06:50:35.050000
+SCL000170,Thomas R. Young Jr.,Thomas,R.,Young,Jr.,Tom,True,sc,upper,24,Republican,http://www.scstatehouse.gov/images/members/1996590730.jpg,2011-11-14 21:05:42.275000,2017-06-01 06:50:35.063000
+SCL000175,Sean M. Bennett,Sean M.,,Bennett,,,True,sc,upper,38,Republican,http://www.scstatehouse.gov/images/members/0141193165.jpg,2012-12-07 20:19:10.901000,2017-06-01 06:50:35.056000
+SCL000177,Greg Hembree,Greg,,Hembree,,,True,sc,upper,28,Republican,http://www.scstatehouse.gov/images/members/0819318084.jpg,2012-12-07 20:19:11.017000,2017-06-01 06:50:35.025000
+SCL000179,"J. Thomas McElveen, III",J. Thomas,,McElveen,III,,True,sc,upper,35,Democratic,http://www.scstatehouse.gov/images/members/1234090761.jpg,2012-12-07 20:19:11.095000,2017-06-01 06:50:35.029000
+SCL000180,Katrina Frye Shealy,Katrina Frye,,Shealy,,,True,sc,upper,23,Republican,http://www.scstatehouse.gov/images/members/1656817983.jpg,2012-12-07 20:19:11.166000,2017-06-01 06:50:35.035000
+SCL000182,Ross Turner,Ross,,Turner,,,True,sc,upper,8,Republican,http://www.scstatehouse.gov/images/members/1847727051.jpg,2012-12-07 20:19:11.186000,2017-06-01 06:50:35.053000
+SCL000209,Marlon E. Kimpson,Marlon E.,,Kimpson,,,True,sc,upper,42,Democratic,http://www.scstatehouse.gov/images/members/0994318063.jpg,2013-10-04 04:04:18.808000,2017-06-01 06:50:35.042000
+SCL000237,Margie Bright Matthews,Margie Bright,,Matthews,,,True,sc,upper,45,Democratic,http://www.scstatehouse.gov/images/members/0194318159.jpg,2015-10-28 06:05:49.687000,2017-06-01 06:50:35.041000
+SCL000246,Mia S. McLeod,Mia S.,,McLeod,,,True,sc,upper,22,Democratic,http://www.scstatehouse.gov/images/members/0279545421.jpg,2016-12-30 01:17:05.506000,2017-06-01 06:50:35.043000
+SCL000250,Mike Fanning,Mike,,Fanning,,,True,sc,upper,17,Democratic,http://www.scstatehouse.gov/images/members/0556818115.jpg,2016-12-30 01:17:05.597000,2017-06-01 06:50:35.044000
+SCL000255,William Timmons,William,,Timmons,,,True,sc,upper,6,Republican,http://www.scstatehouse.gov/images/members/1827840690.jpg,2016-12-30 01:17:05.743000,2017-06-01 06:50:35.067000
+SCL000258,Wes Climer,Wes,,Climer,,,True,sc,upper,15,Republican,http://www.scstatehouse.gov/images/members/0356818139.jpg,2016-12-30 01:17:05.850000,2017-06-01 06:50:35.066000
+SCL000259,Rex F. Rice,Rex F.,,Rice,,,True,sc,upper,2,Republican,http://www.scstatehouse.gov/images/members/1547727087.jpg,2016-12-30 01:17:05.862000,2017-06-01 06:50:35.049000
+SCL000261,Stephen L. Goldfinch,Stephen L.,,Goldfinch,,,True,sc,upper,34,Republican,http://www.scstatehouse.gov/images/members/0682386282.jpg,2016-12-30 01:17:05.908000,2017-06-01 06:50:35.059000
+SCL000262,Mike Gambrell,Mike,,Gambrell,,,True,sc,upper,4,Republican,http://www.scstatehouse.gov/images/members/0635227197.jpg,2016-12-30 01:17:05.947000,2017-06-01 06:50:35.045000
+SCL000269,Sandy Senn,Sandy,,Senn,,,True,sc,upper,41,Republican,http://www.scstatehouse.gov/images/members/1649431621.jpg,2016-12-30 01:17:06.316000,2017-06-01 06:50:35.054000
+SCL000271,Scott Talley,Scott,,Talley,,,True,sc,upper,12,Republican,http://www.scstatehouse.gov/images/members/1784090695.jpg,2016-12-30 01:17:06.357000,2017-06-01 06:50:35.055000

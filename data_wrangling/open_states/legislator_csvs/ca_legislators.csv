@@ -1,0 +1,275 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+CAL000001,Dave Cox,Dave,,Cox,,,False,ca,,,,http://cssrc.us/lib/uploads/1/Cox_Standard.jpg,2010-07-09 17:19:48.768000,2011-01-11 18:52:18.255000
+CAL000002,Patricia Wiggins,Patricia,,Wiggins,,,False,ca,,,,,2010-07-09 17:19:48.769000,2011-01-11 18:52:18.257000
+CAL000003,Mark Leno,Mark,,Leno,,,False,ca,,,,http://sd11.senate.ca.gov/sites/sd11.senate.ca.gov/files/images/ML%20at%20SCOTUS%20Prop%208%203.26.13%20II%20-%20Copy.thumbnail.JPG,2012-01-31 19:25:08.839000,2017-01-02 08:01:38.719000
+CAL000004,Sam Aanestad,Sam,,Aanestad,,,False,ca,,,,http://votesmart.org/canphoto/16523.jpg,2010-07-09 17:19:48.773000,2011-01-11 18:52:18.260000
+CAL000005,Lois Wolk,Lois,,Wolk,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/WOLK_0.jpg?1381191105,2012-01-31 19:25:09.035000,2017-01-02 08:01:38.716000
+CAL000006,Darrell Steinberg,Darrell,,Steinberg,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/Steinberg_0.jpg?1381191185,2012-01-31 19:25:08.984000,2015-01-05 16:30:04.275000
+CAL000007,Mark DeSaulnier,Mark,,DeSaulnier,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/DESAULNIERLS_0.jpg?1381191207,2012-01-31 19:25:08.667000,2015-01-05 16:30:04.276000
+CAL000008,Leland Yee,Leland,Y.,Yee,,,False,ca,,,,http://votesmart.org/canphoto/28969.jpg,2012-01-31 19:25:09.072000,2015-01-05 16:30:04.278000
+CAL000009,Loni Hancock,Loni,,Hancock,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/Hancock_0.jpg?1381191338,2012-01-31 19:25:08.742000,2017-01-02 08:01:38.718000
+CAL000010,Ellen Corbett,Ellen, M.,Corbett,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/SenCorbettBlue8x12FINALlls_1.jpg?1402334437,2012-01-31 19:25:08.630000,2015-01-05 16:30:04.252000
+CAL000011,Dave Cogdill,Dave,,Cogdill,,,False,ca,,,,,2010-07-09 17:19:48.784000,2011-01-11 18:52:18.256000
+CAL000012,Abel Maldonado,Abel,,Maldonado,,,False,ca,,,,http://upload.wikimedia.org/wikipedia/commons/3/30/Abel_Maldonado.jpg,2010-07-09 17:19:48.785000,2011-01-11 18:52:18.256000
+CAL000013,George Runner,George,,Runner,,,False,ca,,,,http://cssrc.us/lib/uploads/17/090105_Runner_LR.jpg,2010-07-09 17:19:48.787000,2012-06-01 16:41:43.837000
+CAL000014,Roy Ashburn,Roy,,Ashburn,,,False,ca,,,,http://votesmart.org/canphoto/9694.jpg,2010-07-09 17:19:48.799000,2011-01-11 18:52:18.257000
+CAL000015,Tony Strickland,Tony,,Strickland,,,False,ca,,,,http://votesmart.org/canphoto/16765.jpg,2012-01-31 19:25:08.997000,2012-12-05 20:07:49.042000
+CAL000016,Carol Liu,Carol,,Liu,,,False,ca,,,,http://dist21.casen.govoffice.com/vertical/sites/%7BC79BBCAB-8E9F-47A2-9117-A58842CE1458%7D/uploads/%7B2708BA6C-C81B-421A-BCE5-0DDCDB9AD234%7D_Web.jpg,2012-01-31 19:25:08.864000,2017-01-02 08:01:38.711000
+CAL000017,Gilbert Cedillo,Gilbert,,Cedillo,,,False,ca,,,,http://upload.wikimedia.org/wikipedia/en/4/46/Senator_Gilbert_Cedillo.JPG,2010-07-09 17:19:48.804000,2012-12-05 20:07:48.958000
+CAL000018,Fran Pavley,Fran,,Pavley,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/pavley-fran.jpg,2012-01-31 19:25:08.922000,2017-01-02 08:01:38.713000
+CAL000019,Gloria Romero,Gloria,,Romero,,,False,ca,,,,http://dist24.casen.govoffice.com/vertical/Sites/%7BDD7E6564-CB7A-4B0B-9B0B-C9B9AD71AFED%7D/uploads/%7B109BDFCF-49A8-489F-9D57-F20617B34ACF%7D_Web.jpg,2010-07-09 17:19:48.807000,2011-01-11 18:52:18.258000
+CAL000020,Alan Lowenthal,Alan,,Lowenthal,,,False,ca,,,,http://votesmart.org/canphoto/16469.jpg,2012-01-31 19:25:08.876000,2012-12-05 20:07:48.845000
+CAL000021,Jenny Oropeza,Jenny,,Oropeza,,,False,ca,,,,,2010-07-09 17:19:48.810000,2011-01-11 18:52:18.259000
+CAL000022,Bob Huff,Bob,,Huff,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/HUFF_1.jpg?1381191880,2012-01-31 19:25:08.779000,2017-01-02 08:01:38.710000
+CAL000023,Robert Dutton,Bob,,Dutton,,,False,ca,,,,http://votesmart.org/canphoto/28838.jpg,2012-01-31 19:25:08.680000,2012-12-05 20:07:48.849000
+CAL000024,Gloria Negrete McLeod,Gloria Negrete,,McLeod,,,False,ca,,,,http://dist32.casen.govoffice.com/vertical/Sites/%7B0730EC93-2993-4641-916F-29F5BC72F62A%7D/uploads/%7B538F919B-93A5-4DF5-B01C-2ABBDFF4EA52%7D_Web.jpg,2012-01-31 19:25:08.889000,2013-01-11 16:54:45.961000
+CAL000025,Mimi Walters,Mimi,,Walters,,,False,ca,,,,http://cssrc.us/lib/uploads/33/252.jpg,2012-01-31 19:25:09.022000,2015-01-05 16:30:04.273000
+CAL000026,Tom Harman,Tom,,Harman,,,False,ca,,,,http://votesmart.org/canphoto/28890.jpg,2012-01-31 19:25:08.755000,2012-12-05 20:07:48.854000
+CAL000027,Dennis Hollingsworth,Dennis,,Hollingsworth,,,False,ca,,,,http://votesmart.org/canphoto/28802.jpg,2010-07-09 17:19:48.828000,2011-01-11 18:52:18.259000
+CAL000028,Mark Wyland,Mark,,Wyland,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/Senator_Mark_Wyland_0.jpg?1381788652,2012-01-31 19:25:09.060000,2015-01-05 16:30:04.274000
+CAL000029,John J Benoit,John,J,Benoit,,,False,ca,,,,http://district4.co.riverside.ca.us/web/news/images/Benoit_PortraitThumb.jpg?__scale=c:transparent,2010-07-09 17:19:48.831000,2011-01-11 18:52:18.260000
+CAL000030,Christine Kehoe,Christine,,Kehoe,,,False,ca,,,,http://dist39.casen.govoffice.com/vertical/Sites/%7B7B9781BA-ED94-4779-AE76-27A54016F62C%7D/uploads/%7B4EA2298E-6975-4EC4-90E7-BE51AC63E12D%7D_Web.jpg,2012-01-31 19:25:08.793000,2012-12-05 20:07:48.856000
+CAL000031,Joseph Simitian,S. Joseph,,Simitian,,,False,ca,,,,http://votesmart.org/canphoto/28606.jpg,2012-01-31 19:25:08.972000,2012-12-05 20:07:49.047000
+CAL000032,Jeff Denham,Jeff,,Denham,,,False,ca,,,,http://votesmart.org/canphoto/28769.jpg,2010-07-09 17:19:48.836000,2011-01-11 18:52:18.255000
+CAL000033,Dean Florez,Dean,,Florez,,,False,ca,,,,http://dist16.casen.govoffice.com/vertical/Sites/%7B38711C30-6066-4044-A339-4CAF59EA64E8%7D/uploads/%7BB3BEA1CD-56C8-4211-AF6E-B29ED9B9B3E8%7D_Web.jpg,2010-07-09 17:19:48.838000,2011-01-11 18:52:18.257000
+CAL000034,Alex Padilla,Alex,,Padilla,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/PADILLA_0.jpg?1381191667,2012-01-31 19:25:08.902000,2015-01-05 16:30:04.258000
+CAL000035,Roderick Wright,Roderick,D.,Wright,,,False,ca,,,,http://votesmart.org/canphoto/9775.jpg,2012-01-31 19:25:09.047000,2015-01-05 16:30:04.270000
+CAL000036,Ron Calderon,Ron,,Calderon,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/calderon_0.jpg?1381191905,2012-01-31 19:25:08.605000,2015-01-05 16:30:04.266000
+CAL000037,Lou Correa,Lou,,Correa,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/CORREA_0.jpg?1381192020,2012-01-31 19:25:08.642000,2015-01-05 16:30:04.269000
+CAL000038,Denise Moreno Ducheny,Denise Moreno,,Ducheny,,,False,ca,,,,http://votesmart.org/canphoto/8169.jpg,2010-07-09 17:19:48.846000,2011-01-11 18:52:18.260000
+CAL000039,Elaine Alquist,Elaine Kontominas,,Alquist,,,False,ca,,,,http://dist13.casen.govoffice.com/vertical/Sites/%7BE9A0EAC6-5718-49CC-BA95-F6C4A8E6644A%7D/uploads/%7BB6484209-4C38-4CD1-92E9-D4C8660BD7A6%7D_Web.jpg,2012-01-31 19:25:08.520000,2012-12-05 20:07:48.870000
+CAL000040,Curren D Price,Curren,D,Price,Jr.,,False,ca,,,,,2012-01-31 19:25:08.934000,2013-09-27 14:37:31.814000
+CAL000041,Bill Emmerson,Bill,,Emmerson,,,False,ca,,,,http://www.votesmart.org/canphoto/29356.jpg,2012-01-31 19:25:08.692000,2014-11-27 00:45:35.039000
+CAL000042,Dan Logue,Dan,,Logue,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/3.jpg?1320969826,2012-01-31 19:25:09.749000,2015-01-05 16:30:04.210000
+CAL000043,Jared William Huffman,Jared,,Huffman,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/6.jpg?1320969453,2012-01-31 19:25:09.684000,2012-12-05 20:07:48.876000
+CAL000044,Marty Block,Marty,,Block,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/block.jpg,2012-01-31 19:25:09.183000,2017-01-02 08:01:38.721000
+CAL000045,Diane L Harkey,Diane,L,Harkey,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/73.jpg?1320969044,2012-01-31 19:25:09.606000,2015-01-05 16:30:04.247000
+CAL000046,Charles M Calderon,Charles M.,M,Calderon,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/58.jpg?1320967058,2012-01-31 19:25:09.272000,2012-12-05 20:07:48.957000
+CAL000047,Chuck DeVore,Chuck,,DeVore,,,False,ca,,,,http://www.assembly.ca.gov/images/members/70.jpg,2010-07-09 17:19:48.870000,2011-01-11 18:52:18.252000
+CAL000048,Tom Torlakson,Tom,,Torlakson,,,False,ca,,,,http://www.assembly.ca.gov/images/members/11.jpg,2010-07-09 17:19:48.872000,2011-01-11 18:52:18.229000
+CAL000050,Mike Eng,Mike,,Eng,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/49.jpg?1320967892,2012-01-31 19:25:09.398000,2012-12-05 20:07:48.962000
+CAL000052,Jose Solorio,Jose,,Solorio,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/69.jpg?1321660613,2012-01-31 19:25:10.027000,2012-12-05 20:07:48.967000
+CAL000053,Roger Niello,Roger,,Niello,,,False,ca,,,,http://www.assembly.ca.gov/images/members/5.jpg,2010-07-09 17:19:48.880000,2011-01-11 18:52:18.248000
+CAL000054,Joe Coto,Joe,,Coto,,,False,ca,,,,http://votesmart.org/canphoto/29716.jpg,2010-07-09 17:19:48.882000,2011-01-11 18:52:18.231000
+CAL000056,Hector De La Torre,Hector,,De La Torre,,,False,ca,,,,http://www.assembly.ca.gov/images/members/50.jpg,2010-07-09 17:19:48.885000,2011-01-11 18:52:18.249000
+CAL000058,Nancy Skinner,Nancy,,Skinner,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD-14-Skinner2.jpg?1323914222,2012-01-31 19:25:10.001000,2015-01-05 16:30:04.199000
+CAL000059,Joan Buchanan,Joan,,Buchanan,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a15.jpg?1325794324,2012-01-31 19:25:09.247000,2015-01-05 16:30:04.201000
+CAL000060,Pedro Nava,Pedro,,Nava,,,False,ca,,,,http://votesmart.org/canphoto/29757.jpg,2010-07-09 17:19:48.899000,2011-01-11 18:52:18.234000
+CAL000061,Wilmer Amina Carter,Wilmer Amina,,Carter,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a62.JPG?1325789924,2012-01-31 19:25:09.297000,2012-12-05 20:07:48.882000
+CAL000063,Alyson Huber,Alyson,,Huber,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a10.jpg?1325877127,2012-01-31 19:25:09.659000,2012-12-05 20:07:48.885000
+CAL000064,Danny D Gilmore,Danny,D,Gilmore,,,False,ca,,,,http://www.assembly.ca.gov/images/members/30.jpg,2010-07-09 17:19:48.905000,2011-01-11 18:52:18.232000
+CAL000065,Steve Knight,Steve,,Knight,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/KNIGHT_2009_0.jpg?1381191690,2012-01-31 19:25:09.722000,2015-01-05 16:30:04.260000
+CAL000066,Anna Marie Caballero,Anna Marie,,Caballero,,,False,ca,,,,http://www.assembly.ca.gov/images/members/28.jpg,2010-07-09 17:19:48.909000,2011-01-11 18:52:18.232000
+CAL000067,Audra Strickland,Audra,,Strickland,,,False,ca,,,,http://www.assembly.ca.gov/images/members/37.jpg,2010-07-09 17:19:48.910000,2011-01-11 18:52:18.246000
+CAL000068,Karen Bass,Karen,,Bass,,,False,ca,,,,http://votesmart.org/canphoto/28963.jpg,2010-07-09 17:19:48.912000,2011-01-11 18:52:18.248000
+CAL000069,Martin Garrick,Martin,,Garrick,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/74.jpg?1320968482,2012-01-31 19:25:09.503000,2012-12-05 20:07:48.970000
+CAL000070,Fiona Ma,Fiona,,Ma,Ma,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a12_0.JPG?1325710181,2012-01-31 19:25:09.775000,2012-12-05 20:07:48.888000
+CAL000071,Anthony Portantino,Anthony J.,,Portantino,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/44.jpg?1321660362,2010-07-09 17:19:48.917000,2012-12-05 20:07:48.971000
+CAL000072,Ted Lieu,Ted,W.,Lieu,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/LIEU_0.jpg?1381192117,2010-07-09 17:19:48.919000,2015-01-05 16:30:04.265000
+CAL000073,Warren T Furutani,Warren T.,T,Furutani,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/55.jpg?1320968261,2012-01-31 19:25:09.464000,2012-12-05 20:07:48.973000
+CAL000074,Cameron Smyth,Cameron,,Smyth,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/38.jpg?1321660540,2012-01-31 19:25:10.014000,2012-12-05 20:07:48.890000
+CAL000075,Michael Villines,Michael,,Villines,,,False,ca,,,,http://votesmart.org/canphoto/28594.jpg,2010-07-09 17:19:48.924000,2011-01-11 18:52:18.232000
+CAL000076,Dave Jones,Dave,,Jones,,,False,ca,,,,http://www.assembly.ca.gov/images/members/9.jpg,2010-07-09 17:19:48.926000,2011-01-11 18:52:18.254000
+CAL000077,Noreen Evans,Noreen,,Evans,,,False,ca,,,,http://sd02.senate.ca.gov/sites/sd02.senate.ca.gov/files/images/photo101.thumbnail.jpg,2010-07-09 17:19:48.927000,2015-01-05 16:30:04.257000
+CAL000078,Alberto Torrico,Alberto,,Torrico,,,False,ca,,,,http://votesmart.org/canphoto/29471.jpg,2010-07-09 17:19:48.929000,2011-01-11 18:52:18.230000
+CAL000079,Ira Ruskin,Ira,,Ruskin,,,False,ca,,,,http://www.assembly.ca.gov/images/members/21.jpg,2010-07-09 17:19:48.931000,2011-01-11 18:52:18.231000
+CAL000080,Bonnie Lowenthal,Bonnie,,Lowenthal,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD70-Lowenthal.jpg?1372106657,2012-01-31 19:25:09.762000,2015-01-05 16:30:04.246000
+CAL000081,Brian Nestande,Brian,,Nestande,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Nestande.jpg?1326405560,2012-01-31 19:25:09.869000,2015-01-05 16:30:04.215000
+CAL000082,Nathan Fletcher,Nathan,,Fletcher,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/75.jpg?1320968056,2012-01-31 19:25:09.426000,2012-12-05 20:07:48.983000
+CAL000084,Paul Fong,Paul,,Fong,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/22.jpg?1320968132,2012-01-31 19:25:09.439000,2015-01-05 16:30:04.209000
+CAL000086,Juan Arambula,Juan,,Arambula,,,False,ca,,,,http://www.assembly.ca.gov/images/members/31.jpg,2010-07-09 17:19:48.953000,2011-01-11 18:52:18.233000
+CAL000088,Bob Blumenfield,Bob,,Blumenfield,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/BLUMENFIELD_0.JPG?1325883125,2012-01-31 19:25:09.196000,2014-01-08 18:43:47.589000
+CAL000089,John Pérez,John, A.,Pérez,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD53.jpg?1386099573,2012-01-31 19:25:09.948000,2015-01-05 16:30:04.234000
+CAL000090,Mike Davis,Mike,,Davis,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/48.jpg?1320967693,2012-01-31 19:25:09.360000,2012-12-05 20:07:48.900000
+CAL000092,Curt Hagman,Curt,,Hagman,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/60.jpg?1320968843,2012-01-31 19:25:09.567000,2015-01-05 16:30:04.236000
+CAL000093,Kevin D Jeffries,Kevin,D,Jeffries,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/66.jpg?1320969514,2012-01-31 19:25:09.697000,2012-12-05 20:07:48.903000
+CAL000094,Jim Silva,Jim,,Silva,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/67.jpg?1321660422,2012-01-31 19:25:09.987000,2012-12-05 20:07:48.905000
+CAL000095,Jeff Miller,Jeff,,Miller,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/71.jpg?1320970123,2012-01-31 19:25:09.813000,2012-12-05 20:07:48.989000
+CAL000096,Chris Norby,Chris,,Norby,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/72.jpg?1320970572,2012-01-31 19:25:09.896000,2012-12-05 20:07:48.906000
+CAL000097,Mary Salas,Mary,,Salas,,,False,ca,,,,http://votesmart.org/canphoto/57284.jpg,2010-07-09 17:19:48.972000,2011-01-11 18:52:18.254000
+CAL000098,V. Manuel Pérez,V. Manuel,,Pérez,,,False,ca,,,,http://asmdc.org/members/a80/images/stories/session005-08-27-09.jpg,2010-07-09 17:19:48.973000,2015-01-05 16:30:04.237000
+CAL000099,Mariko Yamada,Mariko,,Yamada,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/a08.jpg?1325880302,2012-01-31 19:25:10.122000,2015-01-05 16:30:04.214000
+CAL000100,Paul Krekorian,Paul,,Krekorian,,,False,ca,,,,,2010-07-09 17:19:48.977000,2011-01-11 18:52:18.247000
+CAL000101,Wesley Chesbro,Wesley,,Chesbro,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/1.jpg?1320967372,2012-01-31 19:25:09.323000,2015-01-05 16:30:04.203000
+CAL000104,Tom Ammiano,Tom,,Ammiano,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Ammiano_2013_updated.jpg?1392848906,2012-01-31 19:25:09.123000,2015-01-05 16:30:04.202000
+CAL000105,Sandré Swanson,Sandré R.,R,Swanson,,,False,ca,,,,http://democrats.assembly.ca.gov/members/a16/photos/photo014.jpg,2010-07-09 17:19:48.996000,2012-12-05 20:07:48.994000
+CAL000106,Bill Berryhill,Bill,,Berryhill,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/26.jpg?1320966373,2012-01-31 19:25:09.171000,2012-12-05 20:07:48.913000
+CAL000108,Connie Conway,Connie,,Conway,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/26_Conway_120x150.jpg?1354743492,2012-01-31 19:25:09.335000,2015-01-05 16:30:04.207000
+CAL000109,Julia Brownley,Julia,,Brownley,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/41.jpg?1320966859,2012-01-31 19:25:09.234000,2012-12-05 20:07:48.918000
+CAL000110,Mike Feuer,Mike,,Feuer,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/42.jpg?1320967988,2012-01-31 19:25:09.413000,2012-12-05 20:07:48.996000
+CAL000111,Steven Bradford,Steven,,Bradford,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/51.jpg?1320966798,2012-01-31 19:25:09.222000,2015-01-05 16:30:04.239000
+CAL000112,Isadore Hall,Isadore,,Hall,III,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hall-isadore.jpg,2012-01-31 19:25:09.593000,2017-01-02 08:01:38.714000
+CAL000113,Norma Torres,Norma,J.,Torres,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/TORRES.jpg?1381788803,2012-01-31 19:25:10.058000,2015-01-05 16:30:04.267000
+CAL000114,Paul J Cook,Paul,J,Cook,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/65.jpg?1320967528,2012-01-31 19:25:09.348000,2012-12-05 20:07:48.999000
+CAL000115,Lori Saldaña,Lori,,Saldaña,,,False,ca,,,,http://www.assembly.ca.gov/images/members/76.jpg,2010-07-09 17:19:49.023000,2011-01-11 18:52:18.253000
+CAL000117,Mary Hayashi,Mary,,Hayashi,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/18.jpg?1320969104,2012-01-31 19:25:09.618000,2012-12-05 20:07:49
+CAL000118,Sam Blakeslee Ph.D.,Sam,,Blakeslee,,,False,ca,,,,,2010-07-09 17:19:49.028000,2012-12-05 20:07:49.055000
+CAL000119,Anthony Adams,Anthony,,Adams,,,False,ca,,,,http://www.assembly.ca.gov/images/members/59.jpg,2010-07-09 17:19:49.030000,2011-01-11 18:52:18.250000
+CAL000120,Van Tran,Van,,Tran,,,False,ca,,,,http://votesmart.org/canphoto/29745.jpg,2010-07-09 17:19:49.032000,2011-01-11 18:52:18.251000
+CAL000121,Felipe Fuentes,Felipe,,Fuentes,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/39.jpg?1320968201,2012-01-31 19:25:09.451000,2012-12-05 20:07:48.924000
+CAL000122,Mike D Duvall,Mike,D,Duvall,,,False,ca,,,,,2010-07-09 17:19:49.037000,2011-01-11 18:52:18.252000
+CAL000123,Mike Gatto,Mike,,Gatto,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD43.jpg,2012-01-31 19:25:09.515000,2017-01-02 08:01:38.695000
+CAL000127,Doug La Malfa,Doug,,La Malfa,,,False,ca,,,,http://cssrc.us/lib/uploads/4/01.jpg,2012-01-31 19:25:08.805000,2012-12-05 20:07:48.926000
+CAL000134,Michael Rubio,Michael, J.,Rubio,,,False,ca,,,,,2012-01-31 19:25:08.947000,2013-08-14 13:01:06.009000
+CAL000135,Juan Vargas,Juan,,Vargas,,,False,ca,,,,,2012-01-31 19:25:09.009000,2013-01-11 16:55:17.689000
+CAL000137,Richard Gordon,Richard,S.,Gordon,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/21.jpg,2012-01-31 19:25:09.529000,2017-01-02 08:01:38.700000
+CAL000138,Kristin Olsen,Kristin,,Olsen,,,False,ca,,,,http://arc.asm.ca.gov/member/25/media/photo/KO_GiantsTrophy_2udl.jpg,2012-01-31 19:25:09.908000,2017-01-02 08:01:38.690000
+CAL000139,Henry Perea,Henry,T.,Perea,,,False,ca,,,,http://asmdc.org/members/a31/images/stories/perea_bio.jpg,2012-01-31 19:25:09.934000,2016-04-27 19:50:51.823000
+CAL000140,Shannon Grove,Shannon,L.,Grove,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/grove.jpg,2012-01-31 19:25:09.555000,2017-01-02 08:01:38.704000
+CAL000144,Toni Atkins,Toni G.,,Atkins,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD78-Atkins-120x150.jpg,2012-01-31 19:25:09.145000,2017-01-02 08:01:38.707000
+CAL000145,Brian Jones,Brian,W.,Jones,,,False,ca,,,,http://arc.asm.ca.gov/member/77/media/photo/AD77_BRIAN_e2mj.jpg,2012-01-31 19:25:09.710000,2017-01-02 08:01:38.678000
+CAL000146,Katcho Achadjian,Katcho,,Achadjian,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/33.jpg,2012-01-31 19:25:09.085000,2017-01-02 08:01:38.687000
+CAL000147,Tim Donnelly,Tim,,Donnelly,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/59.jpg?1320967829,2012-01-31 19:25:09.386000,2015-01-05 16:30:04.211000
+CAL000148,Allan Mansoor,Allan R.,,Mansoor,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/68.jpg?1320970013,2012-01-31 19:25:09.787000,2015-01-05 16:30:04.249000
+CAL000150,Donald Wagner,Donald,P.,Wagner,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/70.jpg,2012-01-31 19:25:10.083000,2017-01-02 08:01:38.683000
+CAL000151,Susan Bonilla,Susan,,Bonilla,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/11.jpg?1320966675,2012-01-31 19:25:09.209000,2016-12-30 19:57:41.791000
+CAL000152,Roger Hernández,Roger,,Hernández,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD48_photo.jpg,2012-01-31 19:25:09.632000,2017-01-02 08:01:38.701000
+CAL000153,Nora Campos,Nora,,Campos,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD27-Campos.jpg,2012-01-31 19:25:09.284000,2017-01-02 08:01:38.696000
+CAL000157,Das Williams,Das,,Williams,,,False,ca,,,,http://www.asmdc.org/members/a35/images/stories/port/Official_Williams_med.jpg,2012-01-31 19:25:10.109000,2017-01-02 08:01:38.680000
+CAL000158,David Valadao,David G.,,Valadao,,,False,ca,,,,http://arc.asm.ca.gov/member/30/media/photo/valadao_cmug_82510_3123_mz6e.jpg,2012-01-31 19:25:10.070000,2012-12-05 20:07:49.033000
+CAL000159,Luis Alejo,Luis,A.,Alejo,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/28.jpg,2012-01-31 19:25:09.097000,2017-01-02 08:01:38.693000
+CAL000160,Jeff Gorell,Jeff,,Gorell,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/37.jpg?1320968716,2012-01-31 19:25:09.542000,2015-01-05 16:30:04.217000
+CAL000161,Holly Mitchell,Holly,,Mitchell,,,False,ca,,,,http://www.votesmart.org/canphoto/120230.jpg,2012-01-31 19:25:09.826000,2016-12-30 19:57:41.760000
+CAL000163,Betsy Butler,Betsy,,Butler,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/53.jpg?1320966975,2012-01-31 19:25:09.259000,2012-12-05 20:07:48.950000
+CAL000164,Linda Halderman,Linda,,Halderman,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/29.jpg?1320968903,2012-01-31 19:25:09.580000,2012-12-05 20:07:49.036000
+CAL000165,Roger Dickinson,Roger,,Dickinson,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/9.jpg?1320967760,2012-01-31 19:25:09.373000,2015-01-05 16:30:04.245000
+CAL000166,Michael Allen,Michael,,Allen,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/7.jpg?1320965872,2012-01-31 19:25:09.111000,2012-12-05 20:07:49.037000
+CAL000169,Sharon Runner,Sharon,,Runner,,,False,ca,,,,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sharonrunner.jpg,2012-01-31 19:25:08.959000,2016-12-30 19:57:41.798000
+CAL000172,Beth Gaines,Beth,,Gaines,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/4.jpg,2012-01-31 19:25:09.477000,2017-01-02 08:01:38.660000
+CAL000344,Raul Bocanegra,Raul,,Bocanegra,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD39-Bocanegra.jpg?1354555370,2012-12-07 15:00:49.837000,2015-01-05 16:30:04.213000
+CAL000348,Cheryl R. Brown,Cheryl,R.,Brown,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD47-Brown.jpg,2012-12-07 15:00:49.867000,2017-01-02 08:01:38.679000
+CAL000363,Steve Fox,Steve,,Fox,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD36.jpg?1360609718,2012-12-07 15:00:49.975000,2015-01-05 16:30:04.212000
+CAL000371,Adam Gray,Adam,,Gray,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/gray.png?1415646149,2012-12-07 15:00:50.034000,2017-06-01 08:10:59.165000
+CAL000382,Eric Linder,Eric,,Linder,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD-60-Eric_Linder.jpg,2012-12-07 15:00:50.118000,2017-01-02 08:01:38.685000
+CAL000392,Al Muratsuchi,Al,,Muratsuchi,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD66-Muratsuchi.jpg?1354557403,2012-12-07 15:00:50.192000,2015-01-05 16:30:04.243000
+CAL000402,Sharon Quirk-Silva,Sharon,,Quirk-Silva,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD65-Quirk-Silva.jpg?1354557898,2012-12-07 15:00:50.288000,2015-01-05 16:30:04.242000
+CAL000413,Scott Wilk,Scott,,Wilk,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD38-Scott_Wilk.jpg,2012-12-07 15:00:50.388000,2017-01-02 08:01:38.703000
+CAL000425,Lorena Gonzalez,Lorena,,Gonzalez,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD80-Gonzalez.jpg?1369771107,2013-05-29 00:11:21.362000,2015-01-05 16:30:04.250000
+CAL000445,Patty López,Patty,,López,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD39_Lopez.jpg,2015-01-05 16:30:03.279000,2017-01-02 08:01:38.698000
+CAL000450,Susan A. Bonilla,Susan A.,,Bonilla,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/11.jpg,2015-01-05 16:30:03.365000,2017-01-02 08:01:38.706000
+CAL000453,Bill Dodd,Bill,,Dodd,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad04.jpg,2015-01-05 16:30:03.416000,2017-01-02 08:01:38.676000
+CAL000462,Young O. Kim,Young O.,,Kim,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Kim_LDC_headshot.jpg,2015-01-05 16:30:03.486000,2017-01-02 08:01:38.709000
+CAL000480,David Hadley,David,,Hadley,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Hadley_LDC_headshot.jpg,2015-01-05 16:30:03.891000,2017-01-02 08:01:38.682000
+CAL000489,Ling Ling Chang,Ling Ling,,Chang,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Chang_LDC_headshot.jpg,2015-01-05 16:30:03.983000,2017-01-02 08:01:38.692000
+CAL000498,Joaquin Arambula,Joaquin,,Arambula,,,False,ca,,,,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad31_2.jpg,2016-04-15 07:23:13.145000,2017-01-02 08:01:38.686000
+CAL000338,Travis Allen,Travis,,Allen,,,True,ca,lower,72,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD72-Travis_Allen.jpg,2012-12-07 15:00:49.795000,2017-06-01 08:10:59.107000
+CAL000341,Frank Bigelow,Franklin,E.,Bigelow,,,True,ca,lower,5,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD05-Frank_Bigelow.jpg,2012-12-07 15:00:49.816000,2017-06-01 08:10:59.386000
+CAL000342,Richard Bloom,Richard,,Bloom,,,True,ca,lower,50,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD50-Bloom.jpg,2012-12-07 15:00:49.823000,2017-06-01 08:10:59.404000
+CAL000346,Rob Bonta,Rob,,Bonta,,,True,ca,lower,18,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD18-Bonta.jpg,2012-12-07 15:00:49.853000,2017-06-01 08:10:59.141000
+CAL000350,Ian C. Calderon,Ian,C.,Calderon,,,True,ca,lower,57,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD57.jpg,2012-12-07 15:00:49.882000,2017-06-01 08:10:59.286000
+CAL000352,Ed Chau,Ed,,Chau,,,True,ca,lower,49,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD49-Chau.jpg,2012-12-07 15:00:49.896000,2017-06-01 08:10:59.330000
+CAL000353,Rocky J. Chávez,Rocky,J.,Chávez,,,True,ca,lower,76,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD76-Rocky_Chavez.jpg,2012-12-07 15:00:49.903000,2017-06-01 08:10:59.432000
+CAL000356,Ken Cooley,Ken,,Cooley,,,True,ca,lower,8,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD08-Cooley_0.jpg,2012-12-07 15:00:49.924000,2017-06-01 08:10:59.263000
+CAL000357,Brian Dahle,Brian,,Dahle,,,True,ca,lower,1,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD01-Brian_Dahle.jpg,2012-12-07 15:00:49.931000,2017-06-01 08:10:59.367000
+CAL000358,Tom Daly,Tom,,Daly,,,True,ca,lower,69,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD69-Daly.jpg,2012-12-07 15:00:49.938000,2017-06-01 08:10:59.129000
+CAL000361,Susan Talamantes Eggman,Susan,Talamantes,Eggman,,,True,ca,lower,13,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD13.jpg,2012-12-07 15:00:49.960000,2017-06-01 08:10:59.232000
+CAL000364,Jim Frazier,Jim,,Frazier,,,True,ca,lower,11,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad11_frazier.jpg,2012-12-07 15:00:49.982000,2017-06-01 08:10:58.787000
+CAL000366,Cristina Garcia,Cristina,,Garcia,,,True,ca,lower,58,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD58-Garcia.jpg,2012-12-07 15:00:49.997000,2017-06-01 08:10:59.019000
+CAL000368,Jimmy Gomez,Jimmy,,Gomez,,,True,ca,lower,51,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD51-Gomez_0.jpg,2012-12-07 15:00:50.011000,2017-06-01 08:10:59.065000
+CAL000377,Chris R. Holden,Chris,R.,Holden,,,True,ca,lower,41,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD41-Holden.jpg,2012-12-07 15:00:50.079000,2017-06-01 08:10:59.196000
+CAL000380,"Reginald B. Jones-Sawyer, Sr.",Reginald,B.,Jones-Sawyer,Sr.,,True,ca,lower,59,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD59-Jones-Sawyer.jpg,2012-12-07 15:00:50.103000,2017-06-01 08:10:59.124000
+CAL000381,Marc Levine,Marc,,Levine,,,True,ca,lower,10,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD10-Levine_0.jpg,2012-12-07 15:00:50.110000,2017-06-01 08:10:59.413000
+CAL000385,Brian Maienschein,Brian,,Maienschein,,,True,ca,lower,77,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad77-brian_maienschein_120x150.jpg,2012-12-07 15:00:50.140000,2017-06-01 08:10:59.348000
+CAL000387,Jose Medina,Jose,,Medina,,,True,ca,lower,61,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD61-Medina_0.jpg,2012-12-07 15:00:50.155000,2017-06-01 08:10:59.416000
+CAL000388,Melissa A. Melendez,Melissa,A.,Melendez,,,True,ca,lower,67,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/MelissaMelendez.jpg,2012-12-07 15:00:50.163000,2017-06-01 08:10:59.273000
+CAL000391,Kevin Mullin,Kevin,,Mullin,,,True,ca,lower,22,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD22-Mullin.jpg,2012-12-07 15:00:50.185000,2017-06-01 08:10:59.199000
+CAL000393,Adrin Nazarian,Adrin,,Nazarian,,,True,ca,lower,46,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD46-Nazarian.jpg,2012-12-07 15:00:50.200000,2017-06-01 08:10:59.061000
+CAL000397,Jim Patterson,Jim,,Patterson,,,True,ca,lower,23,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD23-Jim_Patterson.jpg,2012-12-07 15:00:50.239000,2017-06-01 08:10:58.728000
+CAL000401,Bill Quirk,Bill,,Quirk,,,True,ca,lower,20,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD20-Quirk.jpg,2012-12-07 15:00:50.278000,2017-06-01 08:10:59.004000
+CAL000403,Anthony Rendon,Anthony,,Rendon,,,True,ca,lower,63,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad63-rendon_0.jpg,2012-12-07 15:00:50.297000,2017-06-01 08:09:06.278000
+CAL000404,Rudy Salas,Rudy,,Salas, Jr.,,True,ca,lower,32,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD32-Salas_0.jpg,2012-12-07 15:00:50.307000,2017-06-01 08:10:59.316000
+CAL000406,Mark Stone,Mark,,Stone,,,True,ca,lower,29,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad29.jpg,2012-12-07 15:00:50.326000,2017-06-01 08:10:59.339000
+CAL000407,Philip Y. Ting,Philip,Y.,Ting,,,True,ca,lower,19,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad19-ting_0.jpg,2012-12-07 15:00:50.334000,2017-06-01 08:10:59.399000
+CAL000410,Marie Waldron,Marie,,Waldron,,,True,ca,lower,75,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD75-Marie_Waldron.jpg,2012-12-07 15:00:50.361000,2017-06-01 08:10:59.372000
+CAL000411,Shirley N. Weber,Shirley,N.,Weber,,,True,ca,lower,79,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD79-Weber.jpg,2012-12-07 15:00:50.370000,2017-06-01 08:10:59.427000
+CAL000428,Freddie Rodriguez,Freddie,,Rodriguez,,,True,ca,lower,52,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD52_Rodriguez_0.jpg,2013-10-12 00:20:41.771000,2017-06-01 08:10:59.116000
+CAL000430,Sebastian Ridley-Thomas,Sebastian,,Ridley-Thomas,,,True,ca,lower,54,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad54.jpg,2013-12-11 09:48:07.957000,2017-06-01 08:10:59.280000
+CAL000431,Matthew Dababneh,Matthew,,Dababneh,,,True,ca,lower,45,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad45.jpg,2014-01-08 17:07:09.293000,2017-06-01 08:10:59.409000
+CAL000443,Jim Wood,Jim,,Wood,,,True,ca,lower,2,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD02_Wood_Portrait150_20141201_v2.jpg,2015-01-05 16:30:03.241000,2017-06-01 08:10:58.726000
+CAL000446,Autumn R. Burke,Autumn R.,,Burke,,,True,ca,lower,62,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD62_Burke_Portrait150_20141201_v2.jpg,2015-01-05 16:30:03.284000,2017-06-01 08:10:58.838000
+CAL000448,Kansen Chu,Kansen,,Chu,,,True,ca,lower,25,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad25.jpg,2015-01-05 16:30:03.305000,2017-06-01 08:10:59.261000
+CAL000449,Catharine B. Baker,Catharine B.,,Baker,,,True,ca,lower,16,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Baker_LDC_headshot.jpg,2015-01-05 16:30:03.333000,2017-06-01 08:10:59.206000
+CAL000452,David Chiu,David,,Chiu,,,True,ca,lower,17,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD17_Chiu_Portrait150_20141201.jpg,2015-01-05 16:30:03.375000,2017-06-01 08:10:59.244000
+CAL000454,Miguel Santiago,Miguel,,Santiago,,,True,ca,lower,53,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD53_Santiago_Portrait150_20141201.jpg,2015-01-05 16:30:03.421000,2017-06-01 08:10:58.927000
+CAL000455,Marc Steinorth,Marc,,Steinorth,,,True,ca,lower,40,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Steinorth_LDC_headshot.jpg,2015-01-05 16:30:03.433000,2017-06-01 08:10:59.242000
+CAL000456,Evan Low,Evan,,Low,,,True,ca,lower,28,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad28-low.jpg,2015-01-05 16:30:03.438000,2017-06-01 08:10:59.377000
+CAL000457,Jim Cooper,Jim,,Cooper,,,True,ca,lower,9,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD09_Cooper_Portrait150_20141201.jpg,2015-01-05 16:30:03.444000,2017-06-01 08:10:59.379000
+CAL000458,James Gallagher,James,,Gallagher,,,True,ca,lower,3,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Gallagher_LDC_headshot.jpg,2015-01-05 16:30:03.460000,2017-06-01 08:10:59.397000
+CAL000460,Matthew Harper,Matthew,,Harper,,,True,ca,lower,74,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Harper_LDC_headshot.jpg,2015-01-05 16:30:03.470000,2017-06-01 08:10:58.974000
+CAL000461,Eduardo Garcia,Eduardo,,Garcia,,,True,ca,lower,56,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD56_Garcia_Portrait150_20141201.jpg,2015-01-05 16:30:03.481000,2017-06-01 08:10:59.321000
+CAL000463,Devon J. Mathis,Devon J.,,Mathis,,,True,ca,lower,26,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/mathis.png,2015-01-05 16:30:03.502000,2017-06-01 08:10:59.326000
+CAL000464,Adam C. Gray,Adam C.,,Gray,,,True,ca,lower,21,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/gray.png,2015-01-05 16:30:03.508000,2017-06-01 08:09:06.274000
+CAL000465,Lorena S. Gonzalez Fletcher,Lorena S. Gonzalez,,Fletcher,,,True,ca,lower,80,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD80.jpg,2015-01-05 16:30:03.518000,2017-06-01 08:10:59.355000
+CAL000472,Patrick O'Donnell,Patrick,,O'Donnell,,,True,ca,lower,70,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD70_ODonnell_Portrait150_20141201.jpg,2015-01-05 16:30:03.611000,2017-06-01 08:10:59.434000
+CAL000473,Mike A. Gipson,Mike A.,,Gipson,,,True,ca,lower,64,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD64_Gipson_Portrait150_20141201.jpg,2015-01-05 16:30:03.622000,2017-06-01 08:10:59.259000
+CAL000476,William P. Brough,William P.,,Brough,,,True,ca,lower,73,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Brough_LDC_headshot.jpg,2015-01-05 16:30:03.660000,2017-06-01 08:10:59.208000
+CAL000478,Chad Mayes,Chad,,Mayes,,,True,ca,lower,42,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/Mayes_LDC_headshot.jpg,2015-01-05 16:30:03.687000,2017-06-01 08:10:59.079000
+CAL000481,Tom Lackey,Tom,,Lackey,,,True,ca,lower,36,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/lackey.png,2015-01-05 16:30:03.909000,2017-06-01 08:10:59.402000
+CAL000483,Kevin McCarty,Kevin,,McCarty,,,True,ca,lower,7,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD07_McCarty_Portrait150_20141201.jpg,2015-01-05 16:30:03.919000,2017-06-01 08:10:59.423000
+CAL000484,Jay Obernolte,Jay,,Obernolte,,,True,ca,lower,33,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/obernolte.png,2015-01-05 16:30:03.924000,2017-06-01 08:10:59.218000
+CAL000485,Tony Thurmond,Tony,,Thurmond,,,True,ca,lower,15,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD15_Thurmond_Portrait150_20141201.jpg,2015-01-05 16:30:03.934000,2017-06-01 08:10:59.436000
+CAL000488,Jacqui Irwin,Jacqui,,Irwin,,,True,ca,lower,44,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/AD44_Irwin_Portrait150_20141201.jpg,2015-01-05 16:30:03.973000,2017-06-01 08:10:59.213000
+CAL000500,Laura Friedman,Laura,,Friedman,,,True,ca,lower,43,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad43_friedman_roster150_20161205.jpg,2016-12-30 19:57:41.326000,2017-06-01 08:10:59.370000
+CAL000502,Heath Flora,Heath,,Flora,,,True,ca,lower,12,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/flora.jpg,2016-12-30 19:57:41.360000,2017-06-01 08:10:59.388000
+CAL000503,Vince Fong,Vince,,Fong,,,True,ca,lower,34,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/fong.jpg,2016-12-30 19:57:41.369000,2017-06-01 08:10:59.063000
+CAL000504,Anna M. Caballero,Anna M.,,Caballero,,,True,ca,lower,30,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad30_caballero_roster150_20161205.jpg,2016-12-30 19:57:41.390000,2017-06-01 08:10:59.365000
+CAL000506,Randy Voepel,Randy,,Voepel,,,True,ca,lower,71,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/voepel.jpg,2016-12-30 19:57:41.426000,2017-06-01 08:10:59.091000
+CAL000507,Dr. Joaquin Arambula,Joaquin,,Arambula,,,True,ca,lower,31,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad31_2.jpg,2016-12-30 19:57:41.453000,2017-06-01 08:10:59.188000
+CAL000508,"Steven S. Choi, PhD.",Steven S.,,Choi,PhD.,,True,ca,lower,68,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/choi.jpg,2016-12-30 19:57:41.464000,2017-06-01 08:09:06.352000
+CAL000513,Monique Limón,Monique,,Limón,,,True,ca,lower,37,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad37.jpg,2016-12-30 19:57:41.542000,2017-06-01 08:10:59.407000
+CAL000515,Eloise Gómez Reyes,Eloise Gómez,,Reyes,,,True,ca,lower,47,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad47_reyes_roster150_20161205.jpg,2016-12-30 19:57:41.560000,2017-06-01 08:10:59.270000
+CAL000516,Ash Kalra,Ash,,Kalra,,,True,ca,lower,27,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad27_karla_roster150_20161205.jpg,2016-12-30 19:57:41.569000,2017-06-01 08:10:59.344000
+CAL000517,Cecilia M. Aguiar-Curry,Cecilia M.,,Aguiar-Curry,,,True,ca,lower,4,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad04_aguiar-curry_roster150_20161205.jpg,2016-12-30 19:57:41.584000,2017-06-01 08:10:59.381000
+CAL000518,Dante Acosta,Dante,,Acosta,,,True,ca,lower,38,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/acosta.jpg,2016-12-30 19:57:41.589000,2017-06-01 08:10:59.265000
+CAL000519,Jordan Cunningham,Jordan,,Cunningham,,,True,ca,lower,35,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/cunningham.jpg,2016-12-30 19:57:41.601000,2017-06-01 08:10:59.186000
+CAL000520,Kevin Kiley,Kevin,,Kiley,,,True,ca,lower,6,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/kiley.jpg,2016-12-30 19:57:41.612000,2017-06-01 08:10:59.430000
+CAL000522,Timothy S. Grayson,Timothy S.,,Grayson,,,True,ca,lower,14,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad14_header.jpg,2016-12-30 19:57:41.635000,2017-06-01 08:10:59.184000
+CAL000523,Al Muratsuchi,Al,,Muratsuchi,,,True,ca,lower,66,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad66.jpg,2016-12-30 19:57:41.663000,2017-06-01 08:10:59.342000
+CAL000524,Sharon Quirk-Silva,Sharon,,Quirk-Silva,,,True,ca,lower,65,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad65_quirk-silva_roster150_20161205.jpg,2016-12-30 19:57:41.669000,2017-06-01 08:10:58.925000
+CAL000525,Sabrina Cervantes,Sabrina,,Cervantes,,,True,ca,lower,60,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad60_cervantes_roster150_20161205.jpg,2016-12-30 19:57:41.680000,2017-06-01 08:10:59.411000
+CAL000526,Raul Bocanegra,Raul,,Bocanegra,,,True,ca,lower,39,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad39_bocanegra_roster150_20161205.jpg,2016-12-30 19:57:41.699000,2017-06-01 08:10:59.249000
+CAL000527,Todd Gloria,Todd,,Gloria,,,True,ca,lower,78,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad78_gloria_roster150_20161205.jpg,2016-12-30 19:57:41.704000,2017-06-01 08:10:59.425000
+CAL000528,Marc Berman,Marc,,Berman,,,True,ca,lower,24,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/ad24_berman_roster150_20161205.jpg,2016-12-30 19:57:41.710000,2017-06-01 08:10:59.353000
+CAL000529,Blanca E. Rubio,Blanca E.,,Rubio,,,True,ca,lower,48,Democratic,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/rubio.jpg,2016-12-30 19:57:41.721000,2017-06-01 08:10:59.374000
+CAL000530,Phillip Chen,Phillip,,Chen,,,True,ca,lower,55,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/chen.jpg,2016-12-30 19:57:41.726000,2017-06-01 08:10:59.047000
+CAL000534,"Steven S. Choi, Ph.D.",Steven S.,,Choi,Ph.D.,,True,ca,lower,68,Republican,http://assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/choi.jpg,2017-05-16 08:04:37.969000,2017-06-01 08:09:06.351000
+CAL000049,Ed Hernandez,Ed,,Hernandez,,,True,ca,upper,22,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hernandez-ed.jpg,2010-07-09 17:19:48.874000,2017-06-01 08:09:06.373000
+CAL000051,Jim Beall,Jim,,Beall,,,True,ca,upper,15,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/beall-jim_0.jpg,2012-01-31 19:25:09.158000,2017-06-01 08:09:06.382000
+CAL000057,Kevin De León,Kevin,,de León,,,True,ca,upper,24,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/deleon-kevin.jpg,2010-07-09 17:19:48.887000,2017-06-01 08:09:06.391000
+CAL000062,Cathleen Galgiani,Cathleen,,Galgiani,,,True,ca,upper,5,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/galgiani-cathleen.jpg,2012-01-31 19:25:09.490000,2017-06-01 08:09:06.370000
+CAL000083,Jerry Hill,Jerry,,Hill,,,True,ca,upper,13,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hill-jerry.jpg,2012-01-31 19:25:09.646000,2017-06-01 08:09:06.381000
+CAL000085,Tom Berryhill,Tom,,Berryhill,,,True,ca,upper,8,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/berryhill-tom.jpg,2010-07-09 17:19:48.952000,2017-06-01 08:09:06.406000
+CAL000087,Jean Fuller,Jean,,Fuller,,,True,ca,upper,16,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/jean-fuller.jpg,2010-07-09 17:19:48.955000,2017-06-01 08:09:06.378000
+CAL000091,Tony Mendoza,Tony,,Mendoza,,,True,ca,upper,32,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mendoza-tony.jpg,2012-01-31 19:25:09.800000,2017-06-01 08:09:06.409000
+CAL000102,Ted Gaines,Ted,,Gaines,,,True,ca,upper,1,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/gaines-ted.jpg,2012-02-01 17:12:58.352000,2017-06-01 08:09:06.405000
+CAL000103,Jim Nielsen,Jim,,Nielsen,,,True,ca,upper,4,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/nielsen-jim.jpg,2012-01-31 19:25:09.883000,2017-06-01 08:09:06.383000
+CAL000107,William W Monning,Bill,W,Monning,,,True,ca,upper,17,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/monning-bill.jpg,2012-01-31 19:25:09.839000,2017-06-01 08:09:06.410000
+CAL000116,Joel Anderson,Joel,,Anderson,,,True,ca,upper,38,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/anderson-joel.jpg,2010-07-09 17:19:49.025000,2017-06-01 08:09:06.384000
+CAL000133,Anthony Cannella,Anthony,,Cannella,,,True,ca,upper,12,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/cannella-anthony.jpg,2012-01-31 19:25:08.617000,2017-06-01 08:09:06.364000
+CAL000141,Ben Hueso,Ben,,Hueso,,,True,ca,upper,40,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/hueso-ben.jpg,2012-01-31 19:25:09.672000,2017-06-01 08:09:06.366000
+CAL000149,Richard Pan,Richard,,Pan,,,True,ca,upper,6,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/pan-richard.jpg,2012-01-31 19:25:09.921000,2017-06-01 08:09:06.399000
+CAL000154,Mike Morrell,Mike,,Morrell,,,True,ca,upper,23,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/morrell-mike.jpg,2012-01-31 19:25:09.852000,2017-06-01 08:09:06.393000
+CAL000155,Ricardo Lara,Ricardo,,Lara,,,True,ca,upper,33,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/laraheadpic.jpg,2012-01-31 19:25:09.736000,2017-06-01 08:09:06.396000
+CAL000167,Bob Wieckowski,Bob,,Wieckowski,,,True,ca,upper,10,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wieckowski-bob.jpg,2012-01-31 19:25:10.096000,2017-06-01 08:09:06.369000
+CAL000316,Hannah-Beth Jackson,Hannah-Beth,,Jackson,,,True,ca,upper,19,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/jackson-hannah-beth.jpg,2012-12-07 15:00:49.435000,2017-06-01 08:09:06.374000
+CAL000327,Richard D. Roth,Richard D.,,Roth,,,True,ca,upper,31,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/roth-richard.jpg,2012-12-07 15:00:49.714000,2017-06-01 08:09:06.397000
+CAL000426,Andy Vidak,Andy,,Vidak,,,True,ca,upper,14,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/vidak-andy.jpg,2013-08-13 01:52:11.532000,2017-06-01 08:09:06.363000
+CAL000444,Holly J. Mitchell,Holly J.,,Mitchell,,,True,ca,upper,30,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mitchell-holly.jpg,2015-01-05 16:30:03.258000,2017-06-01 08:09:06.376000
+CAL000447,Mike McGuire,Mike,,McGuire,,,True,ca,upper,2,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mcguire-mike.jpg,2015-01-05 16:30:03.289000,2017-06-01 08:09:06.392000
+CAL000466,Connie M. Leyva,Connie M.,,Leyva,,,True,ca,upper,20,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senator-leyva.jpg,2015-01-05 16:30:03.523000,2017-06-01 08:09:06.372000
+CAL000469,Janet Nguyen,Janet,,Nguyen,,,True,ca,upper,34,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/nguyen-janet.jpg,2015-01-05 16:30:03.585000,2017-06-01 08:09:06.377000
+CAL000475,Patricia C. Bates,Patricia C.,,Bates,,,True,ca,upper,36,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/bates-patricia.jpg,2015-01-05 16:30:03.655000,2017-06-01 08:09:06.395000
+CAL000482,Robert M. Hertzberg,Robert M.,,Hertzberg,,,True,ca,upper,18,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/sd18_hertzberg_2.jpg,2015-01-05 16:30:03.914000,2017-06-01 08:09:06.400000
+CAL000486,Jeff Stone,Jeff,,Stone,,,True,ca,upper,28,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/jeff-stone.jpg,2015-01-05 16:30:03.945000,2017-06-01 08:09:06.380000
+CAL000490,Benjamin Allen,Benjamin,,Allen,,,True,ca,upper,26,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/ben-allen.jpg,2015-01-05 16:30:03.988000,2017-06-01 08:09:06.367000
+CAL000494,John M. W. Moorlach,John M. W.,,Moorlach,,,True,ca,upper,37,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/moorlach_sd37.jpg,2015-03-23 23:15:13.121000,2017-06-01 08:09:06.389000
+CAL000495,Steven M. Glazer,Steven M.,,Glazer,,,True,ca,upper,7,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/glazer-steven.jpg,2015-05-28 23:16:40.236000,2017-06-01 08:09:06.404000
+CAL000501,Nancy Skinner,Nancy,,Skinner,,,True,ca,upper,9,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/skinner.jpg,2016-12-30 19:57:41.344000,2017-06-01 08:09:06.394000
+CAL000505,Scott Wilk,Scott,,Wilk,,,True,ca,upper,21,Republican,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wilk.jpg,2016-12-30 19:57:41.401000,2017-06-01 08:09:06.402000
+CAL000509,Henry I. Stern,Henry I.,,Stern,,,True,ca,upper,27,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/stern.jpg,2016-12-30 19:57:41.478000,2017-06-01 08:09:06.375000
+CAL000510,Steven Bradford,Steven,,Bradford,,,True,ca,upper,35,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/bradford.jpg,2016-12-30 19:57:41.484000,2017-06-01 08:09:06.403000
+CAL000511,Toni G. Atkins,Toni G.,,Atkins,,,True,ca,upper,39,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/atkins_toni.jpg,2016-12-30 19:57:41.522000,2017-06-01 08:09:06.408000
+CAL000512,Scott D. Wiener,Scott D.,,Wiener,,,True,ca,upper,11,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/wiener.jpg,2016-12-30 19:57:41.536000,2017-06-01 08:09:06.401000
+CAL000514,Bill Dodd,Bill,,Dodd,,,True,ca,upper,3,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/dodd.jpg,2016-12-30 19:57:41.554000,2017-06-01 08:09:06.368000
+CAL000521,Josh Newman,Josh,,Newman,,,True,ca,upper,29,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/newman.jpg,2016-12-30 19:57:41.629000,2017-06-01 08:09:06.390000
+CAL000531,Anthony J. Portantino,Anthony J.,,Portantino,,,True,ca,upper,25,Democratic,http://senate.ca.gov/sites/senate.ca.gov/files/senator_photos/portantino.jpg,2016-12-30 19:57:41.732000,2017-06-01 08:09:06.365000

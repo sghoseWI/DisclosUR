@@ -1,0 +1,262 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+WVL000001,Orphy Klempa,Orphy,,Klempa,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/senate/klempa_orphy.jpg,2011-07-25 15:16:19.184000,2013-01-08 00:08:22.034000
+WVL000002,Jack Yost,Jack,,Yost,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/senate/yost_jack.jpg,2011-07-25 15:16:19.197000,2017-01-13 05:05:19.298000
+WVL000003,Larry Edgell,Larry J.,,Edgell,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/senate/edgell_larry.jpg,2011-07-25 15:16:19.201000,2015-01-14 21:45:33.450000
+WVL000004,Jeffrey Kessler,Jeffrey,,Kessler,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/senate/kessler_jeffrey.jpg,2011-07-25 15:16:19.203000,2017-01-13 05:05:19.300000
+WVL000006,David Nohe,David,,Nohe,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2015/senate/nohe_david.jpg,2011-07-25 15:16:19.209000,2015-12-11 22:56:36.588000
+WVL000007,Karen Facemyer,Karen,,Facemyer,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/senate/facemyer_karen.jpg,2011-07-25 15:16:19.228000,2013-01-08 00:08:22.022000
+WVL000009,Evan Jenkins,Evan H.,,Jenkins,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/senate/jenkins_evan.jpg,2011-07-25 15:16:19.235000,2015-01-14 21:45:33.456000
+WVL000011,H. Chafin,H. Truman,,Chafin,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/senate/chafin_h.jpg,2011-07-25 15:16:19.242000,2015-01-14 21:45:33.458000
+WVL000012,John Fanning,John,,Fanning,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/senate/fanning_john.jpg,2011-07-25 15:16:19.245000,2013-01-08 00:08:22.023000
+WVL000014,Earl Tomblin,Earl,,Tomblin,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2011/senate/tomblin_earl.jpg,2011-07-25 15:16:19.259000,2012-06-06 15:50:18.292000
+WVL000015,Dan Foster,Dan,,Foster,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/senate/foster_dan.jpg,2011-07-25 15:16:19.263000,2013-01-08 00:08:22.024000
+WVL000016,Brooks McCabe,Brooks,,McCabe,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/senate/mccabe_brooks.jpg,2011-07-25 15:16:19.266000,2015-01-14 21:45:33.448000
+WVL000018,Erik Wells,Erik,,Wells,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/senate/wells_erik.jpg,2011-07-25 15:16:19.277000,2015-01-14 21:45:33.462000
+WVL000019,D. Browning,D.,,Browning,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/senate/browning_d.jpg,2011-07-25 15:16:19.281000,2013-01-08 00:08:22.025000
+WVL000020,Mike Green,Mike,,Green,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/senate/green_mike.jpg,2011-07-25 15:16:19.284000,2015-01-14 21:45:33.465000
+WVL000022,Mark Wills,Mark,,Wills,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/senate/wills_mark.jpg,2011-07-25 15:16:19.292000,2013-01-08 00:08:22.027000
+WVL000023,William Laird,William R.,,Laird,IV,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/senate/laird_william.jpg,2011-07-25 15:16:19.295000,2017-01-13 05:05:19.301000
+WVL000024,Gregory Tucker,Gregory A.,,Tucker,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/senate/tucker_gregory.jpg,2011-07-25 15:16:19.299000,2015-01-14 21:45:33.419000
+WVL000026,Joseph Minard,Joseph,,Minard,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2013/senate/minard_joseph.jpg,2011-07-25 15:16:19.317000,2013-02-06 15:20:52.751000
+WVL000030,Bob Williams,Bob,,Williams,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/senate/williams_bob.jpg,2011-07-25 15:16:19.357000,2017-01-13 05:05:19.294000
+WVL000031,Clark Barnes,Clark S.,,Barnes,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/senate/barnes_clark.jpg,2011-07-25 15:16:19.380000,2015-01-14 21:45:33.422000
+WVL000032,Walt Helmick,Walt,,Helmick,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2013/senate/helmick_walt.jpg,2011-07-25 15:16:19.395000,2013-02-06 15:26:05.852000
+WVL000033,Herb Snyder,Herb,,Snyder,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/senate/snyder_herb.jpg,2011-07-25 15:16:19.399000,2017-01-13 05:05:19.296000
+WVL000035,Ronnie Jones,Ronnie D.,,Jones,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/jones_ronnie.jpg,2011-07-25 15:16:19.405000,2015-01-14 21:45:33.335000
+WVL000036,Randy Swartzmiller,Randy,,Swartzmiller,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/swartzmiller_randy.jpg,2011-07-25 15:16:19.409000,2015-01-14 21:45:33.338000
+WVL000037,Timothy Ennis,Timothy,,Ennis,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/ennis_timothy.jpg,2011-07-25 15:16:19.412000,2012-06-06 15:51:57.369000
+WVL000038,Roy Givens,Roy,,Givens,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/givens_roy.jpg,2011-07-25 15:16:19.415000,2013-01-08 00:08:20.574000
+WVL000042,Scott Varner,Scott,,Varner,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/varner_scott.jpg,2011-07-25 15:16:19.428000,2013-01-08 00:08:20.735000
+WVL000045,Lynwood Ireland,Lynwood,,Ireland,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/ireland_lynwood.jpg,2011-07-25 15:16:19.440000,2017-01-13 05:05:19.262000
+WVL000047,Anna Border,Anna,,Border-Sheppard,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/bordersheppard_anna.jpg,2011-07-25 15:16:19.446000,2017-01-13 05:05:19.199000
+WVL000048,Tom Azinger,Tom,,Azinger,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/azinger_tom.jpg,2011-07-25 15:16:19.458000,2015-01-14 21:45:33.340000
+WVL000049,John Ellem,John N.,,Ellem,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/ellem_john.jpg,2011-07-25 15:16:19.461000,2015-01-14 21:45:33.342000
+WVL000050,Daniel Poling,Daniel,,Poling,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/poling_daniel.jpg,2011-07-25 15:16:19.464000,2015-01-14 21:45:33.345000
+WVL000051,Bob Ashley,Bob,,Ashley,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/senate/ashley_bob.jpg,2011-07-25 15:16:19.467000,2017-01-13 05:05:19.292000
+WVL000053,Helen Martin,Helen,,Martin,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/martin_helen.jpg,2011-07-25 15:16:19.474000,2013-01-08 00:08:20.741000
+WVL000054,Brady Paxton,Brady,,Paxton,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/paxton_brady.jpg,2011-07-25 15:16:19.477000,2015-01-14 21:45:33.347000
+WVL000055,Troy Andes,Troy,,Andes,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/andes_troy.jpg,2011-07-25 15:16:19.480000,2015-01-14 21:45:33.350000
+WVL000056,Brian Savilla,Brian,,Savilla,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/savilla_brian.jpg,2011-07-25 15:16:19.483000,2013-01-08 00:08:20.739000
+WVL000057,Kevin Craig,Kevin J.,,Craig,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/craig_kevin.jpg,2011-07-25 15:16:19.486000,2015-01-14 21:45:33.352000
+WVL000059,Jim Morgan,Jim,,Morgan,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/morgan_jim.jpg,2011-07-25 15:16:19.494000,2017-01-13 05:05:19.236000
+WVL000060,Doug Reynolds,Doug,,Reynolds,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/reynolds_doug.jpg,2011-07-25 15:16:19.497000,2017-01-13 05:05:19.233000
+WVL000062,Dale Stephens,Dale,,Stephens,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/stephens_dale.jpg,2011-07-25 15:16:19.504000,2015-01-14 21:45:33.354000
+WVL000063,Don Perdue,Don,,Perdue,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/perdue_don.jpg,2011-07-25 15:16:19.507000,2017-01-13 05:05:19.228000
+WVL000064,Richard Thompson,Rick,,Thompson,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/thompson_rick.jpg,2011-07-25 15:16:19.512000,2013-06-19 13:24:28.233000
+WVL000065,Larry Barker,Larry,,Barker,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/barker_larry.jpg,2011-07-25 15:16:19.516000,2014-12-09 01:21:09.487000
+WVL000066,Greg Butcher,Greg,,Butcher,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/butcher_greg.jpg,2011-07-25 15:16:19.519000,2013-01-08 00:08:21.899000
+WVL000069,Josh Stowers,Josh,,Stowers,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/stowers_josh.jpg,2011-07-25 15:16:19.538000,2014-12-09 01:21:09.496000
+WVL000070,K. Kominar,K.,,Kominar,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/kominar_k.jpg,2011-07-25 15:16:19.541000,2012-06-06 15:57:51.914000
+WVL000071,Harry White,Harry Keith,,White,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2015/house/white_harry.jpg,2011-07-25 15:16:19.545000,2016-02-05 02:05:33.650000
+WVL000072,Daniel Hall,Daniel J.,,Hall,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2015/senate/hall_daniel.jpg,2011-07-25 15:16:19.548000,2016-06-20 14:40:34.307000
+WVL000073,Linda Phillips,Linda Goode,,Phillips,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2015/house/phillips_linda.jpg,2011-07-25 15:16:19.553000,2016-02-05 02:07:26.322000
+WVL000074,Clif Moore,Clif,,Moore,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/moore_clif.jpg,2011-07-25 15:16:19.559000,2017-01-13 05:05:19.208000
+WVL000077,John Frazier,John,,Frazier,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/frazier_john.jpg,2011-07-25 15:16:19.588000,2013-01-08 00:08:21.904000
+WVL000078,Gerald Crosier,Gerald,,Crosier,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/crosier_gerald.jpg,2011-07-25 15:16:19.591000,2013-01-08 00:08:21.870000
+WVL000079,Virginia Mahan,Virginia,,Mahan,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/mahan_virginia.jpg,2011-07-25 15:16:19.594000,2013-01-08 00:08:21.906000
+WVL000082,Rick Snuffer,Rick,,Snuffer,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/snuffer_rick.jpg,2011-07-25 15:16:19.604000,2013-01-08 00:08:21.876000
+WVL000083,Linda Sumner,Linda,,Sumner,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/sumner_linda.jpg,2011-07-25 15:16:19.607000,2015-01-14 21:45:33.367000
+WVL000084,Thomas Campbell,Thomas,,Campbell,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/campbell_thomas.jpg,2011-07-25 15:16:19.620000,2013-01-08 00:08:21.908000
+WVL000085,Ray Canterbury,Ray,,Canterbury,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/canterbury_ray.jpg,2011-07-25 15:16:19.624000,2017-01-13 05:05:19.277000
+WVL000086,David Perry,David G.,,Perry,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/perry_david.jpg,2011-07-25 15:16:19.627000,2017-01-13 05:05:19.224000
+WVL000087,John Pino,John,,Pino,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/pino_john.jpg,2011-07-25 15:16:19.630000,2015-01-14 21:45:33.372000
+WVL000088,Margaret Staggers,Margaret Anne,,Staggers,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/staggers_margaret.jpg,2011-07-25 15:16:19.634000,2015-01-14 21:45:33.374000
+WVL000089,Bonnie Brown,Bonnie,,Brown,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/brown_bonnie.jpg,2011-07-25 15:16:19.636000,2013-01-08 00:08:21.880000
+WVL000090,Nancy Guthrie,Nancy Peoples,,Guthrie,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/guthrie_nancy.jpg,2011-07-25 15:16:19.640000,2017-01-13 05:05:19.267000
+WVL000091,Barbara Hatfield,Barbara,,Hatfield,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/hatfield_barbara.jpg,2011-07-25 15:16:19.644000,2013-01-08 00:08:21.883000
+WVL000092,Mark Hunt,Mark,,Hunt,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/hunt_mark.jpg,2011-07-25 15:16:19.650000,2015-01-14 21:45:33.385000
+WVL000094,Doug Skaff,Doug,,Skaff,Jr.,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/skaff_doug.jpg,2011-07-25 15:16:19.656000,2015-01-14 21:45:33.379000
+WVL000095,Danny Wells,Danny,,Wells,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/wells_danny.jpg,2011-07-25 15:16:19.659000,2015-01-14 21:45:33.383000
+WVL000096,Meshea Poore,Meshea L.,,Poore,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/poore_meshea.jpg,2011-07-25 15:16:19.663000,2015-01-14 21:45:33.387000
+WVL000098,Patrick Lane,Patrick,,Lane,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/lane_patrick.jpg,2011-07-25 15:16:19.669000,2017-01-13 05:05:19.269000
+WVL000100,David Walker,David,,Walker,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/walker_david.jpg,2011-07-25 15:16:19.674000,2015-01-14 21:45:33.376000
+WVL000102,Harold Sigler,Harold,,Sigler,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/sigler_harold.jpg,2011-07-25 15:16:19.681000,2013-01-08 00:08:21.885000
+WVL000103,Joe Talbott,Joe,,Talbott,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/talbott_joe.jpg,2011-07-25 15:16:19.684000,2013-01-08 00:08:21.929000
+WVL000104,Denise Campbell,Denise L.,,Campbell,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/campbell_denise.jpg,2011-07-25 15:16:19.687000,2017-01-13 05:05:19.226000
+WVL000106,Margaret Smith,Margaret Donaldson,,Smith,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/smith_margaret.jpg,2011-07-25 15:16:19.692000,2015-01-14 21:45:33.392000
+WVL000108,Mary Poling,Mary M.,,Poling,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/poling_mary.jpg,2011-07-25 15:16:19.699000,2015-01-14 21:45:33.394000
+WVL000109,Samuel Cann,Sam,,Cann,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/senate/cann_sam.jpg,2011-07-25 15:16:19.708000,2015-01-14 21:45:33.424000
+WVL000110,Ron Fragale,Ron,,Fragale,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/fragale_ron.jpg,2011-07-25 15:16:19.711000,2015-01-14 21:45:33.396000
+WVL000111,Richard Iaquinta,Richard J.,,Iaquinta,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/iaquinta_richard.jpg,2011-07-25 15:16:19.714000,2015-01-14 21:45:33.398000
+WVL000113,Mike Manypenny,Mike,,Manypenny,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/manypenny_mike.jpg,2011-07-25 15:16:19.720000,2015-01-14 21:45:33.401000
+WVL000116,Tim Manchin,Tim,,Manchin,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/manchin_tim.jpg,2011-07-25 15:16:19.730000,2017-01-13 05:05:19.288000
+WVL000117,Anthony Barill,Anthony,,Barill,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/barill_anthony.jpg,2011-07-25 15:16:19.733000,2015-01-14 21:45:33.403000
+WVL000119,Charlene Marshall,Charlene,,Marshall,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/marshall_charlene.jpg,2011-07-25 15:16:19.740000,2015-01-14 21:45:33.405000
+WVL000120,Amanda Pasdon,Amanda,,Pasdon,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2015/house/pasdon_amanda.jpg,2011-07-25 15:16:19.743000,2016-02-05 02:07:50.101000
+WVL000121,Larry Williams,Larry A.,,Williams,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2015/house/williams_larry.jpg,2011-07-25 15:16:19.746000,2016-06-20 14:40:34.308000
+WVL000122,Stan Shaver,Stan,,Shaver,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/shaver_stan.jpg,2011-07-25 15:16:19.750000,2013-01-08 00:08:22.009000
+WVL000123,Harold Michael,Harold,,Michael,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/michael_harold.jpg,2011-07-25 15:16:19.753000,2013-01-08 00:08:21.891000
+WVL000128,Larry Kump,Larry D.,,Kump,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/kump_larry.jpg,2011-07-25 15:16:19.783000,2015-01-14 21:45:33.407000
+WVL000129,Jonathan Miller,Jonathan,,Miller,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/miller_jonathan.jpg,2011-07-25 15:16:19.786000,2013-01-08 00:08:22.014000
+WVL000130,Walter Duke,Walter,,Duke,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/duke_walter.jpg,2011-07-25 15:16:19.789000,2017-01-13 05:05:19.289000
+WVL000133,John Doyle,John,,Doyle,,,False,wv,,,,http://www.legis.state.wv.us/images/members/2012/house/doyle_john.jpg,2011-07-25 15:16:19.798000,2013-01-08 00:08:22.019000
+WVL000134,Tiffany Lawrence,Tiffany E.,,Lawrence,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/lawrence_tiffany.jpg,2011-07-25 15:16:19.801000,2015-01-14 21:45:33.412000
+WVL000135,Art Kirkendoll,Art,,Kirkendoll,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/senate/kirkendoll_art.jpg,2012-01-10 02:48:31.526000,2017-01-13 05:05:19.291000
+WVL000138,Phil Diserio,Phil,,Diserio,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/diserio_phil.jpg,2012-01-25 01:26:57.751000,2015-01-14 21:45:33.359000
+WVL000140,Rocky Fitzsimmons,Rocky,,Fitzsimmons,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/senate/fitzsimmons_rocky.jpg,2013-01-08 00:08:19.138000,2015-01-14 21:45:33.414000
+WVL000142,Bill Cole,Bill,,Cole,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/senate/cole_bill.jpg,2013-01-08 00:08:19.227000,2015-01-14 21:45:33.460000
+WVL000143,Chris Walters,Chris,,Walters,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/senate/walters_chris.jpg,2013-01-08 00:08:19.249000,2017-01-13 05:05:19.295000
+WVL000149,David Evans,David,,Evans,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/evans_david.jpg,2013-01-08 00:08:19.443000,2017-01-13 05:05:19.210000
+WVL000151,Scott Cadle,Scott,,Cadle,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/cadle_scott.jpg,2013-01-08 00:08:19.541000,2017-01-13 05:05:19.280000
+WVL000164,Joshua Nelson,Joshua,,Nelson,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/nelson_joshua.jpg,2013-01-08 00:08:19.658000,2017-01-13 05:05:19.247000
+WVL000166,Ted Tomblin,Ted,,Tomblin,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/tomblin_ted.jpg,2013-01-08 00:08:19.671000,2015-01-14 21:45:33.363000
+WVL000176,Karen Arvon,Karen,,Arvon,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/arvon_karen.jpg,2013-01-08 00:08:19.742000,2015-01-14 21:45:33.370000
+WVL000180,John B. McCuskey,John B.,,McCuskey,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/mccuskey_john.jpg,2013-01-08 00:08:19.795000,2017-01-13 05:05:19.246000
+WVL000182,Suzette Raines,Suzette,,Raines,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/raines_suzette.jpg,2013-01-08 00:08:19.809000,2015-01-14 21:45:33.381000
+WVL000191,Adam R. Young,Adam R.,,Young,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/young_adam.jpg,2013-01-08 00:08:19.873000,2015-01-14 21:45:33.390000
+WVL000214,Randy E. Smith,Randy E.,,Smith,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/smith_randy.jpg,2013-01-08 00:08:20.093000,2017-01-13 05:05:19.276000
+WVL000221,Larry Faircloth,Larry,,Faircloth,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/faircloth_larry.jpg,2013-01-08 00:08:20.147000,2017-01-13 05:05:19.252000
+WVL000222,Jason Barrett,Jason,,Barrett,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/barrett_jason.jpg,2013-01-08 00:08:20.155000,2015-01-14 21:45:33.409000
+WVL000228,Stephen Skinner,Stephen,,Skinner,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/skinner_stephen.jpg,2013-01-08 00:08:20.260000,2017-01-13 05:05:19.281000
+WVL000231,Donald H. Cookman,Donald H.,,Cookman,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/senate/cookman_donald.jpg,2013-02-01 01:28:55.589000,2015-01-14 21:45:33.445000
+WVL000280,Tim Kinsey,Tim,,Kinsey,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/kinsey_tim.jpg,2013-06-19 05:11:54.385000,2015-01-14 21:45:33.357000
+WVL000281,Joshua J. Barker,Joshua J.,,Barker,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2013/house/barker_joshua.jpg,2013-08-06 04:51:24.318000,2015-01-14 21:45:33.361000
+WVL000288,Patsy Samuel Trecost II,Patsy Samuel,,Trecost,II,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/trecost_patsy.jpg,2015-01-14 21:45:31.443000,2017-01-13 05:05:19.272000
+WVL000292,Chris Stansbury,Chris,,Stansbury,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/stansbury_chris.jpg,2015-01-14 21:45:31.589000,2017-01-13 05:05:19.207000
+WVL000297,Peggy Donaldson Smith,Peggy Donaldson,,Smith,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/smith_peggy.jpg,2015-01-14 21:45:31.712000,2017-01-13 05:05:19.273000
+WVL000306,Michel Moffatt,Michel,,Moffatt,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/moffatt_michel.jpg,2015-01-14 21:45:32.219000,2017-01-13 05:05:19.265000
+WVL000313,Ryan Weld,Ryan,,Weld,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/weld_ryan.jpg,2015-01-14 21:45:32.399000,2017-01-13 05:05:19.278000
+WVL000315,Kent Leonhardt,Kent,,Leonhardt,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2017/senate/leonhardt_kent.jpg,2015-01-14 21:45:32.431000,2017-06-01 05:07:12.641000
+WVL000318,Mike Azinger,Mike,,Azinger,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/azinger_mike.jpg,2015-01-14 21:45:32.564000,2017-01-13 05:05:19.266000
+WVL000319,Brian Kurcaba,Brian,,Kurcaba,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/kurcaba_brian.jpg,2015-01-14 21:45:32.651000,2017-01-13 05:05:19.205000
+WVL000320,William P. Cole III,William P.,,Cole,III,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/senate/cole_william.jpg,2015-01-14 21:45:32.685000,2017-01-13 05:05:19.303000
+WVL000321,Michael Ihle,Michael,,Ihle,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/ihle_michael.jpg,2015-01-14 21:45:32.718000,2017-01-13 05:05:19.263000
+WVL000331,Terry Waxman,Terry,,Waxman,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/waxman_terry.jpg,2015-01-14 21:45:32.915000,2017-01-13 05:05:19.287000
+WVL000338,Steven Shaffer,Steven,,Shaffer,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/shaffer_steven.jpg,2015-05-06 00:24:12.186000,2017-01-13 05:05:19.285000
+WVL000342,Frank L. Blackwell,Frank L.,,Blackwell,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/blackwell_frank.jpg,2016-01-20 05:21:09.731000,2017-01-13 05:05:19.235000
+WVL000343,Bill Flanigan,Bill,,Flanigan,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/flanigan_bill.jpg,2016-01-20 05:21:09.739000,2017-01-13 05:05:19.203000
+WVL000344,Phyllis White,Phyllis,,White,,,False,wv,,,,http://www.legis.state.wv.us/../images/members/2016/house/white_phyllis.jpg,2016-01-20 05:21:09.912000,2017-01-13 05:05:19.275000
+WVL000040,Erikka Storch,Erikka,,Storch,,,True,wv,lower,3,Republican,http://www.legis.state.wv.us/images/members/2017/house/storch_erikka.jpg,2011-07-25 15:16:19.421000,2017-06-01 05:07:40.758000
+WVL000041,Michael Ferro,Michael T.,,Ferro,,,True,wv,lower,4,Democratic,http://www.legis.state.wv.us/images/members/2017/house/ferro_michael.jpg,2011-07-25 15:16:19.425000,2017-06-01 05:07:40.696000
+WVL000043,Dave Pethtel,David,,Pethtel,,,True,wv,lower,5,Democratic,http://www.legis.state.wv.us/images/members/2017/house/pethtel_dave.jpg,2011-07-25 15:16:19.431000,2017-06-01 05:07:40.968000
+WVL000044,William Romine,William R.,,Romine,,,True,wv,lower,6,Republican,http://www.legis.state.wv.us/images/members/2017/house/romine_william.jpg,2011-07-25 15:16:19.435000,2017-06-01 05:07:12.755000
+WVL000046,Bill Anderson,William,,Anderson,,,True,wv,lower,8,Republican,http://www.legis.state.wv.us/images/members/2017/house/anderson_bill.jpg,2011-07-25 15:16:19.444000,2017-06-01 05:07:40.975000
+WVL000058,Carol Miller,Carol,,Miller,,,True,wv,lower,16,Republican,http://www.legis.state.wv.us/images/members/2017/house/miller_carol.jpg,2011-07-25 15:16:19.489000,2017-06-01 05:07:40.748000
+WVL000061,Kelli Sobonya,Kelli,,Sobonya,,,True,wv,lower,18,Republican,http://www.legis.state.wv.us/images/members/2017/house/sobonya_kelli.jpg,2011-07-25 15:16:19.500000,2017-06-01 05:07:40.215000
+WVL000067,Rupert Phillips,Rupert,,Phillips,Jr.,,True,wv,lower,24,Republican,http://www.legis.state.wv.us/images/members/2017/house/phillips_rupert.jpg,2011-07-25 15:16:19.532000,2017-06-01 05:07:40.366000
+WVL000068,Ralph Rodighiero,Ralph,,Rodighiero,,,True,wv,lower,24,Democratic,http://www.legis.state.wv.us/images/members/2017/house/rodighiero_ralph.jpg,2011-07-25 15:16:19.535000,2017-06-01 05:07:40.093000
+WVL000075,Marty Gearheart,Marty,,Gearheart,,,True,wv,lower,27,Republican,http://www.legis.state.wv.us/images/members/2017/house/gearheart_marty.jpg,2011-07-25 15:16:19.582000,2017-06-01 05:07:40.796000
+WVL000076,Joe Ellington,Joe,,Ellington,,,True,wv,lower,27,Republican,http://www.legis.state.wv.us/images/members/2017/house/ellington_joe.jpg,2011-07-25 15:16:19.585000,2017-06-01 05:07:40.763000
+WVL000080,Ricky Moye,Rick,,Moye,,,True,wv,lower,29,Democratic,http://www.legis.state.wv.us/images/members/2017/house/moye_rick.jpg,2011-07-25 15:16:19.597000,2017-06-01 05:07:40.784000
+WVL000081,John O'Neal,John D.,,O'Neal,IV,,True,wv,lower,28,Republican,http://www.legis.state.wv.us/images/members/2017/house/oneal_john.jpg,2011-07-25 15:16:19.600000,2017-06-01 05:07:40.971000
+WVL000093,Eric Nelson,Eric,,Nelson,,,True,wv,lower,35,Republican,http://www.legis.state.wv.us/images/members/2017/house/nelson_eric.jpg,2011-07-25 15:16:19.654000,2017-06-01 05:07:40.794000
+WVL000097,Tim Armstead,Tim,,Armstead,,,True,wv,lower,40,Republican,http://www.legis.state.wv.us/images/members/2017/house/armstead_tim.jpg,2011-07-25 15:16:19.666000,2017-06-01 05:07:40.672000
+WVL000099,Ron Walters,Ron,,Walters,,,True,wv,lower,39,Republican,http://www.legis.state.wv.us/images/members/2017/house/walters_ron.jpg,2011-07-25 15:16:19.671000,2017-06-01 05:07:40.980000
+WVL000101,Brent Boggs,Brent,,Boggs,,,True,wv,lower,34,Democratic,http://www.legis.state.wv.us/images/members/2017/house/boggs_brent.jpg,2011-07-25 15:16:19.678000,2017-06-01 05:07:40.746000
+WVL000105,William Hartman,William,,G.Hartman,,,True,wv,lower,43,Democratic,http://www.legis.state.wv.us/images/members/2017/house/hartman_william.jpg,2011-07-25 15:16:19.690000,2017-06-01 05:07:40.755000
+WVL000107,Bill Hamilton,Bill,,Hamilton,,,True,wv,lower,45,Republican,http://www.legis.state.wv.us/images/members/2017/house/hamilton_bill.jpg,2011-07-25 15:16:19.695000,2017-06-01 05:07:40.973000
+WVL000112,Tim Miley,Tim,,Miley,,,True,wv,lower,48,Democratic,http://www.legis.state.wv.us/images/members/2017/house/miley_timothy.jpg,2011-07-25 15:16:19.717000,2017-06-01 05:07:40.656000
+WVL000114,Mike Caputo,Mike,,Caputo,,,True,wv,lower,50,Democratic,http://www.legis.state.wv.us/images/members/2017/house/caputo_mike.jpg,2011-07-25 15:16:19.724000,2017-06-01 05:07:40.402000
+WVL000115,Linda Longstreth,Linda,,Longstreth,,,True,wv,lower,50,Democratic,http://www.legis.state.wv.us/images/members/2017/house/longstreth_linda.jpg,2011-07-25 15:16:19.727000,2017-06-01 05:07:40.801000
+WVL000118,Barbara Fleischauer,Barbara Evans,,Fleischauer,,,True,wv,lower,51,Democratic,http://www.legis.state.wv.us/images/members/2017/house/fleischauer_barbara.jpg,2011-07-25 15:16:19.737000,2017-06-01 05:07:40.698000
+WVL000124,Allen Evans,Allen V.,,Evans,,,True,wv,lower,54,Republican,http://www.legis.state.wv.us/images/members/2017/house/evans_allen.jpg,2011-07-25 15:16:19.756000,2017-06-01 05:07:40.766000
+WVL000125,Gary Howell,Gary G.,,Howell,,,True,wv,lower,56,Republican,http://www.legis.state.wv.us/images/members/2017/house/howell_gary.jpg,2011-07-25 15:16:19.759000,2017-06-01 05:07:40.489000
+WVL000126,Ruth Rowan,Ruth,,Rowan,,,True,wv,lower,57,Republican,http://www.legis.state.wv.us/images/members/2017/house/rowan_ruth.jpg,2011-07-25 15:16:19.762000,2017-06-01 05:07:40.687000
+WVL000127,Daryl Cowles,Daryl,,Cowles,,,True,wv,lower,58,Republican,http://www.legis.state.wv.us/images/members/2017/house/cowles_daryl.jpg,2011-07-25 15:16:19.780000,2017-06-01 05:07:40.768000
+WVL000131,John Overington,John,,Overington,,,True,wv,lower,62,Republican,http://www.legis.state.wv.us/images/members/2017/house/overington_john.jpg,2011-07-25 15:16:19.792000,2017-06-01 05:07:40.206000
+WVL000132,Eric Householder,Eric L.,,Householder,,,True,wv,lower,64,Republican,http://www.legis.state.wv.us/images/members/2017/house/householder_eric.jpg,2011-07-25 15:16:19.795000,2017-06-01 05:07:40.789000
+WVL000137,Justin Marcum,Justin,,Marcum,,,True,wv,lower,20,Democratic,http://www.legis.state.wv.us/images/members/2017/house/marcum_justin.jpg,2012-01-19 02:12:15.014000,2017-06-01 05:07:40.887000
+WVL000150,Steve Westfall,Steve,,Westfall,,,True,wv,lower,12,Republican,http://www.legis.state.wv.us/images/members/2017/house/westfall_steve.jpg,2013-01-08 00:08:19.535000,2017-06-01 05:07:40.885000
+WVL000152,Jim Butler,Jim,,Butler,,,True,wv,lower,14,Republican,http://www.legis.state.wv.us/images/members/2017/house/butler_jim.jpg,2013-01-08 00:08:19.556000,2017-06-01 05:07:40.743000
+WVL000162,Jeff Eldridge,Jeff,,Eldridge,,,True,wv,lower,22,Democratic,http://www.legis.state.wv.us/images/members/2017/house/eldridge_jeff.jpg,2013-01-08 00:08:19.644000,2017-06-01 05:07:40.701000
+WVL000171,John Shott,John,,Shott,,,True,wv,lower,27,Republican,http://www.legis.state.wv.us/images/members/2017/house/shott_john.jpg,2013-01-08 00:08:19.706000,2017-06-01 05:07:40.649000
+WVL000172,Roy Cooper,Roy,,Cooper,,,True,wv,lower,28,Republican,http://www.legis.state.wv.us/images/members/2017/house/cooper_roy.jpg,2013-01-08 00:08:19.713000,2017-06-01 05:07:40.512000
+WVL000192,George Ambler,George,,Ambler,,,True,wv,lower,42,Republican,http://www.legis.state.wv.us/images/members/2017/house/ambler_george.jpg,2013-01-08 00:08:19.880000,2017-06-01 05:07:40.799000
+WVL000196,Dana Lynch,Dana,,Lynch,,,True,wv,lower,44,Democratic,http://www.legis.state.wv.us/images/members/2017/house/lynch_dana.jpg,2013-01-08 00:08:19.909000,2017-06-01 05:07:40.714000
+WVL000201,Danny Hamrick,Danny,,Hamrick,,,True,wv,lower,48,Republican,http://www.legis.state.wv.us/images/members/2017/house/hamrick_danny.jpg,2013-01-08 00:08:19.949000,2017-06-01 05:07:40.482000
+WVL000210,Cindy Frich,Cindy,,Frich,,,True,wv,lower,51,Republican,http://www.legis.state.wv.us/images/members/2017/house/frich_cindy.jpg,2013-01-08 00:08:20.058000,2017-06-01 05:07:40.773000
+WVL000216,Isaac Sponaugle,Isaac,,Sponaugle,,,True,wv,lower,55,Democratic,http://www.legis.state.wv.us/images/members/2017/house/sponaugle_isaac.jpg,2013-01-08 00:08:20.108000,2017-06-01 05:07:40.771000
+WVL000224,Michael Folk,Michael,,Folk,,,True,wv,lower,63,Republican,http://www.legis.state.wv.us/images/members/2017/house/folk_michael.jpg,2013-01-08 00:08:20.169000,2017-06-01 05:07:40.982000
+WVL000227,Paul Espinosa,Paul,,Espinosa,,,True,wv,lower,66,Republican,http://www.legis.state.wv.us/images/members/2017/house/espinosa_paul.jpg,2013-01-08 00:08:20.252000,2017-06-01 05:07:40.753000
+WVL000285,Tom Fast,Tom,,Fast,,,True,wv,lower,32,Republican,http://www.legis.state.wv.us/images/members/2017/house/fast_tom.jpg,2015-01-14 21:45:31.308000,2017-06-01 05:07:40.377000
+WVL000287,Saira Blair,Saira,,Blair,,,True,wv,lower,59,Republican,http://www.legis.state.wv.us/images/members/2017/house/blair_saira.jpg,2015-01-14 21:45:31.373000,2017-06-01 05:07:40.454000
+WVL000289,Jordan Hill,Jordan,,Hill,,,True,wv,lower,41,Republican,http://www.legis.state.wv.us/images/members/2017/house/hill_jordan.jpg,2015-01-14 21:45:31.514000,2017-06-01 05:07:40.220000
+WVL000290,Kayla Kessinger,Kayla,,Kessinger,,,True,wv,lower,32,Republican,http://www.legis.state.wv.us/images/members/2017/house/kessinger_kayla.jpg,2015-01-14 21:45:31.568000,2017-06-01 05:07:40.519000
+WVL000291,Pat McGeehan,Pat,,McGeehan,,,True,wv,lower,1,Republican,http://www.legis.state.wv.us/images/members/2017/house/mcgeehan_pat.jpg,2015-01-14 21:45:31.578000,2017-06-01 05:07:40.525000
+WVL000293,Frank Deem,Frank,,Deem,,,True,wv,lower,10,Republican,http://www.legis.state.wv.us/images/members/2017/house/deem_frank.jpg,2015-01-14 21:45:31.613000,2017-06-01 05:07:40.151000
+WVL000294,Lynne Arvon,Lynne,,Arvon,,,True,wv,lower,31,Republican,http://www.legis.state.wv.us/images/members/2017/house/arvon_lynne.jpg,2015-01-14 21:45:31.637000,2017-06-01 05:07:40.521000
+WVL000299,Sean Hornbuckle,Sean,,Hornbuckle,,,True,wv,lower,16,Democratic,http://www.legis.state.wv.us/images/members/2017/house/hornbuckle_sean.jpg,2015-01-14 21:45:31.797000,2017-06-01 05:07:40.081000
+WVL000300,Mick Bates,Mick,,Bates,,,True,wv,lower,30,Democratic,http://www.legis.state.wv.us/images/members/2017/house/bates_mick.jpg,2015-01-14 21:45:31.875000,2017-06-01 05:07:40.778000
+WVL000301,Kenneth Hicks,Kenneth,,Hicks,,,True,wv,lower,19,Democratic,http://www.legis.state.wv.us/images/members/2017/house/hicks_kenneth.jpg,2015-01-14 21:45:32.030000,2017-06-01 05:07:40.314000
+WVL000304,Amy Summers,Amy,,Summers,,,True,wv,lower,49,Republican,http://www.legis.state.wv.us/images/members/2017/house/summers_amy.jpg,2015-01-14 21:45:32.140000,2017-06-01 05:07:40.457000
+WVL000305,Joe Statler,Joe,,Statler,,,True,wv,lower,51,Republican,http://www.legis.state.wv.us/images/members/2017/house/statler_joe.jpg,2015-01-14 21:45:32.173000,2017-06-01 05:07:40.447000
+WVL000307,Danny Wagner,Danny,,Wagner,,,True,wv,lower,47,Republican,http://www.legis.state.wv.us/images/members/2017/house/wagner_danny.jpg,2015-01-14 21:45:32.232000,2017-06-01 05:07:40.501000
+WVL000309,Roger Hanshaw,Roger,,Hanshaw,,,True,wv,lower,33,Republican,http://www.legis.state.wv.us/images/members/2017/house/hanshaw_roger.jpg,2015-01-14 21:45:32.297000,2017-06-01 05:07:40.889000
+WVL000311,Andrew Byrd,Andrew,,Byrd,,,True,wv,lower,35,Democratic,http://www.legis.state.wv.us/images/members/2017/house/byrd_andrew.jpg,2015-01-14 21:45:32.363000,2017-06-01 05:07:40.510000
+WVL000314,Mark Zatezalo,Mark,,Zatezalo,,,True,wv,lower,1,Republican,http://www.legis.state.wv.us/images/members/2017/house/zatezalo_mark.jpg,2015-01-14 21:45:32.410000,2017-06-01 05:07:40.734000
+WVL000316,Brad White,Brad,,White,,,True,wv,lower,36,Republican,http://www.legis.state.wv.us/images/members/2017/house/white_brad.jpg,2015-01-14 21:45:32.443000,2017-06-01 05:07:40.689000
+WVL000317,Larry L. Rowe,Larry L.,,Rowe,,,True,wv,lower,36,Democratic,http://www.legis.state.wv.us/images/members/2017/house/rowe_larry.jpg,2015-01-14 21:45:32.497000,2017-06-01 05:07:40.791000
+WVL000322,Jill Upson,Jill,,Upson,,,True,wv,lower,65,Republican,http://www.legis.state.wv.us/images/members/2017/house/upson_jill.jpg,2015-01-14 21:45:32.728000,2017-06-01 05:07:40.537000
+WVL000323,Matthew Rohrbach,Matthew,,Rohrbach,,,True,wv,lower,17,Republican,http://www.legis.state.wv.us/images/members/2017/house/rohrbach_matthew.jpg,2015-01-14 21:45:32.749000,2017-06-01 05:07:40.692000
+WVL000324,John R. Kelly,John R.,,Kelly,,,True,wv,lower,10,Republican,http://www.legis.state.wv.us/images/members/2017/house/kelly_john.jpg,2015-01-14 21:45:32.784000,2017-06-01 05:07:40.703000
+WVL000325,Geoff Foster,Geoff,,Foster,,,True,wv,lower,15,Republican,http://www.legis.state.wv.us/images/members/2017/house/foster_geoff.jpg,2015-01-14 21:45:32.839000,2017-06-01 05:07:40.419000
+WVL000326,Shawn Fluharty,Shawn,,Fluharty,,,True,wv,lower,3,Democratic,http://www.legis.state.wv.us/images/members/2017/house/fluharty_shawn.jpg,2015-01-14 21:45:32.849000,2017-06-01 05:07:40.224000
+WVL000328,Mike Pushkin,Mike,,Pushkin,,,True,wv,lower,37,Democratic,http://www.legis.state.wv.us/images/members/2017/house/pushkin_mike.jpg,2015-01-14 21:45:32.883000,2017-06-01 05:07:40.892000
+WVL000340,Martin Atkinson III,Martin,,Atkinson,III,,True,wv,lower,11,Republican,http://www.legis.state.wv.us/images/members/2017/house/atkinson_martin.jpg,2015-10-06 19:47:20.805000,2017-06-01 05:07:12.707000
+WVL000346,Tony Lewis,Tony,,Lewis,,,True,wv,lower,53,Republican,http://www.legis.state.wv.us/images/members/2017/house/lewis_tony.jpg,2017-01-13 05:05:18.205000,2017-06-01 05:07:40.728000
+WVL000348,Charlotte Lane,Charlotte,,Lane,,,True,wv,lower,35,Republican,http://www.legis.state.wv.us/images/members/2017/house/lane_charlotte.jpg,2017-01-13 05:05:18.237000,2017-06-01 05:07:40.883000
+WVL000349,Nancy Reagan Foster,Nancy Reagan,,Foster,,,True,wv,lower,38,Republican,http://www.legis.state.wv.us/images/members/2017/house/foster_nancy.jpg,2017-01-13 05:05:18.242000,2017-06-01 05:07:40.249000
+WVL000350,Joshua Higginbotham,Joshua,,Higginbotham,,,True,wv,lower,13,Republican,http://www.legis.state.wv.us/images/members/2017/house/higginbotham_joshua.jpg,2017-01-13 05:05:18.248000,2017-06-01 05:07:40.503000
+WVL000351,Richard Iaquinta,Richard,,Iaquinta,,,True,wv,lower,48,Democratic,http://www.legis.state.wv.us/images/members/2017/house/iaquinta_richard.jpg,2017-01-13 05:05:18.271000,2017-06-01 05:07:40.529000
+WVL000352,Jason Barrett,Jason,,Barrett,,,True,wv,lower,61,Democratic,http://www.legis.state.wv.us/images/members/2017/house/barrett_jason.jpg,2017-01-13 05:05:18.276000,2017-06-01 05:07:40.751000
+WVL000353,Phil Isner,Phil,,Isner,,,True,wv,lower,43,Democratic,http://www.legis.state.wv.us/images/members/2017/house/isner_phil.jpg,2017-01-13 05:05:18.281000,2017-06-01 05:07:40.230000
+WVL000354,Patrick Martin,Patrick,,Martin,,,True,wv,lower,46,Republican,http://www.legis.state.wv.us/images/members/2017/house/martin_patrick.jpg,2017-01-13 05:05:18.292000,2017-06-01 05:07:40.682000
+WVL000356,John Williams,John,,Williams,,,True,wv,lower,51,Democratic,http://www.legis.state.wv.us/images/members/2017/house/williams_john.jpg,2017-01-13 05:05:18.342000,2017-06-01 05:07:40.433000
+WVL000357,Moore Capito,Moore,,Capito,,,True,wv,lower,35,Republican,http://www.legis.state.wv.us/images/members/2017/house/capito_moore.jpg,2017-01-13 05:05:18.348000,2017-06-01 05:07:40.386000
+WVL000360,S. Marshall Wilson,S. Marshall,,Wilson,,,True,wv,lower,60,Republican,http://www.legis.state.wv.us/images/members/2017/house/wilson_s.jpg,2017-01-13 05:05:18.413000,2017-06-01 05:07:40.531000
+WVL000361,Ray Hollen,Ray,,Hollen,,,True,wv,lower,9,Republican,http://www.legis.state.wv.us/images/members/2017/house/hollen_ray.jpg,2017-01-13 05:05:18.436000,2017-06-01 05:07:40.542000
+WVL000362,Scott Brewer,Scott,,Brewer,,,True,wv,lower,13,Democratic,http://www.legis.state.wv.us/images/members/2017/house/brewer_scott.jpg,2017-01-13 05:05:18.447000,2017-06-01 05:07:40.251000
+WVL000363,Mark Dean,Mark,,Dean,,,True,wv,lower,21,Republican,http://www.legis.state.wv.us/images/members/2017/house/dean_mark.jpg,2017-01-13 05:05:18.477000,2017-06-01 05:07:40.352000
+WVL000364,Rodney A. Pyles,Rodney A.,,Pyles,,,True,wv,lower,51,Democratic,http://www.legis.state.wv.us/images/members/2017/house/pyles_rodney.jpg,2017-01-13 05:05:18.495000,2017-06-01 05:07:40.685000
+WVL000365,Ed Evans,Ed,,Evans,,,True,wv,lower,26,Democratic,http://www.legis.state.wv.us/images/members/2017/house/evans_ed.jpg,2017-01-13 05:05:18.500000,2017-06-01 05:07:40.978000
+WVL000367,Ben Queen,Ben,,Queen,,,True,wv,lower,48,Republican,http://www.legis.state.wv.us/images/members/2017/house/queen_ben.jpg,2017-01-13 05:05:18.553000,2017-06-01 05:07:40.707000
+WVL000368,Robert Thompson,Robert,,Thompson,,,True,wv,lower,19,Democratic,http://www.legis.state.wv.us/images/members/2017/house/thompson_robert.jpg,2017-01-13 05:05:18.558000,2017-06-01 05:07:40.089000
+WVL000369,Rodney Miller,Rodney,,Miller,,,True,wv,lower,23,Democratic,http://www.legis.state.wv.us/images/members/2017/house/miller_rodney.jpg,2017-01-13 05:05:18.588000,2017-06-01 05:07:40.439000
+WVL000370,Jason Harshbarger,Jason,,Harshbarger,,,True,wv,lower,7,Republican,http://www.legis.state.wv.us/images/members/2017/house/harshbarger_jason.jpg,2017-01-13 05:05:18.593000,2017-06-01 05:07:40.269000
+WVL000371,Phillip Diserio,Phillip,,Diserio,,,True,wv,lower,2,Democratic,http://www.legis.state.wv.us/images/members/2017/house/diserio_phillip.jpg,2017-01-13 05:05:18.634000,2017-06-01 05:07:40.398000
+WVL000372,Vernon Criss,Vernon,,Criss,,,True,wv,lower,10,Republican,http://www.legis.state.wv.us/images/members/2017/house/criss_vernon.jpg,2017-01-13 05:05:18.645000,2017-06-01 05:07:40.396000
+WVL000373,Andrew Robinson,Andrew,,Robinson,,,True,wv,lower,36,Democratic,http://www.legis.state.wv.us/images/members/2017/house/robinson_andrew.jpg,2017-01-13 05:05:18.677000,2017-06-01 05:07:40.421000
+WVL000374,Riley Moore,Riley,,Moore,,,True,wv,lower,67,Republican,http://www.legis.state.wv.us/images/members/2017/house/moore_riley.jpg,2017-01-13 05:05:18.708000,2017-06-01 05:07:39.776000
+WVL000375,Chad Lovejoy,Chad,,Lovejoy,,,True,wv,lower,17,Democratic,http://www.legis.state.wv.us/images/members/2017/house/lovejoy_chad.jpg,2017-01-13 05:05:18.743000,2017-06-01 05:07:40.726000
+WVL000377,Stephen Baldwin,Stephen,,Baldwin,,,True,wv,lower,42,Democratic,http://www.legis.state.wv.us/images/members/2017/house/baldwin_stephen.jpg,2017-01-13 05:05:18.802000,2017-06-01 05:07:40.527000
+WVL000379,Zack Maynard,Zack,,Maynard,,,True,wv,lower,22,Republican,http://www.legis.state.wv.us/images/members/2017/house/maynard_zack.jpg,2017-01-13 05:05:18.838000,2017-06-01 05:07:40.724000
+WVL000380,Guy Ward,Guy,,Ward,,,True,wv,lower,50,Republican,http://www.legis.state.wv.us/images/members/2017/house/ward_guy.jpg,2017-01-13 05:05:18.874000,2017-06-01 05:07:40.278000
+WVL000381,Shirley Love,Shirley,,Love,,,True,wv,lower,32,Democratic,http://www.legis.state.wv.us/images/members/2017/house/love_shirley.jpg,2017-01-13 05:05:18.885000,2017-06-01 05:07:40.719000
+WVL000383,Tony Paynter,Tony,,Paynter,,,True,wv,lower,25,Republican,http://www.legis.state.wv.us/images/members/2017/house/paynter_tony.jpg,2017-01-13 05:05:18.925000,2017-06-01 05:07:40.732000
+WVL000385,Joe Canestraro,Joe,,Canestraro,,,True,wv,lower,4,Democratic,http://www.legis.state.wv.us/images/members/2017/house/canestraro_joe.jpg,2017-01-13 05:05:18.961000,2017-06-01 05:07:40.499000
+WVL000386,C.E. Chuck Romine,C.E. Chuck,,Romine,,,True,wv,lower,16,Republican,http://www.legis.state.wv.us/images/members/2017/house/romine_chuck.jpg,2017-01-13 05:05:18.966000,2017-06-01 05:07:40.712000
+WVL000387,Terri Sypolt,Terri,,Sypolt,,,True,wv,lower,52,Republican,http://www.legis.state.wv.us/images/members/2017/house/sypolt_terri.jpg,2017-01-13 05:05:18.998000,2017-06-01 05:07:40.694000
+WVL000005,Donna Boley,Donna J.,,Boley,,,True,wv,upper,3,Republican,http://www.legis.state.wv.us/images/members/2017/senate/boley_donna.jpg,2011-07-25 15:16:19.207000,2017-06-01 05:07:40.938000
+WVL000008,Mike Hall,Mike,,Hall,,,True,wv,upper,4,Republican,http://www.legis.state.wv.us/images/members/2017/senate/hall_mike.jpg,2011-07-25 15:16:19.231000,2017-06-01 05:07:40.677000
+WVL000010,Robert Plymale,Robert H.,,Plymale,,,True,wv,upper,5,Democratic,http://www.legis.state.wv.us/images/members/2017/senate/plymale_robert.jpg,2011-07-25 15:16:19.238000,2017-06-01 05:07:40.923000
+WVL000013,Ron Stollings,Ron,,Stollings,,,True,wv,upper,7,Democratic,http://www.legis.state.wv.us/images/members/2017/senate/stollings_ron.jpg,2011-07-25 15:16:19.248000,2017-06-01 05:07:40.643000
+WVL000017,Corey Palumbo,Corey,,Palumbo,,,True,wv,upper,17,Democratic,http://www.legis.state.wv.us/images/members/2017/senate/palumbo_corey.jpg,2011-07-25 15:16:19.270000,2017-06-01 05:07:40.951000
+WVL000021,Ronald Miller,Ronald F.,,Miller,,,True,wv,upper,10,Democratic,http://www.legis.state.wv.us/images/members/2017/senate/miller_ronald.jpg,2011-07-25 15:16:19.288000,2017-06-01 05:07:40.931000
+WVL000025,Douglas Facemire,Douglas E.,,Facemire,,,True,wv,upper,12,Democratic,http://www.legis.state.wv.us/images/members/2017/senate/facemire_douglas.jpg,2011-07-25 15:16:19.303000,2017-06-01 05:07:40.909000
+WVL000027,Robert Beach,Robert D.,,Beach,,,True,wv,upper,13,Democratic,http://www.legis.state.wv.us/images/members/2017/senate/beach_robert.jpg,2011-07-25 15:16:19.320000,2017-06-01 05:07:40.853000
+WVL000028,Roman Prezioso,Roman,,Prezioso,,,True,wv,upper,13,Democratic,http://www.legis.state.wv.us/images/members/2017/senate/prezioso_roman.jpg,2011-07-25 15:16:19.324000,2017-06-01 05:07:40.933000
+WVL000029,Dave Sypolt,Dave,,Sypolt,,,True,wv,upper,14,Republican,http://www.legis.state.wv.us/images/members/2017/senate/sypolt_dave.jpg,2011-07-25 15:16:19.354000,2017-06-01 05:07:40.961000
+WVL000034,John Unger,John R.,,Unger,II,,True,wv,upper,16,Democratic,http://www.legis.state.wv.us/images/members/2017/senate/unger_john.jpg,2011-07-25 15:16:19.403000,2017-06-01 05:07:40.963000
+WVL000039,Ryan Ferns,Ryan,,Ferns,,,True,wv,upper,1,Republican,http://www.legis.state.wv.us/images/members/2017/senate/ferns_ryan.jpg,2011-07-25 15:16:19.417000,2017-06-01 05:07:40.926000
+WVL000052,Mitch Carmichael,Mitch,,Carmichael,,,True,wv,upper,4,Republican,http://www.legis.state.wv.us/images/members/2017/senate/carmichael_mitch.jpg,2011-07-25 15:16:19.471000,2017-06-01 05:07:12.789000
+WVL000147,Craig Blair,Craig,,Blair,,,True,wv,upper,15,Republican,http://www.legis.state.wv.us/images/members/2017/senate/blair_craig.jpg,2013-01-08 00:08:19.358000,2017-06-01 05:07:40.936000
+WVL000286,Mike Woelfel,Mike,,Woelfel,,,True,wv,upper,5,Democratic,http://www.legis.state.wv.us/images/members/2017/senate/woelfel_mike.jpg,2015-01-14 21:45:31.363000,2017-06-01 05:07:40.860000
+WVL000298,Mike Romano,Mike,,Romano,,,True,wv,upper,12,Democratic,http://www.legis.state.wv.us/images/members/2017/senate/romano_mike.jpg,2015-01-14 21:45:31.736000,2017-06-01 05:07:40.130000
+WVL000303,Robert L. Karnes,Robert L.,,Karnes,,,True,wv,upper,11,Republican,http://www.legis.state.wv.us/images/members/2017/senate/karnes_robert.jpg,2015-01-14 21:45:32.051000,2017-06-01 05:07:40.569000
+WVL000308,Charles S. Trump IV,Charles S.,,Trump,IV,,True,wv,upper,15,Republican,http://www.legis.state.wv.us/images/members/2017/senate/trump_charles.jpg,2015-01-14 21:45:32.265000,2017-06-01 05:07:40.666000
+WVL000310,Jeff Mullins,Jeff,,Mullins,,,True,wv,upper,9,Republican,http://www.legis.state.wv.us/images/members/2017/senate/mullins_jeff.jpg,2015-01-14 21:45:32.308000,2017-06-01 05:07:40.636000
+WVL000312,Mark R. Maynard,Mark R.,,Maynard,,,True,wv,upper,6,Republican,http://www.legis.state.wv.us/images/members/2017/senate/maynard_mark.jpg,2015-01-14 21:45:32.387000,2017-06-01 05:07:40.949000
+WVL000330,Tom Takubo,Tom,,Takubo,,,True,wv,upper,17,Republican,http://www.legis.state.wv.us/images/members/2017/senate/takubo_tom.jpg,2015-01-14 21:45:32.904000,2017-06-01 05:07:40.641000
+WVL000332,Ed Gaunch,Ed,,Gaunch,,,True,wv,upper,8,Republican,http://www.legis.state.wv.us/images/members/2017/senate/gaunch_ed.jpg,2015-01-14 21:45:32.936000,2017-06-01 05:07:40.941000
+WVL000333,Greg Boso,Greg,,Boso,,,True,wv,upper,11,Republican,http://www.legis.state.wv.us/images/members/2017/senate/boso_greg.jpg,2015-01-20 00:15:54.992000,2017-06-01 05:07:40.928000
+WVL000345,Sue Cline,Sue,,Cline,,,True,wv,upper,9,Republican,http://www.legis.state.wv.us/images/members/2017/senate/cline_sue.jpg,2016-01-30 05:27:40.207000,2017-06-01 05:07:40.958000
+WVL000347,Glenn Jeffries,Glenn,,Jeffries,,,True,wv,upper,8,Democratic,http://www.legis.state.wv.us/images/members/2017/senate/jeffries_glenn.jpg,2017-01-13 05:05:18.225000,2017-06-01 05:07:40.844000
+WVL000355,Randy Smith,Randy,,Smith,,,True,wv,upper,14,Republican,http://www.legis.state.wv.us/images/members/2017/senate/smith_randy.jpg,2017-01-13 05:05:18.309000,2017-06-01 05:07:40.858000
+WVL000358,Mike Maroney,Mike,,Maroney,,,True,wv,upper,2,Republican,http://www.legis.state.wv.us/images/members/2017/senate/maroney_mike.jpg,2017-01-13 05:05:18.366000,2017-06-01 05:07:40.954000
+WVL000359,Kenny Mann,Kenny,,Mann,,,True,wv,upper,10,Republican,http://www.legis.state.wv.us/images/members/2017/senate/mann_kenny.jpg,2017-01-13 05:05:18.383000,2017-06-01 05:07:40.874000
+WVL000366,Mike Azinger,Mike,,Azinger,,,True,wv,upper,3,Republican,http://www.legis.state.wv.us/images/members/2017/senate/azinger_mike.jpg,2017-01-13 05:05:18.518000,2017-06-01 05:07:40.956000
+WVL000376,Ryan Weld,Ryan,,Weld,,,True,wv,upper,1,Republican,http://www.legis.state.wv.us/images/members/2017/senate/weld_ryan.jpg,2017-01-13 05:05:18.761000,2017-06-01 05:07:40.914000
+WVL000378,Richard Ojeda,Richard,,Ojeda,,,True,wv,upper,7,Democratic,http://www.legis.state.wv.us/images/members/2017/senate/ojeda_richard.jpg,2017-01-13 05:05:18.827000,2017-06-01 05:07:40.912000
+WVL000382,Patricia Rucker,Patricia,,Rucker,,,True,wv,upper,16,Republican,http://www.legis.state.wv.us/images/members/2017/senate/rucker_patricia.jpg,2017-01-13 05:05:18.908000,2017-06-01 05:07:40.872000
+WVL000384,Chandler Swope,Chandler,,Swope,,,True,wv,upper,6,Republican,http://www.legis.state.wv.us/images/members/2017/senate/swope_chandler.jpg,2017-01-13 05:05:18.955000,2017-06-01 05:07:40.840000
+WVL000388,Charles H. Clements,Charles H.,,Clements,,,True,wv,upper,2,Republican,http://www.legis.state.wv.us/images/members/2017/senate/clements_charles.jpg,2017-02-03 05:04:56.899000,2017-06-01 05:07:40.897000

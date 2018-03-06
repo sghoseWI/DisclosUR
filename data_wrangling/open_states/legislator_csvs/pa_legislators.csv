@@ -1,0 +1,400 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+PAL000006,Mike Brubaker,Mike,,Brubaker,,,False,pa,,,,http://www.pasen.gov/members/districts/sd36/images/1079.jpg,2010-07-21 17:38:03.807000,2015-01-06 21:25:13.438000
+PAL000010,Jane M Earll,Jane,M,Earll,,,False,pa,,,,http://www.pasen.gov/members/districts/sd49/images/260.jpg,2010-07-21 17:38:03.815000,2013-01-04 00:11:00.988000
+PAL000012,Edwin B Erickson,Edwin,B,Erickson,,,False,pa,,,,http://www.pasen.gov/members/districts/sd26/images/284.jpg,2010-07-21 17:38:03.819000,2015-01-06 21:25:13.436000
+PAL000014,Jim Ferlo,Jim,,Ferlo,,,False,pa,,,,http://www.pasen.gov/members/districts/sd38/images/1035.jpg,2010-07-21 17:38:03.822000,2015-01-06 21:25:13.440000
+PAL000020,Richard A Kasunic,Richard,A,Kasunic,,,False,pa,,,,http://www.pasen.gov/members/districts/sd32/images/249.jpg,2010-07-21 17:38:03.834000,2015-01-06 21:25:13.437000
+PAL000021,Shirley M Kitchen,Shirley,M,Kitchen,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/278.jpg,2010-07-21 17:38:03.836000,2017-01-02 06:43:15.327000
+PAL000025,Robert J Mellow,Robert,J,Mellow,,,False,pa,,,,,2010-07-21 17:38:03.864000,2011-01-07 22:23:46.229000
+PAL000027,Raphael J Musto,Raphael,J,Musto,,,False,pa,,,,,2010-07-21 17:38:03.868000,2011-01-07 22:23:46.229000
+PAL000028,Michael A O'Pake,Michael,A,O'Pake,,,False,pa,,,,,2010-07-21 17:38:03.870000,2011-01-07 22:23:46.228000
+PAL000029,Jane Clare Orie,Jane Clare,,Orie,,,False,pa,,,,http://www.pasen.gov/members/districts/sd40/images/43.jpg,2010-07-21 17:38:03.872000,2012-06-05 20:47:28.403000
+PAL000030,Jeffrey E Piccola,Jeffrey,E,Piccola,,,False,pa,,,,http://www.pasen.gov/members/districts/sd15/images/176.jpg,2010-07-21 17:38:03.873000,2013-01-04 00:11:00.989000
+PAL000031,Dominic Pileggi,Dominic,,Pileggi,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/974.jpg,2010-07-21 17:38:03.875000,2016-05-11 19:55:24.790000
+PAL000032,John Pippy,John,,Pippy,,,False,pa,,,,http://www.pasen.gov/members/districts/sd37/images/59.jpg,2010-07-21 17:38:03.877000,2013-01-04 00:11:00.991000
+PAL000034,Robert D Robbins,Robert,D,Robbins,,,False,pa,,,,http://www.pasen.gov/members/districts/sd50/images/279.jpg,2010-07-21 17:38:03.881000,2015-01-06 21:25:13.449000
+PAL000036,Lloyd K Smucker,Lloyd,K,Smucker,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1185.jpg,2010-07-21 17:38:03.885000,2017-01-02 06:43:15.321000
+PAL000037,Michael J Stack,Michael,J,Stack,,,False,pa,,,,http://www.pasen.gov/members/districts/sd05/images/280.jpg,2010-07-21 17:38:03.887000,2015-07-08 20:12:23.655000
+PAL000038,J. Barry Stout,J. Barry,,Stout,,,False,pa,,,,,2010-07-21 17:38:03.889000,2011-01-07 22:23:46.230000
+PAL000041,Patricia H Vance,Patricia,H,Vance,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/132.jpg,2010-07-21 17:38:03.895000,2017-01-02 06:43:15.323000
+PAL000045,Michael L Waugh,Michael,L,Waugh,,,False,pa,,,,http://www.pasen.gov/members/districts/sd28/images/245.jpg,2010-07-21 17:38:03.903000,2014-04-03 14:45:55.148000
+PAL000046,Mary Jo White,Mary Jo,,White,,,False,pa,,,,http://www.pasen.gov/members/districts/sd21/images/222.jpg,2010-07-21 17:38:03.905000,2013-01-04 00:11:00.992000
+PAL000049,John N Wozniak,John,N,Wozniak,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/190.jpg,2010-07-21 17:38:03.911000,2017-01-02 06:43:15.320000
+PAL000051,William F Adolph Jr.,William,F,Adolph,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/209.jpg,2010-07-21 17:38:03.915000,2017-01-02 06:43:15.318000
+PAL000055,John C Bear,John,C,Bear,,,False,pa,,,,http://www.house.state.pa.us/members/districts/097/images/1104.jpg,2010-07-21 17:38:03.922000,2013-01-04 00:11:00.954000
+PAL000056,Robert E Belfanti Jr.,Robert,E,Belfanti,Jr.,,False,pa,,,,,2010-07-21 17:38:03.924000,2011-01-07 22:23:46.216000
+PAL000058,Karen D Beyer,Karen,D,Beyer,,,False,pa,,,,,2010-07-21 17:38:03.928000,2011-01-07 22:23:46.221000
+PAL000059,Louise Williams Bishop,Louise,Williams,Bishop,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/192.jpg,2010-07-21 17:38:03.950000,2016-03-18 19:07:47.239000
+PAL000061,Scott W Boyd,Scott,W,Boyd,,,False,pa,,,,http://www.house.state.pa.us/members/districts/043/images/988.jpg,2010-07-21 17:38:03.954000,2013-01-04 00:11:00.955000
+PAL000062,Brendan F Boyle,Brendan,F,Boyle,,,False,pa,,,,http://www.house.state.pa.us/members/districts/170/images/1160.jpg,2010-07-21 17:38:03.956000,2015-01-06 21:25:13.398000
+PAL000064,Joseph F Brennan,Joseph,F,Brennan,,,False,pa,,,,http://www.house.state.pa.us/members/districts/133/images/1116.jpg,2010-07-21 17:38:03.960000,2013-01-04 00:11:00.956000
+PAL000069,Ron Buxton,Ron,,Buxton,,,False,pa,,,,http://www.house.state.pa.us/members/districts/103/images/232.jpg,2010-07-21 17:38:03.970000,2013-01-04 00:11:00.957000
+PAL000072,James E Casorio Jr.,James,E,Casorio,Jr.,,False,pa,,,,,2010-07-21 17:38:03.976000,2011-01-07 22:23:46.227000
+PAL000075,Paul I Clymer,Paul,I,Clymer,,,False,pa,,,,http://www.house.state.pa.us/members/districts/145/images/24.jpg,2010-07-21 17:38:03.982000,2015-01-06 21:25:13.390000
+PAL000076,Mark B Cohen,Mark,B,Cohen,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/268.jpg,2010-07-21 17:38:03.984000,2017-01-02 06:43:15.303000
+PAL000081,Tom C Creighton,Tom,C,Creighton,,,False,pa,,,,http://www.house.state.pa.us/members/districts/037/images/144.jpg,2010-07-21 17:38:03.994000,2013-01-04 00:11:00.958000
+PAL000083,Lawrence H Curry,Lawrence,H,Curry,,,False,pa,,,,http://www.house.state.pa.us/members/districts/154/images/33.jpg,2010-07-21 17:38:03.998000,2013-01-04 00:11:00.959000
+PAL000085,Peter J Daley,Peter,J,Daley,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/39.jpg,2010-07-21 17:38:04.002000,2017-01-02 06:43:15.311000
+PAL000088,Eugene DePasquale,Eugene,,DePasquale,,,False,pa,,,,http://www.house.state.pa.us/members/districts/095/images/1103.jpg,2010-07-21 17:38:04.008000,2013-06-04 13:38:53.042000
+PAL000089,H. William DeWeese,H. William,,DeWeese,,,False,pa,,,,http://www.house.state.pa.us/members/districts/050/images/40.jpg,2010-07-21 17:38:04.030000,2012-06-05 20:54:03.159000
+PAL000092,Gordon Denlinger,Gordon,,Denlinger,,,False,pa,,,,http://www.house.state.pa.us/members/districts/099/images/1009.jpg,2010-07-21 17:38:04.036000,2015-01-06 21:25:13.434000
+PAL000095,Robert C Donatucci,Robert,C,Donatucci,,,False,pa,,,,,2010-07-21 17:38:04.043000,2011-01-07 22:23:46.224000
+PAL000096,Paul J Drucker,Paul,J,Drucker,,,False,pa,,,,,2010-07-21 17:38:04.045000,2011-01-07 22:23:46.223000
+PAL000097,Todd A Eachus,Todd,A,Eachus,,,False,pa,,,,,2010-07-21 17:38:04.047000,2011-01-07 22:23:46.218000
+PAL000099,Dwight Evans,Dwight,,Evans,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/269.jpg,2010-07-21 17:38:04.051000,2017-01-02 06:43:15.294000
+PAL000100,John R Evans,John,R,Evans,,,False,pa,,,,http://www.house.state.pa.us/members/districts/005/images/287.jpg,2010-07-21 17:38:04.053000,2013-01-04 00:11:00.961000
+PAL000103,Russell H Fairchild,Russell,H,Fairchild,,,False,pa,,,,,2010-07-21 17:38:04.059000,2011-01-07 22:23:46.228000
+PAL000105,Mike Fleck,Mike,,Fleck,,,False,pa,,,,http://www.house.state.pa.us/members/districts/081/images/1097.jpg,2010-07-21 17:38:04.063000,2015-01-06 21:25:13.419000
+PAL000108,Will Gabig,Will,,Gabig,,,False,pa,,,,,2010-07-21 17:38:04.069000,2012-05-26 09:02:42.314000
+PAL000111,Richard A Geist,Richard,A,Geist,,,False,pa,,,,http://www.house.state.pa.us/members/districts/079/images/102.jpg,2010-07-21 17:38:04.075000,2013-01-04 00:11:00.967000
+PAL000112,Camille Bud George,Camille Bud,,George,,,False,pa,,,,http://www.house.state.pa.us/members/districts/074/images/8.jpg,2010-07-21 17:38:04.077000,2013-01-04 00:11:00.968000
+PAL000113,Michael Gerber,Michael,,Gerber,,,False,pa,,,,http://www.house.state.pa.us/members/districts/148/images/1027.jpg,2010-07-21 17:38:04.080000,2013-01-04 00:11:00.993000
+PAL000115,Jaret Gibbons,Jaret,,Gibbons,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1085.jpg,2010-07-21 17:38:04.084000,2017-01-02 06:43:15.297000
+PAL000117,Mauree Gingrich,Mauree,,Gingrich,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1015.jpg,2010-07-21 17:38:04.088000,2017-01-02 06:43:15.305000
+PAL000120,Glen R Grell,Glen,R,Grell,,,False,pa,,,,http://www.house.state.pa.us/members/districts/087/images/1021.jpg,2010-07-21 17:38:04.114000,2015-09-08 18:31:37.114000
+PAL000122,Richard T Grucela,Richard,T,Grucela,,,False,pa,,,,,2010-07-21 17:38:04.118000,2011-01-07 22:23:46.221000
+PAL000124,Gary Haluska,Gary,,Haluska,,,False,pa,,,,http://www.house.state.pa.us/members/districts/073/images/7.jpg,2010-07-21 17:38:04.123000,2015-01-06 21:25:13.414000
+PAL000126,R. Ted Harhai,Ted,,Harhai,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/116.jpg,2010-07-21 17:38:04.127000,2017-01-02 06:43:15.312000
+PAL000127,Julie Harhart,Julie,,Harhart,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/167.jpg,2010-07-21 17:38:04.129000,2017-01-02 06:43:15.300000
+PAL000133,Dick L Hess,Dick,L,Hess,,,False,pa,,,,http://www.house.state.pa.us/members/districts/078/images/12.jpg,2010-07-21 17:38:04.142000,2014-02-07 14:46:17.649000
+PAL000135,John Hornaman,John,,Hornaman,,,False,pa,,,,http://www.house.state.pa.us/members/districts/003/images/1082.jpg,2010-07-21 17:38:04.151000,2013-01-04 00:11:00.969000
+PAL000136,Tom Houghton,Tom,,Houghton,,,False,pa,,,,,2010-07-21 17:38:04.153000,2011-01-07 22:23:46.220000
+PAL000138,Kenyatta J Johnson,Kenyatta,J,Johnson,,,False,pa,,,,http://www.house.state.pa.us/members/districts/186/images/1184.jpg,2010-07-21 17:38:04.157000,2012-06-18 14:31:41.689000
+PAL000139,Babette Josephs,Babette,,Josephs,,,False,pa,,,,http://www.house.state.pa.us/members/districts/182/images/166.jpg,2010-07-21 17:38:04.160000,2013-01-04 00:11:00.972000
+PAL000143,David R Kessler,David,R,Kessler,,,False,pa,,,,,2010-07-21 17:38:04.182000,2011-01-07 22:23:46.220000
+PAL000145,Thaddeus Kirkland,Thaddeus,,Kirkland,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/126.jpg,2010-07-21 17:38:04.186000,2017-01-02 06:43:15.316000
+PAL000148,Nick Kotik,Nick,,Kotik,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1005.jpg,2010-07-21 17:38:04.193000,2017-01-02 06:43:15.308000
+PAL000149,Timothy Krieger,Tim,,Krieger,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1181.jpg,2010-07-21 17:38:04.195000,2016-03-18 19:04:39.749000
+PAL000150,Deberah Kula,Deberah,,Kula,,,False,pa,,,,http://www.house.state.pa.us/members/districts/052/images/1094.jpg,2010-07-21 17:38:04.197000,2015-01-06 21:25:13.411000
+PAL000151,Bryan R Lentz,Bryan,R,Lentz,,,False,pa,,,,,2010-07-21 17:38:04.199000,2011-01-07 22:23:46.223000
+PAL000152,David K Levdansky,David,K,Levdansky,,,False,pa,,,,,2010-07-21 17:38:04.202000,2011-01-07 22:23:46.226000
+PAL000155,Tim Mahoney,Tim,,Mahoney,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1100.jpg,2010-07-21 17:38:04.208000,2017-01-02 06:43:15.317000
+PAL000156,Sandra Major,Sandra,,Major,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/98.jpg,2010-07-21 17:38:04.210000,2017-01-02 06:43:15.314000
+PAL000157,Kathy Manderino,Kathy,,Manderino,,,False,pa,,,,,2010-07-21 17:38:04.213000,2011-01-07 22:23:46.225000
+PAL000158,Jennifer L Mann,Jennifer,L,Mann,,,False,pa,,,,http://www.house.state.pa.us/members/districts/132/images/77.jpg,2010-07-21 17:38:04.215000,2013-01-04 00:11:00.973000
+PAL000163,Keith R McCall,Keith,R,McCall,,,False,pa,,,,,2010-07-21 17:38:04.226000,2012-07-01 11:17:27.280000
+PAL000164,Michael P McGeehan,Michael,P,McGeehan,,,False,pa,,,,http://www.house.state.pa.us/members/districts/173/images/217.jpg,2010-07-21 17:38:04.228000,2015-01-06 21:25:13.400000
+PAL000165,Barbara McIlvaine Smith,Barbara,,McIlvaine Smith,,,False,pa,,,,,2010-07-21 17:38:04.231000,2011-01-07 22:23:46.223000
+PAL000166,Anthony J Melio,Anthony,J,Melio,,,False,pa,,,,,2010-07-21 17:38:04.233000,2011-01-07 22:23:46.222000
+PAL000169,Nick Miccarelli,Nicholas A,,Miccarelli,,,False,pa,,,,http://www.house.state.pa.us/members/districts/162/images/1175.jpg,2010-07-21 17:38:04.240000,2015-01-06 21:25:13.392000
+PAL000170,Nicholas A Micozzie,Nicholas,A,Micozzie,,,False,pa,,,,http://www.house.state.pa.us/members/districts/163/images/184.jpg,2010-07-21 17:38:04.242000,2015-01-06 21:25:13.394000
+PAL000172,Ron Miller,Ron,,Miller,,,False,pa,,,,http://www.house.state.pa.us/members/districts/093/images/199.jpg,2010-07-21 17:38:04.246000,2015-01-06 21:25:13.433000
+PAL000174,Rick Mirabito,Rick,,Mirabito,,,False,pa,,,,http://www.house.state.pa.us/members/districts/083/images/1182.jpg,2010-07-21 17:38:04.271000,2015-01-06 21:25:13.421000
+PAL000176,Phyllis Mundy,Phyllis,,Mundy,,,False,pa,,,,http://www.house.state.pa.us/members/districts/120/images/65.jpg,2010-07-21 17:38:04.275000,2015-01-06 21:25:13.388000
+PAL000177,Kevin P Murphy,Kevin,P,Murphy,,,False,pa,,,,http://www.house.state.pa.us/members/districts/113/images/1176.jpg,2010-07-21 17:38:04.278000,2013-01-04 00:11:00.974000
+PAL000180,John Myers,John,,Myers,,,False,pa,,,,http://www.house.state.pa.us/members/districts/201/images/267.jpg,2010-07-21 17:38:04.285000,2013-01-04 00:11:00.975000
+PAL000181,Dennis M O'Brien,Dennis,M,O'Brien,,,False,pa,,,,http://www.house.state.pa.us/members/districts/169/images/213.jpg,2010-07-21 17:38:04.287000,2012-06-14 20:35:42.227000
+PAL000185,Frank Louis Oliver,Frank,Louis,Oliver,,,False,pa,,,,,2010-07-21 17:38:04.306000,2011-01-07 22:23:46.225000
+PAL000186,John E Pallone,John,E,Pallone,,,False,pa,,,,,2010-07-21 17:38:04.308000,2011-01-07 22:23:46.227000
+PAL000187,Cherelle L Parker,Cherelle,L,Parker,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1043.jpg,2010-07-21 17:38:04.311000,2016-03-18 19:12:28.495000
+PAL000189,John D Payne,John,D,Payne,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1024.jpg,2010-07-21 17:38:04.315000,2017-01-02 06:43:15.298000
+PAL000190,Tony J Payton Jr.,Tony,J,Payton,,,False,pa,,,,http://www.house.state.pa.us/members/districts/179/images/1128.jpg,2010-07-21 17:38:04.317000,2013-01-04 00:11:00.987000
+PAL000192,Scott Perry,Scott,,Perry,,,False,pa,,,,http://www.house.state.pa.us/members/districts/092/images/1102.jpg,2010-07-21 17:38:04.322000,2013-01-04 00:11:00.976000
+PAL000193,John M Perzel,John,M,Perzel,,,False,pa,,,,,2010-07-21 17:38:04.324000,2011-01-07 22:23:46.224000
+PAL000196,Merle H Phillips,Merle,H,Phillips,,,False,pa,,,,,2010-07-21 17:38:04.345000,2011-01-07 22:23:46.217000
+PAL000198,Joseph Preston Jr.,Joseph,,Preston,,,False,pa,,,,http://www.house.state.pa.us/members/districts/024/images/85.jpg,2010-07-21 17:38:04.350000,2013-01-04 00:11:00.953000
+PAL000207,Douglas G Reichley,Douglas,G,Reichley,,,False,pa,,,,http://www.house.state.pa.us/members/districts/134/images/989.jpg,2010-07-21 17:38:04.370000,2012-06-05 21:02:08.262000
+PAL000209,Todd Rock,Todd,,Rock,,,False,pa,,,,http://www.house.state.pa.us/members/districts/090/images/1099.jpg,2010-07-21 17:38:04.383000,2015-01-06 21:25:13.423000
+PAL000211,Sam Rohrer,Sam,,Rohrer,,,False,pa,,,,,2010-07-21 17:38:04.388000,2011-01-07 22:23:46.220000
+PAL000212,Chris Ross,Chris,,Ross,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/125.jpg,2010-07-21 17:38:04.391000,2017-01-02 06:43:15.290000
+PAL000216,Steven J Santarsiero,Steven,J,Santarsiero,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1179.jpg,2010-07-21 17:38:04.400000,2017-01-02 06:43:15.315000
+PAL000217,Dante Santoni Jr.,Dante,,Santoni,,,False,pa,,,,http://www.house.state.pa.us/members/districts/126/images/71.jpg,2010-07-21 17:38:04.402000,2013-01-04 00:11:00.986000
+PAL000220,Curt Schroder,Curt,,Schroder,,,False,pa,,,,http://www.house.state.pa.us/members/districts/155/images/34.jpg,2010-07-21 17:38:04.409000,2012-06-05 21:07:20.340000
+PAL000221,Tim Seip,Tim,,Seip,,,False,pa,,,,,2010-07-21 17:38:04.411000,2012-05-30 09:08:47.843000
+PAL000222,Josh Shapiro,Josh,,Shapiro,,,False,pa,,,,http://www.house.state.pa.us/members/districts/153/images/1032.jpg,2010-07-21 17:38:04.414000,2012-06-05 21:03:49.167000
+PAL000223,John J Siptroth,John,J,Siptroth,,,False,pa,,,,,2010-07-21 17:38:04.416000,2011-01-07 22:23:46.224000
+PAL000224,Matthew Smith,Matt,,Smith,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1630.jpg,2010-07-21 17:38:04.418000,2015-12-11 22:28:32.918000
+PAL000225,Samuel H Smith,Samuel,H,Smith,,,False,pa,,,,http://www.house.state.pa.us/members/districts/066/images/0.jpg,2010-07-21 17:38:04.421000,2015-01-06 21:25:13.413000
+PAL000226,Ken Smith,Ken,,Smith,,,False,pa,,,,http://www.house.state.pa.us/members/districts/112/images/1108.jpg,2010-07-21 17:38:04.423000,2013-01-04 00:11:00.980000
+PAL000227,Timothy J Solobay,Timothy,J,Solobay,,,False,pa,,,,http://www.pasen.gov/members/districts/sd46/images/38.jpg,2010-07-21 17:38:04.425000,2015-01-06 21:25:13.448000
+PAL000229,Edward G Staback,Edward,G,Staback,,,False,pa,,,,http://www.house.state.pa.us/members/districts/115/images/60.jpg,2010-07-21 17:38:04.430000,2013-01-04 00:11:00.981000
+PAL000230,Jerry Stern,Jerry,,Stern,,,False,pa,,,,http://www.house.state.pa.us/members/districts/080/images/103.jpg,2010-07-21 17:38:04.432000,2015-01-06 21:25:13.418000
+PAL000231,Richard R Stevenson,Richard,R,Stevenson,,,False,pa,,,,http://www.house.state.pa.us/members/districts/008/images/288.jpg,2010-07-21 17:38:04.434000,2015-01-06 21:25:13.417000
+PAL000233,RoseMarie Swanger,RoseMarie,,Swanger,,,False,pa,,,,http://www.house.state.pa.us/members/districts/102/images/1106.jpg,2010-07-21 17:38:04.439000,2015-01-06 21:25:13.384000
+PAL000236,Rick Taylor,Rick,,Taylor,,,False,pa,,,,,2010-07-21 17:38:04.446000,2011-01-07 22:23:46.222000
+PAL000239,Katie True,Katie,,True,,,False,pa,,,,,2010-07-21 17:38:04.463000,2011-01-07 22:23:46.226000
+PAL000241,Mike Vereb,Mike,,Vereb,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1122.jpg,2010-07-21 17:38:04.468000,2017-01-02 06:43:15.307000
+PAL000244,Chelsa Wagner,Chelsa,,Wagner,,,False,pa,,,,http://www.house.state.pa.us/members/districts/022/images/1089.jpg,2010-07-21 17:38:04.475000,2012-06-05 20:51:00.868000
+PAL000245,James Wansacz,James,,Wansacz,,,False,pa,,,,,2010-07-21 17:38:04.477000,2011-01-07 22:23:46.217000
+PAL000246,Ronald G Waters,Ronald,G,Waters,,,False,pa,,,,http://www.house.state.pa.us/members/districts/191/images/142.jpg,2010-07-21 17:38:04.479000,2015-09-08 18:35:44.762000
+PAL000249,Jesse White,Jesse,,White,,,False,pa,,,,http://www.house.state.pa.us/members/districts/046/images/1093.jpg,2010-07-21 17:38:04.486000,2015-01-06 21:25:13.409000
+PAL000250,Jewell Williams,Jewell,,Williams,,,False,pa,,,,http://www.house.state.pa.us/members/districts/197/images/263.jpg,2010-07-21 17:38:04.489000,2012-06-05 21:11:12.089000
+PAL000254,LeAnna M Washington,LeAnna,M,Washington,,,False,pa,,,,http://www.pasen.gov/members/districts/sd04/images/266.jpg,2010-07-21 17:38:03.901000,2015-01-06 21:25:13.445000
+PAL000255,Sean Logan,Sean,,Logan,,,False,pa,,,,,2010-07-21 17:38:03.860000,2011-01-07 22:23:46.230000
+PAL000274,Michelle F Brownlee,Michelle,F,Brownlee,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1201.jpg,2011-01-14 22:24:08.353000,2015-09-08 18:34:47.925000
+PAL000283,Joseph T Hackett,Joseph,T,Hackett,,,False,pa,,,,http://www.house.state.pa.us/members/districts/161/images/1210.jpg,2011-01-14 22:24:08.271000,2015-09-08 18:36:41.207000
+PAL000300,Dan Truitt,Dan,,Truitt,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1224.jpg,2011-01-14 22:24:08.270000,2017-01-02 06:43:15.293000
+PAL000365,Harold James,Harold,,James,,,False,pa,,,,,2012-05-11 00:21:04.715000,2013-01-04 00:11:00.984000
+PAL000390,Ed Neilson,Ed,,Neilson,,,False,pa,,,,http://www.house.state.pa.us/members/districts/169/images/1615.jpg,2012-05-11 00:21:05.344000,2015-01-06 21:25:13.395000
+PAL000413,Martin Michael Schmotzer,Martin,Michael,Schmotzer,,,False,pa,,,,,2012-05-11 00:21:05.801000,2013-01-04 00:11:00.951000
+PAL000431,Gary Williams,Gary,,Williams,,,False,pa,,,,,2012-05-11 00:21:06.144000,2013-01-04 00:11:00.985000
+PAL000439,Rob Teplitz,Rob,,Teplitz,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1628.jpg,2013-01-04 00:10:58.301000,2017-01-02 06:43:15.324000
+PAL000440,Sean Wiley,Sean,,Wiley,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1631.jpg,2013-01-04 00:10:58.380000,2017-01-02 06:43:15.326000
+PAL000442,James Clay,James,,Clay,,,False,pa,,,,http://www.house.state.pa.us/members/districts/179/images/1620.jpg,2013-01-04 00:10:58.615000,2015-01-06 21:25:13.402000
+PAL000446,Frank Farina,Frank,,Farina,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1624.jpg,2013-01-04 00:10:58.923000,2017-01-02 06:43:15.296000
+PAL000451,Kevin Haggerty,Kevin,,Haggerty,,,False,pa,,,,http://www.house.state.pa.us/members/districts/112/images/1635.jpg,2013-01-04 00:10:59.090000,2015-01-06 21:25:13.386000
+PAL000456,Gregory S. Lucas,Gregory,S.,Lucas,,,False,pa,,,,http://www.house.state.pa.us/members/districts/005/images/1638.jpg,2013-01-04 00:10:59.598000,2015-01-06 21:25:13.410000
+PAL000461,J.P. Miranda,J.P.,,Miranda,,,False,pa,,,,http://www.house.state.pa.us/members/districts/197/images/1643.jpg,2013-01-04 00:10:59.810000,2015-01-06 21:25:13.404000
+PAL000462,Erin C. Molchany,Erin,C.,Molchany,,,False,pa,,,,http://www.house.state.pa.us/members/districts/022/images/1644.jpg,2013-01-04 00:11:00.014000,2015-01-06 21:25:13.405000
+PAL000463,Mark Painter,Mark,,Painter,,,False,pa,,,,http://www.house.state.pa.us/members/districts/146/images/1645.jpg,2013-01-04 00:11:00.112000,2015-01-06 21:25:13.391000
+PAL000464,Mike Regan,Mike,,Regan,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1646.jpg,2013-01-04 00:11:00.254000,2017-01-02 06:43:15.306000
+PAL000473,Daniel L. Miller,Daniel L.,,Miller,,,False,pa,,,,http://www.house.state.pa.us/members/districts/042/images/1679.jpg,2013-06-04 08:14:51.933000,2015-01-06 21:25:13.407000
+PAL000474,Kevin J. Schreiber,Kevin J.,,Schreiber,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1680.jpg,2013-06-04 08:14:52.343000,2017-01-02 06:43:15.301000
+PAL000500,"Parker, David",David,,Parker,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1702.jpg,2015-01-06 21:25:12.109000,2017-01-02 06:43:15.310000
+PAL000503,"Acosta, Leslie",Leslie,,Acosta,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1684.jpg,2015-01-06 21:25:12.167000,2017-04-10 02:46:38.571000
+PAL000532,Lynwood W. Savage,Lynwood,W.,Savage,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1739.jpg,2016-03-18 15:20:52.371000,2017-01-02 06:43:15.302000
+PAL000534,"Cook-Artis, Tonyelle",Tonyelle,,Cook-Artis,,,False,pa,,,,http://www.legis.state.pa.us/images/members/200/1740.jpg,2016-03-18 15:20:52.932000,2017-01-02 06:43:15.292000
+PAL000052,Matthew E Baker,Matthew,E,Baker,,,True,pa,lower,68,Republican,http://www.legis.state.pa.us/images/members/200/2.jpg,2010-07-21 17:38:03.917000,2017-06-01 11:11:05.258000
+PAL000053,Bryan Barbin,Bryan,,Barbin,,,True,pa,lower,71,Democratic,http://www.legis.state.pa.us/images/members/200/1158.jpg,2010-07-21 17:38:03.919000,2017-06-01 11:11:04.781000
+PAL000054,Stephen Barrar,Stephen,,Barrar,,,True,pa,lower,160,Republican,http://www.legis.state.pa.us/images/members/200/127.jpg,2010-07-21 17:38:03.921000,2017-06-01 11:11:05.238000
+PAL000057,Kerry A Benninghoff,Kerry,A,Benninghoff,,,True,pa,lower,171,Republican,http://www.legis.state.pa.us/images/members/200/215.jpg,2010-07-21 17:38:03.926000,2017-06-01 11:09:50.299000
+PAL000060,Karen Boback,Karen,,Boback,,,True,pa,lower,117,Republican,http://www.legis.state.pa.us/images/members/200/1110.jpg,2010-07-21 17:38:03.952000,2017-06-01 11:11:05.022000
+PAL000063,Matthew D Bradford,Matthew,D,Bradford,,,True,pa,lower,70,Democratic,http://www.legis.state.pa.us/images/members/200/1161.jpg,2010-07-21 17:38:03.958000,2017-06-01 11:11:05.206000
+PAL000065,Tim Briggs,Tim,,Briggs,,,True,pa,lower,149,Democratic,http://www.legis.state.pa.us/images/members/200/1159.jpg,2010-07-21 17:38:03.962000,2017-06-01 11:11:05.559000
+PAL000067,Vanessa Lowery Brown,Vanessa Lowery,,Brown,,,True,pa,lower,190,Democratic,http://www.legis.state.pa.us/images/members/200/1162.jpg,2010-07-21 17:38:03.966000,2017-06-01 11:11:05.302000
+PAL000068,Frank Burns,Frank,,Burns,,,True,pa,lower,72,Democratic,http://www.legis.state.pa.us/images/members/200/1163.jpg,2010-07-21 17:38:03.968000,2017-06-01 11:11:05.346000
+PAL000070,Thomas R Caltagirone,Thomas,R,Caltagirone,,,True,pa,lower,127,Democratic,http://www.legis.state.pa.us/images/members/200/72.jpg,2010-07-21 17:38:03.972000,2017-06-01 11:11:03.378000
+PAL000071,Mike Carroll,Mike,,Carroll,,,True,pa,lower,118,Democratic,http://www.legis.state.pa.us/images/members/200/1111.jpg,2010-07-21 17:38:03.974000,2017-06-01 11:11:05.136000
+PAL000073,Martin T Causer,Martin,T,Causer,,,True,pa,lower,67,Republican,http://www.legis.state.pa.us/images/members/200/982.jpg,2010-07-21 17:38:03.978000,2017-06-01 11:11:05.159000
+PAL000074,Jim Christiana,Jim,,Christiana,,,True,pa,lower,15,Republican,http://www.legis.state.pa.us/images/members/200/1165.jpg,2010-07-21 17:38:03.980000,2017-06-01 11:11:05.330000
+PAL000077,H. Scott Conklin,Scott,,Conklin,,,True,pa,lower,77,Democratic,http://www.legis.state.pa.us/images/members/200/1096.jpg,2010-07-21 17:38:03.986000,2017-06-01 11:11:04.212000
+PAL000078,Dom Costa,Dom,,Costa,,,True,pa,lower,21,Democratic,http://www.legis.state.pa.us/images/members/200/1164.jpg,2010-07-21 17:38:03.988000,2017-06-01 11:11:05.539000
+PAL000079,Paul Costa,Paul,,Costa,,,True,pa,lower,34,Democratic,http://www.legis.state.pa.us/images/members/200/49.jpg,2010-07-21 17:38:03.990000,2017-06-01 11:11:03.780000
+PAL000080,Jim Cox,Jim,,Cox,,,True,pa,lower,129,Republican,http://www.legis.state.pa.us/images/members/200/1114.jpg,2010-07-21 17:38:03.992000,2017-06-01 11:11:05.389000
+PAL000082,Angel Cruz,Angel,,Cruz,,,True,pa,lower,180,Democratic,http://www.legis.state.pa.us/images/members/200/304.jpg,2010-07-21 17:38:03.996000,2017-06-01 11:11:03.529000
+PAL000084,Bryan Cutler,Bryan,,Cutler,,,True,pa,lower,100,Republican,http://www.legis.state.pa.us/images/members/200/1105.jpg,2010-07-21 17:38:04,2017-06-01 11:11:03.881000
+PAL000086,Gary Day,Gary,,Day,,,True,pa,lower,187,Republican,http://www.legis.state.pa.us/images/members/200/1190.jpg,2010-07-21 17:38:04.004000,2017-06-01 11:11:05.446000
+PAL000087,Anthony M DeLuca,Anthony,M,DeLuca,,,True,pa,lower,32,Democratic,http://www.legis.state.pa.us/images/members/200/47.jpg,2010-07-21 17:38:04.006000,2017-06-01 11:11:05.449000
+PAL000090,Daniel J Deasy,Daniel,J,Deasy,,,True,pa,lower,27,Democratic,http://www.legis.state.pa.us/images/members/200/1166.jpg,2010-07-21 17:38:04.032000,2017-06-01 11:11:05.382000
+PAL000091,Sheryl M Delozier,Sheryl,M,Delozier,,,True,pa,lower,88,Republican,http://www.legis.state.pa.us/images/members/200/1167.jpg,2010-07-21 17:38:04.034000,2017-06-01 11:11:05.515000
+PAL000093,Frank Dermody,Frank,,Dermody,,,True,pa,lower,33,Democratic,http://www.legis.state.pa.us/images/members/200/143.jpg,2010-07-21 17:38:04.038000,2017-06-01 11:11:03.653000
+PAL000094,Gene DiGirolamo,Gene,,DiGirolamo,,,True,pa,lower,18,Republican,http://www.legis.state.pa.us/images/members/200/19.jpg,2010-07-21 17:38:04.041000,2017-06-01 11:11:03.497000
+PAL000098,Brian L Ellis,Brian,L,Ellis,,,True,pa,lower,11,Republican,http://www.legis.state.pa.us/images/members/200/1047.jpg,2010-07-21 17:38:04.049000,2017-06-01 11:11:05.332000
+PAL000101,Garth D Everett,Garth,D,Everett,,,True,pa,lower,84,Republican,http://www.legis.state.pa.us/images/members/200/1098.jpg,2010-07-21 17:38:04.055000,2017-06-01 11:11:05.553000
+PAL000102,Florindo J Fabrizio,Florindo,J,Fabrizio,,,True,pa,lower,2,Democratic,http://www.legis.state.pa.us/images/members/200/1018.jpg,2010-07-21 17:38:04.057000,2017-06-01 11:11:05.288000
+PAL000104,Frank A Farry,Frank,A,Farry,,,True,pa,lower,142,Republican,http://www.legis.state.pa.us/images/members/200/1169.jpg,2010-07-21 17:38:04.061000,2017-06-01 11:11:04.725000
+PAL000106,Dan Frankel,Dan,,Frankel,,,True,pa,lower,23,Democratic,http://www.legis.state.pa.us/images/members/200/84.jpg,2010-07-21 17:38:04.065000,2017-06-01 11:11:03.640000
+PAL000107,Robert Freeman,Robert,,Freeman,,,True,pa,lower,136,Democratic,http://www.legis.state.pa.us/images/members/200/136.jpg,2010-07-21 17:38:04.067000,2017-06-01 11:11:03.914000
+PAL000109,Matt Gabler,Matt,,Gabler,,,True,pa,lower,75,Republican,http://www.legis.state.pa.us/images/members/200/1170.jpg,2010-07-21 17:38:04.071000,2017-06-01 11:11:05.195000
+PAL000110,John T Galloway,John,T,Galloway,,,True,pa,lower,140,Democratic,http://www.legis.state.pa.us/images/members/200/1118.jpg,2010-07-21 17:38:04.073000,2017-06-01 11:11:05.375000
+PAL000114,Marc J Gergely,Marc,J,Gergely,,,True,pa,lower,35,Democratic,http://www.legis.state.pa.us/images/members/200/1030.jpg,2010-07-21 17:38:04.082000,2017-06-01 11:11:05.401000
+PAL000116,Keith Gillespie,Keith,,Gillespie,,,True,pa,lower,47,Republican,http://www.legis.state.pa.us/images/members/200/1006.jpg,2010-07-21 17:38:04.086000,2017-06-01 11:11:04.339000
+PAL000118,Robert W Godshall,Robert,W,Godshall,,,True,pa,lower,53,Republican,http://www.legis.state.pa.us/images/members/200/111.jpg,2010-07-21 17:38:04.110000,2017-06-01 11:11:05.437000
+PAL000121,Seth M Grove,Seth,M,Grove,,,True,pa,lower,196,Republican,http://www.legis.state.pa.us/images/members/200/1171.jpg,2010-07-21 17:38:04.116000,2017-06-01 11:11:05.569000
+PAL000123,Marcia M Hahn,Marcia,M,Hahn,,,True,pa,lower,138,Republican,http://www.legis.state.pa.us/images/members/200/1195.jpg,2010-07-21 17:38:04.120000,2017-06-01 11:11:05.057000
+PAL000125,Michael K Hanna,Michael,K,Hanna,,,True,pa,lower,76,Democratic,http://www.legis.state.pa.us/images/members/200/10.jpg,2010-07-21 17:38:04.125000,2017-06-01 11:11:03.700000
+PAL000128,Patrick J Harkins,Patrick,J,Harkins,,,True,pa,lower,1,Democratic,http://www.legis.state.pa.us/images/members/200/1081.jpg,2010-07-21 17:38:04.131000,2017-06-01 11:11:04.590000
+PAL000129,Kate Harper,Kate,,Harper,,,True,pa,lower,61,Republican,http://www.legis.state.pa.us/images/members/200/286.jpg,2010-07-21 17:38:04.133000,2017-06-01 11:11:03.929000
+PAL000130,C. Adam Harris,Adam,,Harris,,,True,pa,lower,82,Republican,http://www.legis.state.pa.us/images/members/200/1016.jpg,2010-07-21 17:38:04.135000,2017-06-01 11:11:03.777000
+PAL000131,Susan C Helm,Susan,C,Helm,,,True,pa,lower,104,Republican,http://www.legis.state.pa.us/images/members/200/1107.jpg,2010-07-21 17:38:04.137000,2017-06-01 11:11:05.043000
+PAL000132,Tim Hennessey,Tim,,Hennessey,,,True,pa,lower,26,Republican,http://www.legis.state.pa.us/images/members/200/41.jpg,2010-07-21 17:38:04.139000,2017-06-01 11:11:04.646000
+PAL000134,David S Hickernell,David,S,Hickernell,,,True,pa,lower,98,Republican,http://www.legis.state.pa.us/images/members/200/1013.jpg,2010-07-21 17:38:04.148000,2017-06-01 11:11:05.578000
+PAL000140,Rob W Kauffman,Rob,W,Kauffman,,,True,pa,lower,89,Republican,http://www.legis.state.pa.us/images/members/200/1022.jpg,2010-07-21 17:38:04.175000,2017-06-01 11:11:05.412000
+PAL000141,Mark K Keller,Mark,K,Keller,,,True,pa,lower,86,Republican,http://www.legis.state.pa.us/images/members/200/1020.jpg,2010-07-21 17:38:04.177000,2017-06-01 11:11:04.805000
+PAL000142,William F Keller,William,F,Keller,,,True,pa,lower,184,Democratic,http://www.legis.state.pa.us/images/members/200/147.jpg,2010-07-21 17:38:04.179000,2017-06-01 11:11:03.216000
+PAL000146,Jerry Knowles,Jerry,,Knowles,,,True,pa,lower,124,Republican,http://www.legis.state.pa.us/images/members/200/1193.jpg,2010-07-21 17:38:04.188000,2017-06-01 11:11:05.546000
+PAL000147,William C Kortz II,William,C,Kortz,,,True,pa,lower,38,Democratic,http://www.legis.state.pa.us/images/members/200/1091.jpg,2010-07-21 17:38:04.190000,2017-06-01 11:11:05.317000
+PAL000153,Mark Longietti,Mark,,Longietti,,,True,pa,lower,7,Democratic,http://www.legis.state.pa.us/images/members/200/1084.jpg,2010-07-21 17:38:04.204000,2017-06-01 11:11:05.575000
+PAL000154,John Maher,John,,Maher,,,True,pa,lower,40,Republican,http://www.legis.state.pa.us/images/members/200/55.jpg,2010-07-21 17:38:04.206000,2017-06-01 11:11:05.121000
+PAL000159,Joseph F Markosek,Joseph,F,Markosek,,,True,pa,lower,25,Democratic,http://www.legis.state.pa.us/images/members/200/86.jpg,2010-07-21 17:38:04.217000,2017-06-01 11:11:04.135000
+PAL000160,Jim Marshall,Jim,,Marshall,,,True,pa,lower,14,Republican,http://www.legis.state.pa.us/images/members/200/1086.jpg,2010-07-21 17:38:04.219000,2017-06-01 11:11:05.150000
+PAL000161,Ron Marsico,Ron,,Marsico,,,True,pa,lower,105,Republican,http://www.legis.state.pa.us/images/members/200/234.jpg,2010-07-21 17:38:04.222000,2017-06-01 11:11:05.548000
+PAL000162,Robert F Matzie,Robert,F,Matzie,,,True,pa,lower,16,Democratic,http://www.legis.state.pa.us/images/members/200/1173.jpg,2010-07-21 17:38:04.224000,2017-06-01 11:11:05.465000
+PAL000167,Daryl D Metcalfe,Daryl,D,Metcalfe,,,True,pa,lower,12,Republican,http://www.legis.state.pa.us/images/members/200/13.jpg,2010-07-21 17:38:04.235000,2017-06-01 11:11:05.202000
+PAL000168,Carl Walker Metzgar,Carl Walker,,Metzgar,,,True,pa,lower,69,Republican,http://www.legis.state.pa.us/images/members/200/1174.jpg,2010-07-21 17:38:04.237000,2017-06-01 11:11:05.325000
+PAL000171,David R Millard,David,R,Millard,,,True,pa,lower,109,Republican,http://www.legis.state.pa.us/images/members/200/1033.jpg,2010-07-21 17:38:04.244000,2017-06-01 11:11:05.077000
+PAL000173,Duane Milne,Duane D.,,Milne,,,True,pa,lower,167,Republican,http://www.legis.state.pa.us/images/members/200/1126.jpg,2010-07-21 17:38:04.249000,2017-06-01 11:11:05.312000
+PAL000175,Dan Moul,Dan,,Moul,,,True,pa,lower,91,Republican,http://www.legis.state.pa.us/images/members/200/1101.jpg,2010-07-21 17:38:04.273000,2017-06-01 11:11:05.032000
+PAL000178,Thomas P Murt,Thomas,P,Murt,,,True,pa,lower,152,Republican,http://www.legis.state.pa.us/images/members/200/1124.jpg,2010-07-21 17:38:04.280000,2017-06-01 11:11:05.425000
+PAL000179,T. Mark Mustio,Mark,,Mustio,,,True,pa,lower,44,Republican,http://www.legis.state.pa.us/images/members/200/1010.jpg,2010-07-21 17:38:04.282000,2017-06-01 11:11:04.305000
+PAL000182,Michael H. O'Brien,Michael,H.,O'Brien,,,True,pa,lower,175,Democratic,http://www.legis.state.pa.us/images/members/200/1127.jpg,2010-07-21 17:38:04.289000,2017-06-01 11:11:04.133000
+PAL000183,Bernie O'Neill,Bernie,,O'Neill,,,True,pa,lower,29,Republican,http://www.legis.state.pa.us/images/members/200/1023.jpg,2010-07-21 17:38:04.301000,2017-06-01 11:11:05.617000
+PAL000184,Donna Oberlander,Donna,,Oberlander,,,True,pa,lower,63,Republican,http://www.legis.state.pa.us/images/members/200/1177.jpg,2010-07-21 17:38:04.304000,2017-06-01 11:09:50.231000
+PAL000188,Eddie Day Pashinski,Eddie,Day,Pashinski,,,True,pa,lower,121,Democratic,http://www.legis.state.pa.us/images/members/200/1112.jpg,2010-07-21 17:38:04.313000,2017-06-01 11:11:04.841000
+PAL000191,Michael Peifer,Michael,,Peifer,,,True,pa,lower,139,Republican,http://www.legis.state.pa.us/images/members/200/1117.jpg,2010-07-21 17:38:04.320000,2017-06-01 11:11:04.903000
+PAL000194,Joseph A Petrarca,Joseph,A,Petrarca,,,True,pa,lower,55,Democratic,http://www.legis.state.pa.us/images/members/200/1618.jpg,2010-07-21 17:38:04.327000,2017-06-01 11:11:05.519000
+PAL000195,Scott A Petri,Scott,A,Petri,,,True,pa,lower,178,Republican,http://www.legis.state.pa.us/images/members/200/1034.jpg,2010-07-21 17:38:04.329000,2017-06-01 11:11:04.592000
+PAL000197,Tina Pickett,Tina,,Pickett,,,True,pa,lower,110,Republican,http://www.legis.state.pa.us/images/members/200/97.jpg,2010-07-21 17:38:04.347000,2017-06-01 11:11:05.441000
+PAL000199,Jeffrey P Pyle,Jeffrey,P,Pyle,,,True,pa,lower,60,Republican,http://www.legis.state.pa.us/images/members/200/1019.jpg,2010-07-21 17:38:04.352000,2017-06-01 11:11:05.555000
+PAL000200,Thomas J Quigley,Thomas,J,Quigley,,,True,pa,lower,146,Republican,http://www.legis.state.pa.us/images/members/200/1039.jpg,2010-07-21 17:38:04.354000,2017-06-01 11:11:05.594000
+PAL000201,Marguerite Quinn,Marguerite,,Quinn,,,True,pa,lower,143,Republican,http://www.legis.state.pa.us/images/members/200/1120.jpg,2010-07-21 17:38:04.357000,2017-06-01 11:11:05.480000
+PAL000202,Kathy L Rapp,Kathy,L,Rapp,,,True,pa,lower,65,Republican,http://www.legis.state.pa.us/images/members/200/1028.jpg,2010-07-21 17:38:04.359000,2017-06-01 11:11:05.596000
+PAL000203,Adam Ravenstahl,Adam,,Ravenstahl,,,True,pa,lower,20,Democratic,http://www.legis.state.pa.us/images/members/200/1194.jpg,2010-07-21 17:38:04.361000,2017-06-01 11:11:05.398000
+PAL000204,Harry Readshaw,Harry,,Readshaw,,,True,pa,lower,36,Democratic,http://www.legis.state.pa.us/images/members/200/51.jpg,2010-07-21 17:38:04.364000,2017-06-01 11:11:04.323000
+PAL000205,Dave Reed,Dave,,Reed,,,True,pa,lower,62,Republican,http://www.legis.state.pa.us/images/members/200/981.jpg,2010-07-21 17:38:04.366000,2017-06-01 11:11:03.874000
+PAL000206,Mike Reese,Mike,,Reese,,,True,pa,lower,59,Republican,http://www.legis.state.pa.us/images/members/200/1178.jpg,2010-07-21 17:38:04.368000,2017-06-01 11:11:05.615000
+PAL000208,Brad Roae,Brad,,Roae,,,True,pa,lower,6,Republican,http://www.legis.state.pa.us/images/members/200/1083.jpg,2010-07-21 17:38:04.381000,2017-06-01 11:11:05.468000
+PAL000210,James R Roebuck Jr.,James,R,Roebuck,,,True,pa,lower,188,Democratic,http://www.legis.state.pa.us/images/members/200/139.jpg,2010-07-21 17:38:04.386000,2017-06-01 11:11:05.601000
+PAL000214,Chris Sainato,Chris,,Sainato,,,True,pa,lower,9,Democratic,http://www.legis.state.pa.us/images/members/200/90.jpg,2010-07-21 17:38:04.395000,2017-06-01 11:11:04.759000
+PAL000215,Steve Samuelson,Steve,,Samuelson,,,True,pa,lower,135,Democratic,http://www.legis.state.pa.us/images/members/200/80.jpg,2010-07-21 17:38:04.398000,2017-06-01 11:11:04.656000
+PAL000218,Stan Saylor,Stan,,Saylor,,,True,pa,lower,94,Republican,http://www.legis.state.pa.us/images/members/200/200.jpg,2010-07-21 17:38:04.404000,2017-06-01 11:11:04.107000
+PAL000228,Curtis G Sonney,Curtis,G,Sonney,,,True,pa,lower,4,Republican,http://www.legis.state.pa.us/images/members/200/1046.jpg,2010-07-21 17:38:04.427000,2017-06-01 11:11:05.482000
+PAL000232,P. Michael Sturla,P. Michael,,Sturla,,,True,pa,lower,96,Democratic,http://www.legis.state.pa.us/images/members/200/274.jpg,2010-07-21 17:38:04.437000,2017-06-01 11:11:03.595000
+PAL000234,Will Tallman,Will,,Tallman,,,True,pa,lower,193,Republican,http://www.legis.state.pa.us/images/members/200/1180.jpg,2010-07-21 17:38:04.441000,2017-06-01 11:11:05.588000
+PAL000235,John Taylor,John,,Taylor,,,True,pa,lower,177,Republican,http://www.legis.state.pa.us/images/members/200/161.jpg,2010-07-21 17:38:04.444000,2017-06-01 11:11:03.761000
+PAL000237,W. Curtis Thomas,W. Curtis,,Thomas,,,True,pa,lower,181,Democratic,http://www.legis.state.pa.us/images/members/200/165.jpg,2010-07-21 17:38:04.448000,2017-06-01 11:11:05.338000
+PAL000238,Marcy Toepel,Marcy,,Toepel,,,True,pa,lower,147,Republican,http://www.legis.state.pa.us/images/members/200/1196.jpg,2010-07-21 17:38:04.451000,2017-06-01 11:11:03.876000
+PAL000240,Mike Turzai,Mike,,Turzai,,,True,pa,lower,28,Republican,http://www.legis.state.pa.us/images/members/200/289.jpg,2010-07-21 17:38:04.465000,2017-06-01 11:11:03.871000
+PAL000242,Greg Vitali,Greg,,Vitali,,,True,pa,lower,166,Democratic,http://www.legis.state.pa.us/images/members/200/210.jpg,2010-07-21 17:38:04.470000,2017-06-01 11:09:50.255000
+PAL000247,Katharine M Watson,Katharine,M,Watson,,,True,pa,lower,144,Republican,http://www.legis.state.pa.us/images/members/200/261.jpg,2010-07-21 17:38:04.482000,2017-06-01 11:11:04.194000
+PAL000248,Jake Wheatley,Jake,,Wheatley,,,True,pa,lower,19,Democratic,http://www.legis.state.pa.us/images/members/200/1026.jpg,2010-07-21 17:38:04.484000,2017-06-01 11:11:04.905000
+PAL000251,Rosita C Youngblood,Rosita,C,Youngblood,,,True,pa,lower,198,Democratic,http://www.legis.state.pa.us/images/members/200/264.jpg,2010-07-21 17:38:04.501000,2017-06-01 11:11:03.607000
+PAL000256,Neal P Goodman,Neal,P,Goodman,,,True,pa,lower,123,Democratic,http://www.legis.state.pa.us/images/members/200/1029.jpg,2010-07-21 17:38:04.112000,2017-06-01 11:11:03.609000
+PAL000264,Margo L Davidson,Margo,L,Davidson,,,True,pa,lower,164,Democratic,http://www.legis.state.pa.us/images/members/200/1203.jpg,2010-12-08 17:22:21.078000,2017-06-01 11:11:05.456000
+PAL000271,Stephen Bloom,Stephen,,Bloom,,,True,pa,lower,199,Republican,http://www.legis.state.pa.us/images/members/200/1199.jpg,2011-01-14 22:24:08.273000,2017-06-01 11:11:05.385000
+PAL000272,Kevin J Boyle,Kevin,J,Boyle,,,True,pa,lower,172,Democratic,http://www.legis.state.pa.us/images/members/200/1225.jpg,2011-01-14 22:24:08.272000,2017-06-01 11:11:05.280000
+PAL000273,Rosemary M Brown,Rosemary,M,Brown,,,True,pa,lower,189,Republican,http://www.legis.state.pa.us/images/members/200/1200.jpg,2011-01-14 22:24:08.272000,2017-06-01 11:11:05.603000
+PAL000275,Lynda Schlegel Culver,Lynda,,Schlegel Culver,,,True,pa,lower,108,Republican,http://www.legis.state.pa.us/images/members/200/1202.jpg,2011-01-14 22:24:08.350000,2017-06-01 11:11:05.475000
+PAL000276,Tina M Davis,Tina,M,Davis,,,True,pa,lower,141,Democratic,http://www.legis.state.pa.us/images/members/200/1204.jpg,2011-01-14 22:24:08.269000,2017-06-01 11:11:05.537000
+PAL000277,Pamela A DeLissio,Pamela,A,DeLissio,,,True,pa,lower,194,Democratic,http://www.legis.state.pa.us/images/members/200/1205.jpg,2011-01-14 22:24:08.133000,2017-06-01 11:11:05.273000
+PAL000278,George Dunbar,George,,Dunbar,,,True,pa,lower,56,Republican,http://www.legis.state.pa.us/images/members/200/1206.jpg,2011-01-14 22:24:08.134000,2017-06-01 11:11:05.323000
+PAL000279,Joe Emrick,Joe,,Emrick,,,True,pa,lower,137,Republican,http://www.legis.state.pa.us/images/members/200/1207.jpg,2011-01-14 22:24:08.268000,2017-06-01 11:11:05.067000
+PAL000280,Eli Evankovich,Eli,,Evankovich,,,True,pa,lower,54,Republican,http://www.legis.state.pa.us/images/members/200/1208.jpg,2011-01-14 22:24:08.274000,2017-06-01 11:11:05.485000
+PAL000281,Mark M Gillen,Mark,M,Gillen,,,True,pa,lower,128,Republican,http://www.legis.state.pa.us/images/members/200/1209.jpg,2011-01-14 22:24:08.351000,2017-06-01 11:11:05.571000
+PAL000284,Doyle Heffley,Doyle,,Heffley,,,True,pa,lower,122,Republican,http://www.legis.state.pa.us/images/members/200/1211.jpg,2011-01-14 22:24:08.265000,2017-06-01 11:11:05.349000
+PAL000285,Warren Kampf,Warren,,Kampf,,,True,pa,lower,157,Republican,http://www.legis.state.pa.us/images/members/200/1212.jpg,2011-01-14 22:24:08.270000,2017-06-01 11:11:05.473000
+PAL000286,Sid Michaels Kavulich,Sid Michaels,,Kavulich,,,True,pa,lower,114,Democratic,http://www.legis.state.pa.us/images/members/200/1213.jpg,2011-01-14 22:24:08.350000,2017-06-01 11:11:05.052000
+PAL000287,Fred Keller,Fred,,Keller,,,True,pa,lower,85,Republican,http://www.legis.state.pa.us/images/members/200/1214.jpg,2011-01-14 22:24:08.275000,2017-06-01 11:11:05.380000
+PAL000289,John A Lawrence,John,A,Lawrence,,,True,pa,lower,13,Republican,http://www.legis.state.pa.us/images/members/200/1215.jpg,2011-01-14 22:24:08.267000,2017-06-01 11:11:05.275000
+PAL000290,David M Maloney Sr.,David,M,Maloney,,,True,pa,lower,130,Republican,http://www.legis.state.pa.us/images/members/200/1226.jpg,2011-01-14 22:24:08.351000,2017-06-01 11:11:05.427000
+PAL000292,Kurt A Masser,Kurt,A,Masser,,,True,pa,lower,107,Republican,http://www.legis.state.pa.us/images/members/200/1216.jpg,2011-01-14 22:24:08.349000,2017-06-01 11:11:03.848000
+PAL000293,Gerald J Mullery,Gerald,J,Mullery,,,True,pa,lower,119,Democratic,http://www.legis.state.pa.us/images/members/200/1217.jpg,2011-01-14 22:24:08.132000,2017-06-01 11:11:05.591000
+PAL000294,Brandon P Neuman,Brandon,P,Neuman,,,True,pa,lower,48,Democratic,http://www.legis.state.pa.us/images/members/200/1218.jpg,2011-01-14 22:24:08.273000,2017-06-01 11:11:05.535000
+PAL000295,Rick Saccone,Rick,,Saccone,,,True,pa,lower,39,Republican,http://www.legis.state.pa.us/images/members/200/1219.jpg,2011-01-14 22:24:08.133000,2017-06-01 11:11:05.504000
+PAL000296,Justin J. Simmons,Justin J.,,Simmons,,,True,pa,lower,131,Republican,http://www.legis.state.pa.us/images/members/200/1220.jpg,2011-01-14 22:24:08.352000,2017-06-01 11:11:05.463000
+PAL000297,Todd Stephens,Todd,,Stephens,,,True,pa,lower,151,Republican,http://www.legis.state.pa.us/images/members/200/1221.jpg,2011-01-14 22:24:08.269000,2017-06-01 11:11:05.528000
+PAL000298,Mike Tobash,Mike,,Tobash,,,True,pa,lower,125,Republican,http://www.legis.state.pa.us/images/members/200/1222.jpg,2011-01-14 22:24:08.266000,2017-06-01 11:11:05.625000
+PAL000299,Tarah Toohil,Tarah,,Toohil,,,True,pa,lower,116,Republican,http://www.legis.state.pa.us/images/members/200/1223.jpg,2011-01-14 22:24:08.265000,2017-06-01 11:11:05.511000
+PAL000303,Maria P. Donatucci,Maria,P.,Donatucci,,,True,pa,lower,185,Democratic,http://www.legis.state.pa.us/images/members/200/1233.jpg,2011-04-08 08:51:41.594000,2017-06-01 11:11:05.414000
+PAL000344,Madeleine Dean,Madeleine,,Dean,,,True,pa,lower,153,Democratic,http://www.legis.state.pa.us/images/members/200/1613.jpg,2012-05-11 00:21:04.044000,2017-06-01 11:11:05.506000
+PAL000376,Ryan E. Mackenzie,Ryan,E.,Mackenzie,,,True,pa,lower,134,Republican,http://www.legis.state.pa.us/images/members/200/1614.jpg,2012-05-11 00:21:05.017000,2017-06-01 11:11:05.458000
+PAL000441,Ryan A. Bizzarro,Ryan,A.,Bizzarro,,,True,pa,lower,3,Democratic,http://www.legis.state.pa.us/images/members/200/1619.jpg,2013-01-04 00:10:58.477000,2017-06-01 11:11:05.521000
+PAL000443,Becky Corbin,Becky,,Corbin,,,True,pa,lower,155,Republican,http://www.legis.state.pa.us/images/members/200/1621.jpg,2013-01-04 00:10:58.650000,2017-06-01 11:11:05.524000
+PAL000444,Mary Jo Daley,Mary Jo,,Daley,,,True,pa,lower,148,Democratic,http://www.legis.state.pa.us/images/members/200/1622.jpg,2013-01-04 00:10:58.704000,2017-06-01 11:11:05.304000
+PAL000445,Harold A. English,Harold,A.,English,,,True,pa,lower,30,Republican,http://www.legis.state.pa.us/images/members/200/1623.jpg,2013-01-04 00:10:58.884000,2017-06-01 11:11:05.606000
+PAL000447,Mindy Fee,Mindy,,Fee,,,True,pa,lower,37,Republican,http://www.legis.state.pa.us/images/members/200/1625.jpg,2013-01-04 00:10:58.939000,2017-06-01 11:11:05.623000
+PAL000448,Marty Flynn,Marty,,Flynn,,,True,pa,lower,113,Democratic,http://www.legis.state.pa.us/images/members/200/1626.jpg,2013-01-04 00:10:58.955000,2017-06-01 11:11:05.461000
+PAL000449,Ed Gainey,Ed,,Gainey,,,True,pa,lower,24,Democratic,http://www.legis.state.pa.us/images/members/200/1627.jpg,2013-01-04 00:10:58.985000,2017-06-01 11:11:05.585000
+PAL000450,Keith J. Greiner,Keith,J.,Greiner,,,True,pa,lower,43,Republican,http://www.legis.state.pa.us/images/members/200/1632.jpg,2013-01-04 00:10:59.057000,2017-06-01 11:11:05.314000
+PAL000452,Jordan A. Harris,Jordan,A.,Harris,,,True,pa,lower,186,Democratic,http://www.legis.state.pa.us/images/members/200/1633.jpg,2013-01-04 00:10:59.169000,2017-06-01 11:11:05.166000
+PAL000453,R. Lee James,R.,Lee,James,,,True,pa,lower,64,Republican,http://www.legis.state.pa.us/images/members/200/1634.jpg,2013-01-04 00:10:59.222000,2017-06-01 11:11:05.127000
+PAL000454,Patty Kim,Patty,,Kim,,,True,pa,lower,103,Democratic,http://www.legis.state.pa.us/images/members/200/1636.jpg,2013-01-04 00:10:59.311000,2017-06-01 11:11:05.573000
+PAL000455,Stephen Kinsey,Stephen,,Kinsey,,,True,pa,lower,201,Democratic,http://www.legis.state.pa.us/images/members/200/1637.jpg,2013-01-04 00:10:59.520000,2017-06-01 11:11:05.299000
+PAL000457,Stephen McCarter,Stephen,,McCarter,,,True,pa,lower,154,Democratic,http://www.legis.state.pa.us/images/members/200/1639.jpg,2013-01-04 00:10:59.694000,2017-06-01 11:11:05.608000
+PAL000458,John D. McGinnis,John,D.,McGinnis,,,True,pa,lower,79,Republican,http://www.legis.state.pa.us/images/members/200/1640.jpg,2013-01-04 00:10:59.711000,2017-06-01 11:11:05.580000
+PAL000459,Daniel T. McNeill,Daniel,T.,McNeill,,,True,pa,lower,133,Democratic,http://www.legis.state.pa.us/images/members/200/1641.jpg,2013-01-04 00:10:59.721000,2017-06-01 11:11:05.430000
+PAL000460,Steven C. Mentzer,Steven,C.,Mentzer,,,True,pa,lower,97,Republican,http://www.legis.state.pa.us/images/members/200/1642.jpg,2013-01-04 00:10:59.730000,2017-06-01 11:11:05.444000
+PAL000465,Mark Rozzi,Mark,,Rozzi,,,True,pa,lower,126,Democratic,http://www.legis.state.pa.us/images/members/200/1647.jpg,2013-01-04 00:11:00.300000,2017-06-01 11:11:04.890000
+PAL000466,Tommy Sankey,Tommy,,Sankey,,,True,pa,lower,73,Republican,http://www.legis.state.pa.us/images/members/200/1648.jpg,2013-01-04 00:11:00.348000,2017-06-01 11:11:05.351000
+PAL000467,Michael H. Schlossberg,Michael,H.,Schlossberg,,,True,pa,lower,132,Democratic,http://www.legis.state.pa.us/images/members/200/1649.jpg,2013-01-04 00:11:00.383000,2017-06-01 11:11:05.567000
+PAL000468,Brian Sims,Brian,,Sims,,,True,pa,lower,182,Democratic,http://www.legis.state.pa.us/images/members/200/1650.jpg,2013-01-04 00:11:00.400000,2017-06-01 11:11:05.212000
+PAL000469,Pam Snyder,Pam,,Snyder,,,True,pa,lower,50,Democratic,http://www.legis.state.pa.us/images/members/200/1651.jpg,2013-01-04 00:11:00.418000,2017-06-01 11:11:05.403000
+PAL000478,Jesse Topper,Jesse,,Topper,,,True,pa,lower,78,Republican,http://www.legis.state.pa.us/images/members/200/1681.jpg,2014-02-07 05:29:43.598000,2017-06-01 11:11:05.543000
+PAL000482,"Diamond, Russ",Russ,,Diamond,,,True,pa,lower,102,Republican,http://www.legis.state.pa.us/images/members/200/1686.jpg,2015-01-06 21:25:10.971000,2017-06-01 11:11:05.079000
+PAL000483,"Klunk, Kate A.",Kate A.,,Klunk,,,True,pa,lower,169,Republican,http://www.legis.state.pa.us/images/members/200/1694.jpg,2015-01-06 21:25:10.977000,2017-06-01 11:11:05.557000
+PAL000484,"Kaufer, Aaron D.",Aaron D.,,Kaufer,,,True,pa,lower,120,Republican,http://www.legis.state.pa.us/images/members/200/1693.jpg,2015-01-06 21:25:10.983000,2017-06-01 11:11:05.295000
+PAL000485,"Lewis, Harry",Harry,,Lewis,,,True,pa,lower,74,Republican,http://www.legis.state.pa.us/images/members/200/1695.jpg,2015-01-06 21:25:11,2017-06-01 11:09:50.307000
+PAL000486,"Hill, Kristin",Kristin,,Hill,,,True,pa,lower,93,Republican,http://www.legis.state.pa.us/images/members/200/1690.jpg,2015-01-06 21:25:11.048000,2017-06-01 11:11:05.619000
+PAL000487,"Warner, Ryan",Ryan,,Warner,,,True,pa,lower,52,Republican,http://www.legis.state.pa.us/images/members/200/1708.jpg,2015-01-06 21:25:11.064000,2017-06-01 11:11:05.321000
+PAL000488,"Rader, Jack",Jack,,Rader,,,True,pa,lower,176,Republican,http://www.legis.state.pa.us/images/members/200/1703.jpg,2015-01-06 21:25:11.071000,2017-06-01 11:09:50.397000
+PAL000492,"Ortitay, Jason",Jason,,Ortitay,,,True,pa,lower,46,Republican,http://www.legis.state.pa.us/images/members/200/1701.jpg,2015-01-06 21:25:11.308000,2017-06-01 11:11:05.157000
+PAL000493,"Schemel, Paul",Paul,,Schemel,,,True,pa,lower,90,Republican,http://www.legis.state.pa.us/images/members/200/1705.jpg,2015-01-06 21:25:11.545000,2017-06-01 11:11:05.513000
+PAL000495,"Ward, Judy",Judy,,Ward,,,True,pa,lower,80,Republican,http://www.legis.state.pa.us/images/members/200/1683.jpg,2015-01-06 21:25:11.618000,2017-06-01 11:11:05.284000
+PAL000497,"Schweyer, Peter",Peter,,Schweyer,,,True,pa,lower,22,Democratic,http://www.legis.state.pa.us/images/members/200/1706.jpg,2015-01-06 21:25:11.952000,2017-06-01 11:11:04.864000
+PAL000504,"Miccarelli, Nick",Nick,,Miccarelli,,,True,pa,lower,162,Republican,http://www.legis.state.pa.us/images/members/200/1175.jpg,2015-01-06 21:25:12.196000,2017-06-01 11:11:04.146000
+PAL000505,"Wentling, Parke",Parke,,Wentling,,,True,pa,lower,17,Republican,http://www.legis.state.pa.us/images/members/200/1709.jpg,2015-01-06 21:25:12.273000,2017-06-01 11:11:05.050000
+PAL000506,"Staats, Craig T.",Craig T.,,Staats,,,True,pa,lower,145,Republican,http://www.legis.state.pa.us/images/members/200/1707.jpg,2015-01-06 21:25:12.305000,2017-06-01 11:11:05.599000
+PAL000507,"Santora, James R.",James R.,,Santora,,,True,pa,lower,163,Republican,http://www.legis.state.pa.us/images/members/200/1704.jpg,2015-01-06 21:25:12.312000,2017-06-01 11:11:04.565000
+PAL000508,"Irvin, Rich",Rich,,Irvin,,,True,pa,lower,81,Republican,http://www.legis.state.pa.us/images/members/200/1691.jpg,2015-01-06 21:25:12.547000,2017-06-01 11:11:05.496000
+PAL000510,"Driscoll, Michael J.",Michael J.,,Driscoll,,,True,pa,lower,173,Democratic,http://www.legis.state.pa.us/images/members/200/1688.jpg,2015-01-06 21:25:12.624000,2017-06-01 11:11:05.439000
+PAL000511,"Dawkins, Jason",Jason,,Dawkins,,,True,pa,lower,179,Democratic,http://www.legis.state.pa.us/images/members/200/1685.jpg,2015-01-06 21:25:12.671000,2017-06-01 11:11:05.530000
+PAL000512,"Wheeland, Jeff C.",Jeff C.,,Wheeland,,,True,pa,lower,83,Republican,http://www.legis.state.pa.us/images/members/200/1710.jpg,2015-01-06 21:25:12.728000,2017-06-01 11:11:05.210000
+PAL000513,"Dush, Cris",Cris,,Dush,,,True,pa,lower,66,Republican,http://www.legis.state.pa.us/images/members/200/1687.jpg,2015-01-06 21:25:12.744000,2017-06-01 11:11:05.387000
+PAL000514,"Zimmerman, David H.",David H.,,Zimmerman,,,True,pa,lower,99,Republican,http://www.legis.state.pa.us/images/members/200/1711.jpg,2015-01-06 21:25:12.757000,2017-06-01 11:11:05.260000
+PAL000515,"Miller, Dan L.",Dan L.,,Miller,,,True,pa,lower,42,Democratic,http://www.legis.state.pa.us/images/members/200/1679.jpg,2015-01-06 21:25:12.780000,2017-06-01 11:11:05.613000
+PAL000516,"Jozwiak, Barry J.",Barry J.,,Jozwiak,,,True,pa,lower,5,Republican,http://www.legis.state.pa.us/images/members/200/1692.jpg,2015-01-06 21:25:12.820000,2017-06-01 11:11:05.526000
+PAL000517,"Miller, Brett R.",Brett R.,,Miller,,,True,pa,lower,41,Republican,http://www.legis.state.pa.us/images/members/200/1699.jpg,2015-01-06 21:25:12.836000,2017-06-01 11:11:05.190000
+PAL000518,"Nesbit, Tedd C.",Tedd C.,,Nesbit,,,True,pa,lower,8,Republican,http://www.legis.state.pa.us/images/members/200/1700.jpg,2015-01-06 21:25:12.855000,2017-06-01 11:11:05.509000
+PAL000521,"White, Martina A.",Martina A.,,White,,,True,pa,lower,170,Republican,http://www.legis.state.pa.us/images/members/200/1732.jpg,2015-04-01 02:46:06.847000,2017-06-01 11:11:05.562000
+PAL000525,"Bullock, Donna",Donna,,Bullock,,,True,pa,lower,195,Democratic,http://www.legis.state.pa.us/images/members/200/1736.jpg,2015-08-25 11:44:57.024000,2017-06-01 11:11:05.365000
+PAL000526,"McClinton, Joanna E.",Joanna E.,,McClinton,,,True,pa,lower,191,Democratic,http://www.legis.state.pa.us/images/members/200/1734.jpg,2015-08-25 11:44:57.179000,2017-06-01 11:11:05.517000
+PAL000527,"Krueger-Braneky, Leanne",Leanne,,Krueger-Braneky,,,True,pa,lower,161,Democratic,http://www.legis.state.pa.us/images/members/200/1735.jpg,2015-08-25 11:44:57.673000,2017-06-01 11:11:05.378000
+PAL000528,"Neilson, Ed",Ed,,Neilson,,,True,pa,lower,174,Democratic,http://www.legis.state.pa.us/images/members/200/1615.jpg,2015-08-25 11:44:57.760000,2017-06-01 11:11:04.556000
+PAL000529,"Rothman, Greg",Greg,,Rothman,,,True,pa,lower,87,Republican,http://www.legis.state.pa.us/images/members/200/1733.jpg,2015-08-25 11:44:58.292000,2017-06-01 11:11:04.223000
+PAL000533,"Nelson, Eric R.",Eric R.,,Nelson,,,True,pa,lower,57,Republican,http://www.legis.state.pa.us/images/members/200/1738.jpg,2016-03-18 15:20:52.596000,2017-06-01 11:11:04.674000
+PAL000537,"Quinn, Christopher B.",Christopher B.,,Quinn,,,True,pa,lower,168,Republican,http://www.legis.state.pa.us/images/members/200/1741.jpg,2016-07-14 18:49:11.744000,2017-06-01 11:11:05.353000
+PAL000538,"Kulik, Anita Astorino",Anita Astorino,,Kulik,,,True,pa,lower,45,Democratic,http://www.legis.state.pa.us/images/members/200/1744.jpg,2017-01-02 06:43:13.326000,2017-06-01 11:11:04.734000
+PAL000540,"Bernstine, Aaron",Aaron,,Bernstine,,,True,pa,lower,10,Republican,http://www.legis.state.pa.us/images/members/200/1742.jpg,2017-01-02 06:43:13.413000,2017-06-01 11:11:05.286000
+PAL000541,"Fitzgerald, Isabella V.",Isabella,,Fitzgerald,V.,,True,pa,lower,203,Democratic,http://www.legis.state.pa.us/images/members/200/1762.jpg,2017-01-02 06:43:13.464000,2017-06-01 11:11:05.200000
+PAL000542,"Dowling, Matthew D.",Matthew D.,,Dowling,,,True,pa,lower,51,Republican,http://www.legis.state.pa.us/images/members/200/1746.jpg,2017-01-02 06:43:13.497000,2017-06-01 11:11:04.579000
+PAL000543,"Cook, Bud",Bud,,Cook,,,True,pa,lower,49,Republican,http://www.legis.state.pa.us/images/members/200/1745.jpg,2017-01-02 06:43:13.503000,2017-06-01 11:11:05.038000
+PAL000546,"Mehaffie, Thomas L.",Thomas L.,,Mehaffie,,,True,pa,lower,106,Republican,http://www.legis.state.pa.us/images/members/200/1751.jpg,2017-01-02 06:43:13.761000,2017-06-01 11:09:50.367000
+PAL000547,"Charlton, Alexander T.",Alexander T.,,Charlton,,,True,pa,lower,165,Republican,http://www.legis.state.pa.us/images/members/200/1757.jpg,2017-01-02 06:43:13.792000,2017-06-01 11:11:05.265000
+PAL000548,"Mako, Zachary",Zachary,,Mako,,,True,pa,lower,183,Republican,http://www.legis.state.pa.us/images/members/200/1758.jpg,2017-01-02 06:43:13.818000,2017-06-01 11:11:04.754000
+PAL000550,"Walsh, Justin M.",Justin M.,,Walsh,,,True,pa,lower,58,Republican,http://www.legis.state.pa.us/images/members/200/1747.jpg,2017-01-02 06:43:13.933000,2017-06-01 11:11:05.335000
+PAL000551,"Rabb, Christopher M.",Christopher M.,,Rabb,,,True,pa,lower,200,Democratic,http://www.legis.state.pa.us/images/members/200/1760.jpg,2017-01-02 06:43:14.001000,2017-06-01 11:11:05.357000
+PAL000553,"Kirkland, Brian",Brian,,Kirkland,,,True,pa,lower,159,Democratic,http://www.legis.state.pa.us/images/members/200/1756.jpg,2017-01-02 06:43:14.204000,2017-06-01 11:11:05.252000
+PAL000554,"Hill-Evans, Carol",Carol,,Hill-Evans,,,True,pa,lower,95,Democratic,http://www.legis.state.pa.us/images/members/200/1749.jpg,2017-01-02 06:43:14.238000,2017-06-01 11:11:05.621000
+PAL000555,"Warren, Perry S.",Perry S.,,Warren,,,True,pa,lower,31,Democratic,http://www.legis.state.pa.us/images/members/200/1743.jpg,2017-01-02 06:43:14.250000,2017-06-01 11:11:05.487000
+PAL000557,"Haggerty, Kevin",Kevin,,Haggerty,,,True,pa,lower,112,Democratic,http://www.legis.state.pa.us/images/members/200/1635.jpg,2017-01-02 06:43:14.336000,2017-06-01 11:11:05.355000
+PAL000558,"Solomon, Jared G.",Jared G.,,Solomon,,,True,pa,lower,202,Democratic,http://www.legis.state.pa.us/images/members/200/1761.jpg,2017-01-02 06:43:14.341000,2017-06-01 11:11:05.582000
+PAL000559,"Roe, Eric",Eric,,Roe,,,True,pa,lower,158,Republican,http://www.legis.state.pa.us/images/members/200/1755.jpg,2017-01-02 06:43:14.391000,2017-06-01 11:11:04.640000
+PAL000560,"Keefer, Dawn W.",Dawn W.,,Keefer,,,True,pa,lower,92,Republican,http://www.legis.state.pa.us/images/members/200/1748.jpg,2017-01-02 06:43:14.423000,2017-06-01 11:11:05.319000
+PAL000561,"Cephas, Morgan",Morgan,,Cephas,,,True,pa,lower,192,Democratic,http://www.legis.state.pa.us/images/members/200/1759.jpg,2017-01-02 06:43:14.536000,2017-06-01 11:11:05.432000
+PAL000562,"Fritz, Jonathan",Jonathan,,Fritz,,,True,pa,lower,111,Republican,http://www.legis.state.pa.us/images/members/200/1752.jpg,2017-01-02 06:43:14.575000,2017-06-01 11:11:05.340000
+PAL000563,"Ryan, Francis X.",Francis X.,,Ryan,,,True,pa,lower,101,Republican,http://www.legis.state.pa.us/images/members/200/1750.jpg,2017-01-02 06:43:14.595000,2017-06-01 11:11:05.185000
+PAL000564,"Madden, Maureen",Maureen,,Madden,,,True,pa,lower,115,Democratic,http://www.legis.state.pa.us/images/members/200/1753.jpg,2017-01-02 06:43:14.787000,2017-06-01 11:09:50.188000
+PAL000565,"Comitta, Carolyn T.",Carolyn T.,,Comitta,,,True,pa,lower,156,Democratic,http://www.legis.state.pa.us/images/members/200/1790.jpg,2017-01-02 06:43:14.857000,2017-06-01 11:11:05.155000
+PAL000566,"Corr, Michael N.",Michael N.,,Corr,,,True,pa,lower,150,Republican,http://www.legis.state.pa.us/images/members/200/1754.jpg,2017-01-02 06:43:14.875000,2017-06-01 11:11:04.879000
+PAL000567,"Vazquez, Emilio A.",Emilio A.,,Vazquez,,,True,pa,lower,197,Democratic,http://www.legis.state.pa.us/images/members/200/1792.jpg,2017-04-05 06:59:02.047000,2017-06-01 11:11:05.240000
+PAL000568,"Madden, Maureen E.",Maureen E.,,Madden,,,True,pa,lower,115,Democratic,http://www.legis.state.pa.us/images/members/200/1753.jpg,2017-05-26 11:08:09.949000,2017-06-01 11:11:05.610000
+PAL000001,Richard L Alloway II,Richard,L,Alloway,,,True,pa,upper,33,Republican,http://www.legis.state.pa.us/images/members/200/1187.jpg,2010-07-21 17:38:03.796000,2017-06-01 11:11:04.598000
+PAL000002,David G Argall,David,G,Argall,,,True,pa,upper,29,Republican,http://www.legis.state.pa.us/images/members/200/69.jpg,2010-07-21 17:38:03.799000,2017-06-01 11:11:04.983000
+PAL000003,Lisa Baker,Lisa,,Baker,,,True,pa,upper,20,Republican,http://www.legis.state.pa.us/images/members/200/1077.jpg,2010-07-21 17:38:03.801000,2017-06-01 11:11:05.115000
+PAL000004,Lisa M Boscola,Lisa,M,Boscola,,,True,pa,upper,18,Democratic,http://www.legis.state.pa.us/images/members/200/179.jpg,2010-07-21 17:38:03.803000,2017-06-01 11:11:04.512000
+PAL000005,Patrick M Browne,Patrick,M,Browne,,,True,pa,upper,16,Republican,http://www.legis.state.pa.us/images/members/200/76.jpg,2010-07-21 17:38:03.805000,2017-06-01 11:11:04.966000
+PAL000007,Jake Corman,Jake,,Corman,,,True,pa,upper,34,Republican,http://www.legis.state.pa.us/images/members/200/251.jpg,2010-07-21 17:38:03.809000,2017-06-01 11:11:04.947000
+PAL000008,Jay Costa,Jay,,Costa,,,True,pa,upper,43,Democratic,http://www.legis.state.pa.us/images/members/200/254.jpg,2010-07-21 17:38:03.811000,2017-06-01 11:11:05.098000
+PAL000009,Andrew E Dinniman,Andrew,E,Dinniman,,,True,pa,upper,19,Democratic,http://www.legis.state.pa.us/images/members/200/1049.jpg,2010-07-21 17:38:03.813000,2017-06-01 11:11:05.093000
+PAL000011,John H Eichelberger,John,H,Eichelberger,,,True,pa,upper,30,Republican,http://www.legis.state.pa.us/images/members/200/1078.jpg,2010-07-21 17:38:03.817000,2017-06-01 11:11:04.969000
+PAL000013,Lawrence M Farnese Jr.,Lawrence,M,Farnese,,,True,pa,upper,1,Democratic,http://www.legis.state.pa.us/images/members/200/1183.jpg,2010-07-21 17:38:03.820000,2017-06-01 11:11:04.470000
+PAL000015,Mike Folmer,Mike,,Folmer,,,True,pa,upper,48,Republican,http://www.legis.state.pa.us/images/members/200/1080.jpg,2010-07-21 17:38:03.824000,2017-06-01 11:11:04.698000
+PAL000016,Wayne D Fontana,Wayne,D,Fontana,,,True,pa,upper,42,Democratic,http://www.legis.state.pa.us/images/members/200/1041.jpg,2010-07-21 17:38:03.826000,2017-06-01 11:11:04.618000
+PAL000017,John R Gordner,John,R,Gordner,,,True,pa,upper,27,Republican,http://www.legis.state.pa.us/images/members/200/96.jpg,2010-07-21 17:38:03.828000,2017-06-01 11:11:04.494000
+PAL000018,Stewart J Greenleaf,Stewart,J,Greenleaf,,,True,pa,upper,12,Republican,http://www.legis.state.pa.us/images/members/200/173.jpg,2010-07-21 17:38:03.830000,2017-06-01 11:11:04.486000
+PAL000019,Vincent J Hughes,Vincent,J,Hughes,,,True,pa,upper,7,Democratic,http://www.legis.state.pa.us/images/members/200/152.jpg,2010-07-21 17:38:03.832000,2017-06-01 11:11:04.988000
+PAL000022,Daylin Leach,Daylin,,Leach,,,True,pa,upper,17,Democratic,http://www.legis.state.pa.us/images/members/200/991.jpg,2010-07-21 17:38:03.838000,2017-06-01 11:11:04.700000
+PAL000024,Charles T McIlhinney Jr.,Charles,T,McIlhinney,,,True,pa,upper,10,Republican,http://www.legis.state.pa.us/images/members/200/22.jpg,2010-07-21 17:38:03.862000,2017-06-01 11:11:04.695000
+PAL000026,Bob Mensch,Bob,,Mensch,,,True,pa,upper,24,Republican,http://www.legis.state.pa.us/images/members/200/1121.jpg,2010-07-21 17:38:03.866000,2017-06-01 11:11:05.101000
+PAL000033,John C Rafferty Jr.,John,C,Rafferty,,,True,pa,upper,44,Republican,http://www.legis.state.pa.us/images/members/200/1036.jpg,2010-07-21 17:38:03.879000,2017-06-01 11:11:04.611000
+PAL000035,Joseph B Scarnati III,Joseph,B,Scarnati,,,True,pa,upper,25,Republican,http://www.legis.state.pa.us/images/members/200/283.jpg,2010-07-21 17:38:03.883000,2017-06-01 11:11:05.087000
+PAL000039,Christine M Tartaglione,Christine,M,Tartaglione,,,True,pa,upper,2,Democratic,http://www.legis.state.pa.us/images/members/200/277.jpg,2010-07-21 17:38:03.891000,2017-06-01 11:11:05.103000
+PAL000040,Robert M Tomlinson,Robert,M,Tomlinson,,,True,pa,upper,6,Republican,http://www.legis.state.pa.us/images/members/200/151.jpg,2010-07-21 17:38:03.893000,2017-06-01 11:11:04.450000
+PAL000042,Elder A Vogel Jr.,Elder,A,Vogel,,,True,pa,upper,47,Republican,http://www.legis.state.pa.us/images/members/200/1189.jpg,2010-07-21 17:38:03.897000,2017-06-01 11:11:04.714000
+PAL000043,Kim L Ward,Kim,L,Ward,,,True,pa,upper,39,Republican,http://www.legis.state.pa.us/images/members/200/1188.jpg,2010-07-21 17:38:03.899000,2017-06-01 11:11:04.959000
+PAL000047,Donald D White,Donald,D,White,,,True,pa,upper,41,Republican,http://www.legis.state.pa.us/images/members/200/297.jpg,2010-07-21 17:38:03.907000,2017-06-01 11:11:04.601000
+PAL000048,Anthony H Williams,Anthony,H,Williams,,,True,pa,upper,8,Democratic,http://www.legis.state.pa.us/images/members/200/153.jpg,2010-07-21 17:38:03.909000,2017-06-01 11:11:04.608000
+PAL000050,Gene Yaw,Gene,,Yaw,,,True,pa,upper,23,Republican,http://www.legis.state.pa.us/images/members/200/1186.jpg,2010-07-21 17:38:03.913000,2017-06-01 11:11:04.626000
+PAL000066,Michele Brooks,Michele,,Brooks,,,True,pa,upper,50,Republican,http://www.legis.state.pa.us/images/members/200/1087.jpg,2010-07-21 17:38:03.964000,2017-06-01 11:11:05.090000
+PAL000137,Scott E Hutchinson,Scott,E,Hutchinson,,,True,pa,upper,21,Republican,http://www.legis.state.pa.us/images/members/200/1629.jpg,2010-07-21 17:38:04.155000,2017-06-01 11:11:05.106000
+PAL000144,Thomas H Killion,Thomas,H,Killion,,,True,pa,upper,9,Republican,http://www.legis.state.pa.us/images/members/200/1011.jpg,2010-07-21 17:38:04.184000,2017-06-01 11:11:04.413000
+PAL000213,John P Sabatina Jr.,John,P,Sabatina,,,True,pa,upper,5,Democratic,http://www.legis.state.pa.us/images/members/200/1044.jpg,2010-07-21 17:38:04.393000,2017-06-01 11:09:50.488000
+PAL000219,Mario M Scavello,Mario,M,Scavello,,,True,pa,upper,40,Republican,http://www.legis.state.pa.us/images/members/200/972.jpg,2010-07-21 17:38:04.407000,2017-06-01 11:11:04.524000
+PAL000243,Randy Vulakovich,Randy,,Vulakovich,,,True,pa,upper,38,Republican,http://www.legis.state.pa.us/images/members/200/1090.jpg,2010-07-21 17:38:04.472000,2017-06-01 11:11:05.108000
+PAL000252,John T Yudichak,John,T,Yudichak,,,True,pa,upper,14,Democratic,http://www.legis.state.pa.us/images/members/200/64.jpg,2010-07-21 17:38:04.503000,2017-06-01 11:11:05.007000
+PAL000265,John P Blake,John,P,Blake,,,True,pa,upper,22,Democratic,http://www.legis.state.pa.us/images/members/200/1227.jpg,2011-01-14 22:24:08.131000,2017-06-01 11:11:05.096000
+PAL000266,James R Brewster,James,R,Brewster,,,True,pa,upper,45,Democratic,http://www.legis.state.pa.us/images/members/200/1197.jpg,2011-01-14 22:24:08.132000,2017-06-01 11:11:04.604000
+PAL000270,Ryan P Aument,Ryan,P,Aument,,,True,pa,upper,36,Republican,http://www.legis.state.pa.us/images/members/200/1198.jpg,2011-01-14 22:24:08.275000,2017-06-01 11:11:05.111000
+PAL000301,Judith L. Schwank,Judith,L.,Schwank,,,True,pa,upper,11,Democratic,http://www.legis.state.pa.us/images/members/200/1234.jpg,2011-04-08 08:51:41.436000,2017-06-01 11:11:05.014000
+PAL000479,Scott Wagner,Scott,,Wagner,,,True,pa,upper,28,Republican,http://www.legis.state.pa.us/images/members/200/1682.jpg,2014-04-03 04:21:18.245000,2017-06-01 11:11:04.703000
+PAL000494,"Stefano, Patrick J.",Patrick J.,,Stefano,,,True,pa,upper,32,Republican,http://www.legis.state.pa.us/images/members/200/1697.jpg,2015-01-06 21:25:11.583000,2017-06-01 11:11:04.522000
+PAL000496,"Haywood, Art",Art,,Haywood,,,True,pa,upper,4,Democratic,http://www.legis.state.pa.us/images/members/200/1689.jpg,2015-01-06 21:25:11.746000,2017-06-01 11:11:04.994000
+PAL000499,"McGarrigle, Thomas J.",Thomas J.,,McGarrigle,,,True,pa,upper,26,Republican,http://www.legis.state.pa.us/images/members/200/1696.jpg,2015-01-06 21:25:12.040000,2017-06-01 11:11:04.373000
+PAL000502,"Bartolotta, Camera",Camera,,Bartolotta,,,True,pa,upper,46,Republican,http://www.legis.state.pa.us/images/members/200/1698.jpg,2015-01-06 21:25:12.161000,2017-06-01 11:11:04.431000
+PAL000530,"Reschenthaler, Guy",Guy,,Reschenthaler,,,True,pa,upper,37,Republican,http://www.legis.state.pa.us/images/members/200/1737.jpg,2015-11-14 14:21:01.434000,2017-06-01 11:11:04.606000
+PAL000539,"Laughlin, Daniel",Daniel,,Laughlin,,,True,pa,upper,49,Republican,http://www.legis.state.pa.us/images/members/200/1766.jpg,2017-01-02 06:43:13.407000,2017-06-01 11:11:05.005000
+PAL000544,"Langerholc, Wayne",Wayne,,Langerholc,,,True,pa,upper,35,Republican,http://www.legis.state.pa.us/images/members/200/1764.jpg,2017-01-02 06:43:13.527000,2017-06-01 11:09:50.497000
+PAL000545,"Street, Sharif",Sharif,,Street,,,True,pa,upper,3,Democratic,http://www.legis.state.pa.us/images/members/200/1767.jpg,2017-01-02 06:43:13.572000,2017-06-01 11:11:04.060000
+PAL000549,"DiSanto, John",John,,DiSanto,,,True,pa,upper,15,Republican,http://www.legis.state.pa.us/images/members/200/1765.jpg,2017-01-02 06:43:13.902000,2017-06-01 11:11:04.962000
+PAL000552,"Regan, Mike",Mike,,Regan,,,True,pa,upper,31,Republican,http://www.legis.state.pa.us/images/members/200/1646.jpg,2017-01-02 06:43:14.159000,2017-06-01 11:11:05.113000
+PAL000556,"Martin, Scott",Scott,,Martin,,,True,pa,upper,13,Republican,http://www.legis.state.pa.us/images/members/200/1763.jpg,2017-01-02 06:43:14.268000,2017-06-01 11:11:05.009000

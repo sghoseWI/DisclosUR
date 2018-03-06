@@ -1,0 +1,271 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+IDL000001,John C. Andreason,John,C.,Andreason,,,False,id,,,,http://legislature.idaho.gov/images/Andreason71.jpg,2011-08-11 21:54:20.027000,2013-01-09 00:01:40.990000
+IDL000002,Steve Bair,Steve,,Bair,,,False,id,,,,http://legislature.idaho.gov/images/Bair72.jpg,2011-08-11 21:54:20.067000,2017-01-16 07:01:30.083000
+IDL000003,Diane Bilyeu,Diane,,Bilyeu,,,False,id,,,,http://legislature.idaho.gov/images/Bilyeu74.jpg,2011-08-11 21:54:20.082000,2013-01-09 00:01:40.882000
+IDL000004,Les Bock,Les,,Bock,,,False,id,,,,http://legislature.idaho.gov/images/Bock10.jpg,2011-08-11 21:54:20.087000,2014-12-10 00:08:11.902000
+IDL000005,Bert Brackett,Bert,,Brackett,,,False,id,,,,http://legislature.idaho.gov/images/Brackett14.jpg,2011-08-11 21:54:20.091000,2017-01-16 07:01:30.045000
+IDL000006,Joyce M. Broadsword,Joyce,M.,Broadsword,,,False,id,,,,http://legislature.idaho.gov/images/Broadsword75.jpg,2011-08-11 21:54:20.095000,2013-01-09 00:01:40.883000
+IDL000007,Dean L. Cameron,Dean,L.,Cameron,,,False,id,,,,http://legislature.idaho.gov/images/Cameron77.jpg,2011-08-11 21:54:20.100000,2016-05-12 06:13:02.897000
+IDL000008,Tim Corder,Tim,,Corder,,,False,id,,,,http://legislature.idaho.gov/images/Corder79.jpg,2011-08-11 21:54:20.106000,2013-01-09 00:01:40.991000
+IDL000009,Denton Darrington,Denton,,Darrington,,,False,id,,,,http://legislature.idaho.gov/images/Darrington80.jpg,2011-08-11 21:54:20.110000,2014-12-09 00:22:19.093000
+IDL000010,Bart M. Davis,Bart,M.,Davis,,,False,id,,,,http://legislature.idaho.gov/images/Davis81.jpg,2011-08-11 21:54:20.115000,2017-01-16 07:01:30.044000
+IDL000011,Russell M. Fulcher,Russell,M.,Fulcher,,,False,id,,,,http://legislature.idaho.gov/images/Fulcher82.jpg,2011-08-11 21:54:20.119000,2014-12-10 00:08:11.903000
+IDL000012,John W. Goedde,John,W.,Goedde,,,False,id,,,,http://legislature.idaho.gov/images/Goedde85.jpg,2011-08-11 21:54:20.123000,2014-12-10 00:08:11.905000
+IDL000013,James C. Hammond,James,C.,Hammond,,,False,id,,,,http://legislature.idaho.gov/images/Hammond86.jpg,2011-08-11 21:54:20.128000,2013-01-09 00:01:40.887000
+IDL000014,Lee Heider,Lee,,Heider,,,False,id,,,,http://legislature.idaho.gov/images/Heider1168.jpg,2011-08-11 21:54:20.132000,2017-01-16 07:01:30.067000
+IDL000015,Brent Hill,Brent,,Hill,,,False,id,,,,http://legislature.idaho.gov/images/Hill88.jpg,2011-08-11 21:54:20.136000,2017-01-16 07:01:30.048000
+IDL000016,Shawn Keough,Shawn,,Keough,,,False,id,,,,http://legislature.idaho.gov/images/Keough91.jpg,2011-08-11 21:54:20.141000,2017-01-16 07:01:30.078000
+IDL000017,Nicole LeFavour,Nicole,,LeFavour,,,False,id,,,,http://legislature.idaho.gov/images/LeFavour36.jpg,2011-08-11 21:54:20.145000,2013-01-09 00:01:40.889000
+IDL000018,Patti Anne Lodge,Patti,Anne,Lodge,,,False,id,,,,http://legislature.idaho.gov/images/Lodge94.jpg,2011-08-11 21:54:20.149000,2017-01-16 07:01:30.076000
+IDL000019,Edgar J. Malepeai,Edgar,J.,Malepeai,,,False,id,,,,http://legislature.idaho.gov/images/Malepeai95.jpg,2011-08-11 21:54:20.153000,2013-01-09 00:01:41.080000
+IDL000020,John McGee,John,,McGee,,,False,id,,,,http://legislature.idaho.gov/images/McGee96.jpg,2011-08-11 21:54:20.158000,2012-06-01 18:50:50.939000
+IDL000021,Shirley McKague,Shirley,,McKague,,,False,id,,,,http://legislature.idaho.gov/images/McKague97.jpg,2011-08-11 21:54:20.162000,2013-01-09 00:01:40.994000
+IDL000022,Curt McKenzie,Curt,,McKenzie,,,False,id,,,,http://legislature.idaho.gov/images/McKenzie98.jpg,2011-08-11 21:54:20.166000,2017-01-16 07:01:30.053000
+IDL000023,Dean M. Mortimer,Dean,M.,Mortimer,,,False,id,,,,http://legislature.idaho.gov/images/Mortimer42.jpg,2011-08-11 21:54:20.170000,2017-01-16 07:01:30.056000
+IDL000024,Sheryl L. Nuxoll,Sheryl,L.,Nuxoll,,,False,id,,,,http://legislature.idaho.gov/images/Nuxoll1166.jpg,2011-08-11 21:54:20.175000,2017-01-16 07:01:30.080000
+IDL000025,Monty J. Pearce,Monty,J.,Pearce,,,False,id,,,,http://legislature.idaho.gov/images/Pearce99.jpg,2011-08-11 21:54:20.181000,2014-12-10 00:08:11.906000
+IDL000026,Dan J. Schmidt,Dan,J.,Schmidt,,,False,id,,,,http://legislature.idaho.gov/images/Schmidt1165.jpg,2011-08-11 21:54:20.205000,2017-01-16 07:01:30.055000
+IDL000027,Jeff C. Siddoway,Jeff,C.,Siddoway,,,False,id,,,,http://legislature.idaho.gov/images/Siddoway102.jpg,2011-08-11 21:54:20.210000,2017-01-16 07:01:30.061000
+IDL000028,Melinda S. Smyser,Melinda,S.,Smyser,,,False,id,,,,http://legislature.idaho.gov/images/Smyser840.jpg,2011-08-11 21:54:20.214000,2013-01-09 00:01:41.012000
+IDL000029,Joe Stegner,Joe,,Stegner,,,False,id,,,,http://legislature.idaho.gov/images/Stegner103.jpg,2011-08-11 21:54:20.218000,2012-06-01 18:52:16.646000
+IDL000030,Michelle Stennett,Michelle,,Stennett,,,False,id,,,,http://legislature.idaho.gov/images/Stennett1169.jpg,2011-08-11 21:54:20.223000,2017-01-16 07:01:30.074000
+IDL000031,John Tippets,John H.,,Tippets,,,False,id,,,,http://legislature.idaho.gov/images/Tippets1404.jpg,2011-08-11 21:54:20.227000,2015-08-05 13:39:10.552000
+IDL000032,Mitch Toryanski,Mitch,,Toryanski,,,False,id,,,,http://legislature.idaho.gov/images/Toryanski1167.jpg,2011-08-11 21:54:20.230000,2014-12-09 00:22:19.100000
+IDL000033,Steve Vick,Steve,,Vick,,,False,id,,,,http://legislature.idaho.gov/images/Vick1164.jpg,2011-08-11 21:54:20.234000,2017-01-16 07:01:30.084000
+IDL000034,Elliot Werk,Elliot,,Werk,,,False,id,,,,http://legislature.idaho.gov/images/Werk105.jpg,2011-08-11 21:54:20.255000,2015-04-28 20:18:50.956000
+IDL000035,Chuck Winder,Chuck,,Winder,,,False,id,,,,http://legislature.idaho.gov/images/Winder753.jpg,2011-08-11 21:54:20.260000,2017-01-16 07:01:30.050000
+IDL000036,Eric R. Anderson,Eric,R.,Anderson,,,False,id,,,,http://legislature.idaho.gov/images/Anderson1.jpg,2011-08-11 21:54:20.264000,2014-12-10 00:08:11.856000
+IDL000037,Ken Andrus,Ken,,Andrus,,,False,id,,,,http://legislature.idaho.gov/images/Andrus2.jpg,2011-08-11 21:54:20.269000,2017-01-16 07:01:29.969000
+IDL000038,Vito Barbieri,Vito,,Barbieri,,,False,id,,,,http://legislature.idaho.gov/images/Barbieri1171.jpg,2011-08-11 21:54:20.273000,2017-01-16 07:01:30.036000
+IDL000039,Lenore Hardy Barrett,Lenore,Hardy,Barrett,,,False,id,,,,http://legislature.idaho.gov/images/Barrett3.jpg,2011-08-11 21:54:20.277000,2014-12-10 00:08:11.899000
+IDL000040,Linden B. Bateman,Linden,B.,Bateman,,,False,id,,,,http://legislature.idaho.gov/images/Bateman1181.jpg,2011-08-11 21:54:20.317000,2017-01-16 07:01:29.974000
+IDL000041,Clifford R. Bayer,Clifford,R.,Bayer,,,False,id,,,,http://legislature.idaho.gov/images/Bayer4.jpg,2011-08-11 21:54:20.321000,2017-01-16 07:01:30.051000
+IDL000042,Scott Bedke,Scott,,Bedke,,,False,id,,,,http://legislature.idaho.gov/images/Bedke5.jpg,2011-08-11 21:54:20.325000,2017-01-16 07:01:30.015000
+IDL000043,Maxine T. Bell,Maxine,T.,Bell,,,False,id,,,,http://legislature.idaho.gov/images/Bell6.jpg,2011-08-11 21:54:20.329000,2017-01-16 07:01:29.983000
+IDL000044,Carlos Bilbao,Carlos,,Bilbao,,,False,id,,,,http://legislature.idaho.gov/images/Bilbao7.jpg,2011-08-11 21:54:20.334000,2013-01-09 00:01:40.931000
+IDL000045,Max C. Black,Max,C.,Black,,,False,id,,,,http://legislature.idaho.gov/images/Black8.jpg,2011-08-11 21:54:20.339000,2013-01-09 00:01:40.935000
+IDL000046,Sharon L. Block,Sharon,L.,Block,,,False,id,,,,http://legislature.idaho.gov/images/Block9.jpg,2011-08-11 21:54:20.353000,2013-01-09 00:01:40.936000
+IDL000047,Darrell Bolz,Darrell,,Bolz,,,False,id,,,,http://legislature.idaho.gov/images/Bolz12.jpg,2011-08-11 21:54:20.357000,2014-12-10 00:08:11.859000
+IDL000048,Judy Boyle,Judy,,Boyle,,,False,id,,,,http://legislature.idaho.gov/images/Boyle745.jpg,2011-08-11 21:54:20.362000,2017-01-16 07:01:29.964000
+IDL000049,Cherie Buckner-Webb,Cherie,,Buckner-Webb,,,False,id,,,,http://legislature.idaho.gov/images/Buckner-Webb1177.jpg,2011-08-11 21:54:20.366000,2017-01-16 07:01:30.049000
+IDL000050,Grant Burgoyne,Grant,,Burgoyne,,,False,id,,,,http://legislature.idaho.gov/images/Burgoyne746.jpg,2011-08-11 21:54:20.370000,2017-01-16 07:01:30.059000
+IDL000051,Marge Chadderdon,Marge,,Chadderdon,,,False,id,,,,http://legislature.idaho.gov/images/Chadderdon16.jpg,2011-08-11 21:54:20.375000,2013-01-09 00:01:40.939000
+IDL000052,Susan B. Chew,Susan,B.,Chew,,,False,id,,,,http://legislature.idaho.gov/images/Chew18.jpg,2011-08-11 21:54:20.379000,2017-01-16 07:01:30.022000
+IDL000053,Gary E. Collins,Gary,E.,Collins,,,False,id,,,,http://legislature.idaho.gov/images/Collins20.jpg,2011-08-11 21:54:20.383000,2017-01-16 07:01:29.917000
+IDL000054,Brent J. Crane,Brent,J.,Crane,,,False,id,,,,http://legislature.idaho.gov/images/Crane21.jpg,2011-08-11 21:54:20.388000,2017-01-16 07:01:29.902000
+IDL000055,Brian Cronin,Brian,,Cronin,,,False,id,,,,http://legislature.idaho.gov/images/Cronin747.jpg,2011-08-11 21:54:20.392000,2013-01-09 00:01:40.942000
+IDL000056,Reed DeMordaunt,Reed,,DeMordaunt,,,False,id,,,,http://legislature.idaho.gov/images/DeMordaunt1175.jpg,2011-08-11 21:54:20.397000,2017-01-16 07:01:30.002000
+IDL000057,Lawerence Denney,Lawerence,,Denney,,,False,id,,,,http://legislature.idaho.gov/images/Denney22.jpg,2011-08-11 21:54:20.402000,2014-12-10 00:08:11.901000
+IDL000058,Julie Ellsworth,Julie,,Ellsworth,,,False,id,,,,http://legislature.idaho.gov/images/Ellsworth1176.jpg,2011-08-11 21:54:20.406000,2013-01-09 00:01:40.944000
+IDL000059,George E. Eskridge,George,E.,Eskridge,,,False,id,,,,http://legislature.idaho.gov/images/Eskridge24.jpg,2011-08-11 21:54:20.410000,2014-12-10 00:08:11.858000
+IDL000060,Marc Gibbs,Marc,,Gibbs,,,False,id,,,,http://legislature.idaho.gov/images/Gibbs748.jpg,2011-08-11 21:54:20.415000,2017-01-16 07:01:29.979000
+IDL000061,Jim Guthrie,Jim,,Guthrie,,,False,id,,,,http://legislature.idaho.gov/images/Guthrie1179.jpg,2011-08-11 21:54:20.420000,2017-01-16 07:01:30.062000
+IDL000062,Marv Hagedorn,Marv,,Hagedorn,,,False,id,,,,http://legislature.idaho.gov/images/Hagedorn25.jpg,2011-08-11 21:54:20.424000,2017-01-16 07:01:30.070000
+IDL000063,Phil Hart,Phil,,Hart,,,False,id,,,,http://legislature.idaho.gov/images/Hart26.jpg,2011-08-11 21:54:20.428000,2013-01-09 00:01:40.947000
+IDL000064,Stephen Hartgen,Stephen,,Hartgen,,,False,id,,,,http://legislature.idaho.gov/images/Hartgen705.jpg,2011-08-11 21:54:20.433000,2017-01-16 07:01:30.018000
+IDL000065,R. J. Harwood,R. J.,,Harwood,,,False,id,,,,http://legislature.idaho.gov/images/Harwood27.jpg,2011-08-11 21:54:20.437000,2013-01-09 00:01:40.948000
+IDL000066,Frank N. Henderson,Frank,N.,Henderson,,,False,id,,,,http://legislature.idaho.gov/images/Henderson29.jpg,2011-08-11 21:54:20.441000,2014-12-10 00:08:11.889000
+IDL000067,Elfreda Higgins,Elfreda,,Higgins,,,False,id,,,,http://legislature.idaho.gov/images/Higgins755.jpg,2011-08-11 21:54:20.446000,2013-01-09 00:01:40.951000
+IDL000068,Wendy Jaquet,Wendy,,Jaquet,,,False,id,,,,http://legislature.idaho.gov/images/Jaquet30.jpg,2011-08-11 21:54:20.450000,2013-01-09 00:01:40.910000
+IDL000069,William M. Killen,William,M.,Killen,,,False,id,,,,http://legislature.idaho.gov/images/Killen31.jpg,2011-08-11 21:54:20.455000,2013-01-09 00:01:40.952000
+IDL000070,Phylis K. King,Phylis,K.,King,,,False,id,,,,http://legislature.idaho.gov/images/King32.jpg,2011-08-11 21:54:20.459000,2017-01-16 07:01:30
+IDL000071,Roy Lacey,Roy,,Lacey,,,False,id,,,,http://legislature.idaho.gov/images/Lacey1180.jpg,2011-08-11 21:54:20.463000,2017-01-16 07:01:30.077000
+IDL000072,Dennis M. Lake,Dennis,M.,Lake,,,False,id,,,,http://legislature.idaho.gov/images/Lake35.jpg,2011-08-11 21:54:20.468000,2013-01-09 00:01:40.911000
+IDL000073,Thomas F. Loertscher,Thomas,F.,Loertscher,,,False,id,,,,http://legislature.idaho.gov/images/Loertscher37.jpg,2011-08-11 21:54:20.472000,2017-01-16 07:01:30.026000
+IDL000074,Lynn M. Luker,Lynn,M.,Luker,,,False,id,,,,http://legislature.idaho.gov/images/Luker38.jpg,2011-08-11 21:54:20.477000,2017-01-16 07:01:29.977000
+IDL000075,Jim Marriott,Jim,,Marriott,,,False,id,,,,http://legislature.idaho.gov/images/Marriott39.jpg,2011-08-11 21:54:20.481000,2013-01-09 00:01:40.958000
+IDL000076,Janice K. McGeachin,Janice,K.,McGeachin,,,False,id,,,,http://legislature.idaho.gov/images/McGeachin41.jpg,2011-08-11 21:54:20.485000,2013-01-09 00:01:40.912000
+IDL000077,Shannon McMillan,Shannon,,McMillan,,,False,id,,,,http://legislature.idaho.gov/images/McMillan1170.jpg,2011-08-11 21:54:20.489000,2017-01-16 07:01:30.016000
+IDL000078,Mike Moyle,Mike,,Moyle,,,False,id,,,,http://legislature.idaho.gov/images/Moyle43.jpg,2011-08-11 21:54:20.508000,2017-01-16 07:01:29.988000
+IDL000079,Jeff Nesset,Jeff,,Nesset,,,False,id,,,,http://legislature.idaho.gov/images/Nesset1173.jpg,2011-08-11 21:54:20.512000,2013-01-09 00:01:40.961000
+IDL000080,Pete Nielsen,Pete,,Nielsen,,,False,id,,,,http://legislature.idaho.gov/images/Nielsen44.jpg,2011-08-11 21:54:20.517000,2017-01-16 07:01:29.999000
+IDL000081,Bob Nonini,"Robert P. ""Bob""",,Nonini,,,False,id,,,,http://legislature.idaho.gov/images/Nonini45.jpg,2011-08-11 21:54:20.521000,2017-01-16 07:01:30.046000
+IDL000082,Joe Palmer,Joe,,Palmer,,,False,id,,,,http://legislature.idaho.gov/images/Palmer749.jpg,2011-08-11 21:54:20.525000,2017-01-16 07:01:29.953000
+IDL000083,Jim Patrick,Jim,,Patrick,,,False,id,,,,http://legislature.idaho.gov/images/Patrick47.jpg,2011-08-11 21:54:20.529000,2017-01-16 07:01:30.063000
+IDL000084,Donna Pence,Donna,,Pence,,,False,id,,,,http://legislature.idaho.gov/images/Pence48.jpg,2011-08-11 21:54:20.533000,2017-01-16 07:01:29.912000
+IDL000085,Christy Perry,Christy,,Perry,,,False,id,,,,http://legislature.idaho.gov/images/Perry1174.jpg,2011-08-11 21:54:20.537000,2017-01-16 07:01:29.905000
+IDL000086,Dell Raybould,Dell,,Raybould,,,False,id,,,,http://legislature.idaho.gov/images/Raybould49.jpg,2011-08-11 21:54:20.542000,2017-01-16 07:01:29.910000
+IDL000087,Shirley G. Ringo,Shirley,G.,Ringo,,,False,id,,,,http://legislature.idaho.gov/images/Ringo50.jpg,2011-08-11 21:54:20.546000,2014-12-10 00:08:11.896000
+IDL000088,Ken A. Roberts,Ken,A.,Roberts,,,False,id,,,,http://legislature.idaho.gov/images/Roberts51.jpg,2011-08-11 21:54:20.550000,2012-08-21 00:13:46.173000
+IDL000089,John Rusche,John,,Rusche,,,False,id,,,,http://legislature.idaho.gov/images/Rusche53.jpg,2011-08-11 21:54:20.554000,2017-01-16 07:01:29.957000
+IDL000090,Robert E. Schaefer,Robert,E.,Schaefer,,,False,id,,,,http://legislature.idaho.gov/images/Schaefer55.jpg,2011-08-11 21:54:20.559000,2013-01-09 00:01:40.970000
+IDL000091,Paul E. Shepherd,Paul,E.,Shepherd,,,False,id,,,,http://legislature.idaho.gov/images/Shepherd57.jpg,2011-08-11 21:54:20.563000,2017-01-16 07:01:29.992000
+IDL000092,Mack G. Shirley,Mack,G.,Shirley,,,False,id,,,,http://legislature.idaho.gov/images/Shirley58.jpg,2011-08-11 21:54:20.567000,2013-01-09 00:01:40.972000
+IDL000093,Erik Simpson,Erik,,Simpson,,,False,id,,,,http://legislature.idaho.gov/images/Simpson750.jpg,2011-08-11 21:54:20.572000,2013-01-09 00:01:40.979000
+IDL000094,Kathleen Sims,Kathleen,,Sims,,,False,id,,,,http://legislature.idaho.gov/images/Sims1172.jpg,2011-08-11 21:54:20.576000,2017-01-16 07:01:29.966000
+IDL000095,Elaine Smith,Elaine,,Smith,,,False,id,,,,http://legislature.idaho.gov/images/Smith61.jpg,2011-08-11 21:54:20.580000,2017-01-16 07:01:29.913000
+IDL000096,Leon E. Smith,Leon,E.,Smith,,,False,id,,,,http://legislature.idaho.gov/images/Smith60.jpg,2011-08-11 21:54:20.585000,2013-01-09 00:01:40.981000
+IDL000097,John A. Stevenson,John,A.,Stevenson,,,False,id,,,,http://legislature.idaho.gov/images/Stevenson63.jpg,2011-08-11 21:54:20.589000,2013-01-09 00:01:40.984000
+IDL000098,Pat Takasugi,Pat,,Takasugi,,,False,id,,,,http://legislature.idaho.gov/images/Takasugi751.jpg,2011-08-11 21:54:20.594000,2012-06-01 18:45:37.820000
+IDL000099,Gayle Batt,Gayle L.,,Batt,,,False,id,,,,http://legislature.idaho.gov/images/Batt1584.jpg,2011-08-11 21:54:20.598000,2017-01-16 07:01:29.922000
+IDL000100,Steven P. Thayn,Steven,P.,Thayn,,,False,id,,,,http://legislature.idaho.gov/images/Thayn64.jpg,2011-08-11 21:54:20.602000,2017-01-16 07:01:30.086000
+IDL000101,Jeff Thompson,Jeff,,Thompson,,,False,id,,,,http://legislature.idaho.gov/images/Thompson752.jpg,2011-08-11 21:54:20.607000,2017-01-16 07:01:29.932000
+IDL000102,Tom Trail,Tom,,Trail,,,False,id,,,,http://legislature.idaho.gov/images/Trail66.jpg,2011-08-11 21:54:20.624000,2013-01-09 00:01:40.987000
+IDL000103,John Vander Woude,John,Vander,Woude,,,False,id,,,,http://legislature.idaho.gov/images/Vander Woude67.jpg,2011-08-11 21:54:20.628000,2017-01-16 07:01:29.959000
+IDL000104,Richard Wills,"Richard ""Rich""",,Wills,,,False,id,,,,http://legislature.idaho.gov/images/Wills68.jpg,2011-08-11 21:54:20.633000,2017-01-16 07:01:30.003000
+IDL000105,Fred Wood,Fred,,Wood,,,False,id,,,,http://legislature.idaho.gov/images/Wood69.jpg,2011-08-11 21:54:20.637000,2017-01-16 07:01:29.916000
+IDL000106,JoAn E. Wood,JoAn,E.,Wood,,,False,id,,,,http://legislature.idaho.gov/images/Wood70.jpg,2011-08-11 21:54:20.642000,2014-12-10 00:08:11.893000
+IDL000110,Dan G. Johnson,Dan G.,,Johnson,,,False,id,,,,http://legislature.idaho.gov/images/Johnson1630.jpg,2012-01-04 00:12:50.842000,2017-01-16 07:01:30.054000
+IDL000112,Jim Rice,Jim,,Rice,,,False,id,,,,http://legislature.idaho.gov/images/Rice1884.jpg,2012-03-03 00:12:52.572000,2017-01-16 07:01:30.065000
+IDL000114,Terry Gestrin,Terry,,Gestrin,,,False,id,,,,http://legislature.idaho.gov/images/Gestrin1964.jpg,2012-08-08 00:13:34.983000,2017-01-16 07:01:30.023000
+IDL000119,Branden J. Durst,Branden J.,,Durst,,,False,id,,,,http://legislature.idaho.gov/images/Durst23.jpg,2013-01-09 00:01:39.916000,2014-01-07 16:14:08.749000
+IDL000125,Todd M. Lakey,Todd M.,,Lakey,,,False,id,,,,http://legislature.idaho.gov/images/Lakey2132.jpg,2013-01-09 00:01:39.993000,2017-01-16 07:01:30.087000
+IDL000127,Fred S. Martin,Fred S.,,Martin,,,False,id,,,,http://legislature.idaho.gov/images/Martin2085.jpg,2013-01-09 00:01:40.005000,2017-01-16 07:01:30.058000
+IDL000139,"Lucinda L. ""Cindy"" Agidius","Lucinda L. ""Cindy""",,Agidius,,,False,id,,,,http://legislature.idaho.gov/images/Agidius2065.jpg,2013-01-09 00:01:40.126000,2014-12-10 00:08:11.894000
+IDL000140,Neil A. Anderson,Neil A.,,Anderson,,,False,id,,,,http://legislature.idaho.gov/images/Anderson2128.jpg,2013-01-09 00:01:40.146000,2017-01-16 07:01:29.989000
+IDL000141,Robert Anderst,Robert,,Anderst,,,False,id,,,,http://legislature.idaho.gov/images/Anderst2104.jpg,2013-01-09 00:01:40.152000,2017-01-16 07:01:30.009000
+IDL000148,Lance Clow,Lance,,Clow,,,False,id,,,,http://legislature.idaho.gov/images/Clow2107.jpg,2013-01-09 00:01:40.235000,2017-01-16 07:01:29.971000
+IDL000150,Thomas Dayley,Thomas,,Dayley,,,False,id,,,,http://legislature.idaho.gov/images/Dayley2109.jpg,2013-01-09 00:01:40.255000,2017-01-16 07:01:30.025000
+IDL000151,Mathew W. Erpelding,Mathew,W.,Erpelding,,Mat,False,id,,,,http://legislature.idaho.gov/images/Erpelding2125.jpg,2013-01-09 00:01:40.336000,2017-01-16 07:01:29.981000
+IDL000152,John Gannon,John,,Gannon,,,False,id,,,,http://legislature.idaho.gov/images/Gannon2144.jpg,2013-01-09 00:01:40.350000,2017-01-16 07:01:29.954000
+IDL000154,Douglas A. Hancey,Douglas A.,,Hancey,,,False,id,,,,http://legislature.idaho.gov/images/Hancey2105.jpg,2013-01-09 00:01:40.371000,2014-12-10 00:08:11.890000
+IDL000155,Steven Harris,Steven,,Harris,,,False,id,,,,http://legislature.idaho.gov/images/Harris2087.jpg,2013-01-09 00:01:40.378000,2017-01-16 07:01:30.019000
+IDL000158,Brandon A. Hixon,Brandon A.,,Hixon,,,False,id,,,,http://legislature.idaho.gov/images/Hixon2064.jpg,2013-01-09 00:01:40.405000,2017-01-16 07:01:29.897000
+IDL000159,James Holtzclaw,James,,Holtzclaw,,,False,id,,,,http://legislature.idaho.gov/images/Holtzclaw2086.jpg,2013-01-09 00:01:40.411000,2017-01-16 07:01:29.928000
+IDL000160,Wendy Horman,Wendy,,Horman,,,False,id,,,,http://legislature.idaho.gov/images/Horman2146.jpg,2013-01-09 00:01:40.418000,2017-01-16 07:01:30.038000
+IDL000161,Clark Kauffman,Clark,,Kauffman,,,False,id,,,,http://legislature.idaho.gov/images/Kauffman2126.jpg,2013-01-09 00:01:40.424000,2017-01-16 07:01:29.906000
+IDL000162,Hy Kloc,Hy,,Kloc,,,False,id,,,,http://legislature.idaho.gov/images/Kloc2089.jpg,2013-01-09 00:01:40.438000,2017-01-16 07:01:29.926000
+IDL000164,Luke Malek,Luke,,Malek,,,False,id,,,,http://legislature.idaho.gov/images/Malek2108.jpg,2013-01-09 00:01:40.459000,2017-01-16 07:01:29.975000
+IDL000166,Carolyn Meline,Carolyn,,Meline,,,False,id,,,,http://legislature.idaho.gov/images/Meline2145.jpg,2013-01-09 00:01:40.474000,2014-12-10 00:08:11.887000
+IDL000167,Ron Mendive,Ron,,Mendive,,,False,id,,,,http://legislature.idaho.gov/images/Mendive2124.jpg,2013-01-09 00:01:40.485000,2017-01-16 07:01:30.010000
+IDL000168,Steven Miller,Steven,,Miller,,,False,id,,,,http://legislature.idaho.gov/images/Miller2134.jpg,2013-01-09 00:01:40.492000,2017-01-16 07:01:30.020000
+IDL000169,Jason A. Monks,Jason A.,,Monks,,,False,id,,,,http://legislature.idaho.gov/images/Monks2084.jpg,2013-01-09 00:01:40.498000,2017-01-16 07:01:29.931000
+IDL000170,Ed Morse,Ed,,Morse,,,False,id,,,,http://legislature.idaho.gov/images/Morse2130.jpg,2013-01-09 00:01:40.505000,2014-12-10 00:08:11.885000
+IDL000172,Kelley Packer,Kelley,,Packer,,,False,id,,,,http://legislature.idaho.gov/images/Packer2088.jpg,2013-01-09 00:01:40.527000,2017-01-16 07:01:29.968000
+IDL000173,Mark Patterson,Mark,,Patterson,,,False,id,,,,http://legislature.idaho.gov/images/Patterson2133.jpg,2013-01-09 00:01:40.542000,2014-01-07 16:24:39.305000
+IDL000177,Paul Romrell,Paul,,Romrell,,,False,id,,,,http://legislature.idaho.gov/images/Romrell2127.jpg,2013-01-09 00:01:40.578000,2017-01-16 07:01:29.994000
+IDL000181,Thyra Stevenson,Thyra,,Stevenson,,,False,id,,,,http://legislature.idaho.gov/images/Stevenson2131.jpg,2013-01-09 00:01:40.611000,2014-12-10 00:08:11.898000
+IDL000183,Janet Trujillo,Janet,,Trujillo,,,False,id,,,,http://legislature.idaho.gov/images/Trujillo2066.jpg,2013-01-09 00:01:40.626000,2017-01-16 07:01:29.930000
+IDL000184,Julie VanOrden,Julie,,VanOrden,,,False,id,,,,http://legislature.idaho.gov/images/VanOrden2129.jpg,2013-01-09 00:01:40.632000,2017-01-16 07:01:29.965000
+IDL000186,Janie Ward-Engelking,Janie,,Ward-Engelking,,,False,id,,,,http://legislature.idaho.gov/images/Ward-Engelking2091.jpg,2013-01-09 00:01:40.669000,2017-01-16 07:01:30.060000
+IDL000188,Holli Woodings,Holli,,Woodings,,,False,id,,,,http://legislature.idaho.gov/images/Woodings2090.jpg,2013-01-09 00:01:40.709000,2014-12-10 00:08:11.884000
+IDL000189,Rick D. Youngblood,Rick D.,,Youngblood,,,False,id,,,,http://legislature.idaho.gov/images/Youngblood2106.jpg,2013-01-09 00:01:40.716000,2017-01-16 07:01:30.008000
+IDL000190,Ilana Rubel,Ilana,,Rubel,,,False,id,,,,http://legislature.idaho.gov/images/Rubel2888.jpg,2014-01-07 00:23:17.228000,2017-01-16 07:01:29.927000
+IDL000191,Patrick McDonald,Patrick,,McDonald,,,False,id,,,,http://legislature.idaho.gov/images/McDonald2924.jpg,2014-01-07 00:23:17.370000,2017-01-16 07:01:29.991000
+IDL000195,Greg Chaney,Greg,,Chaney,,,False,id,,,,http://legislature.idaho.gov/images/Chaney3128.jpg,2014-12-05 00:21:40.875000,2017-01-16 07:01:29.923000
+IDL000196,Merrill Beyeler,Merrill,,Beyeler,,,False,id,,,,http://legislature.idaho.gov/images/Beyeler3127.jpg,2014-12-05 00:21:40.902000,2017-01-16 07:01:29.986000
+IDL000197,Don Cheatham,Don,,Cheatham,,,False,id,,,,http://legislature.idaho.gov/images/Cheatham3129.jpg,2014-12-05 00:21:40.910000,2017-01-16 07:01:29.911000
+IDL000198,Eric M. Redman,Eric M.,,Redman,,,False,id,,,,http://legislature.idaho.gov/images/Redman3135.jpg,2014-12-05 00:21:40.919000,2017-01-16 07:01:29.915000
+IDL000199,Ryan Kerby,Ryan,,Kerby,,,False,id,,,,http://legislature.idaho.gov/images/Kerby3131.jpg,2014-12-05 00:21:40.924000,2017-01-16 07:01:30.013000
+IDL000200,Ronald Nate,Ronald,,Nate,,,False,id,,,,http://legislature.idaho.gov/images/Nate3133.jpg,2014-12-05 00:21:40.951000,2017-01-16 07:01:30.011000
+IDL000201,Caroline Nilsson Troy,Caroline Nilsson,,Troy,,,False,id,,,,http://legislature.idaho.gov/images/Troy3138.jpg,2014-12-05 00:21:40.961000,2017-01-16 07:01:29.904000
+IDL000203,John McCrostie,John,,McCrostie,,,False,id,,,,http://legislature.idaho.gov/images/McCrostie3132.jpg,2014-12-05 00:21:41.001000,2017-01-16 07:01:29.956000
+IDL000204,Melissa Wintrow,Melissa,,Wintrow,,,False,id,,,,http://legislature.idaho.gov/images/Wintrow3139.jpg,2014-12-05 00:21:41.018000,2017-01-16 07:01:29.984000
+IDL000205,Heather Scott,Heather,,Scott,,,False,id,,,,http://legislature.idaho.gov/images/Scott3137.jpg,2014-12-05 00:21:41.025000,2017-01-16 07:01:29.925000
+IDL000206,Sage G. Dixon,Sage G.,,Dixon,,,False,id,,,,http://legislature.idaho.gov/images/Dixon3130.jpg,2014-12-05 00:21:41.041000,2017-01-16 07:01:30.014000
+IDL000207,Abby Lee,Abby,,Lee,,,False,id,,,,http://legislature.idaho.gov/images/Lee3125.jpg,2014-12-05 00:21:41.055000,2017-01-16 07:01:30.039000
+IDL000208,Dan Rudolph,Dan,,Rudolph,,,False,id,,,,http://legislature.idaho.gov/images/Rudolph3136.jpg,2014-12-05 00:21:41.069000,2017-01-16 07:01:29.907000
+IDL000209,Van T. Burtenshaw,Van T.,,Burtenshaw,,,False,id,,,,http://legislature.idaho.gov/images/Burtenshaw3140.jpg,2014-12-05 00:21:41.100000,2017-01-16 07:01:30.027000
+IDL000210,Lori Den Hartog,Lori Den,,Hartog,,,False,id,,,,http://legislature.idaho.gov/images/Den Hartog3124.jpg,2014-12-05 00:21:41.107000,2017-01-16 07:01:30.068000
+IDL000211,Mary Souza,Mary,,Souza,,,False,id,,,,http://legislature.idaho.gov/images/Souza3126.jpg,2014-12-05 00:21:41.112000,2017-01-16 07:01:30.072000
+IDL000212,Mark Nye,Mark,,Nye,,,False,id,,,,http://legislature.idaho.gov/images/Nye3134.jpg,2014-12-05 00:21:41.135000,2017-01-16 07:01:29.980000
+IDL000213,Paulette E. Jordan,Paulette E.,,Jordan,,,False,id,,,,http://legislature.idaho.gov/images/Jordan3144.jpg,2014-12-05 00:21:41.171000,2017-01-16 07:01:29.997000
+IDL000216,To Be Determined,To Be,,Determined,,,False,id,,,,http://legislature.idaho.gov/images/Be Determined825.jpg,2015-02-21 00:16:16.991000,2015-04-28 20:15:49.122000
+IDL000217,Maryanne Jordan,Maryanne,,Jordan,,,False,id,,,,http://legislature.idaho.gov/images/Jordan3484.jpg,2015-03-11 23:18:58.740000,2017-01-16 07:01:30.073000
+IDL000218,Kelly A. Anthon,Kelly A.,,Anthon,,,False,id,,,,http://legislature.idaho.gov/images/Anthon3524.jpg,2015-07-22 23:21:44.472000,2017-01-16 07:01:30.066000
+IDL000219,Mark Harris,Mark,,Harris,,,False,id,,,,http://legislature.idaho.gov/images/Harris3584.jpg,2015-08-03 23:23:07.400000,2017-01-16 07:01:30.069000
+IDL000229,Lance W. Clow,Lance W.,,Clow,,,True,id,lower,24,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Clow2107.jpg,2017-01-16 07:01:29.146000,2017-06-01 07:11:55.555000
+IDL000231,Sage G. Dixon,Sage G.,,Dixon,,,True,id,lower,1,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Dixon3130.jpg,2017-01-16 07:01:29.172000,2017-06-01 07:11:55.349000
+IDL000233,Sally Toone,Sally,,Toone,,,True,id,lower,26,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Toone4282.jpg,2017-01-16 07:01:29.184000,2017-06-01 07:11:42.286000
+IDL000235,Caroline Nilsson Troy,Caroline Nilsson,,Troy,,,True,id,lower,5,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Troy3138.jpg,2017-01-16 07:01:29.195000,2017-06-01 07:11:55.506000
+IDL000236,Paul E. Shepherd,Paul E.,,Shepherd,,,True,id,lower,7,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Shepherd57.jpg,2017-01-16 07:01:29.200000,2017-06-01 07:11:55.542000
+IDL000237,Dustin Manwaring,Dustin,,Manwaring,,,True,id,lower,29,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Manwaring4277.jpg,2017-01-16 07:01:29.206000,2017-06-01 07:11:55.440000
+IDL000238,Phylis K. King,Phylis K.,,King,,,True,id,lower,18,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/King32.jpg,2017-01-16 07:01:29.212000,2017-06-01 07:11:55.271000
+IDL000239,Thomas F. Loertscher,Thomas F.,,Loertscher,,,True,id,lower,32,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Loertscher37.jpg,2017-01-16 07:01:29.218000,2017-06-01 07:11:55.442000
+IDL000240,James Holtzclaw,James,,Holtzclaw,,,True,id,lower,20,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Holtzclaw2086.jpg,2017-01-16 07:01:29.223000,2017-06-01 07:11:55.435000
+IDL000241,Priscilla Giddings,Priscilla,,Giddings,,,True,id,lower,7,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Giddings4285.jpg,2017-01-16 07:01:29.228000,2017-06-01 07:11:55.445000
+IDL000243,Terry Gestrin,Terry,,Gestrin,,,True,id,lower,8,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Gestrin1964.jpg,2017-01-16 07:01:29.239000,2017-06-01 07:11:55.335000
+IDL000245,Rick D. Youngblood,Rick D.,,Youngblood,,,True,id,lower,12,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Youngblood2106.jpg,2017-01-16 07:01:29.250000,2017-06-01 07:11:55.369000
+IDL000246,Julie VanOrden,Julie,,VanOrden,,,True,id,lower,31,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/VanOrden2129.jpg,2017-01-16 07:01:29.255000,2017-06-01 07:11:55.536000
+IDL000248,Gayann DeMordaunt,Gayann,,DeMordaunt,,,True,id,lower,14,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/DeMordaunt4280.jpg,2017-01-16 07:01:29.266000,2017-06-01 07:11:55.538000
+IDL000249,Mike Kingsley,Mike,,Kingsley,,,True,id,lower,6,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Kingsley4273.jpg,2017-01-16 07:01:29.271000,2017-06-01 07:11:55.291000
+IDL000250,Jeff Thompson,Jeff,,Thompson,,,True,id,lower,30,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Thompson752.jpg,2017-01-16 07:01:29.277000,2017-06-01 07:11:55.396000
+IDL000252,Patrick McDonald,Patrick,,McDonald,,,True,id,lower,15,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/McDonald2924.jpg,2017-01-16 07:01:29.287000,2017-06-01 07:11:55.551000
+IDL000256,Jason A. Monks,Jason A.,,Monks,,,True,id,lower,22,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Monks2084.jpg,2017-01-16 07:01:29.309000,2017-06-01 07:11:55.437000
+IDL000257,Wendy Horman,Wendy,,Horman,,,True,id,lower,30,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Horman2146.jpg,2017-01-16 07:01:29.314000,2017-06-01 07:11:55.402000
+IDL000258,Van T. Burtenshaw,Van T.,,Burtenshaw,,,True,id,lower,35,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Burtenshaw3140.jpg,2017-01-16 07:01:29.320000,2017-06-01 07:11:55.524000
+IDL000260,John McCrostie,John,,McCrostie,,,True,id,lower,16,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/McCrostie3132.jpg,2017-01-16 07:01:29.331000,2017-06-01 07:11:42.256000
+IDL000263,Stephen Hartgen,Stephen,,Hartgen,,,True,id,lower,24,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Hartgen705.jpg,2017-01-16 07:01:29.347000,2017-06-01 07:11:55.416000
+IDL000264,Megan Blanksma,Megan,,Blanksma,,,True,id,lower,23,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Blanksma4283.jpg,2017-01-16 07:01:29.352000,2017-06-01 07:11:55.083000
+IDL000265,Eric M. Redman,Eric M.,,Redman,,,True,id,lower,2,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Redman3135.jpg,2017-01-16 07:01:29.358000,2017-06-01 07:11:55.302000
+IDL000266,Neil A. Anderson,Neil A.,,Anderson,,,True,id,lower,31,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Anderson2128.jpg,2017-01-16 07:01:29.363000,2017-06-01 07:11:55.422000
+IDL000267,Mathew W. “Mat” Erpelding,Mathew W. “Mat”,,Erpelding,,,True,id,lower,19,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Erpelding2125.jpg,2017-01-16 07:01:29.369000,2017-06-01 07:11:42.265000
+IDL000268,Ryan Kerby,Ryan,,Kerby,,,True,id,lower,9,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Kerby3131.jpg,2017-01-16 07:01:29.374000,2017-06-01 07:11:55.553000
+IDL000270,Steven Miller,Steven,,Miller,,,True,id,lower,26,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Miller2134.jpg,2017-01-16 07:01:29.385000,2017-06-01 07:11:55.522000
+IDL000271,Hy Kloc,Hy,,Kloc,,,True,id,lower,16,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Kloc2089.jpg,2017-01-16 07:01:29.390000,2017-06-01 07:11:42.248000
+IDL000272,Randy Armstrong,Randy,,Armstrong,,,True,id,lower,28,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Armstrong4279.jpg,2017-01-16 07:01:29.395000,2017-06-01 07:11:55.520000
+IDL000274,Paul Amador,Paul,,Amador,,,True,id,lower,4,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Amador4272.jpg,2017-01-16 07:01:29.406000,2017-06-01 07:11:55.547000
+IDL000276,Dell Raybould,Dell,,Raybould,,,True,id,lower,34,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Raybould49.jpg,2017-01-16 07:01:29.416000,2017-06-01 07:11:55.412000
+IDL000280,Kelley Packer,Kelley,,Packer,,,True,id,lower,28,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Packer2088.jpg,2017-01-16 07:01:29.438000,2017-06-01 07:11:55.373000
+IDL000281,Ilana Rubel,Ilana,,Rubel,,,True,id,lower,18,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Rubel2888.jpg,2017-01-16 07:01:29.443000,2017-06-01 07:11:42.249000
+IDL000283,Bryan Zollinger,Bryan,,Zollinger,,,True,id,lower,33,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Zollinger4276.jpg,2017-01-16 07:01:29.454000,2017-06-01 07:11:55.030000
+IDL000285,Sue Chew,Sue,,Chew,,,True,id,lower,17,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Chew18.jpg,2017-01-16 07:01:29.465000,2017-06-01 07:11:55.250000
+IDL000287,Steven Harris,Steven,,Harris,,,True,id,lower,21,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Harris2087.jpg,2017-01-16 07:01:29.476000,2017-06-01 07:11:55.447000
+IDL000289,Robert Anderst,Robert,,Anderst,,,True,id,lower,12,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Anderst2104.jpg,2017-01-16 07:01:29.487000,2017-06-01 07:11:55.460000
+IDL000290,Christy Perry,Christy,,Perry,,,True,id,lower,11,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Perry1174.jpg,2017-01-16 07:01:29.493000,2017-06-01 07:11:55.040000
+IDL000292,Judy Boyle,Judy,,Boyle,,,True,id,lower,9,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Boyle745.jpg,2017-01-16 07:01:29.504000,2017-06-01 07:11:55.559000
+IDL000294,Lynn M. Luker,Lynn M.,,Luker,,,True,id,lower,15,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Luker38.jpg,2017-01-16 07:01:29.516000,2017-06-01 07:11:55.443000
+IDL000295,Don Cheatham,Don,,Cheatham,,,True,id,lower,3,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Cheatham3129.jpg,2017-01-16 07:01:29.521000,2017-06-01 07:11:55.557000
+IDL000296,Thomas Dayley,Thomas,,Dayley,,,True,id,lower,21,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Dayley2109.jpg,2017-01-16 07:01:29.527000,2017-06-01 07:11:55.507000
+IDL000298,Maxine T. Bell,Maxine T.,,Bell,,,True,id,lower,25,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Bell6.jpg,2017-01-16 07:01:29.538000,2017-06-01 07:11:55.518000
+IDL000299,Clark Kauffman,Clark,,Kauffman,,,True,id,lower,25,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Kauffman2126.jpg,2017-01-16 07:01:29.544000,2017-06-01 07:11:55.338000
+IDL000300,Scott Bedke,Scott,,Bedke,,,True,id,lower,27,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Bedke5.jpg,2017-01-16 07:01:29.550000,2017-06-01 07:11:42.287000
+IDL000302,Brent J. Crane,Brent J.,,Crane,,,True,id,lower,13,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Crane21.jpg,2017-01-16 07:01:29.562000,2017-06-01 07:11:55.462000
+IDL000304,Marc Gibbs,Marc,,Gibbs,,,True,id,lower,32,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Gibbs748.jpg,2017-01-16 07:01:29.574000,2017-06-01 07:11:55.063000
+IDL000305,Gary E. Collins,Gary E.,,Collins,,,True,id,lower,13,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Collins20.jpg,2017-01-16 07:01:29.580000,2017-06-01 07:11:55.216000
+IDL000307,Heather Scott,Heather,,Scott,,,True,id,lower,1,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Scott3137.jpg,2017-01-16 07:01:29.591000,2017-06-01 07:11:55.453000
+IDL000308,Greg Chaney,Greg,,Chaney,,,True,id,lower,10,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Chaney3128.jpg,2017-01-16 07:01:29.597000,2017-06-01 07:11:55.408000
+IDL000310,Fred Wood,Fred,,Wood,,,True,id,lower,27,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Wood69.jpg,2017-01-16 07:01:29.609000,2017-06-01 07:11:55.264000
+IDL000311,Elaine Smith,Elaine,,Smith,,,True,id,lower,29,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Smith61.jpg,2017-01-16 07:01:29.615000,2017-06-01 07:11:55.471000
+IDL000312,Ron Mendive,Ron,,Mendive,,,True,id,lower,3,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Mendive2124.jpg,2017-01-16 07:01:29.621000,2017-06-01 07:11:55.549000
+IDL000313,Karey Hanks,Karey,,Hanks,,,True,id,lower,35,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Hanks4274.jpg,2017-01-16 07:01:29.626000,2017-06-01 07:11:55.509000
+IDL000314,Ronald Nate,Ronald,,Nate,,,True,id,lower,34,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Nate3133.jpg,2017-01-16 07:01:29.633000,2017-06-01 07:11:55.398000
+IDL000315,John Gannon,John,,Gannon,,,True,id,lower,17,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Gannon2144.jpg,2017-01-16 07:01:29.639000,2017-06-01 07:11:54.952000
+IDL000316,Thyra Stevenson,Thyra,,Stevenson,,,True,id,lower,6,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Stevenson2131.jpg,2017-01-16 07:01:29.645000,2017-06-01 07:11:55.526000
+IDL000317,Mike Moyle,Mike,,Moyle,,,True,id,lower,14,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Moyle43.jpg,2017-01-16 07:01:29.651000,2017-06-01 07:11:55.464000
+IDL000318,Scott Syme,Scott,,Syme,,,True,id,lower,11,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Syme4278.jpg,2017-01-16 07:01:29.657000,2017-06-01 07:11:55.540000
+IDL000319,John Vander Woude,John Vander,,Woude,,,True,id,lower,22,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Vander Woude67.jpg,2017-01-16 07:01:29.663000,2017-06-01 07:11:55.458000
+IDL000320,Vito Barbieri,Vito,,Barbieri,,,True,id,lower,2,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Barbieri1171.jpg,2017-01-16 07:01:29.668000,2017-06-01 07:11:55.433000
+IDL000321,Melissa Wintrow,Melissa,,Wintrow,,,True,id,lower,19,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Wintrow3139.jpg,2017-01-16 07:01:29.674000,2017-06-01 07:11:55.163000
+IDL000322,Brandon A. Hixon,Brandon A.,,Hixon,,,True,id,lower,10,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Hixon2064.jpg,2017-01-16 07:01:29.680000,2017-06-01 07:11:55.362000
+IDL000324,Christy Zito,Christy,,Zito,,,True,id,lower,23,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Zito4281.jpg,2017-01-16 07:01:29.692000,2017-06-01 07:11:55.512000
+IDL000325,Janet Trujillo,Janet,,Trujillo,,,True,id,lower,33,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Trujillo2066.jpg,2017-01-16 07:01:29.698000,2017-06-01 07:11:55.424000
+IDL000326,Paulette E. Jordan,Paulette E.,,Jordan,,,True,id,lower,5,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Jordan3144.jpg,2017-01-16 07:01:29.704000,2017-06-01 07:11:54.926000
+IDL000330,Joe Palmer,Joe,,Palmer,,,True,id,lower,20,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Palmer749.jpg,2017-01-16 07:01:29.728000,2017-06-01 07:11:55.431000
+IDL000332,Dorothy Moon,Dorothy,,Moon,,,True,id,lower,8,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Moon4275.jpg,2017-01-16 07:01:29.740000,2017-06-01 07:11:55.544000
+IDL000333,Luke Malek,Luke,,Malek,,,True,id,lower,4,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Malek2108.jpg,2017-01-16 07:01:29.746000,2017-06-01 07:11:55.414000
+IDL000230,Kelly Arthur Anthon,Kelly Arthur,,Anthon,,,True,id,upper,27,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Anthon3524.jpg,2017-01-16 07:01:29.167000,2017-06-01 07:11:55.389000
+IDL000232,Dean M. Mortimer,Dean M.,,Mortimer,,,True,id,upper,30,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Mortimer42.jpg,2017-01-16 07:01:29.178000,2017-06-01 07:11:55.327000
+IDL000234,Dan Foreman,Dan,,Foreman,,,True,id,upper,5,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Foreman4269.jpg,2017-01-16 07:01:29.189000,2017-06-01 07:11:55.391000
+IDL000242,Jeff Agenbroad,Jeff,,Agenbroad,,,True,id,upper,13,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Agenbroad4271.jpg,2017-01-16 07:01:29.234000,2017-06-01 07:11:55.387000
+IDL000244,Lori Den Hartog,Lori Den,,Hartog,,,True,id,upper,22,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Den Hartog3124.jpg,2017-01-16 07:01:29.245000,2017-06-01 07:11:55.129000
+IDL000247,Abby Lee,Abby,,Lee,,,True,id,upper,9,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Lee3125.jpg,2017-01-16 07:01:29.261000,2017-06-01 07:11:55.381000
+IDL000251,Steve Vick,Steve,,Vick,,,True,id,upper,2,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Vick1164.jpg,2017-01-16 07:01:29.282000,2017-06-01 07:11:55.152000
+IDL000253,Mark Harris,Mark,,Harris,,,True,id,upper,32,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Harris3584.jpg,2017-01-16 07:01:29.293000,2017-06-01 07:11:55.480000
+IDL000254,Marv Hagedorn,Marv,,Hagedorn,,,True,id,upper,14,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Hagedorn25.jpg,2017-01-16 07:01:29.298000,2017-06-01 07:11:55.498000
+IDL000255,Fred S. Martin,Fred S.,,Martin,,,True,id,upper,15,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Martin2085.jpg,2017-01-16 07:01:29.304000,2017-06-01 07:11:55.319000
+IDL000259,Clifford R. Bayer,Clifford R.,,Bayer,,,True,id,upper,21,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Bayer4.jpg,2017-01-16 07:01:29.325000,2017-06-01 07:11:55.482000
+IDL000261,Dan G. Johnson,Dan G.,,Johnson,,,True,id,upper,6,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Johnson1630.jpg,2017-01-16 07:01:29.336000,2017-06-01 07:11:55.146000
+IDL000262,Michelle Stennett,Michelle,,Stennett,,,True,id,upper,26,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Stennett1169.jpg,2017-01-16 07:01:29.342000,2017-06-01 07:11:55.469000
+IDL000269,Patti Anne Lodge,Patti Anne,,Lodge,,,True,id,upper,11,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Lodge94.jpg,2017-01-16 07:01:29.379000,2017-06-01 07:11:55.492000
+IDL000273,Cherie Buckner-Webb,Cherie,,Buckner-Webb,,,True,id,upper,19,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Buckner-Webb1177.jpg,2017-01-16 07:01:29.401000,2017-06-01 07:11:55.473000
+IDL000275,Grant Burgoyne,Grant,,Burgoyne,,,True,id,upper,16,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Burgoyne746.jpg,2017-01-16 07:01:29.411000,2017-06-01 07:11:55.275000
+IDL000277,Steven P. Thayn,Steven P.,,Thayn,,,True,id,upper,8,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Thayn64.jpg,2017-01-16 07:01:29.422000,2017-06-01 07:11:55.262000
+IDL000278,Shawn Keough,Shawn,,Keough,,,True,id,upper,1,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Keough91.jpg,2017-01-16 07:01:29.427000,2017-06-01 07:11:55.325000
+IDL000279,Robert P. “Bob” Nonini,Robert P. “Bob”,,Nonini,,,True,id,upper,3,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Nonini45.jpg,2017-01-16 07:01:29.432000,2017-06-01 07:11:42.330000
+IDL000282,Mary Souza,Mary,,Souza,,,True,id,upper,4,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Souza3126.jpg,2017-01-16 07:01:29.449000,2017-06-01 07:11:55.323000
+IDL000284,Janie Ward-Engelking,Janie,,Ward-Engelking,,,True,id,upper,18,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Ward-Engelking2091.jpg,2017-01-16 07:01:29.460000,2017-06-01 07:11:55.267000
+IDL000286,Mark Nye,Mark,,Nye,,,True,id,upper,29,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Nye3134.jpg,2017-01-16 07:01:29.471000,2017-06-01 07:11:55.203000
+IDL000288,Todd M. Lakey,Todd M.,,Lakey,,,True,id,upper,12,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Lakey2132.jpg,2017-01-16 07:01:29.482000,2017-06-01 07:11:55.494000
+IDL000291,Bert Brackett,Bert,,Brackett,,,True,id,upper,23,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Brackett14.jpg,2017-01-16 07:01:29.498000,2017-06-01 07:11:55.148000
+IDL000293,Lee Heider,Lee,,Heider,,,True,id,upper,24,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Heider1168.jpg,2017-01-16 07:01:29.510000,2017-06-01 07:11:55.158000
+IDL000297,Jim L. Patrick,Jim L.,,Patrick,,,True,id,upper,25,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Patrick47.jpg,2017-01-16 07:01:29.532000,2017-06-01 07:11:55.280000
+IDL000301,Bart M. Davis,Bart M.,,Davis,,,True,id,upper,33,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Davis81.jpg,2017-01-16 07:01:29.556000,2017-06-01 07:11:55.496000
+IDL000303,Steve Bair,Steve,,Bair,,,True,id,upper,31,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Bair72.jpg,2017-01-16 07:01:29.567000,2017-06-01 07:11:55.329000
+IDL000306,Maryanne Jordan,Maryanne,,Jordan,,,True,id,upper,17,Democratic,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Jordan3484.jpg,2017-01-16 07:01:29.586000,2017-06-01 07:11:42.326000
+IDL000309,Chuck Winder,Chuck,,Winder,,,True,id,upper,20,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Winder753.jpg,2017-01-16 07:01:29.603000,2017-06-01 07:11:55.488000
+IDL000323,Jim Guthrie,Jim,,Guthrie,,,True,id,upper,28,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Guthrie1179.jpg,2017-01-16 07:01:29.686000,2017-06-01 07:11:55.282000
+IDL000327,Jim Rice,Jim,,Rice,,,True,id,upper,10,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Rice1884.jpg,2017-01-16 07:01:29.710000,2017-06-01 07:11:54.989000
+IDL000328,Jeff C. Siddoway,Jeff C.,,Siddoway,,,True,id,upper,35,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Siddoway102.jpg,2017-01-16 07:01:29.716000,2017-06-01 07:11:55.490000
+IDL000329,Carl Crabtree,Carl,,Crabtree,,,True,id,upper,7,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Crabtree4270.jpg,2017-01-16 07:01:29.722000,2017-06-01 07:11:55.317000
+IDL000331,Brent Hill,Brent,,Hill,,,True,id,upper,34,Republican,https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Hill88.jpg,2017-01-16 07:01:29.734000,2017-06-01 07:11:55.501000

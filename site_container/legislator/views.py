@@ -4,36 +4,40 @@ views file for legislator  app
 from django.shortcuts import render_to_response
 from django.http import HttpResponse
 from legislator.models import Lawmaker
-from legislator.forms import AddressForm
+from legislator.forms import DataForm
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
 from django.template import loader, Context
 
-def test(request):
-    mr_dude = Lawmaker.objects.filter(name='WILLIAMS, PHILLIP')[0]
-    output_string = '{} serves in {} {} district {}'.format(mr_dude.name,
-            mr_dude.state, mr_dude.body, mr_dude.district)
-    return HttpResponse(output_string)
+def state_dist(request, state, district):
+    form = request.GET
+    return HttpResponse('This is a test for {} {}'.format(state, district))
+
+def by_lawmaker(request, lawmaker):
+    form = request.GET
+    qset = Lawmaker.objects.filter(name=lawmaker)
+    if qset:
+        lm = qset[0]
+        print(lm)
+        return HttpResponse('{} {} {}'.format(lm.name, lm.state, lm.district))
+        return HttpResponseRedirect('/legislator/lawmaker_exists/',lm)       
+    return HttpResponse('Lawmaker not found - sorry!')
 
 def home(request):
-    # if this is a POST request we need to process the form data
     if request.method == 'POST':
-        # create a form instance and populate it with data from the request:
-        form = AddressForm(request.POST)
-        # check whether it's valid:
-        # if form.is_valid():
-            # process the data in form.cleaned_data as required
-            # redirect to a new URL:
-        return HttpResponseRedirect('http://127.0.0.1:8000/full_results')
-    # if a GET (or any other method) we'll create a blank form
+        form = DataForm(request.POST)
+        if form.data['legislator']:
+            return HttpResponseRedirect('/legislator/{}/'.format(form.data['legislator'], form.data['legislator']))
+        return HttpResponseRedirect('/legislator/{}/{}/'.format(form.data['state'], form.data['district']))
     else:
-        form = AddressForm()
+        form = DataForm()
     return render(request, 'home_page.html', {'form': form})
 
 def non_disc(request):
     return render(request, 'non_disc_states.html', context={})
 
-def full_results(request):
+def full_results(request, lm):
+    #lm.name, rv.state, rv.district
+ 
     return render(request, 'full_info.html', context={})
 
-    # render(request, 'home_page.html', {})

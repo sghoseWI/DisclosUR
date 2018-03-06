@@ -1,0 +1,213 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+KYL000001,Walter Blevins,Walter,,Blevins,Jr.,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate27.jpg,2011-06-16 21:49:07.741000,2015-01-06 16:40:20.195000
+KYL000007,Julie Denton,Julie,,Denton,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate36.jpg,2011-06-16 21:49:07.799000,2015-01-06 16:40:20.199000
+KYL000008,Carroll Gibson,Carroll,,Gibson,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate05.jpg,2011-06-16 21:49:07.801000,2017-01-09 06:11:18.372000
+KYL000014,Tom Jensen,Tom,,Jensen,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate21.jpg,2011-06-16 21:49:07.833000,2013-01-07 20:18:54.805000
+KYL000017,Bob Leeper,Bob,,Leeper,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate02.jpg,2011-06-16 21:49:07.858000,2015-01-06 16:40:20.191000
+KYL000018,Vernie McGaha,Vernie,,McGaha,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate15.jpg,2011-06-16 21:49:07.860000,2013-01-07 20:18:54.806000
+KYL000020,R.J. Palmer,R.J.,,Palmer,II,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate28.jpg,2011-06-16 21:49:07.865000,2015-01-06 16:40:20.197000
+KYL000022,Joey Pendleton,Joey,,Pendleton,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate03.jpg,2011-06-16 21:49:07.886000,2013-01-07 20:18:54.807000
+KYL000023,Jerry P. Rhoads,Jerry,P.,Rhoads,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate06.jpg,2011-06-16 21:49:07.898000,2015-01-06 16:40:20.200000
+KYL000027,Tim Shaughnessy,Tim,,Shaughnessy,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate19.jpg,2011-06-16 21:49:07.919000,2013-01-07 20:18:54.832000
+KYL000029,Kathy W. Stein,Kathy,W.,Stein,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate13.jpg,2011-06-16 21:49:07.929000,2014-01-06 14:55:36.072000
+KYL000030,Katie Kratz Stine,Katie,Kratz,Stine,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate24.jpg,2011-06-16 21:49:07.931000,2015-01-06 16:40:20.194000
+KYL000035,Jack Westwood,Jack,,Westwood,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate23.jpg,2011-06-16 21:49:07.953000,2013-01-07 20:18:54.808000
+KYL000036,David L. Williams,David,L.,Williams,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate16.jpg,2011-06-16 21:49:07.955000,2013-01-07 20:18:54.803000
+KYL000038,Ken Winters,Ken,,Winters,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate01.jpg,2011-06-16 21:49:07.969000,2013-01-07 20:18:54.810000
+KYL000040,Royce W. Adams,Royce,W.,Adams,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House61.jpg,2011-06-16 21:49:07.973000,2013-01-07 20:18:54.811000
+KYL000042,John A. Arnold,John,A.,Arnold,Jr.,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House07.jpg,2011-06-16 21:49:07.992000,2014-01-07 16:33:56.378000
+KYL000043,Linda Belcher,Linda,,Belcher,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House49.jpg,2011-06-16 21:49:07.995000,2017-01-09 06:11:18.357000
+KYL000044,Johnny Bell,Johnny,,Bell,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House23.jpg,2011-06-16 21:49:07.997000,2017-01-09 06:11:18.351000
+KYL000046,Dewayne Bunch,Dewayne,,Bunch,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House82.jpg,2011-06-16 21:49:08,2012-06-01 19:26:21.466000
+KYL000048,Dwight D. Butler,Dwight,D.,Butler,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House18.jpg,2011-06-16 21:49:08.004000,2015-01-06 16:40:20.163000
+KYL000050,Mike Cherry,Mike,,Cherry,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House04.jpg,2011-06-16 21:49:08.008000,2013-01-07 20:18:54.814000
+KYL000051,Larry Clark,Larry,,Clark,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House46.jpg,2011-06-16 21:49:08.010000,2017-01-09 06:11:18.353000
+KYL000052,Hubert Collins,Hubert,,Collins,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House97.jpg,2011-06-16 21:49:08.012000,2017-01-09 06:11:18.345000
+KYL000053,Leslie Combs,Leslie,,Combs,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House94.jpg,2011-06-16 21:49:08.014000,2017-01-09 06:11:18.354000
+KYL000054,James R. Comer,James,R.,Comer,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House53.jpg,2011-06-16 21:49:08.016000,2012-06-01 19:24:16.284000
+KYL000057,Jesse Crenshaw,Jesse,,Crenshaw,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House77.jpg,2011-06-16 21:49:08.041000,2015-01-06 16:40:20.182000
+KYL000058,Ron Crimm,Ron,,Crimm,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House33.jpg,2011-06-16 21:49:08.043000,2017-01-09 06:11:18.363000
+KYL000059,Robert R. Damron,Robert,R.,Damron,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House39.jpg,2011-06-16 21:49:08.045000,2015-01-06 16:40:20.174000
+KYL000061,Mike Denham,Mike,,Denham,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House70.jpg,2011-06-16 21:49:08.059000,2017-01-09 06:11:18.360000
+KYL000062,Bob DeWeese,Bob,,DeWeese,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House48.jpg,2011-06-16 21:49:08.061000,2017-01-09 06:11:18.331000
+KYL000064,Ted Edmonds,Ted,,Edmonds,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House91.jpg,2011-06-16 21:49:08.065000,2013-01-07 20:18:54.815000
+KYL000066,Bill Farmer,Bill,,Farmer,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House88.jpg,2011-06-16 21:49:08.069000,2013-01-07 20:18:54.816000
+KYL000069,David Floyd,David,,Floyd,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House50.jpg,2011-06-16 21:49:08.074000,2017-01-09 06:11:18.338000
+KYL000070,Danny Ford,Danny,,Ford,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House80.jpg,2011-06-16 21:49:08.077000,2013-01-07 20:18:54.802000
+KYL000071,Jim Glenn,Jim,,Glenn,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House13.jpg,2011-06-16 21:49:08.079000,2017-01-09 06:11:18.348000
+KYL000075,Sara Beth Gregory,Sara Beth,,Gregory,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate16.jpg,2011-06-16 21:49:08.086000,2015-01-06 16:40:20.188000
+KYL000076,Keith Hall,Keith,,Hall,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House93.jpg,2011-06-16 21:49:08.098000,2015-01-06 16:40:20.184000
+KYL000077,Mike Harmon,Mike,,Harmon,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House54.jpg,2011-06-16 21:49:08.100000,2016-03-17 22:54:26.965000
+KYL000078,Richard Henderson,Richard,,Henderson,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House74.jpg,2011-06-16 21:49:08.109000,2015-01-06 16:40:20.180000
+KYL000079,Melvin B. Henley,Melvin,B.,Henley,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House05.jpg,2011-06-16 21:49:08.129000,2013-01-07 20:18:54.824000
+KYL000082,Brent Housman,Brent,,Housman,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House03.jpg,2011-06-16 21:49:08.135000,2013-01-07 20:18:54.825000
+KYL000083,Wade Hurt,Wade,,Hurt,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House37.jpg,2011-06-16 21:49:08.137000,2013-01-07 20:18:54.826000
+KYL000086,Thomas Kerr,Thomas,,Kerr,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House64.jpg,2011-06-16 21:49:08.142000,2017-01-09 06:11:18.366000
+KYL000088,Martha Jane King,Martha,Jane,King,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House16.jpg,2011-06-16 21:49:08.146000,2017-01-09 06:11:18.359000
+KYL000090,Jimmie Lee,Jimmie,,Lee,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House25.jpg,2011-06-16 21:49:08.150000,2015-01-06 16:40:20.167000
+KYL000094,Tom McKee,Tom,,McKee,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House78.jpg,2011-06-16 21:49:08.158000,2017-01-09 06:11:18.368000
+KYL000098,Terry Mills,Terry,,Mills,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House24.jpg,2011-06-16 21:49:08.166000,2017-01-09 06:11:18.365000
+KYL000099,Brad Montell,Brad,,Montell,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House58.jpg,2011-06-16 21:49:08.188000,2017-01-09 06:11:18.333000
+KYL000101,Lonnie Napier,Lonnie,,Napier,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House36.jpg,2011-06-16 21:49:08.210000,2013-01-07 20:18:54.827000
+KYL000103,Michael  J. Nemes,Michael J.,,Nemes,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House38.jpg,2011-06-16 21:49:08.213000,2013-01-07 20:18:54.828000
+KYL000104,Fred Nesler,Fred,,Nesler,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House02.jpg,2011-06-16 21:49:08.215000,2013-01-07 20:18:54.831000
+KYL000109,Tanya Pullin,Tanya,,Pullin,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House98.jpg,2011-06-16 21:49:08.225000,2016-03-18 18:55:04.115000
+KYL000110,Ryan Quarles,Ryan,,Quarles,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House62.jpg,2011-06-16 21:49:08.227000,2016-03-17 22:56:25.110000
+KYL000115,Tom Riner,Tom,,Riner,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House41.jpg,2011-06-16 21:49:08.243000,2017-01-09 06:11:18.369000
+KYL000116,Carl Rollins,Carl,,Rollins,II,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House56.jpg,2011-06-16 21:49:08.246000,2013-07-03 13:06:51.768000
+KYL000119,John Short,John,,Short,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House92.jpg,2011-06-16 21:49:08.252000,2017-01-09 06:11:18.350000
+KYL000122,Rita Smart,Rita,,Smart,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House81.jpg,2011-06-16 21:49:08.259000,2017-01-09 06:11:18.362000
+KYL000123,John Will Stacy,John,Will,Stacy,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House71.jpg,2011-06-16 21:49:08.261000,2015-01-06 16:40:20.178000
+KYL000124,Fitz Steele,Fitz,,Steele,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House84.jpg,2011-06-16 21:49:08.263000,2017-01-09 06:11:18.343000
+KYL000127,Greg Stumbo,Greg,,Stumbo,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House95.jpg,2011-06-16 21:49:08.269000,2017-01-09 06:11:18.344000
+KYL000128,Tommy Thompson,Tommy,,Thompson,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House14.jpg,2011-06-16 21:49:08.271000,2017-01-09 06:11:18.371000
+KYL000129,John Tilley,John,,Tilley,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House08.jpg,2011-06-16 21:49:08.273000,2016-03-17 22:51:29.215000
+KYL000131,Ben Waide,Ben,,Waide,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House10.jpg,2011-06-16 21:49:08.277000,2015-01-06 16:40:20.157000
+KYL000132,David Watkins,David,,Watkins,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House11.jpg,2011-06-16 21:49:08.278000,2017-01-09 06:11:18.340000
+KYL000134,Alecia Webb-Edgington,Alecia,,Webb-Edgington,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House63.jpg,2011-06-16 21:49:08.282000,2013-01-07 20:18:54.830000
+KYL000137,Brent Yonts,Brent,,Yonts,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House15.jpg,2011-06-16 21:49:08.291000,2017-01-09 06:11:18.335000
+KYL000146,Chris Girdler,Chris,,Girdler,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate15.jpg,2013-01-07 20:18:48.248000,2017-01-09 06:11:18.373000
+KYL000155,Denver Butler,Denver,,Butler,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House38.jpg,2013-01-07 20:18:48.653000,2017-01-09 06:11:18.341000
+KYL000158,Toby Herald,Toby,,Herald,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House91.jpg,2013-01-07 20:18:48.874000,2015-01-06 16:40:20.183000
+KYL000221,Cluster Howard,Cluster,,Howard,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House91.jpg,2015-01-06 16:40:19.649000,2017-01-09 06:11:18.337000
+KYL000233,Lewis Nicholls,Lewis,,Nicholls,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House98.jpg,2016-03-16 04:29:21.981000,2017-01-09 06:11:18.356000
+KYL000234,Jeff Taylor,Jeff,,Taylor,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House08.jpg,2016-03-16 04:29:22.254000,2017-01-09 06:11:18.347000
+KYL000235,Chuck Tackett,Chuck,,Tackett,,,False,ky,,,,http://www.lrc.ky.gov/pubinfo/thumbnails/House62.jpg,2016-03-16 04:29:22.499000,2017-01-09 06:11:18.336000
+KYL000041,Rocky Adkins,Rocky,,Adkins,,,True,ky,lower,99,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House99.jpg,2011-06-16 21:49:07.990000,2017-06-01 06:27:31.401000
+KYL000045,Kevin D. Bratcher,Kevin,D.,Bratcher,,,True,ky,lower,29,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House29.jpg,2011-06-16 21:49:07.999000,2017-06-01 06:27:31.803000
+KYL000047,Tom Burch,Tom,,Burch,,,True,ky,lower,30,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House30.jpg,2011-06-16 21:49:08.002000,2017-06-01 06:27:30.918000
+KYL000049,"John ""Bam"" Carney",John,,Carney,,,True,ky,lower,51,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House51.jpg,2011-06-16 21:49:08.006000,2017-06-01 06:27:31.747000
+KYL000055,Tim Couch,Tim,,Couch,,,True,ky,lower,90,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House90.jpg,2011-06-16 21:49:08.018000,2017-06-01 06:27:31.239000
+KYL000056,Will Coursey,Will,,Coursey,,,True,ky,lower,6,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House06.jpg,2011-06-16 21:49:08.039000,2017-06-01 06:27:30.936000
+KYL000060,Jim DeCesare,Jim,,DeCesare,,,True,ky,lower,17,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House17.jpg,2011-06-16 21:49:08.047000,2017-06-01 06:27:31.777000
+KYL000063,Myron Dossett,Myron,,Dossett,,,True,ky,lower,9,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House09.jpg,2011-06-16 21:49:08.063000,2017-06-01 06:27:31.247000
+KYL000067,Joseph M. Fischer,Joseph,M.,Fischer,,,True,ky,lower,68,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House68.jpg,2011-06-16 21:49:08.071000,2017-06-01 06:27:31.832000
+KYL000068,Kelly Flood,Kelly,,Flood,,,True,ky,lower,75,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House75.jpg,2011-06-16 21:49:08.073000,2017-06-01 06:27:31.684000
+KYL000072,Jim Gooch,Jim,,Gooch,Jr.,,True,ky,lower,12,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House12.jpg,2011-06-16 21:49:08.080000,2017-06-01 06:27:30.815000
+KYL000073,Derrick Graham,Derrick,,Graham,,,True,ky,lower,57,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House57.jpg,2011-06-16 21:49:08.082000,2017-06-01 06:27:31.829000
+KYL000074,Jeff Greer,Jeff,,Greer,,,True,ky,lower,27,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House27.jpg,2011-06-16 21:49:08.084000,2017-06-01 06:27:31.264000
+KYL000080,Jeff Hoover,Jeff,,Hoover,,,True,ky,lower,83,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House83.jpg,2011-06-16 21:49:08.131000,2017-06-01 06:27:31.411000
+KYL000081,Dennis Horlander,Dennis,,Horlander,,,True,ky,lower,40,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House40.jpg,2011-06-16 21:49:08.133000,2017-06-01 06:27:30.942000
+KYL000084,Joni L. Jenkins,Joni L.,,Jenkins,,,True,ky,lower,44,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House44.jpg,2011-06-16 21:49:08.139000,2017-06-01 06:27:30.259000
+KYL000085,Dennis Keene,Dennis,,Keene,,,True,ky,lower,67,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House67.jpg,2011-06-16 21:49:08.140000,2017-06-01 06:27:31.409000
+KYL000087,Kim King,Kim,,King,,,True,ky,lower,55,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House55.jpg,2011-06-16 21:49:08.144000,2017-06-01 06:27:31.128000
+KYL000089,Adam Koenig,Adam,,Koenig,,,True,ky,lower,69,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House69.jpg,2011-06-16 21:49:08.148000,2017-06-01 06:27:31.107000
+KYL000091,Stan Lee,Stan,,Lee,,,True,ky,lower,45,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House45.jpg,2011-06-16 21:49:08.152000,2017-06-01 06:27:31.467000
+KYL000092,Mary Lou Marzian,Mary Lou,,Marzian,,,True,ky,lower,34,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House34.jpg,2011-06-16 21:49:08.154000,2017-06-01 06:27:31.814000
+KYL000093,Donna Mayfield,Donna,,Mayfield,,,True,ky,lower,73,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House73.jpg,2011-06-16 21:49:08.156000,2017-06-01 06:27:31.222000
+KYL000095,Reginald Meeks,Reginald,,Meeks,,,True,ky,lower,42,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House42.jpg,2011-06-16 21:49:08.160000,2017-06-01 06:27:31.823000
+KYL000096,Michael Meredith,Michael,,Meredith,,,True,ky,lower,19,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House19.jpg,2011-06-16 21:49:08.162000,2017-06-01 06:27:31.565000
+KYL000097,Charles Miller,Charles,,Miller,,,True,ky,lower,28,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House28.jpg,2011-06-16 21:49:08.164000,2017-06-01 06:27:31.774000
+KYL000100,Tim Moore,Tim,,Moore,,,True,ky,lower,18,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House18.jpg,2011-06-16 21:49:08.190000,2017-06-01 06:27:31.827000
+KYL000102,Rick G. Nelson,Rick,G.,Nelson,,,True,ky,lower,87,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House87.jpg,2011-06-16 21:49:08.212000,2017-06-01 06:27:31.767000
+KYL000105,David Osborne,David,,Osborne,,,True,ky,lower,59,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House59.jpg,2011-06-16 21:49:08.217000,2017-06-01 06:27:31.396000
+KYL000106,Sannie Overly,Sannie,,Overly,,,True,ky,lower,72,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House72.jpg,2011-06-16 21:49:08.219000,2017-06-01 06:27:31.810000
+KYL000107,Darryl T. Owens,Darryl,T.,Owens,,,True,ky,lower,43,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House43.jpg,2011-06-16 21:49:08.221000,2017-06-01 06:27:30.277000
+KYL000108,Ruth Ann Palumbo,Ruth Ann,,Palumbo,,,True,ky,lower,76,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House76.jpg,2011-06-16 21:49:08.223000,2017-06-01 06:27:31.257000
+KYL000111,Marie Rader,Marie,,Rader,,,True,ky,lower,89,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House89.jpg,2011-06-16 21:49:08.236000,2017-06-01 06:27:31.704000
+KYL000112,Rick Rand,Rick,,Rand,,,True,ky,lower,47,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House47.jpg,2011-06-16 21:49:08.238000,2017-06-01 06:27:31.689000
+KYL000113,Jody Richards,Jody,,Richards,,,True,ky,lower,20,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House20.jpg,2011-06-16 21:49:08.239000,2017-06-01 06:27:31.760000
+KYL000114,Steve Riggs,Steve,,Riggs,,,True,ky,lower,31,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House31.jpg,2011-06-16 21:49:08.241000,2017-06-01 06:27:31.114000
+KYL000117,Steven Rudy,Steven,,Rudy,,,True,ky,lower,1,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House01.jpg,2011-06-16 21:49:08.248000,2017-06-01 06:27:31.550000
+KYL000118,Sal Santoro,Sal,,Santoro,,,True,ky,lower,60,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House60.jpg,2011-06-16 21:49:08.250000,2017-06-01 06:27:31.230000
+KYL000120,Arnold Simpson,Arnold,,Simpson,,,True,ky,lower,65,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House65.jpg,2011-06-16 21:49:08.255000,2017-06-01 06:27:31.681000
+KYL000121,Kevin Sinnette,Kevin,,Sinnette,,,True,ky,lower,100,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House100.jpg,2011-06-16 21:49:08.257000,2017-06-01 06:27:31.544000
+KYL000125,Jim Stewart,Jim,,Stewart,III,,True,ky,lower,86,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House86.jpg,2011-06-16 21:49:08.265000,2017-06-01 06:27:31.280000
+KYL000126,Wilson Stone,Wilson,,Stone,,,True,ky,lower,22,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House22.jpg,2011-06-16 21:49:08.267000,2017-06-01 06:27:31.398000
+KYL000130,Tommy Turner,Tommy,,Turner,,,True,ky,lower,85,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House85.jpg,2011-06-16 21:49:08.275000,2017-06-01 06:27:31.046000
+KYL000133,Jim Wayne,Jim,,Wayne,,,True,ky,lower,35,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House35.jpg,2011-06-16 21:49:08.280000,2017-06-01 06:27:31.267000
+KYL000135,Susan Westrom,Susan,,Westrom,,,True,ky,lower,79,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House79.jpg,2011-06-16 21:49:08.284000,2017-06-01 06:27:31.242000
+KYL000136,Addia Wuchner,Addia,,Wuchner,,,True,ky,lower,66,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House66.jpg,2011-06-16 21:49:08.287000,2017-06-01 06:27:30.528000
+KYL000138,Jill York,Jill,,York,,,True,ky,lower,96,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House96.jpg,2011-06-16 21:49:08.293000,2017-06-01 06:27:31.757000
+KYL000141,Regina Bunch,Regina,,Bunch,,,True,ky,lower,82,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House82.jpg,2012-01-06 17:44:09.177000,2017-06-01 06:27:31.754000
+KYL000143,Bart Rowland,Bart,,Rowland,,,True,ky,lower,21,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House21.jpg,2012-02-15 00:24:09.480000,2017-06-01 06:27:31.577000
+KYL000153,Lynn Bechler,Lynn,,Bechler,,,True,ky,lower,4,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House04.jpg,2013-01-07 20:18:48.604000,2017-06-01 06:27:31.801000
+KYL000154,Robert Benvenuti III,Robert,,Benvenuti,III,,True,ky,lower,88,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House88.jpg,2013-01-07 20:18:48.624000,2017-06-01 06:27:30.261000
+KYL000156,Jeffery Donohue,Jeffery,,Donohue,,,True,ky,lower,37,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House37.jpg,2013-01-07 20:18:48.774000,2017-06-01 06:27:31.031000
+KYL000157,Richard Heath,Richard,,Heath,,,True,ky,lower,2,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House02.jpg,2013-01-07 20:18:48.860000,2017-06-01 06:27:31.558000
+KYL000159,Kenny Imes,Kenny,,Imes,,,True,ky,lower,5,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House05.jpg,2013-01-07 20:18:48.898000,2017-06-01 06:27:31.821000
+KYL000160,Brian Linder,Brian,,Linder,,,True,ky,lower,61,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House61.jpg,2013-01-07 20:18:48.970000,2017-06-01 06:27:31.259000
+KYL000161,David Meade,David,,Meade,,,True,ky,lower,80,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House80.jpg,2013-01-07 20:18:48.996000,2017-06-01 06:27:31.548000
+KYL000162,Jonathan Shell,Jonathan,,Shell,,,True,ky,lower,71,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House71.jpg,2013-01-07 20:18:52.229000,2017-06-01 06:27:31.414000
+KYL000163,Diane St. Onge,Diane,,St. Onge,,,True,ky,lower,63,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House63.jpg,2013-01-07 20:18:53.011000,2017-06-01 06:27:31.560000
+KYL000164,Gerald Watkins,Gerald,,Watkins,,,True,ky,lower,3,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House03.jpg,2013-01-07 20:18:54.517000,2017-06-01 06:27:31.751000
+KYL000165,Russell Webber,Russell,,Webber,,,True,ky,lower,26,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House26.jpg,2013-01-07 20:18:54.538000,2017-06-01 06:27:31.749000
+KYL000179,Ken Upchurch,Ken,,Upchurch,,,True,ky,lower,52,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House52.jpg,2013-02-20 00:25:53.343000,2017-06-01 06:27:31.252000
+KYL000202,James Kay,James,,Kay,,,True,ky,lower,56,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House56.jpg,2013-07-03 00:28:42.594000,2017-06-01 06:27:30.746000
+KYL000205,Suzanne Miles,Suzanne,,Miles,,,True,ky,lower,7,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House07.jpg,2014-01-07 15:38:05.878000,2017-06-01 06:27:31.249000
+KYL000207,Russ A. Meyer,Russ A.,,Meyer,,,True,ky,lower,39,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House39.jpg,2015-01-06 16:40:18.832000,2017-06-01 06:27:31.563000
+KYL000208,George Brown Jr,George,,Brown,Jr,,True,ky,lower,77,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House77.jpg,2015-01-06 16:40:18.887000,2017-06-01 06:27:31.572000
+KYL000210,Phil Moffett,Phil,,Moffett,,,True,ky,lower,32,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House32.jpg,2015-01-06 16:40:19.041000,2017-06-01 06:27:31.770000
+KYL000216,Jim DuPlessis,Jim,,DuPlessis,,,True,ky,lower,25,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House25.jpg,2015-01-06 16:40:19.388000,2017-06-01 06:27:30.825000
+KYL000219,James Tipton,James,,Tipton,,,True,ky,lower,53,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House53.jpg,2015-01-06 16:40:19.589000,2017-06-01 06:27:31.788000
+KYL000222,Dean Schamore,Dean,,Schamore,,,True,ky,lower,10,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House10.jpg,2015-01-06 16:40:19.676000,2017-06-01 06:27:30.620000
+KYL000223,Jerry T. Miller,Jerry T.,,Miller,,,True,ky,lower,36,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House36.jpg,2015-01-06 16:40:19.733000,2017-06-01 06:27:31.102000
+KYL000224,David Hale,David,,Hale,,,True,ky,lower,74,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House74.jpg,2015-01-06 16:40:19.747000,2017-06-01 06:27:31.244000
+KYL000226,Chris Harris,Chris,,Harris,,,True,ky,lower,93,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House93.jpg,2015-01-06 16:40:19.806000,2017-06-01 06:27:31.575000
+KYL000236,Daniel Elliott,Daniel,,Elliott,,,True,ky,lower,54,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House54.jpg,2016-03-16 04:29:22.539000,2017-06-01 06:27:31.462000
+KYL000237,Chad McCoy,Chad,,McCoy,,,True,ky,lower,50,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House50.jpg,2017-01-09 06:11:17.302000,2017-06-01 06:27:30.999000
+KYL000238,Walker Thomas,Walker,,Thomas,,,True,ky,lower,8,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House08.jpg,2017-01-09 06:11:17.339000,2017-06-01 06:27:31.173000
+KYL000239,Kimberly Poore Moser,Kimberly Poore,,Moser,,,True,ky,lower,64,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House64.jpg,2017-01-09 06:11:17.364000,2017-06-01 06:27:31.786000
+KYL000240,John Blanton,John,,Blanton,,,True,ky,lower,92,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House92.jpg,2017-01-09 06:11:17.394000,2017-06-01 06:27:31.027000
+KYL000241,Larry Brown,Larry,,Brown,,,True,ky,lower,95,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House95.jpg,2017-01-09 06:11:17.441000,2017-06-01 06:27:31.546000
+KYL000242,Brandon Reed,Brandon,,Reed,,,True,ky,lower,24,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House24.jpg,2017-01-09 06:11:17.447000,2017-06-01 06:27:31.458000
+KYL000243,Matt Castlen,Matt,,Castlen,,,True,ky,lower,14,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House14.jpg,2017-01-09 06:11:17.459000,2017-06-01 06:27:31.553000
+KYL000244,Robby Mills,Robby,,Mills,,,True,ky,lower,11,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House11.jpg,2017-01-09 06:11:17.522000,2017-06-01 06:27:31.112000
+KYL000245,Chris Fugate,Chris,,Fugate,,,True,ky,lower,84,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House84.jpg,2017-01-09 06:11:17.544000,2017-06-01 06:27:31.145000
+KYL000246,Danny Bentley,Danny,,Bentley,,,True,ky,lower,98,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House98.jpg,2017-01-09 06:11:17.590000,2017-06-01 06:27:31.765000
+KYL000247,Phillip Pratt,Phillip,,Pratt,,,True,ky,lower,62,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House62.jpg,2017-01-09 06:11:17.637000,2017-06-01 06:27:31.465000
+KYL000248,John Sims Jr,John,,Sims,Jr,,True,ky,lower,70,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House70.jpg,2017-01-09 06:11:17.649000,2017-06-01 06:27:31.133000
+KYL000249,Al Gentry,Al,,Gentry,,,True,ky,lower,46,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House46.jpg,2017-01-09 06:11:17.667000,2017-06-01 06:27:31.013000
+KYL000250,Jason Petrie,Jason,,Petrie,,,True,ky,lower,16,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House16.jpg,2017-01-09 06:11:17.696000,2017-06-01 06:27:31.806000
+KYL000251,Mark Hart,Mark,,Hart,,,True,ky,lower,78,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House78.jpg,2017-01-09 06:11:17.701000,2017-06-01 06:27:31.784000
+KYL000252,Steve Riley,Steve,,Riley,,,True,ky,lower,23,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House23.jpg,2017-01-09 06:11:17.718000,2017-06-01 06:27:31.782000
+KYL000254,Scott Wells,Scott,,Wells,,,True,ky,lower,97,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House97.jpg,2017-01-09 06:11:17.778000,2017-06-01 06:27:30.934000
+KYL000255,Angie Hatton,Angie,,Hatton,,,True,ky,lower,94,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House94.jpg,2017-01-09 06:11:17.812000,2017-06-01 06:27:31.036000
+KYL000256,Ken Fleming,Ken,,Fleming,,,True,ky,lower,48,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House48.jpg,2017-01-09 06:11:17.825000,2017-06-01 06:27:31.276000
+KYL000257,Dan Johnson,Dan,,Johnson,,,True,ky,lower,49,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House49.jpg,2017-01-09 06:11:17.886000,2017-06-01 06:27:31.816000
+KYL000258,Toby Herald,Toby,,Herald,,,True,ky,lower,91,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House91.jpg,2017-01-09 06:11:17.916000,2017-06-01 06:27:31.121000
+KYL000260,Attica Scott,Attica,,Scott,,,True,ky,lower,41,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House41.jpg,2017-01-09 06:11:17.964000,2017-06-01 06:27:31.812000
+KYL000261,McKenzie Cantrell,McKenzie,,Cantrell,,,True,ky,lower,38,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/House38.jpg,2017-01-09 06:11:17.998000,2017-06-01 06:27:30.829000
+KYL000262,Jason Nemes,Jason,,Nemes,,,True,ky,lower,33,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House33.jpg,2017-01-09 06:11:18.030000,2017-06-01 06:27:31.819000
+KYL000263,DJ Johnson,DJ,,Johnson,,,True,ky,lower,13,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House13.jpg,2017-01-09 06:11:18.036000,2017-06-01 06:27:31.825000
+KYL000264,Rob Rothenburger,Rob,,Rothenburger,,,True,ky,lower,58,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House58.jpg,2017-01-09 06:11:18.059000,2017-06-01 06:27:31.166000
+KYL000265,C. Wesley Morgan,C. Wesley,,Morgan,,,True,ky,lower,81,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House81.jpg,2017-01-09 06:11:18.070000,2017-06-01 06:27:31.799000
+KYL000266,Melinda Gibbons Prunty,Melinda Gibbons,,Prunty,,,True,ky,lower,15,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/House15.jpg,2017-01-09 06:11:18.083000,2017-06-01 06:27:31.762000
+KYL000002,Joe Bowen,Joe,,Bowen,,,True,ky,upper,8,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate08.jpg,2011-06-16 21:49:07.751000,2017-06-01 06:27:31.641000
+KYL000003,Tom Buford,Tom,,Buford,,,True,ky,upper,22,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate22.jpg,2011-06-16 21:49:07.772000,2017-06-01 06:27:31.477000
+KYL000004,Jared Carpenter,Jared,,Carpenter,,,True,ky,upper,34,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate34.jpg,2011-06-16 21:49:07.793000,2017-06-01 06:27:31.653000
+KYL000005,Julian M. Carroll,Julian,M.,Carroll,,,True,ky,upper,7,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate07.jpg,2011-06-16 21:49:07.795000,2017-06-01 06:27:31.629000
+KYL000006,Perry B. Clark,Perry,B.,Clark,,,True,ky,upper,37,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate37.jpg,2011-06-16 21:49:07.797000,2017-06-01 06:27:31.711000
+KYL000009,David Givens,David P.,,Givens,,,True,ky,upper,9,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate09.jpg,2011-06-16 21:49:07.823000,2017-06-01 06:27:31.687000
+KYL000010,Denise Harper Angel,Denise,Harper,Angel,,,True,ky,upper,35,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate35.jpg,2011-06-16 21:49:07.825000,2017-06-01 06:27:31.735000
+KYL000011,Ernie Harris,Ernie,,Harris,,,True,ky,upper,26,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate26.jpg,2011-06-16 21:49:07.827000,2017-06-01 06:27:31.738000
+KYL000012,Jimmy Higdon,Jimmy,,Higdon,,,True,ky,upper,14,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate14.jpg,2011-06-16 21:49:07.829000,2017-06-01 06:27:31.731000
+KYL000013,Paul Hornback,Paul,,Hornback,,,True,ky,upper,20,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate20.jpg,2011-06-16 21:49:07.831000,2017-06-01 06:27:31.644000
+KYL000015,Ray S. Jones,Ray,S.,Jones,II,,True,ky,upper,31,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate31.jpg,2011-06-16 21:49:07.836000,2017-06-01 06:27:31.623000
+KYL000016,Alice Forgy Kerr,Alice,Forgy,Kerr,,,True,ky,upper,12,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate12.jpg,2011-06-16 21:49:07.838000,2017-06-01 06:27:31.725000
+KYL000019,Gerald A. Neal,Gerald,A.,Neal,,,True,ky,upper,33,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate33.jpg,2011-06-16 21:49:07.862000,2017-06-01 06:27:31.666000
+KYL000021,Dennis Parrett,Dennis,,Parrett,,,True,ky,upper,10,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate10.jpg,2011-06-16 21:49:07.867000,2017-06-01 06:27:31.428000
+KYL000024,Dorsey Ridley,Dorsey,,Ridley,,,True,ky,upper,4,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate04.jpg,2011-06-16 21:49:07.913000,2017-06-01 06:27:31.664000
+KYL000025,John Schickel,John,,Schickel,,,True,ky,upper,11,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate11.jpg,2011-06-16 21:49:07.915000,2017-06-01 06:27:31.597000
+KYL000026,"Dan ""Malano"" Seum","Dan ""Malano""",,Seum,,,True,ky,upper,38,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate38.jpg,2011-06-16 21:49:07.917000,2017-06-01 06:27:31.617000
+KYL000028,Brandon Smith,Brandon,,Smith,,,True,ky,upper,30,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate30.jpg,2011-06-16 21:49:07.921000,2017-06-01 06:27:31.675000
+KYL000031,Robert Stivers,Robert,,Stivers,II,,True,ky,upper,25,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate25.jpg,2011-06-16 21:49:07.934000,2017-06-01 06:27:31.614000
+KYL000032,Damon Thayer,Damon,,Thayer,,,True,ky,upper,17,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate17.jpg,2011-06-16 21:49:07.936000,2017-06-01 06:27:31.626000
+KYL000033,Johnny Ray Turner,Johnny,Ray,Turner,,,True,ky,upper,29,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate29.jpg,2011-06-16 21:49:07.938000,2017-06-01 06:27:31.661000
+KYL000034,Robin L. Webb,Robin,L.,Webb,,,True,ky,upper,18,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate18.jpg,2011-06-16 21:49:07.951000,2017-06-01 06:27:31.701000
+KYL000037,Mike Wilson,Mike,,Wilson,,,True,ky,upper,32,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate32.jpg,2011-06-16 21:49:07.967000,2017-06-01 06:27:31.722000
+KYL000039,Julie Raque Adams,Julie,Raque,Adams,,,True,ky,upper,36,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate36.jpg,2011-06-16 21:49:07.971000,2017-06-01 06:27:31.313000
+KYL000065,C. B. Embry,C.B.,,Embry,Jr.,,True,ky,upper,6,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate06.jpg,2011-06-16 21:49:08.067000,2017-06-01 06:27:31.655000
+KYL000148,Stan Humphries,Stan,,Humphries,,,True,ky,upper,1,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate01.jpg,2013-01-07 20:18:48.362000,2017-06-01 06:27:31.697000
+KYL000149,Christian McDaniel,Christian,,McDaniel,,,True,ky,upper,23,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate23.jpg,2013-01-07 20:18:48.418000,2017-06-01 06:27:31.692000
+KYL000150,Morgan McGarvey,Morgan,,McGarvey,,,True,ky,upper,19,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate19.jpg,2013-01-07 20:18:48.425000,2017-06-01 06:27:31.304000
+KYL000151,Albert Robinson,Albert,,Robinson,,,True,ky,upper,21,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate21.jpg,2013-01-07 20:18:48.468000,2017-06-01 06:27:31.650000
+KYL000152,Whitney Westerfield,Whitney,,Westerfield,,,True,ky,upper,3,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate03.jpg,2013-01-07 20:18:48.567000,2017-06-01 06:27:31.600000
+KYL000204,Reginald Thomas,Reginald,,Thomas,,,True,ky,upper,13,Democratic,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate13.jpg,2014-01-04 00:16:28.158000,2017-06-01 06:27:31.741000
+KYL000206,Max Wise,Max,,Wise,,,True,ky,upper,16,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate16.jpg,2015-01-06 16:40:18.806000,2017-06-01 06:27:31.717000
+KYL000209,Wil Schroder,Wil,,Schroder,,,True,ky,upper,24,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate24.jpg,2015-01-06 16:40:18.901000,2017-06-01 06:27:31.719000
+KYL000214,Danny Carroll,Danny,,Carroll,,,True,ky,upper,2,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate02.jpg,2015-01-06 16:40:19.366000,2017-06-01 06:27:31.538000
+KYL000220,Ralph Alvarado,Ralph,,Alvarado,,,True,ky,upper,28,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate28.jpg,2015-01-06 16:40:19.606000,2017-06-01 06:27:31.297000
+KYL000230,Stephen West,Stephen,,West,,,True,ky,upper,27,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate27.jpg,2015-03-23 23:38:15.004000,2017-06-01 06:27:31.421000
+KYL000253,Stephen Meredith,Stephen,,Meredith,,,True,ky,upper,5,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate05.jpg,2017-01-09 06:11:17.736000,2017-06-01 06:27:31.729000
+KYL000259,Rick Girdler,Rick,,Girdler,,,True,ky,upper,15,Republican,http://www.lrc.ky.gov/pubinfo/thumbnails/Senate15.jpg,2017-01-09 06:11:17.959000,2017-06-01 06:27:31.714000

@@ -1,0 +1,481 @@
+
+
+
+<!doctype html>
+<html lang="en" class="no-js bb_wrapper">
+<head>
+    <title> Open States Bulk Downloads  - Open States</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"8ab8eca189","agent":"","transactionName":"NVRaNUpVVhZUVEMICQwefhRWV0wMWlkYAw8OXUFPT1FaS0VCVQ0PAR9OCF1DS0tYXkQCXAZeTw9UW1kBRg==","applicationID":"35571104","errorBeacon":"bam.nr-data.net","applicationTime":22}</script>
+    <meta name="description" content=" Download CSV and JSON information on state legislators, bills, votes, committees from Open States. ">
+    <meta property="og:type" content="cause">
+    <meta property="og:image" content="/media/images/fbshare.397f2237c0ce.jpg">
+    <meta property="og:site_name" content="Open States">
+    <link rel="stylesheet" type="text/css" href="/media/css/main.2fb35b5bab68.css" />
+    <link rel="stylesheet" type="text/css" href="/media/select2-2.0/select2.aac936ef28fb.css"/>
+
+    <script src="/media/js/jquery-1.9.0.min.0652da382b6f.js"></script>
+    <script src="/media/js/jquery.hotkeys.min.af390b632fba.js"></script>
+    <script src="/media/select2-2.0/select2.min.206509843507.js"></script>
+    <script src="/media/js/main.0b91368935da.js"></script>
+    <script type="text/javascript" src="//use.typekit.net/xau7dem.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script src="/media/js/jquery.calendar-widget.a20e5d5575af.js"></script>
+    <script src="/media/js/simple-socialite.min.68573cf3afe4.js"></script>
+    
+
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-84709685-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+
+</head>
+
+<body
+    class="flat"
+    id="">
+
+    <!-- <div id="emergency"> </div> -->
+
+    <header id="mainHeader">
+        <div id="login" class="tip">
+            &nbsp;
+        </div>
+        <form action="/all/search/" method="get" id="searchform">
+            <input class="transparent search" type="search" name="search_text" id="id_q" placeholder="  Search for bills or legislators across all states  ">
+            <button type="submit">
+                <span>Search</span>
+            </button>
+        </form>
+        <h1 class="clearfix"><a class="textReplace" href="/">Open States</a></h1>
+
+        <div class="share-buttons" data-socialite="auto"  
+            data-services="twitter,facebook"> </div>
+
+        
+        <form action="/region_selection/" method="get" id="mainFilter" class="clearfix">
+    <select id="id_abbr" name="abbr">
+<option value="" selected="selected"></option>
+<option value="al">Alabama</option>
+<option value="ak">Alaska</option>
+<option value="az">Arizona</option>
+<option value="ar">Arkansas</option>
+<option value="ca">California</option>
+<option value="co">Colorado</option>
+<option value="ct">Connecticut</option>
+<option value="de">Delaware</option>
+<option value="dc">District of Columbia</option>
+<option value="fl">Florida</option>
+<option value="ga">Georgia</option>
+<option value="hi">Hawaii</option>
+<option value="id">Idaho</option>
+<option value="il">Illinois</option>
+<option value="in">Indiana</option>
+<option value="ia">Iowa</option>
+<option value="ks">Kansas</option>
+<option value="ky">Kentucky</option>
+<option value="la">Louisiana</option>
+<option value="me">Maine</option>
+<option value="md">Maryland</option>
+<option value="ma">Massachusetts</option>
+<option value="mi">Michigan</option>
+<option value="mn">Minnesota</option>
+<option value="ms">Mississippi</option>
+<option value="mo">Missouri</option>
+<option value="mt">Montana</option>
+<option value="ne">Nebraska</option>
+<option value="nv">Nevada</option>
+<option value="nh">New Hampshire</option>
+<option value="nj">New Jersey</option>
+<option value="nm">New Mexico</option>
+<option value="ny">New York</option>
+<option value="nc">North Carolina</option>
+<option value="nd">North Dakota</option>
+<option value="oh">Ohio</option>
+<option value="ok">Oklahoma</option>
+<option value="or">Oregon</option>
+<option value="pa">Pennsylvania</option>
+<option value="pr">Puerto Rico</option>
+<option value="ri">Rhode Island</option>
+<option value="sc">South Carolina</option>
+<option value="sd">South Dakota</option>
+<option value="tn">Tennessee</option>
+<option value="tx">Texas</option>
+<option value="ut">Utah</option>
+<option value="vt">Vermont</option>
+<option value="va">Virginia</option>
+<option value="wa">Washington</option>
+<option value="wv">West Virginia</option>
+<option value="wi">Wisconsin</option>
+<option value="wy">Wyoming</option>
+</select>
+    <input id="state_select_submit" type="submit"/>
+</form>
+
+        
+
+    </header>
+
+
+
+
+
+    <div id="container">
+
+
+
+<div id="container" class="flatpage">
+    <div class="eightCol colLt">
+        
+<h2> Bulk Downloads </h2>
+
+Because it is often convenient to get all of a state's data for testing or offline use, we provide bulk downloads of our data.
+
+We currently offer bulk data in two formats, JSON and CSV.
+
+
+<h3>JSON Archives</h3>
+
+The data contained in these downloads is in the same format as that obtained via the
+<a href="http://docs.openstates.org/en/latest/api/">API</a>. (Refer to those pages for specifics on file formats.)
+
+These downloads are not intended as a replacement for using the API.  The
+main deficit you'll notice is that they lag up to a month (but usually not more)
+behind the current data.  This makes them useful for general research
+purposes or initializing a database that will then be kept up to date
+via regular calls.  If you'd like more current data please use the API.
+
+<h3>
+    CSV Archives
+</h3>
+
+In addition to the JSON archives, we now also have CSV downloads available.
+
+<a href="/csv_downloads/">Documentation on the CSV bulk files</a>.
+
+Like the JSON archives, these aren't intended as a replacement for the API.
+In addition to being older than the data provided via the API CSV files
+do not reflect extra fields that the JSON files are able to include. This
+is due to an inherent limitation of the CSV format. If extra fields are
+required you should use the JSON downloads or API.
+
+<h3> Downloads </h3>
+<table id="download_list">
+    <tr><th>State</th><th>JSON</th><th>CSV</th></tr>
+    
+    <tr><td>Alabama</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-al-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-al-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Alaska</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ak-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ak-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Arizona</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-az-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-az-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Arkansas</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ar-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ar-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>California</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ca-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ca-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Colorado</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-co-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-co-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Connecticut</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ct-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ct-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Delaware</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-de-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-de-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>District of Columbia</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-dc-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-dc-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Florida</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-fl-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-fl-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Georgia</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ga-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ga-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Hawaii</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-hi-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-hi-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Idaho</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-id-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-id-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Illinois</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-il-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-il-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Indiana</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-in-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-in-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Iowa</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ia-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ia-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Kansas</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ks-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ks-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Kentucky</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ky-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ky-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Louisiana</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-la-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-la-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Maine</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-me-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-me-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Maryland</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-md-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-md-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Massachusetts</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ma-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ma-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Michigan</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-mi-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-mi-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Minnesota</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-mn-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-mn-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Mississippi</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ms-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ms-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Missouri</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-mo-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-mo-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Montana</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-mt-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-mt-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Nebraska</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ne-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ne-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Nevada</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-nv-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-nv-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>New Hampshire</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-nh-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-nh-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>New Jersey</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-nj-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-nj-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>New Mexico</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-nm-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-nm-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>New York</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ny-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ny-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>North Carolina</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-nc-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-nc-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>North Dakota</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-nd-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-nd-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Ohio</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-oh-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-oh-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Oklahoma</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-ok-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ok-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Oregon</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-or-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-or-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Pennsylvania</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-pa-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-pa-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Puerto Rico</td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-30-pr-json.zip">2017-06-30</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-pr-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Rhode Island</td>
+        <td><a href="http://s.openstates.org/downloads/2017-07-01-ri-json.zip">2017-07-01</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ri-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>South Carolina</td>
+        <td><a href="http://s.openstates.org/downloads/2017-07-01-sc-json.zip">2017-07-01</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-sc-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>South Dakota</td>
+        <td><a href="http://s.openstates.org/downloads/2017-07-01-sd-json.zip">2017-07-01</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-sd-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Tennessee</td>
+        <td><a href="http://s.openstates.org/downloads/2017-07-01-tn-json.zip">2017-07-01</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-tn-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Texas</td>
+        <td><a href="http://s.openstates.org/downloads/2017-07-01-tx-json.zip">2017-07-01</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-tx-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Utah</td>
+        <td><a href="http://s.openstates.org/downloads/2017-07-01-ut-json.zip">2017-07-01</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-ut-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Vermont</td>
+        <td><a href="http://s.openstates.org/downloads/2017-07-01-vt-json.zip">2017-07-01</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-vt-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Virginia</td>
+        <td><a href="http://s.openstates.org/downloads/2017-07-01-va-json.zip">2017-07-01</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-va-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Washington</td>
+        <td><a href="http://s.openstates.org/downloads/2017-07-01-wa-json.zip">2017-07-01</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-wa-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>West Virginia</td>
+        <td><a href="http://s.openstates.org/downloads/2017-07-01-wv-json.zip">2017-07-01</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-wv-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Wisconsin</td>
+        <td><a href="http://s.openstates.org/downloads/2017-07-01-wi-json.zip">2017-07-01</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-wi-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+    <tr><td>Wyoming</td>
+        <td><a href="http://s.openstates.org/downloads/2017-07-01-wy-json.zip">2017-07-01</a></td>
+        <td><a href="http://s.openstates.org/downloads/2017-06-02-wy-csv.zip">2017-06-02</a></td>
+    </tr>
+    
+</table>
+
+
+    </div>
+    <div class="threeCol colRt">
+        
+    </div>
+    <div class="clear"></div>
+</div>
+
+
+    </div>
+
+    <div id="footerWrapper">
+        <footer>
+            <div id="footerLt">
+                <p>Our <a href="/tos/">terms of service</a> details how personally identifiable information that is collected on our websites is handled.</p>
+                <p>This work, unless otherwise noted, is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 United States License</a>.</p>
+            </div>
+            <div id="footerRt">
+                <div id="recources">
+                    <h4 class="footerheaders">Resources </h4>
+                    <dl class="inlineList">
+                        <dt class="clear">Learn More:</dt>
+                        <dd>
+                            <ul>
+                                <li><a href="/about/">About Open States</a></li>
+                                <li><a href="https://blog.openstates.org">Blog</a></li>
+                               <li><a href="https://twitter.com/openstates">@openstates</a></li>
+                               <li><a href="/contact/">Contact Us</a></li>
+                            </ul>
+                        </dd>
+                        <dt>Use Our Data:</dt>
+                        <dd>
+                            <ul>
+                                <li><a href="http://docs.openstates.org/en/latest/api/">API</a></li>
+                                <li><a href="/downloads/">Bulk Downloads</a></li>
+                            </ul>
+                        </dd>
+                        <dt class="clear">Contribute:</dt>
+                        <dd>
+                            <ul>
+                                <li><a href="https://github.com/openstates/">Code on GitHub</a></li>
+                                <li><a href="/funding/">Funding &amp; Donations</a></li>
+                            </ul>
+                        </dd>
+
+                    </dl>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>
