@@ -15,10 +15,12 @@ def state_dist(request, state, district):
 
 def by_lawmaker(request, lawmaker):
     form = request.GET
-    rv = Lawmaker.objects.filter(name=lawmaker)
-    if rv:
-        return HttpResponse('{} of {} district {}'.format(rv.name,
-        rv.state, rv.district))
+    qset = Lawmaker.objects.filter(name=lawmaker)
+    if qset:
+        lm = qset[0]
+        print(lm)
+        return HttpResponse('{} {} {}'.format(lm.name, lm.state, lm.district))
+        return HttpResponseRedirect('/legislator/lawmaker_exists/',lm)       
     return HttpResponse('Lawmaker not found - sorry!')
 
 def home(request):
@@ -34,6 +36,8 @@ def home(request):
 def non_disc(request):
     return render(request, 'non_disc_states.html', context={})
 
-def full_results(request):
+def full_results(request, lm):
+    #lm.name, rv.state, rv.district
+ 
     return render(request, 'full_info.html', context={})
 
