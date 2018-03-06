@@ -26,6 +26,10 @@ def by_lawmaker(request, lawmaker):
 def home(request):
     if request.method == 'POST':
         form = DataForm(request.POST)
+        print(form.data)
+        if form.data['address']:
+            return HttpResponseRedirect('/legislator/from/address/{}/'.format(form.data['address']))
+
         if form.data['legislator']:
             return HttpResponseRedirect('/legislator/{}/'.format(form.data['legislator'], form.data['legislator']))
         return HttpResponseRedirect('/legislator/{}/{}/'.format(form.data['state'], form.data['district']))
@@ -35,6 +39,16 @@ def home(request):
 
 def non_disc(request):
     return render(request, 'non_disc_states.html', context={})
+
+def from_address(request, address):
+    '''
+    This view takes in an address as a string, and returns a 
+    data structure containing law maker names....
+    It will do other things too.
+    '''
+ # OPEN_STATES thing Nick Made goes here (import that thing too)
+    return HttpResponse('Address is {}'.format(address))
+
 
 def full_results(request, lm):
     #lm.name, rv.state, rv.district

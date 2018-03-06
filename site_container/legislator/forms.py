@@ -63,7 +63,7 @@ class DataForm(forms.Form):
     '''
     Let's hope this works.
     '''
-    address =  forms.CharField(label='Your home address', required=False)
+    address =  forms.CharField(label='address', required=False)
     state = forms.ChoiceField(label='state', required=False, choices=STATES)
     district = forms.CharField(label='state', required=False)
     lawmaker = forms.CharField(label='lawmaker', required=False)
