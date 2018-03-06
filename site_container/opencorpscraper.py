@@ -14,14 +14,10 @@ def get_company_numbers(name, state):
     # the CPI dataset
     juris_code = "us_" + state.lower()
     company_numbers = []
-    print("Searching OpenCorp API for: ", name) # for debugging
     company_name = name.replace(" ", "+")
     incorp_filter = "&incorporation\date=:2016-01-01"
-    print("the open corp key is", open_corp_key)
     s = company_name + incorp_filter + "&" + open_corp_key
-    print(s)
     search_url = "https://api.opencorporates.com/v0.4/companies/search?q=" + s
-    print(search_url)
     response = requests.get(search_url)
     # collect company numbers that may match the business / employer interest
     if response.status_code == 200:
@@ -29,14 +25,11 @@ def get_company_numbers(name, state):
         for entity in result["results"]["companies"]:
             # if there are multiple name matches, filter on state / status
             if len(result["results"]["companies"]) > 1 and entity["company"]["jurisdiction_code"] != juris_code:
-                print("pass juris")
                 pass
             elif len(result["results"]["companies"]) > 1 and entity["company"]["inactive"]:
-                print("pass status")
                 pass
             else:
                 num = entity["company"]["jurisdiction_code"] + "/" + entity["company"]["company_number"]
-                print("adding", num)
                 company_numbers.append(num)
     elif response.status_code == 401:
         print("Token Incorrect")
@@ -46,7 +39,6 @@ def get_company_numbers(name, state):
 
 def get_open_corps(company_numbers):
     company_list = []
-    print("company list is", company_numbers)
     # for each company number, call the OpenCorp API and collect the info dict
     # that corresponds to that number
     if company_numbers is None:
@@ -55,7 +47,6 @@ def get_open_corps(company_numbers):
         for number in company_numbers:
             s = number + "?" + open_corp_key
             search_url = "https://api.opencorporates.com/v0.4/companies/" + s
-            print(search_url)
             response = requests.get(search_url)
             if response.status_code == 200:
                 result = json.loads(response.content)
