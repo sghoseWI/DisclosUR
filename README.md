@@ -30,3 +30,9 @@ From the top level directory, we recommend using a virtual environment.
 ## Data Sources & APIs
 
 ### Open States
+
+Contribute
+---------
+
+- Issue Tracker: https://github.com/ndtallant/DisclosUR/issues
+- Source Code: https://github.com/ndtallant/DisclosUR
