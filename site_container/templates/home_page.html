@@ -3,13 +3,13 @@
 
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
     <title>
+      DisclosUR$ Home
     </title>
     <link href="https://netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"
     rel="stylesheet">
@@ -44,23 +44,28 @@
     Enter Your Home Address:
   </b>
       </h3>
-      <input type="text" class="form-control">
+      <input id = 'adr1' name = 'address' type="text" class="form-control">
+      <form action="/home/" method="post">
+      {% csrf_token %}
       <h3 class="text-center">
         <div>
           <div>
             <i></i>
           </div>
-          <div>
-          </div>
-          <div>
+            <input type="submit" value="Submit">
             <div class="form-group">
+            </div>
+            <div>
+              <div>
               <label>
                 <span style="font-weight: normal;"><b><i>OR</i>: State + District<br></b></span>
               </label>
               <br>
             </div>
             <div class="form-group">
-              <select class="form-control">
+              <form action="/home/" method="post">
+              {% csrf_token %}
+              <select class="form-control" name = "state">
                 <option value="AL">Alabama</option>
               	<option value="AK">Alaska</option>
               	<option value="AZ">Arizona</option>
@@ -113,9 +118,14 @@
               	<option value="WI">Wisconsin</option>
               	<option value="WY">Wyoming</option>
               </select>
+              <input id = 'dist' name = 'district' type="text" class="form-control">
+              <form action="/home/" method="post">
+              {% csrf_token %}
+              <h3 class="text-center">
             </div>
             <div>
               <div>
+                  <input type="submit" value="Submit">
                 <div class="form-group">
                 </div>
               </div>
@@ -123,10 +133,16 @@
             <div class="form-group">
               <label>
                 <i>
-            OR</i>: Legislator Name
+            OR</i>: Legislator Name (Last Name, First Name)
                 <br>
               </label>
-              <textarea class="form-control"></textarea>
+              <form action="/home/" method="post">
+              {% csrf_token %}
+              <input id = 'leg1' name = 'legislator' textarea class="form-control"></textarea>
+            </div>
+            <div>
+              <div>
+              <input type="submit" value="Submit">
             </div>
             <div>
               <h3>
@@ -143,9 +159,6 @@
               </div>
               <div>
               </div>
-              <button type="submit" class="btn btn-default">
-                SUBMIT
-              </button>
               &nbsp;
               <span style="color: inherit; font-family: inherit;">&nbsp;&nbsp;</span>
               <div>
