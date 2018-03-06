@@ -17,7 +17,19 @@ def index(request):
     return HttpResponse(output_string)
 
 def home(request):
-    return render(request, 'home_page.html', context={})
+    # if this is a POST request we need to process the form data
+    if request.method == 'POST':
+        # create a form instance and populate it with data from the request:
+        form = AddressForm(request.POST)
+        # check whether it's valid:
+        # if form.is_valid():
+            # process the data in form.cleaned_data as required
+            # redirect to a new URL:
+        return full_results(request)
+    # if a GET (or any other method) we'll create a blank form
+    else:
+        form = AddressForm()
+    return render(request, 'home_page.html', {'form': form})
 
 def non_disc(request):
     return render(request, 'non_disc_states.html', context={})
