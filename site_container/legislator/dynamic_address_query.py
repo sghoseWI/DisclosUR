@@ -11,7 +11,7 @@ from dotenv import get_key, find_dotenv
 
 #api key stored locally for now - probably shouldn't be public.
 
-os_key = get_key(find_dotenv(),'OPEN_STATES_KEY') 
+os_key = get_key(find_dotenv(),'STATES_KEY') 
 gmaps_key = get_key(find_dotenv(),'GMAPS_KEY') 
 
 def get_location(address, gmaps_key=gmaps_key):
@@ -49,9 +49,9 @@ def get_legislator_names(address):
     rv = []
     metadata = get_legislator_data(address)
     for i, legislator in enumerate(metadata):
-        last = metadata[i]['last_name'].upper()
-        first = metadata[i]['first_name'].upper()
-        rv.append("{}, {}".format(last, first))
+        last = metadata[i]['last_name'].title()
+        first = metadata[i]['first_name'].title()
+        rv.append('{} {}'.format(first, last))
     return rv
     
 

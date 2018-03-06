@@ -48,7 +48,9 @@ def create_lm(index, row, non_standard):
         print('saving', lawmaker)
 
     lawmaker = Lawmaker.objects.get(pk=index)
-    create_fi(row, lawmaker)
+    if not non_standard:
+        create_fi(row, lawmaker)
+
 def pop_from_df(df, non_standard):
     '''
     Takes in a dataframe, creates appropriate objects.
