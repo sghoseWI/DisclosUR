@@ -11,6 +11,11 @@ from django.template import loader, Context
 
 def state_dist(request, state, district):
     form = request.GET
+    usr_state = state
+    usr_dist = district
+    q_set = Lawmaker.objects.filter(state=usr_state)
+    for lm in q_set:
+        print(lm.name)
     return HttpResponse('This is a test for {} {}'.format(state, district))
 
 def by_lawmaker(request, lawmaker):
