@@ -1,0 +1,201 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+TNL000001,Tim Barnes,Tim,,Barnes,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s22.jpg,2012-02-24 19:47:46.489000,2012-12-05 20:08:25.806000
+TNL000004,Andy Berke	,Andy,,Berke,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s10.jpg,2012-02-24 19:47:46.518000,2012-12-05 20:08:25.809000
+TNL000005,Charlotte Burks,Charlotte,,Burks,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s15.jpg,2012-02-24 19:47:46.528000,2015-01-13 22:41:27.523000
+TNL000006,Stacey Campfield,Stacey,,Campfield,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s7.jpg,2012-02-24 19:47:46.538000,2015-01-13 22:41:27.536000
+TNL000008,Mike Faulk,Mike,,Faulk,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s4.jpg,2012-02-24 19:47:46.631000,2012-12-05 20:08:25.813000
+TNL000009,Lowe Finney,Lowe,,Finney,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s27.jpg,2012-02-24 19:47:46.640000,2015-01-13 22:41:27.530000
+TNL000010,Ophelia Ford,Ophelia,,Ford,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s29.jpg,2012-02-24 19:47:46.650000,2015-01-13 22:41:27.532000
+TNL000014,Douglas Henry,Douglas,,Henry,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s21.jpg,2012-02-24 19:47:46.690000,2015-01-13 22:41:27.525000
+TNL000015,Roy Herron,Roy,,Herron,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s24.jpg,2012-02-24 19:47:46.699000,2012-12-05 20:08:25.818000
+TNL000019,Jim Kyle,Jim,,Kyle,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s30.jpg,2012-02-24 19:47:46.739000,2015-01-13 22:41:27.534000
+TNL000020,Beverly Marrero,Beverly,,Marrero,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s30.jpg,2012-02-24 19:47:46.748000,2012-12-05 20:08:25.821000
+TNL000025,Ron Ramsey,Ron,,Ramsey,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s4.jpg,2012-02-24 19:47:46.798000,2017-02-19 22:52:07.993000
+TNL000028,Eric Stewart,Eric,,Stewart,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s14.jpg,2012-02-24 19:47:46.827000,2012-12-05 20:08:25.646000
+TNL000029,Jim Summerville,Jim,,Summerville,,,False,tn,,,,http://www.capitol.tn.gov/senate/members/images/s25.jpg,2012-02-24 19:47:46.837000,2015-01-13 22:41:27.528000
+TNL000035,Joe Armstrong,Joe,,Armstrong,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h15.jpg,2012-02-24 19:47:47.056000,2017-01-06 05:03:36.063000
+TNL000036,Eddie Bass,Eddie,,Bass,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h65.jpg,2012-02-24 19:47:47.067000,2012-12-05 20:08:25.705000
+TNL000039,Tommie Brown,Tommie,,Brown,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h28.jpg,2012-02-24 19:47:47.097000,2012-12-05 20:08:25.661000
+TNL000041,Scotty Campbell,Scotty,,Campbell,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h3.jpg,2012-02-24 19:47:47.117000,2012-12-05 20:08:25.712000
+TNL000043,Joe Carr,Joe,,Carr,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h48.jpg,2012-02-24 19:47:47.137000,2015-01-13 22:41:27.485000
+TNL000045,Jim Cobb,Jim,,Cobb,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h31.jpg,2012-02-24 19:47:47.157000,2012-12-05 20:08:25.656000
+TNL000048,Charles Curtiss,Charles,,Curtiss,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h43.jpg,2012-02-24 19:47:47.187000,2014-01-14 14:48:04.817000
+TNL000049,Vince Dean,Vince,,Dean,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h30.jpg,2012-02-24 19:47:47.197000,2015-01-13 22:41:27.477000
+TNL000050,John J. DeBerry JR.,John J.,,DeBerry,JR.,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h90.jpg,2012-02-24 19:47:47.207000,2017-06-01 06:17:16.542000
+TNL000051,Lois DeBerry,Lois,,DeBerry,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h91.jpg,2012-02-24 19:47:47.219000,2014-08-28 12:29:02.814000
+TNL000052,Vance Dennis,Vance,,Dennis,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h71.jpg,2012-02-24 19:47:47.229000,2015-01-13 22:41:27.510000
+TNL000054,Linda Elam,Linda,,Elam,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h57.jpg,2012-02-24 19:47:47.249000,2012-12-05 20:08:25.716000
+TNL000056,Joshua Evans,Joshua,,Evans,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h66.jpg,2012-02-24 19:47:47.269000,2015-01-13 22:41:27.508000
+TNL000060,Richard Floyd,Richard,,Floyd,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h27.jpg,2012-02-24 19:47:47.310000,2015-01-13 22:41:27.475000
+TNL000061,Dale Ford,Dale,,Ford,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h6.jpg,2012-02-24 19:47:47.320000,2012-12-05 20:08:25.722000
+TNL000064,Jim Gotto ,Jim,,Gotto,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h60.jpg,2012-02-24 19:47:47.351000,2012-12-05 20:08:25.725000
+TNL000066,Steve Hall,Steve,,Hall,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h18.jpg,2012-02-24 19:47:47.371000,2015-01-13 22:41:27.468000
+TNL000068,Bill Harmon ,Bill,,Harmon,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h37.jpg,2012-02-24 19:47:47.391000,2012-12-05 20:08:25.727000
+TNL000069,Mike Harrison,Mike,,Harrison,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h9.jpg,2012-02-24 19:47:47.401000,2016-03-18 19:24:14.861000
+TNL000072,Ryan A. Haynes,Ryan A.,,Haynes,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h14.jpg,2012-02-24 19:47:47.432000,2016-02-16 19:31:22.968000
+TNL000076,Julia Hurley,Julia,,Hurley,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h32.jpg,2012-02-24 19:47:47.472000,2012-12-05 20:08:25.664000
+TNL000078,Phillip Johnson ,Phillip,,Johnson,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h78.jpg,2012-02-24 19:47:47.493000,2014-08-28 12:29:02.816000
+TNL000081,Mike Kernell ,Mike,,Kernell,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h93.jpg,2012-02-24 19:47:47.523000,2012-12-05 20:08:25.671000
+TNL000083,Jon Lundberg,Jon,,Lundberg,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h1.jpg,2012-02-24 19:47:47.554000,2017-01-06 05:03:36.064000
+TNL000084,Debra Young Maggart ,Debra Young,,Maggart,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h45.jpg,2012-02-24 19:47:47.568000,2012-12-05 20:08:25.665000
+TNL000090,"Michael Ray ""Mike"" McDonald ","Michael Ray ""Mike""",,McDonald,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h44.jpg,2012-02-24 19:47:47.632000,2012-12-05 20:08:25.754000
+TNL000091,Steve McManus,Steve,,McManus,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h96.jpg,2012-02-24 19:47:47.642000,2017-01-06 05:03:36.087000
+TNL000092,Don Miller,Don,,Miller,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h10.jpg,2012-02-24 19:47:47.652000,2012-12-05 20:08:25.756000
+TNL000094,Richard Montgomery,Richard,,Montgomery,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h12.jpg,2012-02-24 19:47:47.673000,2012-12-05 20:08:25.758000
+TNL000095,"Gary W. Moore, SR ",Gary W.,,Moore,SR,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h50.jpg,2012-02-24 19:47:47.683000,2012-12-05 20:08:25.759000
+TNL000096,"Emeritus James O. ""Jimmy"" Naifeh","Emeritus James O. ""Jimmy""",,Naifeh,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h81.jpg,2012-02-24 19:47:47.694000,2012-12-05 20:08:25.683000
+TNL000098,Gary Odom,Gary,,Odom,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h55.jpg,2012-02-24 19:47:47.714000,2015-01-13 22:41:27.503000
+TNL000103,Mary Pruitt ,Mary,,Pruitt,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h58.jpg,2012-02-24 19:47:47.766000,2012-12-05 20:08:25.770000
+TNL000106,Barrett Rich,Barrett,,Rich,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h94.jpg,2012-02-24 19:47:47.798000,2015-01-13 22:41:27.516000
+TNL000107,Jeanne Richardson ,Jeanne,,Richardson,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h89.jpg,2012-02-24 19:47:47.808000,2012-12-05 20:08:25.774000
+TNL000108,Dennis Edward Roach,Dennis Edward,,Roach,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h35.jpg,2012-02-24 19:47:47.818000,2015-01-13 22:41:27.479000
+TNL000110,Charles Michael Sargent,Charles Michael,,Sargent,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h61.jpg,2012-02-24 19:47:47.839000,2017-06-01 06:17:16.541000
+TNL000113,David Shepard,David,,Shepard,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h69.jpg,2012-02-24 19:47:47.871000,2017-01-06 05:03:36.060000
+TNL000114,Tony Shipley,Tony,,Shipley,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h2.jpg,2012-02-24 19:47:47.881000,2015-01-13 22:41:27.471000
+TNL000115,Janis Baird Sontany ,Janis Baird,,Sontany,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h53.jpg,2012-02-24 19:47:47.892000,2012-12-05 20:08:25.785000
+TNL000119,John C. Tidwell,John C.,,Tidwell,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h74.jpg,2012-02-24 19:47:47.934000,2015-01-13 22:41:27.512000
+TNL000120,Harry Tindell ,Harry,,Tindell,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h13.jpg,2012-02-24 19:47:47.944000,2012-12-05 20:08:25.790000
+TNL000121,Curry Todd,Curry,,Todd,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h95.jpg,2012-02-24 19:47:47.970000,2017-01-06 05:03:36.058000
+TNL000124,Mike Turner,Mike,,Turner,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h51.jpg,2012-02-24 19:47:48.002000,2015-01-13 22:41:27.501000
+TNL000125,Eric Watson,Eric,,Watson,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h22.jpg,2012-02-24 19:47:48.013000,2015-01-13 22:41:27.473000
+TNL000128,Kent Williams,Kent,,Williams,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h4.jpg,2012-02-24 19:47:48.044000,2015-01-13 22:41:27.481000
+TNL000132,Rick Womick,Rick,,Womick,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h34.jpg,2012-02-24 19:47:48.104000,2017-01-06 05:03:36.067000
+TNL000186,Jeremy Durham,Jeremy,,Durham,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h65.jpg,2012-12-10 16:56:51.824000,2017-01-06 05:03:36.062000
+TNL000209,Gloria Johnson,Gloria,,Johnson,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h13.jpg,2012-12-10 16:56:52.308000,2015-01-13 22:41:27.466000
+TNL000246,Billy Spivey,Billy,,Spivey,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h92.jpg,2012-12-10 16:56:52.545000,2017-01-06 05:03:36.048000
+TNL000449,Kevin Dunlap,Kevin,,Dunlap,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h43.jpg,2015-01-13 22:41:25.099000,2017-01-06 05:03:36.066000
+TNL000453,Leigh Wilburn,Leigh,,Wilburn,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h94.jpg,2015-01-13 22:41:25.720000,2016-03-18 19:25:11.009000
+TNL000476,Jamie H. Jenkins,Jamie H.,,Jenkins,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h94.jpg,2016-03-18 17:01:38.655000,2017-01-06 05:03:36.061000
+TNL000483,Mark Lovell,Mark,,Lovell,,,False,tn,,,,http://www.capitol.tn.gov/house/members/images/h95.jpg,2017-01-06 05:03:35.313000,2017-04-10 02:46:53.510000
+TNL000013,Joe Haynes,Joe,,Haynes,,,False,tn,joint,,,http://www.capitol.tn.gov/senate/members/images/s20.jpg,2012-02-24 19:47:46.680000,2016-05-12 07:21:52.180000
+TNL000034,David Alexander,David,,Alexander,,,True,tn,lower,39,Republican,http://www.capitol.tn.gov/house/members/images/h39.jpg,2012-02-24 19:47:47.046000,2017-06-01 06:18:49.015000
+TNL000037,Harry Brooks,Harry,,Brooks,,,True,tn,lower,19,Republican,http://www.capitol.tn.gov/house/members/images/h19.jpg,2012-02-24 19:47:47.077000,2017-06-01 06:18:48.801000
+TNL000038,Kevin Brooks,Kevin,,Brooks,,,True,tn,lower,24,Republican,http://www.capitol.tn.gov/house/members/images/h24.jpg,2012-02-24 19:47:47.087000,2017-06-01 06:18:48.997000
+TNL000040,Sheila Butt,Sheila,,Butt,,,True,tn,lower,64,Republican,http://www.capitol.tn.gov/house/members/images/h64.jpg,2012-02-24 19:47:47.107000,2017-06-01 06:18:49.116000
+TNL000042,Karen D. Camper,Karen D.,,Camper,,,True,tn,lower,87,Democratic,http://www.capitol.tn.gov/house/members/images/h87.jpg,2012-02-24 19:47:47.127000,2017-06-01 06:18:49.292000
+TNL000044,Glen Casada,Glen,,Casada,,,True,tn,lower,63,Republican,http://www.capitol.tn.gov/house/members/images/h63.jpg,2012-02-24 19:47:47.147000,2017-06-01 06:18:49.217000
+TNL000046,Jim Coley,Jim,,Coley,,,True,tn,lower,97,Republican,http://www.capitol.tn.gov/house/members/images/h97.jpg,2012-02-24 19:47:47.167000,2017-06-01 06:18:49.009000
+TNL000047,Barbara Ward Cooper,Barbara Ward,,Cooper,,,True,tn,lower,86,Democratic,http://www.capitol.tn.gov/house/members/images/h86.jpg,2012-02-24 19:47:47.177000,2017-06-01 06:18:49.040000
+TNL000053,Bill Dunn,Bill,,Dunn,,,True,tn,lower,16,Republican,http://www.capitol.tn.gov/house/members/images/h16.jpg,2012-02-24 19:47:47.239000,2017-06-01 06:18:49.122000
+TNL000055,Jimmy Eldridge,Jimmy,,Eldridge,,,True,tn,lower,73,Republican,http://www.capitol.tn.gov/house/members/images/h73.jpg,2012-02-24 19:47:47.259000,2017-06-01 06:18:49.184000
+TNL000057,Jeremy Faison,Jeremy,,Faison,,,True,tn,lower,11,Republican,http://www.capitol.tn.gov/house/members/images/h11.jpg,2012-02-24 19:47:47.279000,2017-06-01 06:18:48.856000
+TNL000058,JoAnne Favors,JoAnne,,Favors,,,True,tn,lower,28,Democratic,http://www.capitol.tn.gov/house/members/images/h28.jpg,2012-02-24 19:47:47.289000,2017-06-01 06:18:49.309000
+TNL000059,Craig Fitzhugh,Craig,,Fitzhugh,,,True,tn,lower,82,Democratic,http://www.capitol.tn.gov/house/members/images/h82.jpg,2012-02-24 19:47:47.299000,2017-06-01 06:18:48.979000
+TNL000062,John Forgety,John,,Forgety,,,True,tn,lower,23,Republican,http://www.capitol.tn.gov/house/members/images/h23.jpg,2012-02-24 19:47:47.331000,2017-06-01 06:18:49.219000
+TNL000063,Brenda Gilmore,Brenda,,Gilmore,,,True,tn,lower,54,Democratic,http://www.capitol.tn.gov/house/members/images/h54.jpg,2012-02-24 19:47:47.341000,2017-06-01 06:18:49.311000
+TNL000065,Curtis Halford,Curtis,,Halford,,,True,tn,lower,79,Republican,http://www.capitol.tn.gov/house/members/images/h79.jpg,2012-02-24 19:47:47.361000,2017-06-01 06:18:49.133000
+TNL000067,G. A. Hardaway,G. A.,,Hardaway,,,True,tn,lower,93,Democratic,http://www.capitol.tn.gov/house/members/images/h93.jpg,2012-02-24 19:47:47.381000,2017-06-01 06:18:49.221000
+TNL000070,Beth Harwell,Beth,,Harwell,,,True,tn,lower,56,Republican,http://www.capitol.tn.gov/house/members/images/h56.jpg,2012-02-24 19:47:47.411000,2017-06-01 06:17:16.549000
+TNL000071,David B. Hawk,David B.,,Hawk,,,True,tn,lower,5,Republican,http://www.capitol.tn.gov/house/members/images/h5.jpg,2012-02-24 19:47:47.422000,2017-06-01 06:18:48.983000
+TNL000074,Matthew Hill,Matthew,,Hill,,,True,tn,lower,7,Republican,http://www.capitol.tn.gov/house/members/images/h7.jpg,2012-02-24 19:47:47.452000,2017-06-01 06:18:48.988000
+TNL000075,Andy Holt,Andy,,Holt,,,True,tn,lower,76,Republican,http://www.capitol.tn.gov/house/members/images/h76.jpg,2012-02-24 19:47:47.462000,2017-06-01 06:18:49.130000
+TNL000077,Curtis Johnson,Curtis,,Johnson,,,True,tn,lower,68,Republican,http://www.capitol.tn.gov/house/members/images/h68.jpg,2012-02-24 19:47:47.483000,2017-06-01 06:18:48.990000
+TNL000079,Sherry Jones,Sherry,,Jones,,,True,tn,lower,59,Democratic,http://www.capitol.tn.gov/house/members/images/h59.jpg,2012-02-24 19:47:47.503000,2017-06-01 06:18:49.268000
+TNL000080,Kelly Keisling,Kelly,,Keisling,,,True,tn,lower,38,Republican,http://www.capitol.tn.gov/house/members/images/h38.jpg,2012-02-24 19:47:47.513000,2017-06-01 06:18:49.164000
+TNL000082,Ron Lollar,Ron,,Lollar,,,True,tn,lower,99,Republican,http://www.capitol.tn.gov/house/members/images/h99.jpg,2012-02-24 19:47:47.534000,2017-06-01 06:18:49.140000
+TNL000085,Pat Marsh,Pat,,Marsh,,,True,tn,lower,62,Republican,http://www.capitol.tn.gov/house/members/images/h62.jpg,2012-02-24 19:47:47.578000,2017-06-01 06:18:49.279000
+TNL000086,Judd Matheny,Judd,,Matheny,,,True,tn,lower,47,Republican,http://www.capitol.tn.gov/house/members/images/h47.jpg,2012-02-24 19:47:47.588000,2017-06-01 06:18:49.169000
+TNL000087,Jimmy Matlock,Jimmy,,Matlock,,,True,tn,lower,21,Republican,http://www.capitol.tn.gov/house/members/images/h21.jpg,2012-02-24 19:47:47.599000,2017-06-01 06:18:49.198000
+TNL000088,Gerald McCormick,Gerald,,McCormick,,,True,tn,lower,26,Republican,http://www.capitol.tn.gov/house/members/images/h26.jpg,2012-02-24 19:47:47.609000,2017-06-01 06:18:49.313000
+TNL000089,Steve McDaniel,Steve,,McDaniel,,,True,tn,lower,72,Republican,http://www.capitol.tn.gov/house/members/images/h72.jpg,2012-02-24 19:47:47.621000,2017-06-01 06:18:49.257000
+TNL000093,Larry J. Miller ,Larry J.,,Miller,,,True,tn,lower,88,Democratic,http://www.capitol.tn.gov/house/members/images/h88.jpg,2012-02-24 19:47:47.663000,2017-06-01 06:18:49.035000
+TNL000099,Rep. Antonio Parkinson,Antonio,,Parkinson,,,True,tn,lower,98,Democratic,http://www.capitol.tn.gov/house/members/images/h98.jpg,2012-02-24 19:47:47.725000,2017-06-01 06:18:49.017000
+TNL000100,Joe Pitts,Joe,,Pitts,,,True,tn,lower,67,Democratic,http://www.capitol.tn.gov/house/members/images/h67.jpg,2012-02-24 19:47:47.735000,2017-06-01 06:18:49.248000
+TNL000101,Mark Pody,Mark,,Pody,,,True,tn,lower,46,Republican,http://www.capitol.tn.gov/house/members/images/h46.jpg,2012-02-24 19:47:47.746000,2017-06-01 06:18:49.188000
+TNL000102,Dennis Powers,Dennis,,Powers,,,True,tn,lower,36,Republican,http://www.capitol.tn.gov/house/members/images/h36.jpg,2012-02-24 19:47:47.756000,2017-06-01 06:18:49.303000
+TNL000104,John Ragan,John,,Ragan,,,True,tn,lower,33,Republican,http://www.capitol.tn.gov/house/members/images/h33.jpg,2012-02-24 19:47:47.777000,2017-06-01 06:18:48.877000
+TNL000105,Bob Ramsey,Bob,,Ramsey,,,True,tn,lower,20,Republican,http://www.capitol.tn.gov/house/members/images/h20.jpg,2012-02-24 19:47:47.787000,2017-06-01 06:18:48.953000
+TNL000109,Bill Sanderson,Bill,,Sanderson,,,True,tn,lower,77,Republican,http://www.capitol.tn.gov/house/members/images/h77.jpg,2012-02-24 19:47:47.829000,2017-06-01 06:18:48.955000
+TNL000111,Cameron Sexton,Cameron,,Sexton,,,True,tn,lower,25,Republican,http://www.capitol.tn.gov/house/members/images/h25.jpg,2012-02-24 19:47:47.850000,2017-06-01 06:18:49.038000
+TNL000112,Johnny Shaw,Johnny,,Shaw,,,True,tn,lower,80,Democratic,http://www.capitol.tn.gov/house/members/images/h80.jpg,2012-02-24 19:47:47.860000,2017-06-01 06:18:49.135000
+TNL000116,Mike Sparks,Mike,,Sparks,,,True,tn,lower,49,Republican,http://www.capitol.tn.gov/house/members/images/h49.jpg,2012-02-24 19:47:47.902000,2017-06-01 06:18:49.284000
+TNL000117,Mike Stewart,Mike,,Stewart,,,True,tn,lower,52,Democratic,http://www.capitol.tn.gov/house/members/images/h52.jpg,2012-02-24 19:47:47.913000,2017-06-01 06:18:49.228000
+TNL000118,Art Swann,Art,,Swann,,,True,tn,lower,8,Republican,http://www.capitol.tn.gov/house/members/images/h8.jpg,2012-02-24 19:47:47.923000,2017-06-01 06:18:49.295000
+TNL000122,"Joe Towns, Jr.",Joe,,Towns,Jr.,,True,tn,lower,84,Democratic,http://www.capitol.tn.gov/house/members/images/h84.jpg,2012-02-24 19:47:47.981000,2017-06-01 06:18:49.176000
+TNL000123,Johnnie Turner,Johnnie,,Turner,,,True,tn,lower,85,Democratic,http://www.capitol.tn.gov/house/members/images/h85.jpg,2012-02-24 19:47:47.992000,2017-06-01 06:18:48.815000
+TNL000126,Terri Lynn Weaver,Terri Lynn,,Weaver,,,True,tn,lower,40,Republican,http://www.capitol.tn.gov/house/members/images/h40.jpg,2012-02-24 19:47:48.023000,2017-06-01 06:18:48.799000
+TNL000127,Mark White,Mark,,White,,,True,tn,lower,83,Republican,http://www.capitol.tn.gov/house/members/images/h83.jpg,2012-02-24 19:47:48.034000,2017-06-01 06:18:49.182000
+TNL000129,Ryan Williams,Ryan,,Williams,,,True,tn,lower,42,Republican,http://www.capitol.tn.gov/house/members/images/h42.jpg,2012-02-24 19:47:48.072000,2017-06-01 06:18:48.970000
+TNL000130,John Mark Windle ,John Mark,,Windle,,,True,tn,lower,41,Democratic,http://www.capitol.tn.gov/house/members/images/h41.jpg,2012-02-24 19:47:48.083000,2017-06-01 06:18:48.690000
+TNL000131,Tim Wirgau,Tim,,Wirgau,,,True,tn,lower,75,Republican,http://www.capitol.tn.gov/house/members/images/h75.jpg,2012-02-24 19:47:48.094000,2017-06-01 06:18:49.045000
+TNL000171,Kent Calfee,Kent,,Calfee,,,True,tn,lower,32,Republican,http://www.capitol.tn.gov/house/members/images/h32.jpg,2012-12-10 16:56:51.736000,2017-06-01 06:18:49.282000
+TNL000173,Dale Carr,Dale,,Carr,,,True,tn,lower,12,Republican,http://www.capitol.tn.gov/house/members/images/h12.jpg,2012-12-10 16:56:51.749000,2017-06-01 06:18:49.033000
+TNL000175,Mike Carter,Mike,,Carter,,,True,tn,lower,29,Republican,http://www.capitol.tn.gov/house/members/images/h29.jpg,2012-12-10 16:56:51.760000,2017-06-01 06:18:49.259000
+TNL000184,Barry Doss,Barry,,Doss,,,True,tn,lower,70,Republican,http://www.capitol.tn.gov/house/members/images/h70.jpg,2012-12-10 16:56:51.812000,2017-06-01 06:18:49.290000
+TNL000190,Andrew Farmer,Andrew,,Farmer,,,True,tn,lower,17,Republican,http://www.capitol.tn.gov/house/members/images/h17.jpg,2012-12-10 16:56:51.848000,2017-06-01 06:18:49.226000
+TNL000196,Tilman Goins,Tilman,,Goins,,,True,tn,lower,10,Republican,http://www.capitol.tn.gov/house/members/images/h10.jpg,2012-12-10 16:56:51.885000,2017-06-01 06:18:49.315000
+TNL000205,Timothy Hill,Timothy,,Hill,,,True,tn,lower,3,Republican,http://www.capitol.tn.gov/house/members/images/h3.jpg,2012-12-10 16:56:51.940000,2017-06-01 06:18:49.167000
+TNL000207,Darren Jernigan,Darren,,Jernigan,,,True,tn,lower,60,Democratic,http://www.capitol.tn.gov/house/members/images/h60.jpg,2012-12-10 16:56:51.952000,2017-06-01 06:18:48.950000
+TNL000211,Roger Kane,Roger,,Kane,,,True,tn,lower,89,Republican,http://www.capitol.tn.gov/house/members/images/h89.jpg,2012-12-10 16:56:52.321000,2017-06-01 06:18:49.113000
+TNL000213,William Lamberth,William,,Lamberth,,,True,tn,lower,44,Republican,http://www.capitol.tn.gov/house/members/images/h44.jpg,2012-12-10 16:56:52.333000,2017-06-01 06:18:49.266000
+TNL000214,Mary Littleton,Mary,,Littleton,,,True,tn,lower,78,Republican,http://www.capitol.tn.gov/house/members/images/h78.jpg,2012-12-10 16:56:52.339000,2017-06-01 06:18:48.948000
+TNL000216,"Harold M. Love, Jr.",Harold M.,,Love,Jr.,,True,tn,lower,58,Democratic,http://www.capitol.tn.gov/house/members/images/h58.jpg,2012-12-10 16:56:52.352000,2017-06-01 06:18:49.250000
+TNL000218,Susan Lynn,Susan,,Lynn,,,True,tn,lower,57,Republican,http://www.capitol.tn.gov/house/members/images/h57.jpg,2012-12-10 16:56:52.365000,2017-06-01 06:18:49.238000
+TNL000226,Bo Mitchell,Bo,,Mitchell,,,True,tn,lower,50,Democratic,http://www.capitol.tn.gov/house/members/images/h50.jpg,2012-12-10 16:56:52.418000,2017-06-01 06:18:49.137000
+TNL000227,Debra Moody,Debra,,Moody,,,True,tn,lower,81,Republican,http://www.capitol.tn.gov/house/members/images/h81.jpg,2012-12-10 16:56:52.425000,2017-06-01 06:18:49.231000
+TNL000232,Jason Powell,Jason,,Powell,,,True,tn,lower,53,Democratic,http://www.capitol.tn.gov/house/members/images/h53.jpg,2012-12-10 16:56:52.457000,2017-06-01 06:18:49.305000
+TNL000238,Courtney Rogers,Courtney,,Rogers,,,True,tn,lower,45,Republican,http://www.capitol.tn.gov/house/members/images/h45.jpg,2012-12-10 16:56:52.494000,2017-06-01 06:18:49.212000
+TNL000252,Ron Travis,Ron,,Travis,,,True,tn,lower,31,Republican,http://www.capitol.tn.gov/house/members/images/h31.jpg,2012-12-10 16:56:52.587000,2017-06-01 06:18:49.174000
+TNL000255,James (Micah) Van Huss,James (Micah),,Van Huss,,,True,tn,lower,6,Republican,http://www.capitol.tn.gov/house/members/images/h6.jpg,2012-12-10 16:56:52.611000,2017-06-01 06:18:49.274000
+TNL000258,Dawn White,Dawn,,White,,,True,tn,lower,37,Republican,http://www.capitol.tn.gov/house/members/images/h37.jpg,2012-12-10 16:56:52.634000,2017-06-01 06:18:49.288000
+TNL000315,Raumesh Akbari,Raumesh,,Akbari,,,True,tn,lower,91,Democratic,http://www.capitol.tn.gov/house/members/images/h91.jpg,2013-12-05 04:22:55.346000,2017-06-01 06:18:49.270000
+TNL000450,John Ray Clemmons,John Ray,,Clemmons,,,True,tn,lower,55,Democratic,http://www.capitol.tn.gov/house/members/images/h55.jpg,2015-01-13 22:41:25.600000,2017-06-01 06:18:49.297000
+TNL000451,Patsy Hazlewood,Patsy,,Hazlewood,,,True,tn,lower,27,Republican,http://www.capitol.tn.gov/house/members/images/h27.jpg,2015-01-13 22:41:25.682000,2017-06-01 06:18:49.307000
+TNL000455,Jerry Sexton,Jerry,,Sexton,,,True,tn,lower,35,Republican,http://www.capitol.tn.gov/house/members/images/h35.jpg,2015-01-13 22:41:25.831000,2017-06-01 06:18:49.031000
+TNL000456,Dan Howell,Dan,,Howell,,,True,tn,lower,22,Republican,http://www.capitol.tn.gov/house/members/images/h22.jpg,2015-01-13 22:41:25.896000,2017-06-01 06:18:49.019000
+TNL000457,Martin Daniel,Martin,,Daniel,,,True,tn,lower,18,Republican,http://www.capitol.tn.gov/house/members/images/h18.jpg,2015-01-13 22:41:26.095000,2017-06-01 06:18:49.233000
+TNL000459,David Byrd,David,,Byrd,,,True,tn,lower,71,Republican,http://www.capitol.tn.gov/house/members/images/h71.jpg,2015-01-13 22:41:26.162000,2017-06-01 06:18:49.124000
+TNL000460,Charles Sargent,Charles,,Sargent,,,True,tn,lower,61,Republican,http://www.capitol.tn.gov/house/members/images/h61.jpg,2015-01-13 22:41:26.180000,2017-06-01 06:17:16.559000
+TNL000461,"John B. Holsclaw, Jr.",John B.,,Holsclaw,Jr.,,True,tn,lower,4,Republican,http://www.capitol.tn.gov/house/members/images/h4.jpg,2015-01-13 22:41:26.207000,2017-06-01 06:18:49.286000
+TNL000462,Bud Hulsey,Bud,,Hulsey,,,True,tn,lower,2,Republican,http://www.capitol.tn.gov/house/members/images/h2.jpg,2015-01-13 22:41:26.341000,2017-06-01 06:18:48.946000
+TNL000463,Sabi 'Doc' Kumar,Sabi 'Doc',,Kumar,,,True,tn,lower,66,Republican,http://www.capitol.tn.gov/house/members/images/h66.jpg,2015-01-13 22:41:26.435000,2017-06-01 06:18:48.628000
+TNL000464,Bryan Terry,Bryan,,Terry,,,True,tn,lower,48,Republican,http://www.capitol.tn.gov/house/members/images/h48.jpg,2015-01-13 22:41:26.462000,2017-06-01 06:18:49.224000
+TNL000467,Eddie Smith,Eddie,,Smith,,,True,tn,lower,13,Republican,http://www.capitol.tn.gov/house/members/images/h13.jpg,2015-01-13 22:41:26.619000,2017-06-01 06:18:48.811000
+TNL000469,"John J. DeBerry, Jr.",John J.,,DeBerry,Jr.,,True,tn,lower,90,Democratic,http://www.capitol.tn.gov/house/members/images/h90.jpg,2015-01-13 22:41:26.700000,2017-06-01 06:18:48.960000
+TNL000470,Carson W. (Bill) Beck,Carson W. (Bill),,Beck,,,True,tn,lower,51,Democratic,http://www.capitol.tn.gov/house/members/images/h51.jpg,2015-01-13 22:41:26.710000,2017-06-01 06:17:16.558000
+TNL000471,Jay D. Reedy,Jay D.,,Reedy,,,True,tn,lower,74,Republican,http://www.capitol.tn.gov/house/members/images/h74.jpg,2015-01-13 22:41:26.813000,2017-06-01 06:18:48.283000
+TNL000475,Marc Gravitt,Marc,,Gravitt,,,True,tn,lower,30,Republican,http://www.capitol.tn.gov/house/members/images/h30.jpg,2015-01-13 22:41:27.051000,2017-06-01 06:18:49.299000
+TNL000477,Gary Hicks,Gary,,Hicks,,,True,tn,lower,9,Republican,http://www.capitol.tn.gov/house/members/images/h9.jpg,2016-03-18 17:01:38.757000,2017-06-01 06:18:48.981000
+TNL000478,Jason Zachary,Jason,,Zachary,,,True,tn,lower,14,Republican,http://www.capitol.tn.gov/house/members/images/h14.jpg,2016-03-18 17:01:38.831000,2017-06-01 06:18:49.158000
+TNL000479,John Crawford,John,,Crawford,,,True,tn,lower,1,Republican,http://www.capitol.tn.gov/house/members/images/h1.jpg,2017-01-06 05:03:35.162000,2017-06-01 06:18:49.042000
+TNL000480,Rick Tillis,Rick,,Tillis,,,True,tn,lower,92,Republican,http://www.capitol.tn.gov/house/members/images/h92.jpg,2017-01-06 05:03:35.227000,2017-06-01 06:18:49.301000
+TNL000481,Tim Rudd,Tim,,Rudd,,,True,tn,lower,34,Republican,http://www.capitol.tn.gov/house/members/images/h34.jpg,2017-01-06 05:03:35.251000,2017-06-01 06:18:49.171000
+TNL000482,Dwayne Thompson,Dwayne,,Thompson,,,True,tn,lower,96,Democratic,http://www.capitol.tn.gov/house/members/images/h96.jpg,2017-01-06 05:03:35.302000,2017-06-01 06:18:49.196000
+TNL000484,Michael G. Curcio,Michael G.,,Curcio,,,True,tn,lower,69,Republican,http://www.capitol.tn.gov/house/members/images/h69.jpg,2017-01-06 05:03:35.345000,2017-06-01 06:18:49.273000
+TNL000485,Ron M. Gant,Ron M.,,Gant,,,True,tn,lower,94,Republican,http://www.capitol.tn.gov/house/members/images/h94.jpg,2017-01-06 05:03:35.446000,2017-06-01 06:18:49.160000
+TNL000486,Sam Whitson,Sam,,Whitson,,,True,tn,lower,65,Republican,http://www.capitol.tn.gov/house/members/images/h65.jpg,2017-01-06 05:03:35.570000,2017-06-01 06:18:48.697000
+TNL000487,Paul Sherrell,Paul,,Sherrell,,,True,tn,lower,43,Republican,http://www.capitol.tn.gov/house/members/images/h43.jpg,2017-01-06 05:03:35.725000,2017-06-01 06:18:48.726000
+TNL000488,Rick Staples,Rick,,Staples,,,True,tn,lower,15,Democratic,http://www.capitol.tn.gov/house/members/images/h15.jpg,2017-01-06 05:03:35.758000,2017-06-01 06:18:49.186000
+TNL000002,Mae Beavers,Mae,,Beavers,,,True,tn,upper,17,Republican,http://www.capitol.tn.gov/senate/members/images/s17.jpg,2012-02-24 19:47:46.498000,2017-06-01 06:18:48.881000
+TNL000003,Mike Bell,Mike,,Bell,,,True,tn,upper,9,Republican,http://www.capitol.tn.gov/senate/members/images/s9.jpg,2012-02-24 19:47:46.508000,2017-06-01 06:18:48.853000
+TNL000007,Rusty Crowe,Rusty,,Crowe,,,True,tn,upper,3,Republican,http://www.capitol.tn.gov/senate/members/images/s3.jpg,2012-02-24 19:47:46.562000,2017-06-01 06:18:48.860000
+TNL000011,Dolores R. Gresham,Dolores R.,,Gresham,,,True,tn,upper,26,Republican,http://www.capitol.tn.gov/senate/members/images/s26.jpg,2012-02-24 19:47:46.660000,2017-06-01 06:18:48.661000
+TNL000012,Thelma Harper,Thelma,,Harper,,,True,tn,upper,19,Democratic,http://www.capitol.tn.gov/senate/members/images/s19.jpg,2012-02-24 19:47:46.670000,2017-06-01 06:18:49.067000
+TNL000016,Jack Johnson,Jack,,Johnson,,,True,tn,upper,23,Republican,http://www.capitol.tn.gov/senate/members/images/s23.jpg,2012-02-24 19:47:46.709000,2017-06-01 06:18:48.503000
+TNL000017,Brian Kelsey,Brian,,Kelsey,,,True,tn,upper,31,Republican,http://www.capitol.tn.gov/senate/members/images/s31.jpg,2012-02-24 19:47:46.719000,2017-06-01 06:18:48.239000
+TNL000018,Bill Ketron,Bill,,Ketron,,,True,tn,upper,13,Republican,http://www.capitol.tn.gov/senate/members/images/s13.jpg,2012-02-24 19:47:46.729000,2017-06-01 06:18:49.085000
+TNL000021,Becky Duncan Massey,Becky Duncan,,Massey,,,True,tn,upper,6,Republican,http://www.capitol.tn.gov/senate/members/images/s6.jpg,2012-02-24 19:47:46.758000,2017-06-01 06:18:48.771000
+TNL000022,Randy McNally,Randy,,McNally,,,True,tn,upper,5,Republican,http://www.capitol.tn.gov/senate/members/images/s5.jpg,2012-02-24 19:47:46.768000,2017-06-01 06:17:16.691000
+TNL000023,Mark Norris,Mark,,Norris,,,True,tn,upper,32,Republican,http://www.capitol.tn.gov/senate/members/images/s32.jpg,2012-02-24 19:47:46.778000,2017-06-01 06:18:49.080000
+TNL000024,Doug Overbey,Doug,,Overbey,,,True,tn,upper,2,Republican,http://www.capitol.tn.gov/senate/members/images/s2.jpg,2012-02-24 19:47:46.788000,2017-06-01 06:18:49.075000
+TNL000026,Kerry Roberts,Kerry,,Roberts,,,True,tn,upper,25,Republican,http://www.capitol.tn.gov/senate/members/images/s25.jpg,2012-02-24 19:47:46.808000,2017-06-01 06:18:48.865000
+TNL000027,Steve Southerland,Steve,,Southerland,,,True,tn,upper,1,Republican,http://www.capitol.tn.gov/senate/members/images/s1.jpg,2012-02-24 19:47:46.818000,2017-06-01 06:18:48.869000
+TNL000030,Reginald Tate,Reginald,,Tate,,,True,tn,upper,33,Democratic,http://www.capitol.tn.gov/senate/members/images/s33.jpg,2012-02-24 19:47:47.006000,2017-06-01 06:18:49.082000
+TNL000031,Jim Tracy,Jim,,Tracy,,,True,tn,upper,14,Republican,http://www.capitol.tn.gov/senate/members/images/s14.jpg,2012-02-24 19:47:47.016000,2017-06-01 06:18:48.786000
+TNL000032,Bo Watson,Bo,,Watson,,,True,tn,upper,11,Republican,http://www.capitol.tn.gov/senate/members/images/s11.jpg,2012-02-24 19:47:47.026000,2017-06-01 06:18:49.203000
+TNL000033,Ken Yager,Ken,,Yager,,,True,tn,upper,12,Republican,http://www.capitol.tn.gov/senate/members/images/s12.jpg,2012-02-24 19:47:47.036000,2017-06-01 06:18:49.148000
+TNL000073,Joey Hensley,Joey,,Hensley,,,True,tn,upper,28,Republican,http://www.capitol.tn.gov/senate/members/images/s28.jpg,2012-02-24 19:47:47.442000,2017-06-01 06:18:49.089000
+TNL000097,Frank S. Niceley,Frank S.,,Niceley,,,True,tn,upper,8,Republican,http://www.capitol.tn.gov/senate/members/images/s8.jpg,2012-02-24 19:47:47.704000,2017-06-01 06:18:48.782000
+TNL000135,Janice Bowling,Janice,,Bowling,,,True,tn,upper,16,Republican,http://www.capitol.tn.gov/senate/members/images/s16.jpg,2012-12-10 16:56:51.529000,2017-06-01 06:18:48.850000
+TNL000139,Steven Dickerson,Steven,,Dickerson,,,True,tn,upper,20,Republican,http://www.capitol.tn.gov/senate/members/images/s20.jpg,2012-12-10 16:56:51.550000,2017-06-01 06:18:49.092000
+TNL000142,Todd Gardenhire,Todd,,Gardenhire,,,True,tn,upper,10,Republican,http://www.capitol.tn.gov/senate/members/images/s10.jpg,2012-12-10 16:56:51.566000,2017-06-01 06:18:49.087000
+TNL000143,Mark Green,Mark,,Green,,,True,tn,upper,22,Republican,http://www.capitol.tn.gov/senate/members/images/s22.jpg,2012-12-10 16:56:51.571000,2017-06-01 06:18:48.649000
+TNL000145,Ferrell Haile,Ferrell,,Haile,,,True,tn,upper,18,Republican,http://www.capitol.tn.gov/senate/members/images/s18.jpg,2012-12-10 16:56:51.582000,2017-06-01 06:18:49.077000
+TNL000160,John Stevens,John,,Stevens,,,True,tn,upper,24,Republican,http://www.capitol.tn.gov/senate/members/images/s24.jpg,2012-12-10 16:56:51.671000,2017-06-01 06:18:49.069000
+TNL000316,Paul Bailey,Paul,,Bailey,,,True,tn,upper,15,Republican,http://www.capitol.tn.gov/senate/members/images/s15.jpg,2014-01-14 02:44:52.593000,2017-06-01 06:18:48.775000
+TNL000458,Jeff Yarbro,Jeff,,Yarbro,,,True,tn,upper,21,Democratic,http://www.capitol.tn.gov/senate/members/images/s21.jpg,2015-01-13 22:41:26.152000,2017-06-01 06:18:49.059000
+TNL000465,Ed Jackson,Ed,,Jackson,,,True,tn,upper,27,Republican,http://www.capitol.tn.gov/senate/members/images/s27.jpg,2015-01-13 22:41:26.491000,2017-06-01 06:18:48.879000
+TNL000472,Richard Briggs,Richard,,Briggs,,,True,tn,upper,7,Republican,http://www.capitol.tn.gov/senate/members/images/s7.jpg,2015-01-13 22:41:26.880000,2017-06-01 06:18:48.777000
+TNL000473,Lee Harris,Lee,,Harris,,,True,tn,upper,29,Democratic,http://www.capitol.tn.gov/senate/members/images/s29.jpg,2015-01-13 22:41:26.940000,2017-06-01 06:18:48.656000
+TNL000474,Sara Kyle,Sara,,Kyle,,,True,tn,upper,30,Democratic,http://www.capitol.tn.gov/senate/members/images/s30.jpg,2015-01-13 22:41:27.041000,2017-06-01 06:18:48.359000
+TNL000489,Jon Lundberg,Jon,,Lundberg,,,True,tn,upper,4,Republican,http://www.capitol.tn.gov/senate/members/images/s4.jpg,2017-01-11 05:04:14.852000,2017-06-01 06:18:48.867000

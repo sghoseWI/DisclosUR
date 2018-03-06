@@ -1,0 +1,228 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+INL000002,Jim Arnold,James,,Arnold,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_james_arnold_917,2011-04-08 18:48:34.079000,2017-01-09 06:35:33.479000
+INL000003,Jim Banks,Jim,,Banks,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_james_banks_1040,2011-04-08 18:48:34.088000,2017-01-09 06:35:33.480000
+INL000006,Richard D. Bray,Richard D.,,Bray,,,False,in,,,,http://www.in.gov/legislative/senate_republicans/images/photogallery/caucus/headshots/bray-tn.jpg,2011-04-08 18:48:34.094000,2013-01-09 18:24:45.374000
+INL000008,John Broden,John,,Broden,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_john_broden_644,2011-04-08 18:48:34.097000,2017-01-09 06:35:33.481000
+INL000013,Beverly J. Gard,Beverly J.,,Gard,,,False,in,,,,http://www.in.gov/legislative/senate_republicans/hiResImages/thumbs/Gard_hi_res_tn.jpg,2011-04-08 18:48:34.106000,2013-01-09 18:24:45.375000
+INL000019,Lindel O. Hume,Lindel,,Hume,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_lindel_hume_157/,2011-04-08 18:48:34.117000,2014-12-09 22:55:22.840000
+INL000023,Sue Landske,Sue,,Landske,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_sue_landske_214/,2011-04-08 18:48:34.124000,2014-12-09 22:55:22.843000
+INL000024,Connie Lawson,Connie,,Lawson,,,False,in,,,,,2011-04-08 18:48:34.126000,2012-07-13 01:16:15.521000
+INL000028,Patricia L. Miller,Patricia,,Miller,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_patricia_miller_180,2011-04-08 18:48:34.133000,2017-01-09 06:35:33.485000
+INL000031,Johnny Nugent,Johnny,,Nugent,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_johnny_nugent_141/,2011-04-08 18:48:34.139000,2014-12-09 22:55:22.838000
+INL000032,Allen E. Paul,Allen,,Paul,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_allen_paul_68/,2011-04-08 18:48:34.140000,2014-12-09 22:55:22.833000
+INL000034,Earline S. Rogers,Earline,,Rogers,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_earline_rogers_109,2011-04-08 18:48:34.144000,2017-01-09 06:35:33.477000
+INL000035,Scott Schneider,Scott,,Schneider,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_scott_schneider_1009,2011-04-08 18:48:34.146000,2017-01-09 06:35:33.488000
+INL000036,Vi Simpson,Vi,,Simpson,,,False,in,,,,http://www.in.gov/legislative/senate_democrats/images/Simpson2.jpg,2011-04-08 18:48:34.147000,2013-01-09 18:24:45.377000
+INL000037,Tim Skinner,Timothy,,Skinner,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_timothy_skinner_696/,2011-04-08 18:48:34.149000,2014-12-09 22:55:22.835000
+INL000039,Brent Steele,Brent,,Steele,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_brent_steele_784,2011-04-08 18:48:34.153000,2017-01-09 06:35:33.473000
+INL000044,Brent Waltz,Brent,,Waltz,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_brent_waltz_791,2011-04-08 18:48:34.162000,2017-01-09 06:35:33.475000
+INL000045,John W. Waterman,John,,Waterman,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_john_waterman_147/,2011-04-08 18:48:34.163000,2014-12-09 22:55:22.836000
+INL000046,Thomas J. Wyss,Thomas,,Wyss,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_thomas_wyss_227/,2011-04-08 18:48:34.165000,2014-12-09 22:55:22.829000
+INL000047,Carlin Yoder,Carlin,,Yoder,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_carlin_yoder_974,2011-04-08 18:48:34.167000,2017-01-09 06:35:33.476000
+INL000048,Michael Young,R Michael,,Young,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_r_michael_young_645,2011-04-08 18:48:34.169000,2017-01-09 06:35:33.483000
+INL000049,Richard D. Young Jr.,Richard,,Young,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_richard_young_208/,2011-04-08 18:48:34.171000,2014-12-09 22:55:22.839000
+INL000054,Jeb Bardon,Jeb,,Bardon,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/bardon.jpg,2011-04-08 18:48:34.180000,2013-01-09 18:24:45.342000
+INL000056,Kreg Battles,Kreg,,Battles,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_kreg_battles_877/,2011-04-08 18:48:34.183000,2014-06-23 13:14:40.812000
+INL000064,Mara Candelaria Reardon,Mara Candelaria,,Reardon,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_mara_candelaria_reardon_870/,2011-04-08 18:48:34.208000,2014-12-09 22:55:22.811000
+INL000065,Dave Cheatham,Dave,,Cheatham,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/cheatham.jpg,2011-04-08 18:48:34.209000,2013-01-09 18:24:45.347000
+INL000068,William A. Crawford,William A.,,Crawford,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/crawford.jpg,2011-04-08 18:48:34.215000,2013-01-09 18:24:45.348000
+INL000069,Suzanne Crouch,Suzanne,,Crouch,,,False,in,,,,http://www.in.gov/legislative/house_republicans/homepages/images/thumbnails/r78thumb.jpg,2011-04-08 18:48:34.216000,2014-02-12 15:27:05.125000
+INL000071,Bill Davis,Bill,,Davis,,,False,in,,,,http://www.in.gov/legislative/house_republicans/homepages/images/thumbnails/r33thumb.jpg,2011-04-08 18:48:34.220000,2014-02-12 15:30:06.043000
+INL000073,John Day,John,,Day,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/day.jpg,2011-04-08 18:48:34.224000,2013-01-09 18:24:45.349000
+INL000075,Nancy Dembowski,Nancy,,Dembowski,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/dembowski.jpg,2011-04-08 18:48:34.239000,2013-01-09 18:24:45.350000
+INL000076,Thomas Dermody,Thomas,,Dermody,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_thomas_dermody_872,2011-04-08 18:48:34.240000,2017-01-09 06:35:33.471000
+INL000077,Chet Dobis,Chet,,Dobis,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/dobis.jpg,2011-04-08 18:48:34.242000,2013-01-09 18:24:45.351000
+INL000078,Richard 'Dick' Dodge,Richard 'Dick',,Dodge,,,False,in,,,,http://www.in.gov/legislative/house_republicans/images/r51thumb.jpg,2011-04-08 18:48:34.244000,2013-01-09 18:24:45.352000
+INL000081,Sue Ellspermann,Sue,,Ellspermann,,,False,in,,,,http://www.in.gov/legislative/house_republicans/images/r74thumb.jpg,2011-04-08 18:48:34.249000,2013-01-09 18:24:45.354000
+INL000082,Jeff Espich,Jeff,,Espich,,,False,in,,,,http://www.in.gov/legislative/house_republicans/images/r82thumb.jpg,2011-04-08 18:48:34.251000,2013-01-09 18:24:45.355000
+INL000083,Ralph M. Foley,Ralph M.,,Foley,,,False,in,,,,http://www.in.gov/legislative/house_republicans/images/r47thumb.jpg,2011-04-08 18:48:34.253000,2013-01-09 18:24:45.356000
+INL000086,Craig R. Fry,Craig R.,,Fry,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/fry.jpg,2011-04-08 18:48:34.258000,2013-01-09 18:24:45.357000
+INL000090,F. Dale Grubb,F. Dale,,Grubb,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/Grubb2007.jpg,2011-04-08 18:48:34.265000,2013-01-09 18:24:45.358000
+INL000092,Earl L. Harris,Earl,,Harris,,,False,in,,,,https://iga.in.gov/legislative/2015/portraits/legislator_earl_harris_107,2011-04-08 18:48:34.269000,2015-04-22 21:36:56.183000
+INL000094,Kathy Heuer,Kathleen,,Heuer,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_kathleen_heuer_1036/,2011-04-08 18:48:34.272000,2014-09-29 13:49:52.673000
+INL000095,Phillip D. Hinkle,Phillip D.,,Hinkle,,,False,in,,,,http://www.in.gov/legislative/house_republicans/images/r92thumb.jpg,2011-04-08 18:48:34.274000,2013-01-09 18:24:45.359000
+INL000100,Thomas Knollman,Thomas,,Knollman,,,False,in,,,,http://www.in.gov/legislative/house_republicans/images/r55thumb.jpg,2011-04-08 18:48:34.293000,2013-01-09 18:24:45.360000
+INL000101,Eric Allan Koch,Eric Allan,,Koch,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_eric_allan_koch_709,2011-04-08 18:48:34.295000,2017-01-09 06:35:33.465000
+INL000102,Rebecca Kubacki,Rebecca,,Kubacki,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_rebecca_kubacki_1026/,2011-04-08 18:48:34.307000,2014-12-09 22:55:22.819000
+INL000107,L. Jack Lutz,Jack,,Lutz,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_jack_lutz_139/,2011-04-08 18:48:34.316000,2014-12-09 22:55:22.820000
+INL000109,Richard W. McClain,Richard W.,,McClain,,,False,in,,,,http://www.in.gov/legislative/house_republicans/images/r24thumb.jpg,2011-04-08 18:48:34.319000,2013-01-09 18:24:45.363000
+INL000110,Jud McMillin,Jud,,McMillin,,,False,in,,,,http://iga.in.gov/legislative/2015/portraits/legislator_jud_mcmillin_1032,2011-04-08 18:48:34.321000,2015-12-11 22:21:40.858000
+INL000115,Winfield C. Moses Jr.,Winfield C.,,Moses,Jr.,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/moses.jpg,2011-04-08 18:48:34.330000,2013-01-09 18:24:45.364000
+INL000116,Tim Neese,Timothy,,Neese,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_timothy_neese_704/,2011-04-08 18:48:34.332000,2014-12-09 22:55:22.825000
+INL000117,David Niezgodski,David,,Niezgodski,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_david_niezgodski_869,2011-04-08 18:48:34.334000,2017-01-09 06:35:33.462000
+INL000118,Cindy Noe,Cindy,,Noe,,,False,in,,,,http://www.in.gov/legislative/house_republicans/images/r87thumb.jpg,2011-04-08 18:48:34.335000,2013-01-09 18:24:45.365000
+INL000120,Phil Pflum,Phil,,Pflum,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/pflum.jpg,2011-04-08 18:48:34.339000,2013-01-09 18:24:45.366000
+INL000122,Phyllis J. Pond,Phyllis J.,,Pond,,,False,in,,,,http://www.in.gov/legislative/house_republicans/homepages/images/thumbnails/r85thumb.jpg,2011-04-08 18:48:34.342000,2014-02-12 15:31:24.199000
+INL000125,Scott Reske,Scott,,Reske,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/reske.jpg,2011-04-08 18:48:34.348000,2013-01-09 18:24:45.367000
+INL000126,Rhonda Rhoads,Rhonda,,Rhoads,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_rhonda_rhoads_1033,2011-04-08 18:48:34.350000,2017-01-09 06:35:33.470000
+INL000128,Gail Riecken,Gail,,Riecken,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_gail_riecken_986,2011-04-08 18:48:34.377000,2017-01-09 06:35:33.466000
+INL000136,Dan C. Stevenson,Dan C.,,Stevenson,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/stevenson.jpg,2011-04-08 18:48:34.412000,2013-01-09 18:24:45.368000
+INL000137,Mary Ann Sullivan,Mary Ann,,Sullivan,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/sullivan.jpg,2011-04-08 18:48:34.413000,2013-01-09 18:24:45.369000
+INL000141,Randolph Truitt,Randy,,Truitt,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_randy_truitt_977,2011-04-08 18:48:34.421000,2017-01-09 06:35:33.468000
+INL000142,P. Eric Turner,P Eric,,Turner,,,False,in,,,,http://iga.in.gov/legislative/2015/portraits/legislator_p_eric_turner_110/,2011-04-08 18:48:34.422000,2015-04-08 21:31:44.910000
+INL000143,Dennis Tyler,Dennis,,Tyler,,,False,in,,,,,2011-04-08 18:48:34.424000,2012-08-20 14:42:40.539000
+INL000144,Matt Ubelhor,Matthew,,Ubelhor,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_matthew_ubelhor_1031,2011-04-08 18:48:34.426000,2016-02-05 03:18:35.987000
+INL000145,Shelli VanDenburgh,Shelli,,VanDenburgh,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_rochelle_vandenburgh_923/,2011-04-08 18:48:34.428000,2014-12-09 22:55:22.816000
+INL000147,Peggy Welch,Peggy,,Welch,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/welch.jpg,2011-04-08 18:48:34.431000,2013-01-09 18:24:45.371000
+INL000150,David Yarde II,David,,Yarde,II,,False,in,,,,http://www.in.gov/legislative/house_republicans/homepages/directory/r52thumb.jpg,2011-04-08 18:48:34.437000,2013-01-09 18:24:45.372000
+INL000151,Pete Miller,Pete,,Miller,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_pete_miller_1093,2012-04-28 01:16:33.725000,2017-01-09 06:35:33.487000
+INL000152,Mike White,Mike,,White,,,False,in,,,,http://indianahousedemocrats.org/images/stories/head/white.jpg,2012-08-14 01:23:37.178000,2013-01-09 18:24:45.373000
+INL000158,Steven Braun,Steven,,Braun,,,False,in,,,,http://iga.in.gov/legislative/2015/portraits/legislator_steven_braun_1113/,2013-01-09 18:24:44.445000,2015-04-08 21:29:02.438000
+INL000163,Christina Hale,Christina,,Hale,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_christina_hale_1131,2013-01-09 18:24:44.605000,2017-01-09 06:35:33.461000
+INL000165,Timothy Harman,Timothy,,Harman,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_timothy_harman_1112,2013-01-09 18:24:44.618000,2017-01-09 06:35:33.472000
+INL000176,John Price,John,,Price,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_john_price_1116,2013-01-09 18:24:44.865000,2017-01-09 06:35:33.467000
+INL000250,Casey Cox,Casey,,Cox,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_casey_cox_181,2014-02-12 10:42:49.354000,2017-01-09 06:35:33.460000
+INL000253,Bionca Gambill,Bionca,,Gambill,,,False,in,,,,http://iga.in.gov/legislative/2014/portraits/legislator_bionca_gambill_000/,2014-06-20 23:48:55.597000,2014-12-09 22:55:22.822000
+INL000270,Bill Fine,Bill,,Fine,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_bill_fine_1,2014-12-09 22:55:22.012000,2017-01-09 06:35:33.458000
+INL000274,Amanda Banks,Amanda,,Banks,,,False,in,,,,https://iga.in.gov/legislative/2015/portraits/legislator_amanda_banks_1,2015-01-13 22:40:24.307000,2015-07-08 20:27:47.835000
+INL000278,Donna Harris,Donna,,Harris,,,False,in,,,,http://iga.in.gov/legislative/2016/portraits/legislator_donna_harris_1,2015-04-21 22:05:16.029000,2017-01-09 06:35:33.464000
+INL000051,Terri Austin,Terri Jo,,Austin,,,True,in,lower,36,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_terri_jo_austin_700,2011-04-08 18:48:34.174000,2017-06-01 07:58:28.100000
+INL000052,Ron Bacon,Ronald,,Bacon,,,True,in,lower,75,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_ronald_bacon_1044,2011-04-08 18:48:34.176000,2017-06-01 07:58:27.821000
+INL000053,Jim Baird,James,,Baird,,,True,in,lower,44,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_james_baird_1029,2011-04-08 18:48:34.178000,2017-06-01 07:58:27.974000
+INL000055,John Bartlett,John,,Bartlett,,,True,in,lower,95,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_john_bartlett_942,2011-04-08 18:48:34.181000,2017-06-01 07:58:28.220000
+INL000057,B. Patrick Bauer,B Patrick,,Bauer,,,True,in,lower,6,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_b_patrick_bauer_178,2011-04-08 18:48:34.185000,2017-06-01 07:58:28.135000
+INL000058,Robert W. Behning,Robert,,Behning,,,True,in,lower,91,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_robert_behning_187,2011-04-08 18:48:34.197000,2017-06-01 07:58:28.157000
+INL000059,Bruce Borders,Bruce,,Borders,,,True,in,lower,45,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_bruce_borders_1,2011-04-08 18:48:34.199000,2017-06-01 07:58:28.105000
+INL000060,Brian C. Bosma,Brian,,Bosma,,,True,in,lower,88,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_brian_bosma_69,2011-04-08 18:48:34.200000,2017-06-01 07:58:27.739000
+INL000061,Charlie Brown,Charlie,,Brown,,,True,in,lower,3,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_charlie_brown_78,2011-04-08 18:48:34.202000,2017-06-01 07:58:27.819000
+INL000062,Timothy Brown,Timothy,,Brown,,,True,in,lower,41,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_timothy_brown_220,2011-04-08 18:48:34.204000,2017-06-01 07:58:27.982000
+INL000063,Woody Burton,Woody,,Burton,,,True,in,lower,58,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_woody_burton_235,2011-04-08 18:48:34.206000,2017-06-01 07:58:28.164000
+INL000066,Bob Cherry,Robert,,Cherry,,,True,in,lower,53,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_robert_cherry_395,2011-04-08 18:48:34.211000,2017-06-01 07:58:27.945000
+INL000067,Edward Clere,Edward,,Clere,,,True,in,lower,72,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_edward_clere_984,2011-04-08 18:48:34.213000,2017-06-01 07:58:28.166000
+INL000070,Wesley Culver,Wes,,Culver,,,True,in,lower,49,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_wes_culver_981,2011-04-08 18:48:34.218000,2017-06-01 07:58:27.830000
+INL000072,Steve Davisson,Steven,,Davisson,,,True,in,lower,73,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_steven_davisson_1034,2011-04-08 18:48:34.222000,2017-06-01 07:58:27.949000
+INL000074,Edward DeLaney,Edward,,DeLaney,,,True,in,lower,86,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_edward_delaney_988,2011-04-08 18:48:34.225000,2017-06-01 07:58:28.175000
+INL000079,Ryan Dvorak,Ryan,,Dvorak,,,True,in,lower,8,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_ryan_dvorak_697,2011-04-08 18:48:34.246000,2017-06-01 07:58:28.146000
+INL000080,Sean Eberhart,Sean,,Eberhart,,,True,in,lower,57,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_sean_eberhart_875,2011-04-08 18:48:34.247000,2017-06-01 07:58:27.224000
+INL000084,William C. Friend,William,,Friend,,,True,in,lower,23,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_william_friend_238,2011-04-08 18:48:34.255000,2017-06-01 07:58:27.239000
+INL000085,David N. Frizzell,David,,Frizzell,,,True,in,lower,93,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_david_frizzell_92,2011-04-08 18:48:34.256000,2017-06-01 07:58:28.053000
+INL000087,Randy Frye,Randall,,Frye,,,True,in,lower,67,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_randall_frye_1039,2011-04-08 18:48:34.260000,2017-06-01 07:58:27.843000
+INL000088,Phil GiaQuinta,Philip,,GiaQuinta,,,True,in,lower,80,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_philip_giaquinta_879,2011-04-08 18:48:34.262000,2017-06-01 07:58:27.679000
+INL000089,Terry Goodin,Terry,,Goodin,,,True,in,lower,66,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_terry_goodin_642,2011-04-08 18:48:34.264000,2017-06-01 07:58:27.967000
+INL000091,Douglas L. Gutwein,Doug,,Gutwein,,,True,in,lower,16,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_doug_gutwein_992,2011-04-08 18:48:34.267000,2017-06-01 07:58:27.457000
+INL000093,Bob Heaton,Robert,,Heaton,,,True,in,lower,46,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_robert_heaton_1030,2011-04-08 18:48:34.271000,2017-06-01 07:58:28.095000
+INL000096,Mike Karickhoff,Michael,,Karickhoff,,,True,in,lower,30,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_michael_karickhoff_1027,2011-04-08 18:48:34.276000,2017-06-01 07:58:27.957000
+INL000097,Clyde Kersey,Clyde,,Kersey,,,True,in,lower,43,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_clyde_kersey_82,2011-04-08 18:48:34.288000,2017-06-01 07:58:28.231000
+INL000098,Cindy Kirchhofer,Cindy,,Kirchhofer,,,True,in,lower,89,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_cindy_kirchhofer_1037,2011-04-08 18:48:34.290000,2017-06-01 07:58:28.086000
+INL000099,Sheila J. Klinker,Sheila,,Klinker,,,True,in,lower,27,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_sheila_klinker_212,2011-04-08 18:48:34.291000,2017-06-01 07:58:28.179000
+INL000103,Linda Lawson,Linda,,Lawson,,,True,in,lower,1,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_linda_lawson_526,2011-04-08 18:48:34.309000,2017-06-01 07:58:28.040000
+INL000104,Don Lehe,Don,,Lehe,,,True,in,lower,25,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_don_lehe_698,2011-04-08 18:48:34.311000,2017-06-01 07:58:27.193000
+INL000105,Matthew Lehman,Matthew,,Lehman,,,True,in,lower,79,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_matthew_lehman_987,2011-04-08 18:48:34.312000,2017-06-01 07:58:28.107000
+INL000106,Dan Leonard,Daniel,,Leonard,,,True,in,lower,50,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_daniel_leonard_711,2011-04-08 18:48:34.314000,2017-06-01 07:58:28.137000
+INL000108,Kevin Mahan,Kevin,,Mahan,,,True,in,lower,31,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_kevin_mahan_1028,2011-04-08 18:48:34.318000,2017-06-01 07:58:28.110000
+INL000111,Wendy McNamara,Wendy,,McNamara,,,True,in,lower,76,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_wendy_mcnamara_1046,2011-04-08 18:48:34.323000,2017-06-01 07:58:28.120000
+INL000113,Robert Morris,Robert,,Morris,,,True,in,lower,84,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_robert_morris_1021,2011-04-08 18:48:34.327000,2017-06-01 07:58:28.036000
+INL000114,Chuck Moseley,Charles,,Moseley,,,True,in,lower,10,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_charles_moseley_973,2011-04-08 18:48:34.328000,2017-06-01 07:58:28.218000
+INL000119,Scott Pelath,Scott,,Pelath,,,True,in,lower,9,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_scott_pelath_527,2011-04-08 18:48:34.337000,2017-06-01 07:58:27.751000
+INL000121,Matt Pierce,Matt,,Pierce,,,True,in,lower,61,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_matthew_pierce_708,2011-04-08 18:48:34.341000,2017-06-01 07:58:27.838000
+INL000123,Gregory W. Porter,Gregory,,Porter,,,True,in,lower,96,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_gregory_porter_115,2011-04-08 18:48:34.344000,2017-06-01 07:58:28.093000
+INL000124,Cherrish Pryor,Cherrish,,Pryor,,,True,in,lower,94,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_cherrish_pryor_990,2011-04-08 18:48:34.346000,2017-06-01 07:58:27.940000
+INL000127,Kathy K. Richardson,Kathy,,Richardson,,,True,in,lower,29,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_kathy_richardson_151,2011-04-08 18:48:34.375000,2017-06-01 07:58:28.239000
+INL000129,Thomas E. Saunders,Thomas,,Saunders,,,True,in,lower,54,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_thomas_saunders_225,2011-04-08 18:48:34.379000,2017-06-01 07:58:27.823000
+INL000130,Milo Smith,Milo,,Smith,,,True,in,lower,59,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_milo_smith_876,2011-04-08 18:48:34.380000,2017-06-01 07:58:28.213000
+INL000131,Vernon G. Smith,Vernon,,Smith,,,True,in,lower,14,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_vernon_smith_230,2011-04-08 18:48:34.402000,2017-06-01 07:58:28.159000
+INL000132,Edmond Soliday,Edmond,,Soliday,,,True,in,lower,4,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_edmond_soliday_864,2011-04-08 18:48:34.404000,2017-06-01 07:58:28.234000
+INL000133,Mike Speedy,Mike,,Speedy,,,True,in,lower,90,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_michael_speedy_1038,2011-04-08 18:48:34.406000,2017-06-01 07:58:28.038000
+INL000134,Steve Stemler,Steven,,Stemler,,,True,in,lower,71,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_steven_stemler_863,2011-04-08 18:48:34.408000,2017-06-01 07:58:27.955000
+INL000135,Greg Steuerwald,Gregory,,Steuerwald,,,True,in,lower,40,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_gregory_steuerwald_927,2011-04-08 18:48:34.410000,2017-06-01 07:58:28.139000
+INL000138,Vanessa Summers,Vanessa,,Summers,,,True,in,lower,99,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_vanessa_summers_231,2011-04-08 18:48:34.415000,2017-06-01 07:58:28.081000
+INL000139,Jeff Thompson,Jeffrey,,Thompson,,,True,in,lower,28,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_jeffrey_thompson_529,2011-04-08 18:48:34.417000,2017-06-01 07:58:28.247000
+INL000140,Jerry R. Torr,Jerry,,Torr,,,True,in,lower,39,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_jerry_torr_117,2011-04-08 18:48:34.419000,2017-06-01 07:58:28.122000
+INL000146,Heath VanNatter,Heath,,VanNatter,,,True,in,lower,38,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_heath_vannatter_956,2011-04-08 18:48:34.429000,2017-06-01 07:58:28.043000
+INL000148,Tim Wesco,Timothy,,Wesco,,,True,in,lower,21,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_timothy_wesco_1025,2011-04-08 18:48:34.433000,2017-06-01 07:58:28.215000
+INL000149,David A. Wolkins,David,,Wolkins,,,True,in,lower,18,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_david_wolkins_104,2011-04-08 18:48:34.435000,2017-06-01 07:58:27.237000
+INL000156,Lloyd Arnold,Lloyd,,Arnold,,,True,in,lower,74,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_lloyd_arnold_1124,2013-01-09 18:24:44.389000,2017-06-01 07:58:28.055000
+INL000159,Martin Carbaugh,Martin,,Carbaugh,,,True,in,lower,81,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_martin_carbaugh_1125,2013-01-09 18:24:44.480000,2017-06-01 07:58:28.103000
+INL000160,Dale DeVon,Dale,,DeVon,,,True,in,lower,5,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_dale_devon_1108,2013-01-09 18:24:44.536000,2017-06-01 07:58:28.177000
+INL000161,Sue Errington,Sue,,Errington,,,True,in,lower,34,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_sue_errington_866,2013-01-09 18:24:44.555000,2017-06-01 07:58:28.154000
+INL000162,Dan Forestal,Dan,,Forestal,,,True,in,lower,100,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_dan_forestal_1129,2013-01-09 18:24:44.561000,2017-06-01 07:58:27.546000
+INL000164,Richard Hamm,Richard,,Hamm,,,True,in,lower,56,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_richard_hamm_1120,2013-01-09 18:24:44.612000,2017-06-01 07:58:28.090000
+INL000166,Todd Huston,Todd,,Huston,,,True,in,lower,37,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_todd_huston_1114,2013-01-09 18:24:44.643000,2017-06-01 07:58:27.987000
+INL000168,Jim Lucas,Jim,,Lucas,,,True,in,lower,69,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_jim_lucas_1123,2013-01-09 18:24:44.714000,2017-06-01 07:58:28.229000
+INL000169,Karlee Macer,Karlee,,Macer,,,True,in,lower,92,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_karlee_macer_1127,2013-01-09 18:24:44.727000,2017-06-01 07:58:27.859000
+INL000170,Peggy Mayfield,Peggy,,Mayfield,,,True,in,lower,60,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_peggy_mayfield_1121,2013-01-09 18:24:44.744000,2017-06-01 07:58:28.112000
+INL000171,Justin Moed,Justin,,Moed,,,True,in,lower,97,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_justin_moed_908,2013-01-09 18:24:44.770000,2017-06-01 07:58:27.669000
+INL000172,Alan Morrison,Alan,,Morrison,,,True,in,lower,42,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_alan_morrison_1115,2013-01-09 18:24:44.786000,2017-06-01 07:58:27.854000
+INL000173,Sharon Negele,Sharon,,Negele,,,True,in,lower,13,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_sharon_negele_1110,2013-01-09 18:24:44.807000,2017-06-01 07:58:27.980000
+INL000175,David Ober,David,,Ober,,,True,in,lower,82,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_david_ober_1126,2013-01-09 18:24:44.827000,2017-06-01 07:58:28.031000
+INL000177,Robin Shackleford,Robin,,Shackleford,,,True,in,lower,98,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_robin_shackleford_1128,2013-01-09 18:24:44.921000,2017-06-01 07:58:27.698000
+INL000178,Harold Slager,Harold,,Slager,,,True,in,lower,15,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_harold_slager_1111,2013-01-09 18:24:44.928000,2017-06-01 07:58:27.965000
+INL000179,Ben Smaltz,Ben,,Smaltz,,,True,in,lower,52,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_ben_smaltz_1118,2013-01-09 18:24:44.934000,2017-06-01 07:58:27.555000
+INL000180,Thomas Washburne,Thomas,,Washburne,,,True,in,lower,64,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_thomas_washburne_1122,2013-01-09 18:24:45.040000,2017-06-01 07:58:28.124000
+INL000181,Dennis Zent,Dennis,,Zent,,,True,in,lower,51,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_dennis_zent_1117,2013-01-09 18:24:45.062000,2017-06-01 07:58:27.461000
+INL000182,Cindy Ziemke,Cindy,,Ziemke,,,True,in,lower,55,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_cindy_ziemke_1119,2013-01-09 18:24:45.069000,2017-06-01 07:58:28.079000
+INL000251,Holli Sullivan,Holli,,Sullivan,,,True,in,lower,78,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_holli_sullivan_834,2014-02-12 10:42:49.397000,2017-06-01 07:58:27.978000
+INL000252,Greg Beumer,Greg,,Beumer,,,True,in,lower,33,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_greg_beumer_1,2014-02-12 10:42:49.536000,2017-06-01 07:58:27.689000
+INL000256,Chris Judy,Chris,,Judy,,,True,in,lower,83,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_christopher_judy_1,2014-09-24 17:25:09,2017-06-01 07:58:28.227000
+INL000259,Melanie Wright,Melanie,,Wright,,,True,in,lower,35,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_melanie_wright_1,2014-12-09 22:55:21.230000,2017-06-01 07:58:28.067000
+INL000261,Curt Nisly,Curt,,Nisly,,,True,in,lower,22,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_curt_nisly_1,2014-12-09 22:55:21.472000,2017-06-01 07:58:28.223000
+INL000265,Julie Olthoff,Julie,,Olthoff,,,True,in,lower,19,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_julie_olthoff_1,2014-12-09 22:55:21.663000,2017-06-01 07:58:28.071000
+INL000266,Mike Aylesworth,Mike,,Aylesworth,,,True,in,lower,11,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_mike_aylesworth_1,2014-12-09 22:55:21.676000,2017-06-01 07:58:27.323000
+INL000269,Mike Braun,Mike,,Braun,,,True,in,lower,63,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_mike_braun_1,2014-12-09 22:55:21.932000,2017-06-01 07:58:27.976000
+INL000273,Doug Miller,Doug,,Miller,,,True,in,lower,48,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_doug_miller_1,2014-12-09 22:55:22.253000,2017-06-01 07:58:27.723000
+INL000275,Donna Schaibley,Donna,,Schaibley,,,True,in,lower,24,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_donna_schaibley_1,2015-01-13 22:40:24.514000,2017-06-01 07:58:28.088000
+INL000276,Anthony Cook,Anthony,,Cook,,,True,in,lower,32,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_anthony_cook_1,2015-01-13 22:40:24.545000,2017-06-01 07:58:28.152000
+INL000280,Randy Lyness,Randy,,Lyness,,,True,in,lower,68,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_randy_lyness_1,2015-10-31 06:04:30.320000,2017-06-01 07:58:28.029000
+INL000281,Jeff Ellington,Jeff,,Ellington,,,True,in,lower,62,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_jeff_ellington_1,2016-01-05 06:01:34.366000,2017-06-01 07:58:27.809000
+INL000282,Mara Candelaria Reardon,Mara Candelaria,,Reardon,,,True,in,lower,12,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_mara_candelaria_reardon_870,2017-01-09 06:35:32.434000,2017-06-01 07:58:27.969000
+INL000283,Ryan Hatfield,Ryan,,Hatfield,,,True,in,lower,77,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_ryan_hatfield_1,2017-01-09 06:35:32.464000,2017-06-01 07:58:28.211000
+INL000284,Karen Engleman,Karen,,Engleman,,,True,in,lower,70,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_karen_engleman_1,2017-01-09 06:35:32.499000,2017-06-01 07:58:28.130000
+INL000286,Carey Hamilton,Carey,,Hamilton,,,True,in,lower,87,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_carey_hamilton_1,2017-01-09 06:35:32.573000,2017-06-01 07:58:27.673000
+INL000288,Chris May,Chris,,May,,,True,in,lower,65,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_chris_may_1,2017-01-09 06:35:32.658000,2017-06-01 07:58:28.126000
+INL000289,Jack Jordan,Jack,,Jordan,,,True,in,lower,17,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_jack_jordan_1,2017-01-09 06:35:32.699000,2017-06-01 07:58:28.168000
+INL000291,Jim Pressel,Jim,,Pressel,,,True,in,lower,20,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_jim_pressel_1,2017-01-09 06:35:32.786000,2017-06-01 07:58:28.225000
+INL000292,Joe Taylor,Joe,,Taylor,,,True,in,lower,7,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_joe_taylor_1,2017-01-09 06:35:32.792000,2017-06-01 07:58:28.076000
+INL000293,Dave Heine,Dave,,Heine,,,True,in,lower,85,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_dave_heine_1,2017-01-09 06:35:32.826000,2017-06-01 07:58:27.953000
+INL000299,John Young,John,,Young,,,True,in,lower,47,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_john_young_1,2017-01-09 06:35:33.046000,2017-06-01 07:58:28.144000
+INL000301,Earl Harris,Earl,,Harris,,,True,in,lower,2,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_earl_harris_1,2017-01-09 06:35:33.101000,2017-06-01 07:58:28.114000
+INL000304,Sally Siegrist,Sally,,Siegrist,,,True,in,lower,26,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_sally_siegrist_1,2017-01-09 06:35:33.247000,2017-06-01 07:58:27.961000
+INL000001,Ronnie J. Alting,Ron,,Alting,,,True,in,upper,22,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_ron_alting_538,2011-04-08 18:48:34.077000,2017-06-01 07:58:27.392000
+INL000004,Vaneta Becker,Vaneta,,Becker,,,True,in,upper,50,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_vaneta_becker_228,2011-04-08 18:48:34.090000,2017-06-01 07:58:27.899000
+INL000005,Phil Boots,Philip,,Boots,,,True,in,upper,23,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_philip_boots_865,2011-04-08 18:48:34.092000,2017-06-01 07:58:28.206000
+INL000007,Jean D. Breaux,Jean,,Breaux,,,True,in,upper,34,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_jean_breaux_889,2011-04-08 18:48:34.096000,2017-06-01 07:58:27.931000
+INL000009,Jim Buck,James,,Buck,,,True,in,upper,21,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_james_buck_124,2011-04-08 18:48:34.099000,2017-06-01 07:58:27.563000
+INL000010,Ed Charbonneau,Ed,,Charbonneau,,,True,in,upper,5,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_ed_charbonneau_919,2011-04-08 18:48:34.101000,2017-06-01 07:58:27.893000
+INL000011,Mike Delph,Michael,,Delph,,,True,in,upper,29,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_michael_delph_844,2011-04-08 18:48:34.103000,2017-06-01 07:58:27.653000
+INL000012,Doug Eckerty,Douglas,,Eckerty,,,True,in,upper,26,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_douglas_eckerty_1022,2011-04-08 18:48:34.105000,2017-06-01 07:58:28.202000
+INL000014,Susan C. Glick,Susan,,Glick,,,True,in,upper,13,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_susan_glick_1048,2011-04-08 18:48:34.108000,2017-06-01 07:58:27.758000
+INL000015,Ron Grooms,Ronald,,Grooms,,,True,in,upper,46,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_ronald_grooms_1024,2011-04-08 18:48:34.110000,2017-06-01 07:58:27.906000
+INL000016,Randy Head,Randall,,Head,,,True,in,upper,18,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_randall_head_975,2011-04-08 18:48:34.112000,2017-06-01 07:58:27.903000
+INL000017,Brandt Hershman,Brandt,,Hershman,,,True,in,upper,7,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_brandt_hershman_643,2011-04-08 18:48:34.113000,2017-06-01 07:58:27.781000
+INL000018,Travis Holdman,Travis,,Holdman,,,True,in,upper,19,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_travis_holdman_955,2011-04-08 18:48:34.115000,2017-06-01 07:58:27.773000
+INL000020,Luke Kenley,Luke,,Kenley,,,True,in,upper,20,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_luke_kenley_158,2011-04-08 18:48:34.119000,2017-06-01 07:58:28.003000
+INL000021,Dennis Kruse,Dennis,,Kruse,,,True,in,upper,14,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_dennis_kruse_780,2011-04-08 18:48:34.121000,2017-06-01 07:58:28.193000
+INL000022,Timothy Lanane,Timothy,,Lanane,,,True,in,upper,25,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_timothy_lanane_223,2011-04-08 18:48:34.122000,2017-06-01 07:58:27.923000
+INL000025,Jean Leising,Jean,,Leising,,,True,in,upper,42,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_jean_leising_136,2011-04-08 18:48:34.128000,2017-06-01 07:58:28.010000
+INL000026,David C. Long,David,,Long,,,True,in,upper,16,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_david_long_99,2011-04-08 18:48:34.130000,2017-06-01 07:58:27.771000
+INL000027,James W. Merritt Jr.,James,,Merritt,,,True,in,upper,31,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_james_merritt_140,2011-04-08 18:48:34.131000,2017-06-01 07:58:27.778000
+INL000029,Ryan Mishler,Ryan,,Mishler,,,True,in,upper,9,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_ryan_mishler_801,2011-04-08 18:48:34.135000,2017-06-01 07:58:27.915000
+INL000030,Frank Mrvan Jr.,Frank,,Mrvan,,,True,in,upper,1,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_frank_mrvan_536,2011-04-08 18:48:34.137000,2017-06-01 07:58:27.994000
+INL000033,Lonnie Randolph,Lonnie,,Randolph,,,True,in,upper,2,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_lonnie_randolph_160,2011-04-08 18:48:34.142000,2017-06-01 07:58:27.928000
+INL000038,Jim Smith,James,,Smith,,,True,in,upper,45,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_james_smith_1023,2011-04-08 18:48:34.151000,2017-06-01 07:58:28.190000
+INL000040,Karen Tallian,Karen,,Tallian,,,True,in,upper,4,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_karen_tallian_845,2011-04-08 18:48:34.155000,2017-06-01 07:58:28.199000
+INL000041,Greg Taylor,Greg,,Taylor,,,True,in,upper,33,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_greg_taylor_976,2011-04-08 18:48:34.156000,2017-06-01 07:58:27.873000
+INL000042,Jim Tomes,James,,Tomes,,,True,in,upper,49,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_james_tomes_1041,2011-04-08 18:48:34.158000,2017-06-01 07:58:27.615000
+INL000043,Greg Walker,Greg,,Walker,,,True,in,upper,41,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_greg_walker_867,2011-04-08 18:48:34.160000,2017-06-01 07:58:28.197000
+INL000050,Joseph C. Zakas,Joseph,,Zakas,,,True,in,upper,11,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_joseph_zakas_148,2011-04-08 18:48:34.172000,2017-06-01 07:58:27.651000
+INL000112,Mark Messmer,Mark,,Messmer,,,True,in,upper,48,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_mark_messmer_983,2011-04-08 18:48:34.325000,2017-06-01 07:58:27.624000
+INL000153,Rodric Bray,Rodric,,Bray,,,True,in,upper,37,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_rodric_bray_1106,2013-01-09 18:24:44.061000,2017-06-01 07:58:27.776000
+INL000154,Michael Crider,Michael,,Crider,,,True,in,upper,28,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_michael_crider_1130,2013-01-09 18:24:44.095000,2017-06-01 07:58:27.908000
+INL000155,Mark Stoops,Mark,,Stoops,,,True,in,upper,40,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_mark_stoops_1107,2013-01-09 18:24:44.297000,2017-06-01 07:58:27.996000
+INL000174,Rick Niemeyer,Rick,,Niemeyer,,,True,in,upper,6,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_rick_niemeyer_1109,2013-01-09 18:24:44.813000,2017-06-01 07:58:27.591000
+INL000258,Liz Brown,Liz,,Brown,,,True,in,upper,15,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_liz_brown_1,2014-12-09 22:55:21.187000,2017-06-01 07:58:27.933000
+INL000260,Jeff Raatz,Jeff,,Raatz,,,True,in,upper,27,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_jeff_raatz_1,2014-12-09 22:55:21.250000,2017-06-01 07:58:27.992000
+INL000262,Erin Houchin,Erin,,Houchin,,,True,in,upper,47,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_erin_houchin_1,2014-12-09 22:55:21.544000,2017-06-01 07:58:27.161000
+INL000264,Chip Perfect,Chip,,Perfect,,,True,in,upper,43,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_chip_perfect_1,2014-12-09 22:55:21.657000,2017-06-01 07:58:28.184000
+INL000271,Eric Bassler,Eric,,Bassler,,,True,in,upper,39,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_eric_bassler_1,2014-12-09 22:55:22.018000,2017-06-01 07:58:28.001000
+INL000272,Jon Ford,Jon,,Ford,,,True,in,upper,38,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_jon_ford_1,2014-12-09 22:55:22.025000,2017-06-01 07:58:27.584000
+INL000285,Aaron Freeman,Aaron,,Freeman,,,True,in,upper,32,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_aaron_freeman_1,2017-01-09 06:35:32.539000,2017-06-01 07:58:27.998000
+INL000287,Blake Doriot,Blake,,Doriot,,,True,in,upper,12,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_blake_doriot_1,2017-01-09 06:35:32.608000,2017-06-01 07:58:28.186000
+INL000290,Eddie Melton,Eddie,,Melton,,,True,in,upper,3,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_eddie_melton_1,2017-01-09 06:35:32.733000,2017-06-01 07:58:28.188000
+INL000294,John Crane,John,,Crane,,,True,in,upper,24,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_john_crane_1,2017-01-09 06:35:32.842000,2017-06-01 07:58:28.204000
+INL000295,Jack Sandlin,Jack,,Sandlin,,,True,in,upper,36,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_jack_sandlin_1,2017-01-09 06:35:32.895000,2017-06-01 07:58:27.593000
+INL000296,John Ruckelshaus,John,,Ruckelshaus,,,True,in,upper,30,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_john_ruckelshaus_1,2017-01-09 06:35:32.958000,2017-06-01 07:58:27.889000
+INL000297,Michael Young,Michael,,Young,,,True,in,upper,35,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_r_michael_young_645,2017-01-09 06:35:32.991000,2017-06-01 07:58:27.644000
+INL000298,David Niezgodski,David,,Niezgodski,,,True,in,upper,10,Democratic,http://iga.in.gov/legislative/2017/portraits/legislator_david_niezgodski_1,2017-01-09 06:35:33.001000,2017-06-01 07:58:28.195000
+INL000300,Mike Bohacek,Mike,,Bohacek,,,True,in,upper,8,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_mike_bohacek_1,2017-01-09 06:35:33.090000,2017-06-01 07:58:27.575000
+INL000302,Andy Zay,Andy,,Zay,,,True,in,upper,17,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_andy_zay_1,2017-01-09 06:35:33.151000,2017-06-01 07:58:28.012000
+INL000303,Eric Koch,Eric,,Koch,,,True,in,upper,44,Republican,http://iga.in.gov/legislative/2017/portraits/legislator_eric_koch_1,2017-01-09 06:35:33.225000,2017-06-01 07:58:27.661000

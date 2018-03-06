@@ -1,0 +1,349 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+LAL000042,"Austin J Badon, Jr.",Austin,J,Badon,Jr.,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09Large/rep100.jpg,2010-07-12 17:05:43.445000,2016-02-19 19:12:29.635000
+LAL000070,"Richard ""Rick"" Gallot, Jr.",Richard “Rick”,,Gallot,Jr.,Rick,False,la,,,,http://senate.la.gov/Gallot/images/gallot2012.jpg,2010-07-12 17:05:43.578000,2016-02-19 19:12:29.701000
+LAL000088,"Girod Jackson, III",Girod,,Jackson,III,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep87.jpg,2010-07-12 17:05:43.651000,2013-09-12 14:28:07.433000
+LAL000122,"Jr., Chris Roy Jr.",Chris,,Roy,Jr.,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep25.jpg,2010-07-12 17:05:43.818000,2011-04-25 21:25:04.264000
+LAL000125,"M.J. Smiley, Jr.",M.J.,,Smiley,Jr.,Mert,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep88.jpg,2010-07-12 17:05:43.840000,2011-04-25 21:25:04.350000
+LAL000136,Wayne Waddell,Wayne,,Waddell,,,False,la,,,,http://votesmart.org/canphoto/1930.jpg,2010-07-12 17:05:43.906000,2011-04-25 21:25:04.228000
+LAL000137,Robert Adley,Robert,,Adley,,,False,la,,,,http://senate.la.gov/Adley/images/adley2005.jpg,2010-08-26 01:34:22.984000,2016-02-19 19:12:29.704000
+LAL000139,"""Jody"" Amedee","""Jody""",,Amedee,,,False,la,,,,http://senate.la.gov/Amedee/images/amedee2004.jpg,2010-08-26 01:34:22.989000,2016-02-19 19:12:29.697000
+LAL000141,Sharon Weston Broome,Sharon Weston,,Broome,,,False,la,,,,http://senate.la.gov/Broome/images/broome2005.jpg,2010-08-26 01:34:22.992000,2016-02-19 19:12:29.695000
+LAL000143,Joel T. Chaisson,Joel,T,Chaisson,,,False,la,,,,http://senate.legis.state.la.us/Chaisson/images/chaisson2004.gif,2010-08-26 01:34:22.995000,2011-04-25 21:25:04.387000
+LAL000144,Sherri Smith Cheek,Sherri Smith,,Cheek,,,False,la,,,,http://senate.legis.state.la.us/Cheek/images/cheek2004.jpg,2010-08-26 01:34:22.997000,2011-04-25 21:25:04.421000
+LAL000146,A. G. Crowe,A. G.,,Crowe,,,False,la,,,,http://senate.la.gov/Crowe/images/crowe2008.jpg,2010-08-26 01:34:23,2016-02-19 19:12:29.689000
+LAL000147,Yvonne Dorsey-Colomb,Yvonne,,Dorsey-Colomb,,,False,la,,,,http://senate.la.gov/Dorsey/images/dorseycopy.jpg,2010-08-26 01:34:23.002000,2016-02-19 19:12:29.693000
+LAL000149,Butch Gautreaux,Butch,,Gautreaux,,,False,la,,,,http://senate.legis.state.la.us/Gautreaux/images/gautreaux2006.jpg,2010-08-26 01:34:23.006000,2011-04-25 21:25:04.390000
+LAL000150,Nick Gautreaux,Nick,,Gautreaux,,,False,la,,,,,2010-08-26 01:34:23.007000,2011-04-25 21:25:04.395000
+LAL000151,Elbert L. Guillory,Elbert L.,,Guillory,,,False,la,,,,http://senate.la.gov/Guillory/images/guillory2009.jpg,2010-08-26 01:34:23.009000,2016-02-19 19:12:29.699000
+LAL000152,Troy Hebert,Troy,,Hebert,,,False,la,,,,,2010-08-26 01:34:23.021000,2011-04-25 21:25:04.391000
+LAL000153,Lydia P. Jackson,Lydia,P,Jackson,,,False,la,,,,http://senate.legis.state.la.us/Jackson/images/jackson2004.jpg,2010-08-26 01:34:23.022000,2011-04-25 21:25:04.423000
+LAL000154,Robert W. Kostelka,Robert W.,,Kostelka,,,False,la,,,,http://senate.la.gov/Kostelka/images/kostelka2004.jpg,2010-08-26 01:34:23.024000,2016-02-19 19:12:29.703000
+LAL000157,Rob Marionneaux,Rob,,Marionneaux,,,False,la,,,,http://senate.legis.state.la.us/Marionneaux/images/marionneaux2008.jpg,2010-08-26 01:34:23.029000,2011-04-25 21:25:04.385000
+LAL000159,Joe McPherson,Joe,,McPherson,,,False,la,,,,http://senate.legis.state.la.us/Mcpherson/images/mcpherson2001.jpg,2010-08-26 01:34:23.043000,2011-04-25 21:25:04.412000
+LAL000160,Mike Michot,Mike,,Michot,,,False,la,,,,http://senate.legis.state.la.us/Michot/images/michot2004.jpg,2010-08-26 01:34:23.045000,2011-04-25 21:25:04.392000
+LAL000163,Willie Mount,Willie,,Mount,,,False,la,,,,http://senate.legis.state.la.us/Mount/images/mount2001.jpg,2010-08-26 01:34:23.050000,2011-04-25 21:25:04.410000
+LAL000164,Edwin R. Murray,Edwin,R,Murray,,,False,la,,,,http://senate.la.gov/Murray/images/murray2005.jpg,2010-08-26 01:34:23.051000,2016-02-19 19:12:29.708000
+LAL000165,Ben W. Nevers,Ben W.,,Nevers,,,False,la,,,,http://senate.la.gov/Nevers/images/nevers2004.jpg,2010-08-26 01:34:23.053000,2016-02-19 19:12:29.692000
+LAL000167,Julie Quinn,Julie,,Quinn,,,False,la,,,,http://senate.legis.state.la.us/Quinn/images/quinn2005.jpg,2010-08-26 01:34:23.057000,2011-04-25 21:25:04.426000
+LAL000168,Buddy Shaw,Buddy,,Shaw,,,False,la,,,,http://senate.legis.state.la.us/Shaw/images/shaw2008.jpg,2010-08-26 01:34:23.058000,2011-04-25 21:25:04.421000
+LAL000175,Jeffery J Arnold,Jeffery,J,Arnold,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep102.jpg,2010-08-26 01:34:23.070000,2016-02-19 19:12:29.637000
+LAL000176,Elton Aubert,Elton,,Aubert,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep58.jpg,2010-08-26 01:34:23.072000,2011-04-25 21:25:04.314000
+LAL000177,Bobby Badon,Bobby,,Badon,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep39.jpg,2010-08-26 01:34:23.074000,2011-04-25 21:25:04.291000
+LAL000179,Damon J. Baldone,Damon,J,Baldone,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep53.jpg,2010-08-26 01:34:23.077000,2011-04-25 21:25:04.308000
+LAL000181,Regina Barrow,Regina,,Barrow,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep29.jpg,2010-08-26 01:34:23.100000,2016-02-19 19:12:29.644000
+LAL000183,Jared Brossett,Jared,,Brossett,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep97.jpg,2010-08-26 01:34:23.104000,2014-10-02 14:13:45.730000
+LAL000184,Richard T. Burford,Richard T.,,Burford,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep7.jpg,2010-08-26 01:34:23.105000,2016-02-19 19:12:29.673000
+LAL000185,Henry L. Burns,Henry L.,,Burns,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep9.jpg,2010-08-26 01:34:23.107000,2016-02-19 19:12:29.681000
+LAL000186,Timothy G. Burns,Timothy G.,,Burns,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep89.jpg,2010-08-26 01:34:23.109000,2016-02-19 19:12:29.679000
+LAL000187,Roy Burrell,Roy,A,Burrell,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep2.jpg,2010-08-26 01:34:23.111000,2016-02-19 19:12:29.642000
+LAL000190,Simone B. Champagne,Simone B.,,Champagne,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep49.jpg,2010-08-26 01:34:23.116000,2015-04-02 14:43:14.238000
+LAL000191,Billy R. Chandler,Billy,R,Chandler,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep22.jpg,2010-08-26 01:34:23.117000,2011-04-25 21:25:04.261000
+LAL000197,Herbert B. Dixon,Herbert,B,Dixon,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep26.jpg,2010-08-26 01:34:23.128000,2015-04-02 14:41:22.778000
+LAL000198,Jean M. Doerge,Jean,M,Doerge,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep10.jpg,2010-08-26 01:34:23.129000,2011-04-25 21:25:04.240000
+LAL000199,"Gordon E Dove, Sr.",Gordon,E,Dove,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep52.jpg,2010-08-26 01:34:23.131000,2016-02-19 19:12:29.661000
+LAL000200,Hollis Downs,Hollis,,Downs,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep12.jpg,2010-08-26 01:34:23.133000,2011-04-25 21:25:04.250000
+LAL000201,John Bel Edwards,John Bel,,Edwards,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep72.jpg,2010-08-26 01:34:23.134000,2016-02-19 19:12:29.674000
+LAL000202,Noble Ellington,Noble,,Ellington,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep20.jpg,2010-08-26 01:34:23.136000,2011-04-25 21:25:04.259000
+LAL000203,"James  ""Jim"" R Fannin","James  ""Jim""",R,Fannin,,Jim,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep13.jpg,2010-08-26 01:34:23.138000,2016-02-19 19:12:29.640000
+LAL000207,Brett F. Geymann,Brett,F,Geymann,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep35.jpg,2010-08-26 01:34:23.145000,2016-02-19 19:12:29.645000
+LAL000209,Hunter Greene,Hunter,,Greene,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep66.jpg,2010-08-26 01:34:23.148000,2015-04-08 18:52:03.412000
+LAL000210,Mickey J. Guillory,Mickey,J,Guillory,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep41.jpg,2010-08-26 01:34:23.150000,2016-02-19 19:12:29.655000
+LAL000212,Rickey Hardy,Rickey,,Hardy,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep44.jpg,2010-08-26 01:34:23.153000,2011-04-25 21:25:04.298000
+LAL000213,Joe Harrison,Joe,,Harrison,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep51.jpg,2010-08-26 01:34:23.155000,2016-02-19 19:12:29.659000
+LAL000215,Reed Henderson,Reed,,Henderson,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep103.jpg,2010-08-26 01:34:23.159000,2011-04-25 21:25:04.244000
+LAL000218,Walker Hines,Walker,,Hines,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep95.jpg,2010-08-26 01:34:23.164000,2011-04-25 21:25:04.370000
+LAL000220,Dalton W. Honoré,Dalton,W.,Honoré,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep63.jpg,2010-08-26 01:34:23.167000,2016-02-19 19:12:29.670000
+LAL000222,Nita Rusich Hutter,Nita Rusich,,Hutter,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep104.jpg,2010-08-26 01:34:23.171000,2011-04-25 21:25:04.245000
+LAL000224,Michael Jackson,Michael,,Jackson,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep61.jpg,2010-08-26 01:34:23.174000,2011-04-25 21:25:04.318000
+LAL000226,Rosalind Jones,Rosalind,,Jones,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep17.jpg,2010-08-26 01:34:23.177000,2011-04-25 21:25:04.256000
+LAL000228,Kay Kellogg Katz,Kay Kellogg,,Katz,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep16.jpg,2010-08-26 01:34:23.181000,2011-04-25 21:25:04.254000
+LAL000229,Chuck Kleckley,Chuck,,Kleckley,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep36.jpg,2010-08-26 01:34:23.182000,2016-02-19 19:12:29.647000
+LAL000230,John LaBruzzo,John,,LaBruzzo,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep81.jpg,2010-08-26 01:34:23.184000,2011-04-25 21:25:04.342000
+LAL000231,Juan LaFonta,Juan,,LaFonta,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep97.jpg,2010-08-26 01:34:23.186000,2011-04-25 21:25:04.372000
+LAL000232,Eddie J. Lambert,Eddie J.,,Lambert,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep59.jpg,2010-08-26 01:34:23.188000,2016-02-19 19:12:29.664000
+LAL000236,"Anthony V. Ligi, Jr.",Anthony V.,,Ligi,Jr.,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep79.jpg,2010-08-26 01:34:23.194000,2013-04-02 14:56:04.942000
+LAL000237,Sam Little,Sam,,Little,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep14.jpg,2010-08-26 01:34:23.196000,2011-04-25 21:25:04.252000
+LAL000238,"Joseph P. Lopinto, III",Joseph P.,,Lopinto,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep80.jpg,2010-08-26 01:34:23.198000,2017-04-10 02:36:12.984000
+LAL000239,Nick Lorusso,Nick,,Lorusso,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep94.jpg,2010-08-26 01:34:23.209000,2016-02-19 19:12:29.683000
+LAL000240,"Thomas H. ""Tom"" McVea",Thomas,,McVea,,Tom,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep62.jpg,2010-08-26 01:34:23.211000,2011-04-25 21:25:04.319000
+LAL000242,Nickie Monica,Nickie,,Monica,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep57.jpg,2010-08-26 01:34:23.215000,2011-04-25 21:25:04.313000
+LAL000243,Jack Montoucet,Jack,,Montoucet,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep42.jpg,2010-08-26 01:34:23.216000,2017-04-10 02:36:23.122000
+LAL000247,Rick Nowlin,Rick,,Nowlin,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep23.jpg,2010-08-26 01:34:23.223000,2011-04-25 21:25:04.262000
+LAL000250,Erich E. Ponti,Erich E.,,Ponti,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep69.jpg,2010-08-26 01:34:23.228000,2015-12-11 21:48:17.378000
+LAL000254,Clifton R. Richardson,Clifton R.,,Richardson,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep65.jpg,2010-08-26 01:34:23.235000,2013-04-02 14:56:25.180000
+LAL000255,Cedric Richmond,Cedric,,Richmond,,,False,la,,,,,2010-08-26 01:34:23.237000,2011-04-25 21:25:04.242000
+LAL000256,Harold L Ritchie,Harold,L,Ritchie,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep75.jpg,2010-08-26 01:34:23.238000,2016-02-19 19:12:29.676000
+LAL000257,Joel C. Robideaux,Joel C.,,Robideaux,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep45.jpg,2010-08-26 01:34:23.240000,2016-02-19 19:12:29.658000
+LAL000263,Jane H. Smith,Jane,H,Smith,,,False,la,,,,https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/t1/c0.20.160.160/p160x160/12133_100131683346255_2422575_n.jpg,2010-08-26 01:34:23.260000,2011-04-25 21:25:04.339000
+LAL000265,Karen Gaudet St. Germain,Karen Gaudet,,St. Germain,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep60.jpg,2010-08-26 01:34:23.264000,2016-02-19 19:12:29.666000
+LAL000266,Charmaine Marchand Stiaes,Charmaine Marchand,,Stiaes,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep99.jpg,2010-08-26 01:34:23.265000,2011-04-25 21:25:04.375000
+LAL000268,Ricky Templet,Ricky,,Templet,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep85.jpg,2010-08-26 01:34:23.269000,2011-04-25 21:25:04.346000
+LAL000270,Ledricka Thierry,Ledricka,,Thierry,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep40.jpg,2010-08-26 01:34:23.272000,2016-02-19 19:12:29.653000
+LAL000271,Jim Tucker,Jim,,Tucker,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep86.jpg,2010-08-26 01:34:23.274000,2011-04-25 21:25:04.347000
+LAL000273,Patrick Williams,Patrick,,Williams,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep4.jpg,2010-08-26 01:34:23.277000,2016-02-19 19:12:29.652000
+LAL000274,Thomas P. Willmott,Thomas P.,,Willmott,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep92.jpg,2010-08-26 01:34:23.279000,2017-04-10 02:36:43.896000
+LAL000275,Ernest D. Wooton,Ernest,D,Wooton,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep105.jpg,2010-08-26 01:34:23.281000,2011-04-25 21:25:04.249000
+LAL000277,"David R. Heitmeier, O.D.",O.D.,,David R. Heitmeier,,,False,la,,,,http://senate.la.gov/HeitmeierD/images/heitmeierd2008.jpg,2010-09-15 04:12:19.029000,2016-02-19 19:12:29.710000
+LAL000279,Cynthia Willard-Lewis,Cynthia,,Willard-Lewis,,,False,la,,,,http://senate.legis.state.la.us/Lewis/images/lewiscopy.jpg,2010-11-10 01:19:18.304000,2011-04-25 21:25:04.388000
+LAL000331,Wesley T. Bishop,Wesley T.,,Bishop,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09Large/rep99.jpg,2011-04-25 21:25:03.612000,2017-06-01 06:10:29.717000
+LAL000428,Roy Chris Jr.,Roy,,Chris,Jr.,,False,la,,,,,2011-04-28 00:51:42.230000,2012-01-10 17:40:46.711000
+LAL000432,Troy E. Brown,Troy E.,,Brown,,,False,la,,,,http://senate.la.gov/Brown/images/brown2012.jpg,2012-01-10 17:40:44.952000,2017-04-10 02:35:53.324000
+LAL000442,Bryan Adams,Bryan,,Adams,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09Large/rep85.jpg,2012-01-10 17:40:45.290000,2017-04-10 02:36:56.848000
+LAL000469,Stephen J. Ortego,Stephen J.,,Ortego,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09Large/rep39.jpg,2012-01-10 17:40:46.041000,2016-02-19 19:12:29.650000
+LAL000478,Jeff R. Thompson,Jeff R.,,Thompson,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09/rep8.jpg,2012-01-10 17:40:46.265000,2015-04-02 14:39:07.516000
+LAL000479,Lenar L. Whitney,Lenar L.,,Whitney,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09Large/rep53.jpg,2012-01-10 17:40:46.276000,2016-02-19 19:12:29.663000
+LAL000480,Alfred C. Williams,Alfred C.,,Williams,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09Large/rep61.jpg,2012-01-10 17:40:46.288000,2016-02-19 19:12:29.668000
+LAL000482,Sherri Smith Buffington,Sherri Smith,,Buffington,,,False,la,,,,http://senate.la.gov/Cheek/images/cheek2004.jpg,2012-03-07 01:26:17.667000,2016-02-19 19:12:29.706000
+LAL000778,Ebony Woodruff,Ebony,,Woodruff,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09Large/rep87.jpg,2013-10-16 04:30:32.134000,2016-02-19 19:12:29.678000
+LAL000790,"Johnson, Mike",Mike,,Johnson,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09Large/rep8.jpg,2015-03-27 15:23:05.650000,2017-04-10 02:37:06.111000
+LAL000800,"Ourso, Darrell P.",Darrell P.,,Ourso,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09Large/rep66.jpg,2015-04-04 01:35:01.600000,2016-02-19 19:12:29.672000
+LAL000810,K. Eric LaFleur,K. Eric,,LaFleur,,,False,la,,,,,2016-01-22 06:06:16.437000,2016-02-19 19:12:29.700000
+LAL000829,"Edwards, Ronnie",Ronnie,,Edwards,,,False,la,,,,http://house.louisiana.gov/H_Reps/RepPics09Large/rep29.jpg,2016-01-22 06:06:17.390000,2017-04-10 02:37:17.267000
+LAL000099,Walt Leger III,Walt,,Leger,III,,True,la,lower,91,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep91.jpg,2010-07-12 17:05:43.698000,2017-06-01 06:10:29.956000
+LAL000172,Neil C. Abramson,Neil C.,,Abramson,,,True,la,lower,98,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep98.jpg,2010-08-26 01:34:23.065000,2017-06-01 06:10:29.887000
+LAL000173,"John F. ""Andy"" Anders","John  ""Andy""",F,Anders,,,True,la,lower,21,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep21.jpg,2010-08-26 01:34:23.067000,2017-06-01 06:10:29.819000
+LAL000174,"James K. Armes, III",James K.,,Armes,,,True,la,lower,30,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep30.jpg,2010-08-26 01:34:23.069000,2017-06-01 06:10:29.801000
+LAL000180,Taylor F. Barras,Taylor F.,,Barras,,,True,la,lower,48,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep48.jpg,2010-08-26 01:34:23.079000,2017-06-01 06:10:29.939000
+LAL000182,Robert E. Billiot,Robert E.,,Billiot,,,True,la,lower,83,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep83.jpg,2010-08-26 01:34:23.102000,2017-06-01 06:10:29.913000
+LAL000188,"Thomas Carmody, Jr.",Thomas,,Carmody,,,True,la,lower,6,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep6.jpg,2010-08-26 01:34:23.112000,2017-06-01 06:10:29.946000
+LAL000189,Stephen F. Carter,Stephen F.,,Carter,,,True,la,lower,68,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep68.jpg,2010-08-26 01:34:23.114000,2017-06-01 06:10:29.932000
+LAL000192,Charles R. Chaney,Charles R.,,Chaney,,,True,la,lower,19,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep19.jpg,2010-08-26 01:34:23.119000,2017-06-01 06:10:29.746000
+LAL000193,Patrick Connick,Patrick,,Connick,,,True,la,lower,84,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep84.jpg,2010-08-26 01:34:23.121000,2017-06-01 06:10:29.892000
+LAL000195,Gregory Cromer,Gregory,,Cromer,,,True,la,lower,90,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep90.jpg,2010-08-26 01:34:23.124000,2017-06-01 06:10:29.782000
+LAL000196,Michael E. Danahay,Michael E.,,Danahay,,,True,la,lower,33,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep33.jpg,2010-08-26 01:34:23.126000,2017-06-01 06:10:29.878000
+LAL000204,Franklin J. Foil,Franklin J.,,Foil,,,True,la,lower,70,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep70.jpg,2010-08-26 01:34:23.140000,2017-06-01 06:10:29.776000
+LAL000205,A B Franklin,A B,,Franklin,,,True,la,lower,34,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep34.jpg,2010-08-26 01:34:23.141000,2017-06-01 06:10:29.718000
+LAL000208,Jerry Gisclair,Jerry,,Gisclair,,,True,la,lower,54,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep54.jpg,2010-08-26 01:34:23.147000,2017-06-01 06:10:29.810000
+LAL000211,John E. Guinn,John E.,,Guinn,,,True,la,lower,37,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep37.jpg,2010-08-26 01:34:23.152000,2017-06-01 06:10:29.817000
+LAL000214,Lowell C. Hazel,"Lowell C. ""Chris""",,Hazel,,,True,la,lower,27,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep27.jpg,2010-08-26 01:34:23.157000,2017-06-01 06:10:29.867000
+LAL000216,Cameron Henry,Cameron,,Henry,,,True,la,lower,82,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep82.jpg,2010-08-26 01:34:23.160000,2017-06-01 06:10:29.739000
+LAL000217,Dorothy Sue Hill,Dorothy Sue,,Hill,,,True,la,lower,32,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep32.jpg,2010-08-26 01:34:23.162000,2017-06-01 06:10:29.758000
+LAL000219,Frank A. Hoffmann,Frank A.,,Hoffmann,,,True,la,lower,15,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep15.jpg,2010-08-26 01:34:23.165000,2017-06-01 06:10:29.771000
+LAL000221,Frank A. Howard,Frank A.,,Howard,,,True,la,lower,24,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep24.jpg,2010-08-26 01:34:23.169000,2017-06-01 06:10:29.773000
+LAL000225,Robert A. Johnson,Robert A.,,Johnson,,,True,la,lower,28,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep28.jpg,2010-08-26 01:34:23.176000,2017-06-01 06:10:29.910000
+LAL000227,Sam Jones,Sam,,Jones,,,True,la,lower,50,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep50.jpg,2010-08-26 01:34:23.179000,2017-06-01 06:10:29.918000
+LAL000233,Nancy Landry,Nancy,,Landry,,,True,la,lower,31,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep31.jpg,2010-08-26 01:34:23.189000,2017-06-01 06:10:29.885000
+LAL000234,H. Bernard LeBas,H. Bernard,,LeBas,,,True,la,lower,38,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep38.jpg,2010-08-26 01:34:23.191000,2017-06-01 06:10:29.785000
+LAL000244,Helena Moreno,Helena,,Moreno,,,True,la,lower,93,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep93.jpg,2010-08-26 01:34:23.218000,2017-06-01 06:10:29.790000
+LAL000245,"John C. Morris, III","John C. ""Jay""",,Morris,,Jay,True,la,lower,14,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep14.jpg,2010-08-26 01:34:23.220000,2017-06-01 06:10:29.816000
+LAL000246,Barbara M. Norton,Barbara M.,,Norton,,,True,la,lower,3,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep3.jpg,2010-08-26 01:34:23.221000,2017-06-01 06:10:29.727000
+LAL000248,J. Kevin Pearson,J. Kevin,,Pearson,,,True,la,lower,76,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep76.jpg,2010-08-26 01:34:23.225000,2017-06-01 06:10:29.794000
+LAL000251,J. Rogers Pope,J. Rogers,,Pope,,,True,la,lower,71,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep71.jpg,2010-08-26 01:34:23.230000,2017-06-01 06:10:29.796000
+LAL000252,Stephen E. Pugh,Stephen E.,,Pugh,,,True,la,lower,73,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep73.jpg,2010-08-26 01:34:23.232000,2017-06-01 06:10:29.929000
+LAL000253,"Jerome ""Dee"" Richard",Jerome,,Richard,,Dee,True,la,lower,55,Independent,http://house.louisiana.gov/h_reps/RepPics09/rep55.jpg,2010-08-26 01:34:23.233000,2017-06-01 06:10:29.807000
+LAL000259,"John M. Schroder, Sr.",John M.,,Schroder,,,True,la,lower,77,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep77.jpg,2010-08-26 01:34:23.244000,2017-06-01 06:10:29.843000
+LAL000260,Scott M. Simon,Scott M.,,Simon,,,True,la,lower,74,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep74.jpg,2010-08-26 01:34:23.245000,2017-06-01 06:10:29.921000
+LAL000264,Patricia Haynes Smith,Patricia Haynes,,Smith,,,True,la,lower,67,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep67.jpg,2010-08-26 01:34:23.262000,2017-06-01 06:10:29.890000
+LAL000267,Kirk Talbot,Kirk,,Talbot,,,True,la,lower,78,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep78.jpg,2010-08-26 01:34:23.267000,2017-06-01 06:10:29.861000
+LAL000269,Major Thibaut,Major,,Thibaut,,,True,la,lower,18,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep18.jpg,2010-08-26 01:34:23.270000,2017-06-01 06:10:29.870000
+LAL000280,Alan Seabaugh,Alan,,Seabaugh,,,True,la,lower,5,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep5.jpg,2010-11-10 01:19:18.413000,2017-06-01 06:10:29.721000
+LAL000372,Mike Huval,Mike,,Huval,,,True,la,lower,46,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep46.jpg,2011-04-25 21:25:03.792000,2017-06-01 06:10:29.882000
+LAL000430,Bob Hensgens,Bob,,Hensgens,,,True,la,lower,47,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep47.jpg,2011-05-11 01:05:23.014000,2017-06-01 06:10:29.734000
+LAL000446,John A. Berthelot,John A.,,Berthelot,,,True,la,lower,88,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep88.jpg,2012-01-10 17:40:45.363000,2017-06-01 06:10:29.813000
+LAL000447,Stuart J. Bishop,Stuart J.,,Bishop,,,True,la,lower,43,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep43.jpg,2012-01-10 17:40:45.384000,2017-06-01 06:10:29.936000
+LAL000449,Christopher Broadwater,Chris,,Broadwater,,,True,la,lower,86,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep86.jpg,2012-01-10 17:40:45.407000,2017-06-01 06:10:29.749000
+LAL000450,Terry R. Brown,Terry R.,,Brown,,,True,la,lower,22,Independent,http://house.louisiana.gov/h_reps/RepPics09/rep22.jpg,2012-01-10 17:40:45.426000,2017-06-01 06:10:29.944000
+LAL000452,Kenny R. Cox,Kenny R.,,Cox,,,True,la,lower,23,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep23.jpg,2012-01-10 17:40:45.533000,2017-06-01 06:10:29.859000
+LAL000453,Randal L. Gaines,Randal L.,,Gaines,,,True,la,lower,57,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep57.jpg,2012-01-10 17:40:45.614000,2017-06-01 06:10:29.902000
+LAL000454,"Raymond E. Garofalo, Jr.",Raymond E.,,Garofalo,,,True,la,lower,103,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep103.jpg,2012-01-10 17:40:45.625000,2017-06-01 06:10:29.904000
+LAL000455,Lance Harris,Lance,,Harris,,,True,la,lower,25,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep25.jpg,2012-01-10 17:40:45.679000,2017-06-01 06:10:29.863000
+LAL000456,Kenneth E. Havard,Kenneth E.,,Havard,,,True,la,lower,62,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep62.jpg,2012-01-10 17:40:45.700000,2017-06-01 06:10:29.857000
+LAL000457,Valarie Hodges,Valarie,,Hodges,,,True,la,lower,64,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep64.jpg,2012-01-10 17:40:45.745000,2017-06-01 06:10:29.951000
+LAL000458,Paul Hollis,Paul,,Hollis,,,True,la,lower,104,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep104.jpg,2012-01-10 17:40:45.766000,2017-06-01 06:10:29.897000
+LAL000460,Marcus L. Hunter,Marcus L.,,Hunter,,,True,la,lower,17,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep17.jpg,2012-01-10 17:40:45.797000,2017-06-01 06:10:29.874000
+LAL000461,Katrina R. Jackson,Katrina R.,,Jackson,,,True,la,lower,16,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep16.jpg,2012-01-10 17:40:45.826000,2017-06-01 06:10:29.855000
+LAL000462,"Edward C. James, II","Edward C. ""Ted""",,James,,,True,la,lower,101,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep101.jpg,2012-01-10 17:40:45.837000,2017-06-01 06:10:29.765000
+LAL000463,Patrick O. Jefferson,Patrick O.,,Jefferson,,,True,la,lower,11,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep11.jpg,2012-01-10 17:40:45.849000,2017-06-01 06:10:29.894000
+LAL000464,"Terry Landry, Sr.",Terry,,Landry,,,True,la,lower,96,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep96.jpg,2012-01-10 17:40:45.903000,2017-06-01 06:10:29.943000
+LAL000465,Christopher J. Leopold,Christopher J.,,Leopold,,,True,la,lower,105,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep105.jpg,2012-01-10 17:40:45.935000,2017-06-01 06:10:29.750000
+LAL000466,Sherman Q. Mack,Sherman Q.,,Mack,,,True,la,lower,95,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep95.jpg,2012-01-10 17:40:45.973000,2017-06-01 06:10:29.923000
+LAL000467,Gregory A. Miller,Gregory A.,,Miller,,,True,la,lower,56,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep56.jpg,2012-01-10 17:40:45.984000,2017-06-01 06:10:29.780000
+LAL000470,Vincent J. Pierre,Vincent J.,,Pierre,,,True,la,lower,44,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep44.jpg,2012-01-10 17:40:46.061000,2017-06-01 06:10:29.953000
+LAL000471,Edward J. Price,Edward J.,,Price,,,True,la,lower,58,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep58.jpg,2012-01-10 17:40:46.090000,2017-06-01 06:10:29.766000
+LAL000472,Steve E. Pylant,Steve E.,,Pylant,,,True,la,lower,20,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep20.jpg,2012-01-10 17:40:46.110000,2017-06-01 06:10:29.934000
+LAL000473,Eugene Reynolds,Eugene,,Reynolds,,,True,la,lower,10,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep10.jpg,2012-01-10 17:40:46.122000,2017-06-01 06:10:29.769000
+LAL000474,Clay Schexnayder,Clay,,Schexnayder,,,True,la,lower,81,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep81.jpg,2012-01-10 17:40:46.167000,2017-06-01 06:10:29.751000
+LAL000475,Robert E. Shadoin,Robert E.,,Shadoin,,,True,la,lower,12,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep12.jpg,2012-01-10 17:40:46.196000,2017-06-01 06:10:29.915000
+LAL000632,James Morris,"James ""Jim""",,Morris,,Jim,True,la,lower,1,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep1.jpg,2012-07-17 04:27:03.498000,2017-06-01 06:10:29.803000
+LAL000692,Barry Ivey,Barry,,Ivey,,,True,la,lower,65,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep65.jpg,2013-04-01 21:20:14.472000,2017-06-01 06:10:29.730000
+LAL000734,Julie Stokes,Julie,,Stokes,,,True,la,lower,79,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep79.jpg,2013-04-01 21:20:14.727000,2017-06-01 06:10:29.853000
+LAL000779,Joseph Bouie,Joseph,,Bouie,,,True,la,lower,97,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep97.jpg,2014-10-02 06:59:25.567000,2017-06-01 06:10:29.850000
+LAL000794,"Miguez, Blake",Blake,,Miguez,,,True,la,lower,49,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep49.jpg,2015-03-27 15:23:05.939000,2017-06-01 06:10:29.881000
+LAL000795,"Hall, Jeffrey ""Jeff""","Jeffrey ""Jeff""",,Hall,,,True,la,lower,26,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep26.jpg,2015-03-27 15:23:05.974000,2017-06-01 06:10:29.788000
+LAL000801,"Davis, Paula",Paula,,Davis,,,True,la,lower,69,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep69.jpg,2015-12-09 08:33:03.634000,2017-06-01 06:10:29.755000
+LAL000802,"Glover, Cedric",Cedric,,Glover,,,True,la,lower,4,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep4.jpg,2016-01-22 06:06:15.831000,2017-06-01 06:10:29.779000
+LAL000806,"Abraham, Mark",Mark,,Abraham,,,True,la,lower,36,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep36.jpg,2016-01-22 06:06:16.136000,2017-06-01 06:10:29.720000
+LAL000808,"Emerson, Julie",Julie,,Emerson,,,True,la,lower,39,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep39.jpg,2016-01-22 06:06:16.347000,2017-06-01 06:10:29.768000
+LAL000809,"Amedée, Beryl",Beryl,,Amedée,,,True,la,lower,51,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep51.jpg,2016-01-22 06:06:16.428000,2017-06-01 06:10:29.723000
+LAL000811,"Carpenter, Barbara",Barbara,,Carpenter,,,True,la,lower,63,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep63.jpg,2016-01-22 06:06:16.451000,2017-06-01 06:10:29.741000
+LAL000812,"Bagneris, John H.",John H.,,Bagneris,,,True,la,lower,100,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep100.jpg,2016-01-22 06:06:16.473000,2017-06-01 06:10:29.726000
+LAL000813,"Hilferty, Stephanie",Stephanie,,Hilferty,,,True,la,lower,94,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep94.jpg,2016-01-22 06:06:16.553000,2017-06-01 06:10:29.792000
+LAL000814,"Zeringue, Jerome",Jerome,,Zeringue,,,True,la,lower,52,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep52.jpg,2016-01-22 06:06:16.636000,2017-06-01 06:10:29.960000
+LAL000816,"Carter, Gary",Gary,,Carter,,,True,la,lower,102,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep102.jpg,2016-01-22 06:06:16.709000,2017-06-01 06:10:29.742000
+LAL000817,"Dwight, Stephen",Stephen,,Dwight,,,True,la,lower,35,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep35.jpg,2016-01-22 06:06:16.730000,2017-06-01 06:10:29.761000
+LAL000818,"Bagley, Larry",Larry,,Bagley,,,True,la,lower,7,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep7.jpg,2016-01-22 06:06:16.742000,2017-06-01 06:10:29.725000
+LAL000819,"Edmonds, Rick",Rick,,Edmonds,,,True,la,lower,66,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep66.jpg,2016-01-22 06:06:16.811000,2017-06-01 06:10:29.763000
+LAL000820,"DeVillier, Phillip",Phillip,,DeVillier,,,True,la,lower,41,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep41.jpg,2016-01-22 06:06:16.832000,2017-06-01 06:10:29.756000
+LAL000821,"Lyons, Rodney",Rodney,,Lyons,,,True,la,lower,87,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep87.jpg,2016-01-22 06:06:16.884000,2017-06-01 06:10:29.868000
+LAL000822,"Falconer, Reid",Reid,,Falconer,,,True,la,lower,89,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep89.jpg,2016-01-22 06:06:17.062000,2017-06-01 06:10:29.770000
+LAL000823,"Carter, Robby",Robby,,Carter,,,True,la,lower,72,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep72.jpg,2016-01-22 06:06:17.086000,2017-06-01 06:10:29.743000
+LAL000825,"Brown, Chad",Chad,,Brown,,,True,la,lower,60,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep60.jpg,2016-01-22 06:06:17.182000,2017-06-01 06:10:29.736000
+LAL000826,"Harris, Jimmy",Jimmy,,Harris,,,True,la,lower,99,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep99.jpg,2016-01-22 06:06:17.248000,2017-06-01 06:10:29.789000
+LAL000828,"Bacala, Tony",Tony,,Bacala,,,True,la,lower,59,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep59.jpg,2016-01-22 06:06:17.274000,2017-06-01 06:10:29.724000
+LAL000833,"Coussan, Jean-Paul",Jean-Paul,,Coussan,,,True,la,lower,45,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep45.jpg,2016-01-22 06:06:17.650000,2017-06-01 06:10:29.753000
+LAL000835,"Jenkins, Sam",Sam,,Jenkins,,,True,la,lower,2,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep2.jpg,2016-01-22 06:06:17.690000,2017-06-01 06:10:29.806000
+LAL000836,"Magee, Tanner",Tanner,,Magee,,,True,la,lower,53,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep53.jpg,2016-01-22 06:06:17.698000,2017-06-01 06:10:29.869000
+LAL000838,"White, Malinda",Malinda,,White,,,True,la,lower,75,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep75.jpg,2016-01-22 06:06:17.794000,2017-06-01 06:10:29.958000
+LAL000839,"Miller, Dustin",Dustin,,Miller,,,True,la,lower,40,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep40.jpg,2016-01-22 06:06:17.842000,2017-06-01 06:10:29.884000
+LAL000840,"Horton, Dodie",Dodie,,Horton,,,True,la,lower,9,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep9.jpg,2016-01-22 06:06:17.988000,2017-06-01 06:10:29.793000
+LAL000841,"Marcelle, Denise",Denise,,Marcelle,,,True,la,lower,61,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep61.jpg,2016-01-22 06:06:18.024000,2017-06-01 06:10:29.873000
+LAL000842,"McFarland, Jack",Jack,,McFarland,,,True,la,lower,13,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep13.jpg,2016-01-22 06:06:18.166000,2017-06-01 06:10:29.877000
+LAL000844,"Jordan, Edmond",Edmond,,Jordan,,,True,la,lower,29,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep29.jpg,2017-02-27 06:09:35.813000,2017-06-01 06:10:29.846000
+LAL000845,"Thomas, Polly",Polly,,Thomas,,,True,la,lower,80,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep80.jpg,2017-02-27 06:09:35.887000,2017-06-01 06:10:29.949000
+LAL000846,"Marino, Joseph",Joseph,,Marino,,,True,la,lower,85,Independent,http://house.louisiana.gov/h_reps/RepPics09/rep85.jpg,2017-02-27 06:09:36.030000,2017-06-01 06:10:29.876000
+LAL000847,"Stagni, Joseph A.",Joseph A.,,Stagni,,,True,la,lower,92,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep92.jpg,2017-04-07 06:13:14.574000,2017-06-01 06:10:29.925000
+LAL000848,"Stefanski, John M.",John M.,,Stefanski,,,True,la,lower,42,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep42.jpg,2017-04-11 06:13:13.121000,2017-06-01 06:10:29.926000
+LAL000849,"Crews, Raymond J.",Raymond J.,,Crews,,,True,la,lower,8,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep8.jpg,2017-05-10 07:19:58.393000,2017-06-01 06:10:29.754000
+LAL000850,Katrina R. Jackson,Katrina R.,,Jackson,,,True,la,lower,16,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep16.jpg,2017-05-24 06:08:52.548000,2017-06-01 06:10:29.856000
+LAL000851,Michael E. Danahay,Michael E.,,Danahay,,,True,la,lower,33,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep33.jpg,2017-05-24 06:08:52.577000,2017-06-01 06:10:29.880000
+LAL000852,"Lowell C. ""Chris"" Hazel","Lowell C. ""Chris""",,Hazel,,,True,la,lower,27,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep27.jpg,2017-05-24 06:08:52.584000,2017-06-01 06:10:29.866000
+LAL000853,Barry Ivey,Barry,,Ivey,,,True,la,lower,65,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep65.jpg,2017-05-24 06:08:52.595000,2017-06-01 06:10:29.731000
+LAL000854,John M. Stefanski,John M.,,Stefanski,,,True,la,lower,42,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep42.jpg,2017-05-24 06:08:52.600000,2017-06-01 06:10:29.845000
+LAL000855,Sherman Q. Mack,Sherman Q.,,Mack,,,True,la,lower,95,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep95.jpg,2017-05-24 06:08:52.608000,2017-06-01 06:10:29.924000
+LAL000856,Jerome Richard,Jerome,,Richard,,,True,la,lower,55,Independent,http://house.louisiana.gov/h_reps/RepPics09/rep55.jpg,2017-05-24 06:08:52.615000,2017-06-01 06:10:29.809000
+LAL000857,Vincent J. Pierre,Vincent J.,,Pierre,,,True,la,lower,44,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep44.jpg,2017-05-24 06:08:52.620000,2017-06-01 06:10:29.954000
+LAL000858,Rick Edmonds,Rick,,Edmonds,,,True,la,lower,66,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep66.jpg,2017-05-24 06:08:52.628000,2017-06-01 06:10:29.908000
+LAL000859,"Thomas G. Carmody, Jr.",Thomas G.,,Carmody,Jr.,,True,la,lower,6,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep6.jpg,2017-05-24 06:08:52.633000,2017-06-01 06:10:29.948000
+LAL000860,Beryl A. Amedée,Beryl A.,,Amedée,,,True,la,lower,51,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep51.jpg,2017-05-24 06:08:52.638000,2017-06-01 06:10:29.732000
+LAL000861,Patrick Connick,Patrick,,Connick,,,True,la,lower,84,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep84.jpg,2017-05-24 06:08:52.644000,2017-06-01 06:10:29.893000
+LAL000862,Marcus L. Hunter,Marcus L.,,Hunter,,,True,la,lower,17,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep17.jpg,2017-05-24 06:08:52.650000,2017-06-01 06:10:29.875000
+LAL000863,Jimmy Harris,Jimmy,,Harris,,,True,la,lower,99,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep99.jpg,2017-05-24 06:08:52.655000,2017-06-01 06:10:29.812000
+LAL000864,"John M. Schroder, Sr.",John M.,,Schroder,Sr.,,True,la,lower,77,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep77.jpg,2017-05-24 06:08:52.660000,2017-06-01 06:10:29.844000
+LAL000865,Blake Miguez,Blake,,Miguez,,,True,la,lower,49,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep49.jpg,2017-05-24 06:08:52.665000,2017-06-01 06:10:29.733000
+LAL000866,Franklin J. Foil,Franklin J.,,Foil,,,True,la,lower,70,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep70.jpg,2017-05-24 06:08:52.670000,2017-06-01 06:10:29.777000
+LAL000867,"James K. Armes, III",James K.,,Armes,III,,True,la,lower,30,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep30.jpg,2017-05-24 06:08:52.678000,2017-06-01 06:10:29.802000
+LAL000868,Major Thibaut,Major,,Thibaut,,,True,la,lower,18,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep18.jpg,2017-05-24 06:08:52.682000,2017-06-01 06:10:29.871000
+LAL000869,Edmond Jordan,Edmond,,Jordan,,,True,la,lower,29,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep29.jpg,2017-05-24 06:08:52.687000,2017-06-01 06:10:29.762000
+LAL000870,Paul Hollis,Paul,,Hollis,,,True,la,lower,104,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep104.jpg,2017-05-24 06:08:52.692000,2017-06-01 06:10:29.898000
+LAL000871,Bob Hensgens,Bob,,Hensgens,,,True,la,lower,47,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep47.jpg,2017-05-24 06:08:52.697000,2017-06-01 06:10:29.735000
+LAL000872,"Jeffrey ""Jeff"" Hall","Jeffrey ""Jeff""",,Hall,,,True,la,lower,26,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep26.jpg,2017-05-24 06:08:52.705000,2017-06-01 06:10:29.805000
+LAL000873,"John C. ""Jay"" Morris, III","John C. ""Jay""",,Morris,III,,True,la,lower,14,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep14.jpg,2017-05-24 06:08:52.715000,2017-06-01 06:10:29.815000
+LAL000874,Reid Falconer,Reid,,Falconer,,,True,la,lower,89,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep89.jpg,2017-05-24 06:08:52.719000,2017-06-01 06:10:29.907000
+LAL000875,Patricia Haynes Smith,Patricia Haynes,,Smith,,,True,la,lower,67,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep67.jpg,2017-05-24 06:08:52.725000,2017-06-01 06:10:29.891000
+LAL000876,John A. Berthelot,John A.,,Berthelot,,,True,la,lower,88,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep88.jpg,2017-05-24 06:08:52.729000,2017-06-01 06:10:29.814000
+LAL000877,Christopher J. Leopold,Christopher J.,,Leopold,,,True,la,lower,105,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep105.jpg,2017-05-24 06:08:52.737000,2017-06-01 06:10:29.751000
+LAL000878,Randal L. Gaines,Randal L.,,Gaines,,,True,la,lower,57,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep57.jpg,2017-05-24 06:08:52.744000,2017-06-01 06:10:29.903000
+LAL000879,Barbara W. Carpenter,Barbara W.,,Carpenter,,,True,la,lower,63,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep63.jpg,2017-05-24 06:08:52.751000,2017-06-01 06:10:29.729000
+LAL000880,Jack G. McFarland,Jack G.,,McFarland,,,True,la,lower,13,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep13.jpg,2017-05-24 06:08:52.756000,2017-06-01 06:10:29.799000
+LAL000881,Malinda B. White,Malinda B.,,White,,,True,la,lower,75,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep75.jpg,2017-05-24 06:08:52.763000,2017-06-01 06:10:29.872000
+LAL000882,Stuart J. Bishop,Stuart J.,,Bishop,,,True,la,lower,43,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep43.jpg,2017-05-24 06:08:52.769000,2017-06-01 06:10:29.937000
+LAL000883,Stephanie Hilferty,Stephanie,,Hilferty,,,True,la,lower,94,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep94.jpg,2017-05-24 06:08:52.775000,2017-06-01 06:10:29.927000
+LAL000884,Nancy Landry,Nancy,,Landry,,,True,la,lower,31,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep31.jpg,2017-05-24 06:08:52.780000,2017-06-01 06:10:29.886000
+LAL000885,Joseph A. Stagni,Joseph A.,,Stagni,,,True,la,lower,92,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep92.jpg,2017-05-24 06:08:52.786000,2017-06-01 06:10:29.848000
+LAL000886,Scott M. Simon,Scott M.,,Simon,,,True,la,lower,74,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep74.jpg,2017-05-24 06:08:52.791000,2017-06-01 06:10:29.922000
+LAL000887,Helena N. Moreno,Helena N.,,Moreno,,,True,la,lower,93,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep93.jpg,2017-05-24 06:08:52.797000,2017-06-01 06:10:29.791000
+LAL000888,Chad Brown,Chad,,Brown,,,True,la,lower,60,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep60.jpg,2017-05-24 06:08:52.802000,2017-06-01 06:10:29.745000
+LAL000889,Paula P. Davis,Paula P.,,Davis,,,True,la,lower,69,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep69.jpg,2017-05-24 06:08:52.810000,2017-06-01 06:10:29.899000
+LAL000890,John H. Bagneris,John H.,,Bagneris,,,True,la,lower,100,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep100.jpg,2017-05-24 06:08:52.815000,2017-06-01 06:10:29.842000
+LAL000891,Valarie Hodges,Valarie,,Hodges,,,True,la,lower,64,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep64.jpg,2017-05-24 06:08:52.820000,2017-06-01 06:10:29.952000
+LAL000892,Frank A. Hoffmann,Frank A.,,Hoffmann,,,True,la,lower,15,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep15.jpg,2017-05-24 06:08:52.826000,2017-06-01 06:10:29.772000
+LAL000893,"Sam L. Jenkins, Jr.",Sam L.,,Jenkins,Jr.,,True,la,lower,2,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep2.jpg,2017-05-24 06:08:52.831000,2017-06-01 06:10:29.920000
+LAL000894,"Gary M. Carter, Jr.",Gary M.,,Carter,Jr.,,True,la,lower,102,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep102.jpg,2017-05-24 06:08:52.845000,2017-06-01 06:10:29.778000
+LAL000895,C. Denise Marcelle,C. Denise,,Marcelle,,,True,la,lower,61,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep61.jpg,2017-05-24 06:08:52.852000,2017-06-01 06:10:29.737000
+LAL000896,Steve E. Pylant,Steve E.,,Pylant,,,True,la,lower,20,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep20.jpg,2017-05-24 06:08:52.860000,2017-06-01 06:10:29.935000
+LAL000897,Barbara M. Norton,Barbara M.,,Norton,,,True,la,lower,3,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep3.jpg,2017-05-24 06:08:52.869000,2017-06-01 06:10:29.728000
+LAL000898,Kenny R. Cox,Kenny R.,,Cox,,,True,la,lower,23,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep23.jpg,2017-05-24 06:08:52.874000,2017-06-01 06:10:29.860000
+LAL000899,Kirk Talbot,Kirk,,Talbot,,,True,la,lower,78,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep78.jpg,2017-05-24 06:08:52.879000,2017-06-01 06:10:29.862000
+LAL000900,Mike Huval,Mike,,Huval,,,True,la,lower,46,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep46.jpg,2017-05-24 06:08:52.884000,2017-06-01 06:10:29.883000
+LAL000901,Neil C. Abramson,Neil C.,,Abramson,,,True,la,lower,98,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep98.jpg,2017-05-24 06:08:52.891000,2017-06-01 06:10:29.888000
+LAL000902,"Walt Leger, III",Walt,,Leger,III,,True,la,lower,91,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep91.jpg,2017-05-24 06:08:52.897000,2017-06-01 06:10:29.957000
+LAL000903,H. Eugene Reynolds,H. Eugene,,Reynolds,,,True,la,lower,10,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep10.jpg,2017-05-24 06:08:52.902000,2017-06-01 06:10:29.787000
+LAL000904,J. Rogers Pope,J. Rogers,,Pope,,,True,la,lower,71,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep71.jpg,2017-05-24 06:08:52.909000,2017-06-01 06:10:29.798000
+LAL000905,"John F. ""Andy"" Anders","John F. ""Andy""",,Anders,,,True,la,lower,21,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep21.jpg,2017-05-24 06:08:52.914000,2017-06-01 06:10:29.820000
+LAL000906,Clay Schexnayder,Clay,,Schexnayder,,,True,la,lower,81,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep81.jpg,2017-05-24 06:08:52.919000,2017-06-01 06:10:29.752000
+LAL000907,Phillip R. DeVillier,Phillip R.,,DeVillier,,,True,la,lower,41,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep41.jpg,2017-05-24 06:08:52.924000,2017-06-01 06:10:29.900000
+LAL000908,Robert A. Johnson,Robert A.,,Johnson,,,True,la,lower,28,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep28.jpg,2017-05-24 06:08:52.929000,2017-06-01 06:10:29.912000
+LAL000909,Frank A. Howard,Frank A.,,Howard,,,True,la,lower,24,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep24.jpg,2017-05-24 06:08:52.934000,2017-06-01 06:10:29.775000
+LAL000910,Dustin Miller,Dustin,,Miller,,,True,la,lower,40,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep40.jpg,2017-05-24 06:08:52.939000,2017-06-01 06:10:29.760000
+LAL000911,Gregory Cromer,Gregory,,Cromer,,,True,la,lower,90,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep90.jpg,2017-05-24 06:08:52.944000,2017-06-01 06:10:29.784000
+LAL000912,Sam Jones,Sam,,Jones,,,True,la,lower,50,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep50.jpg,2017-05-24 06:08:52.949000,2017-06-01 06:10:29.919000
+LAL000913,Stephen C. Dwight,Stephen C.,,Dwight,,,True,la,lower,35,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep35.jpg,2017-05-24 06:08:52.955000,2017-06-01 06:10:29.928000
+LAL000914,Jean-Paul P. Coussan,Jean-Paul P.,,Coussan,,,True,la,lower,45,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep45.jpg,2017-05-24 06:08:52.960000,2017-06-01 06:10:29.804000
+LAL000915,Tony Bacala,Tony,,Bacala,,,True,la,lower,59,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep59.jpg,2017-05-24 06:08:52.965000,2017-06-01 06:10:29.950000
+LAL000916,Chris Broadwater,Chris,,Broadwater,,,True,la,lower,86,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep86.jpg,2017-05-24 06:08:52.970000,2017-06-01 06:10:29.748000
+LAL000917,Cameron Henry,Cameron,,Henry,,,True,la,lower,82,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep82.jpg,2017-05-24 06:08:52.976000,2017-06-01 06:10:29.740000
+LAL000918,"Raymond E. Garofalo, Jr.",Raymond E.,,Garofalo,Jr.,,True,la,lower,103,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep103.jpg,2017-05-24 06:08:52.982000,2017-06-01 06:10:29.905000
+LAL000919,Julie Stokes,Julie,,Stokes,,,True,la,lower,79,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep79.jpg,2017-05-24 06:08:52.988000,2017-06-01 06:10:29.854000
+LAL000920,Alan Seabaugh,Alan,,Seabaugh,,,True,la,lower,5,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep5.jpg,2017-05-24 06:08:52.993000,2017-06-01 06:10:29.722000
+LAL000921,Dorothy Sue Hill,Dorothy Sue,,Hill,,,True,la,lower,32,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep32.jpg,2017-05-24 06:08:52.998000,2017-06-01 06:10:29.759000
+LAL000922,Taylor F. Barras,Taylor F.,,Barras,,,True,la,lower,48,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep48.jpg,2017-05-24 06:08:53.003000,2017-06-01 06:10:29.941000
+LAL000923,Mark Abraham,Mark,,Abraham,,,True,la,lower,36,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep36.jpg,2017-05-24 06:08:53.011000,2017-06-01 06:10:29.877000
+LAL000924,J. Kevin Pearson,J. Kevin,,Pearson,,,True,la,lower,76,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep76.jpg,2017-05-24 06:08:53.016000,2017-06-01 06:10:29.795000
+LAL000925,Cedric B. Glover,Cedric B.,,Glover,,,True,la,lower,4,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep4.jpg,2017-05-24 06:08:53.024000,2017-06-01 06:10:29.744000
+LAL000926,Stephen F. Carter,Stephen F.,,Carter,,,True,la,lower,68,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep68.jpg,2017-05-24 06:08:53.030000,2017-06-01 06:10:29.933000
+LAL000927,Robert E. Shadoin,Robert E.,,Shadoin,,,True,la,lower,12,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep12.jpg,2017-05-24 06:08:53.035000,2017-06-01 06:10:29.916000
+LAL000928,Stephen E. Pugh,Stephen E.,,Pugh,,,True,la,lower,73,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep73.jpg,2017-05-24 06:08:53.042000,2017-06-01 06:10:29.930000
+LAL000929,Robert E. Billiot,Robert E.,,Billiot,,,True,la,lower,83,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep83.jpg,2017-05-24 06:08:53.048000,2017-06-01 06:10:29.914000
+LAL000930,Terry R. Brown,Terry R.,,Brown,,,True,la,lower,22,Independent,http://house.louisiana.gov/h_reps/RepPics09/rep22.jpg,2017-05-24 06:08:53.054000,2017-06-01 06:10:29.945000
+LAL000931,"Joseph Bouie, Jr.",Joseph,,Bouie,Jr.,,True,la,lower,97,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep97.jpg,2017-05-24 06:08:53.061000,2017-06-01 06:10:29.851000
+LAL000932,Charles R. Chaney,Charles R.,,Chaney,,,True,la,lower,19,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep19.jpg,2017-05-24 06:08:53.067000,2017-06-01 06:10:29.747000
+LAL000933,Kenneth E. Havard,Kenneth E.,,Havard,,,True,la,lower,62,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep62.jpg,2017-05-24 06:08:53.072000,2017-06-01 06:10:29.858000
+LAL000934,"Jerome ""Zee"" Zeringue","Jerome ""Zee""",,Zeringue,,,True,la,lower,52,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep52.jpg,2017-05-24 06:08:53.077000,2017-06-01 06:10:29.808000
+LAL000935,"Joseph A. Marino, III",Joseph A.,,Marino,III,,True,la,lower,85,Independent,http://house.louisiana.gov/h_reps/RepPics09/rep85.jpg,2017-05-24 06:08:53.085000,2017-06-01 06:10:29.847000
+LAL000936,Rodney Lyons,Rodney,,Lyons,,,True,la,lower,87,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep87.jpg,2017-05-24 06:08:53.090000,2017-06-01 06:10:29.917000
+LAL000937,Tanner D. Magee,Tanner D.,,Magee,,,True,la,lower,53,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep53.jpg,2017-05-24 06:08:53.096000,2017-06-01 06:10:29.938000
+LAL000938,Raymond J. Crews,Raymond J.,,Crews,,,True,la,lower,8,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep8.jpg,2017-05-24 06:08:53.109000,2017-06-01 06:10:29.906000
+LAL000939,Jerry Gisclair,Jerry,,Gisclair,,,True,la,lower,54,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep54.jpg,2017-05-24 06:08:53.114000,2017-06-01 06:10:29.811000
+LAL000940,John E. Guinn,John E.,,Guinn,,,True,la,lower,37,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep37.jpg,2017-05-24 06:08:53.119000,2017-06-01 06:10:29.818000
+LAL000941,Lance Harris,Lance,,Harris,,,True,la,lower,25,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep25.jpg,2017-05-24 06:08:53.131000,2017-06-01 06:10:29.864000
+LAL000942,Robby Carter,Robby,,Carter,,,True,la,lower,72,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep72.jpg,2017-05-24 06:08:53.136000,2017-06-01 06:10:29.909000
+LAL000943,Edward J. Price,Edward J.,,Price,,,True,la,lower,58,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep58.jpg,2017-05-24 06:08:53.141000,2017-06-01 06:10:29.767000
+LAL000944,"Terry C. Landry, Sr.",Terry C.,,Landry,Sr.,,True,la,lower,96,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep96.jpg,2017-05-24 06:08:53.149000,2017-06-01 06:10:29.942000
+LAL000945,H. Bernard LeBas,H. Bernard,,LeBas,,,True,la,lower,38,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep38.jpg,2017-05-24 06:08:53.155000,2017-06-01 06:10:29.786000
+LAL000946,Patrick O. Jefferson,Patrick O.,,Jefferson,,,True,la,lower,11,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep11.jpg,2017-05-24 06:08:53.161000,2017-06-01 06:10:29.896000
+LAL000947,A B Franklin,A B,,Franklin,,,True,la,lower,34,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep34.jpg,2017-05-24 06:08:53.166000,2017-06-01 06:10:29.719000
+LAL000948,Julie Emerson,Julie,,Emerson,,,True,la,lower,39,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep39.jpg,2017-05-24 06:08:53.174000,2017-06-01 06:10:29.852000
+LAL000949,"Edward C. ""Ted"" James, II","Edward C. ""Ted""",,James,II,,True,la,lower,101,Democratic,http://house.louisiana.gov/h_reps/RepPics09/rep101.jpg,2017-05-24 06:08:53.179000,2017-06-01 06:10:29.764000
+LAL000950,Polly Thomas,Polly,,Thomas,,,True,la,lower,80,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep80.jpg,2017-05-24 06:08:53.184000,2017-06-01 06:10:29.901000
+LAL000951,"Lawrence A. ""Larry"" Bagley","Lawrence A. ""Larry""",,Bagley,,,True,la,lower,7,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep7.jpg,2017-05-24 06:08:53.189000,2017-06-01 06:10:29.865000
+LAL000952,Gregory A. Miller,Gregory A.,,Miller,,,True,la,lower,56,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep56.jpg,2017-05-24 06:08:53.197000,2017-06-01 06:10:29.781000
+LAL000953,"James H. ""Jim"" Morris","James H. ""Jim""",,Morris,,,True,la,lower,1,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep1.jpg,2017-05-24 06:08:53.205000,2017-06-01 06:10:29.800000
+LAL000954,Dodie Horton,Dodie,,Horton,,,True,la,lower,9,Republican,http://house.louisiana.gov/h_reps/RepPics09/rep9.jpg,2017-05-24 06:08:53.211000,2017-06-01 06:10:29.757000
+LAL000105,"Fred H. Mills, Jr.",Fred,H,Mills,Jr.,,True,la,upper,22,Republican,,2010-07-12 17:05:43.736000,2017-06-01 06:10:29.973000
+LAL000140,Conrad Appel,Conrad,,Appel,,,True,la,upper,9,Republican,,2010-08-26 01:34:22.990000,2017-06-01 06:10:29.963000
+LAL000142,"Norbèrt N. ""Norby"" Chabert","Norbèrt N. ""Norby""",,Chabert,,,True,la,upper,20,Republican,,2010-08-26 01:34:22.994000,2017-06-01 06:10:29.993000
+LAL000145,Dan Claitor,Dan,,Claitor,,,True,la,upper,16,Republican,,2010-08-26 01:34:22.999000,2017-06-01 06:10:29.966000
+LAL000148,Dale M. Erdey,Dale M.,,Erdey,,,True,la,upper,13,Republican,,2010-08-26 01:34:23.004000,2017-06-01 06:10:29.965000
+LAL000155,Eric LaFleur,Eric,,LaFleur,,,True,la,upper,28,Democratic,,2010-08-26 01:34:23.026000,2017-06-01 06:10:29.971000
+LAL000156,Gerald Long,Gerald,,Long,,,True,la,upper,31,Republican,,2010-08-26 01:34:23.027000,2017-06-01 06:10:29.977000
+LAL000158,Daniel R. Martiny,Daniel R.,,Martiny,,,True,la,upper,10,Republican,,2010-08-26 01:34:23.041000,2017-06-01 06:10:29.968000
+LAL000161,"Jean-Paul ""JP"" Morrell","Jean-Paul ""JP""",,Morrell,,,True,la,upper,3,Democratic,,2010-08-26 01:34:23.047000,2017-06-01 06:10:29.982000
+LAL000162,"Dan W. ""Blade"" Morrish","Dan W. ""Blade""",,Morrish,,,True,la,upper,25,Republican,,2010-08-26 01:34:23.048000,2017-06-01 06:10:29.967000
+LAL000166,Karen Carter Peterson,Karen Carter,,Peterson,,,True,la,upper,5,Democratic,,2010-08-26 01:34:23.055000,2017-06-01 06:10:29.988000
+LAL000169,John R. Smith,John,R.,Smith,,,True,la,upper,30,Republican,,2010-08-26 01:34:23.060000,2017-06-01 06:10:29.985000
+LAL000170,Francis C. Thompson,Francis C.,,Thompson,,,True,la,upper,34,Democratic,,2010-08-26 01:34:23.062000,2017-06-01 06:10:29.972000
+LAL000171,Michael A. Walsworth,Michael A.,,Walsworth,,,True,la,upper,33,Republican,,2010-08-26 01:34:23.063000,2017-06-01 06:10:29.990000
+LAL000194,Patrick Page Cortez,Patrick Page,,Cortez,,,True,la,upper,23,Republican,,2010-08-26 01:34:23.123000,2017-06-01 06:10:29.995000
+LAL000249,Jonathan W. Perry,Jonathan W.,,Perry,,,True,la,upper,26,Republican,,2010-08-26 01:34:23.227000,2017-06-01 06:10:29.986000
+LAL000262,Gary L Smith,Gary,L,Smith,Jr.,,True,la,upper,19,Democratic,,2010-08-26 01:34:23.249000,2017-06-01 06:10:29.974000
+LAL000272,"Mack A. ""Bodi"" White, Jr.",Mack,,White,Jr.,Bodi,True,la,upper,6,Republican,,2010-08-26 01:34:23.275000,2017-06-01 06:10:29.989000
+LAL000276,Jack Donahue,Jack,,Donahue,,,True,la,upper,11,Republican,,2010-09-15 04:12:19.020000,2017-06-01 06:10:29.980000
+LAL000278,Neil Riser,Neil,,Riser,,,True,la,upper,32,Republican,,2010-09-15 04:12:19.048000,2017-06-01 06:10:29.992000
+LAL000282,"John A. Alario, Jr.",John A.,,Alario,Jr.,,True,la,upper,8,Republican,,2011-04-25 21:25:03.370000,2017-06-01 06:10:29.983000
+LAL000431,"R. L. Bret Allain, II",R. L. Bret,,Allain,II,,True,la,upper,21,Republican,,2012-01-10 17:40:44.913000,2017-06-01 06:10:29.996000
+LAL000436,Ronnie Johns,Ronnie,,Johns,,,True,la,upper,27,Republican,,2012-01-10 17:40:45.066000,2017-06-01 06:10:30
+LAL000437,Barrow Peacock,Barrow,,Peacock,,,True,la,upper,37,Republican,,2012-01-10 17:40:45.165000,2017-06-01 06:10:29.961000
+LAL000439,"Gregory W. Tarver, Sr.",Gregory W.,,Tarver,Sr.,,True,la,upper,39,Democratic,,2012-01-10 17:40:45.226000,2017-06-01 06:10:29.978000
+LAL000440,"Rick Ward, III",Rick,,Ward,III,,True,la,upper,17,Republican,,2012-01-10 17:40:45.257000,2017-06-01 06:10:29.999000
+LAL000803,"James R. ""Jim"" Fannin","James R. ""Jim""",,Fannin,,,True,la,upper,35,Republican,,2016-01-22 06:06:15.876000,2017-06-01 06:10:29.981000
+LAL000804,Ryan Gatti,Ryan,,Gatti,,,True,la,upper,36,Republican,,2016-01-22 06:06:15.967000,2017-06-01 06:10:30.002000
+LAL000805,Eddie J. Lambert,Eddie J.,,Lambert,,,True,la,upper,18,Republican,,2016-01-22 06:06:16.057000,2017-06-01 06:10:29.970000
+LAL000807,John Milkovich,John,,Milkovich,,,True,la,upper,38,Democratic,,2016-01-22 06:06:16.158000,2017-06-01 06:10:29.984000
+LAL000815,Wesley T. Bishop,Wesley T.,,Bishop,,,True,la,upper,4,Democratic,,2016-01-22 06:06:16.646000,2017-06-01 06:10:30.007000
+LAL000824,Yvonne Colomb,Yvonne,,Colomb,,,True,la,upper,14,Democratic,,2016-01-22 06:06:17.130000,2017-06-01 06:10:30.008000
+LAL000827,Regina Ashford Barrow,Regina Ashford,,Barrow,,,True,la,upper,15,Democratic,,2016-01-22 06:06:17.260000,2017-06-01 06:10:29.997000
+LAL000830,Gerald Boudreaux,Gerald,,Boudreaux,,,True,la,upper,24,Democratic,,2016-01-22 06:06:17.425000,2017-06-01 06:10:29.976000
+LAL000831,W. Jay Luneau,W. Jay,,Luneau,,,True,la,upper,29,Democratic,,2016-01-22 06:06:17.446000,2017-06-01 06:10:30.005000
+LAL000832,Beth Mizell,Beth,,Mizell,,,True,la,upper,12,Republican,,2016-01-22 06:06:17.626000,2017-06-01 06:10:29.962000
+LAL000834,Sharon Hewitt,Sharon,,Hewitt,,,True,la,upper,1,Republican,,2016-01-22 06:06:17.679000,2017-06-01 06:10:30.003000
+LAL000837,Troy Carter,Troy,,Carter,,,True,la,upper,7,Democratic,,2016-01-22 06:06:17.776000,2017-06-01 06:10:30.004000

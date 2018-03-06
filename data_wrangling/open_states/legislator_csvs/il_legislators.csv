@@ -1,0 +1,387 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+ILL000003,Larry K. Bomke,Larry,K.,Bomke,,,False,il,,,,http://ilga.gov/images/members/{8D2A4110-3D08-47EF-A4A8-CB5F04F6175E}.jpg,2011-08-23 15:06:26.957000,2013-01-12 00:09:23.325000
+ILL000006,Annazette R. Collins,Annazette,R.,Collins,,,False,il,,,,http://ilga.gov/images/members/{6D1A5EE2-0E5C-4CD0-9A87-85AC039A7A6E}.jpg,2011-08-23 15:06:27.005000,2013-01-12 00:09:23.324000
+ILL000008,M. Maggie Crotty,M. Maggie,,Crotty,,,False,il,,,,http://ilga.gov/images/members/{58D3432E-1209-4C6F-AB2A-05E07F55009F}.jpg,2011-08-23 15:06:27.085000,2013-01-12 00:09:23.262000
+ILL000010,Shane Cultra,Shane,,Cultra,,,False,il,,,,http://ilga.gov/images/members/{389CD0D4-9409-4624-A183-F39F0C80E18A}.jpg,2011-08-23 15:06:27.110000,2013-01-12 00:09:23.328000
+ILL000011,William Delgado,William,,Delgado,,,False,il,,,,http://ilga.gov/images/members/{4944A2A5-CABD-43CB-A3B5-FAFF9608EBCE}.jpg,2011-08-23 15:06:27.120000,2017-01-14 15:04:45.515000
+ILL000012,Kirk W. Dillard,Kirk,W.,Dillard,,,False,il,,,,http://ilga.gov/images/members/%7BD6E96EFB-8EB7-42DB-9859-96BC44209BAE%7D.jpg,2011-08-23 15:06:27.130000,2014-08-18 14:04:31.182000
+ILL000013,Dan Duffy,Dan,,Duffy,,,False,il,,,,http://ilga.gov/images/members/%7B93A371EA-9D05-43CF-B928-FED5F0F25A3C%7D.jpg,2011-08-23 15:06:27.139000,2016-09-24 08:06:16.152000
+ILL000014,Gary Forby,Gary,,Forby,,,False,il,,,,http://ilga.gov/images/members/%7BF1FE321F-D78C-4A32-B442-E4EA580C77ED%7D.jpg,2011-08-23 15:06:27.149000,2017-01-14 15:04:45.508000
+ILL000015,Michael W. Frerichs,Michael,W.,Frerichs,,,False,il,,,,http://ilga.gov/images/members/%7B8486BF67-FCB2-49D9-B483-F01736AF2D80%7D.jpg,2011-08-23 15:06:27.159000,2015-01-20 22:32:08.663000
+ILL000016,Susan Garrett,Susan,,Garrett,,,False,il,,,,http://ilga.gov/images/members/{40C98571-9A16-429E-A36C-296E4F2A86EF}.jpg,2011-08-23 15:06:27.169000,2013-01-12 00:09:23.293000
+ILL000022,Mike Jacobs,Mike,,Jacobs,,,False,il,,,,http://ilga.gov/images/members/%7B59B5D1B2-2BC2-4D0C-A6A4-E07FFAAD4065%7D.jpg,2011-08-23 15:06:27.228000,2015-01-20 22:31:39.194000
+ILL000023,Christine J. Johnson,Christine,J.,Johnson,,,False,il,,,,http://ilga.gov/images/members/{3409D494-9884-4DFC-A9FD-07065ACCE5F0}.jpg,2011-08-23 15:06:27.239000,2013-01-12 00:09:23.301000
+ILL000024,Thomas Johnson,Thomas,,Johnson,,,False,il,,,,http://ilga.gov/images/members/{FAE542A7-E4F6-4862-AAD5-9091CE4A1583}.jpg,2011-08-23 15:06:27.248000,2013-01-12 00:09:23.322000
+ILL000026,John O. Jones,John,O.,Jones,,,False,il,,,,http://ilga.gov/images/members/{1C541A61-BF92-4C9A-B029-5D4CAE7DD642}.jpg,2011-08-23 15:06:27.331000,2013-01-12 00:09:23.329000
+ILL000028,Dan Kotowski,Dan,,Kotowski,,,False,il,,,,http://ilga.gov/images/members/%7B7C13AACE-8BD1-4B51-AD5D-88B2CFF5A9FE%7D.jpg,2011-08-23 15:06:27.351000,2015-12-14 15:32:35.768000
+ILL000029,Darin M. LaHood,Darin,M.,LaHood,,,False,il,,,,http://ilga.gov/images/members/%7BF55DB959-1366-4701-9033-01A9E7380313%7D.jpg,2011-08-23 15:06:27.361000,2015-12-11 21:09:37.829000
+ILL000031,Chris Lauzen,Chris,,Lauzen,,,False,il,,,,http://ilga.gov/images/members/{55E09542-B3D1-4E1B-9D64-1A8FCA37BC8B}.jpg,2011-08-23 15:06:27.381000,2013-01-12 00:09:23.283000
+ILL000034,David S. Luechtefeld,David,S.,Luechtefeld,,,False,il,,,,http://ilga.gov/images/members/%7B44F558D3-CAF3-443E-9C58-72503E3C2E1B%7D.jpg,2011-08-23 15:06:27.410000,2017-01-14 15:04:45.507000
+ILL000035,Edward D. Maloney,Edward,D.,Maloney,,,False,il,,,,http://ilga.gov/images/members/{8F15FD08-62A1-4ACB-98AB-17F6AD5EEC58}.jpg,2011-08-23 15:06:27.420000,2013-01-12 00:09:23.261000
+ILL000039,James T. Meeks,James,T.,Meeks,,,False,il,,,,http://ilga.gov/images/members/{AFDC15C7-F084-4349-B742-FB2C360D9F4E}.jpg,2011-08-23 15:06:27.459000,2013-01-12 00:09:23.253000
+ILL000040,John J. Millner,John,J.,Millner,,,False,il,,,,http://ilga.gov/images/members/{4A5E728C-4C71-4B43-97A1-B53B22933932}.jpg,2011-08-23 15:06:27.469000,2013-01-12 00:09:23.291000
+ILL000043,Matt Murphy,Matt,,Murphy,,,False,il,,,,http://ilga.gov/images/members/%7B1C32E3ED-F5D4-49AB-8FAF-2BCCE1A0907B%7D.jpg,2011-08-23 15:06:27.557000,2017-01-14 15:04:45.511000
+ILL000044,Michael Noland,Michael,,Noland,,,False,il,,,,http://ilga.gov/images/members/%7B023D273F-92EE-4D0F-ABFB-4463F81C8E4A%7D.jpg,2011-08-23 15:06:27.568000,2017-01-14 15:04:45.512000
+ILL000045,Carole Pankau,Carole,,Pankau,,,False,il,,,,http://ilga.gov/images/members/{1A3283F4-833C-48A2-ADFF-0F4040682101}.jpg,2011-08-23 15:06:27.578000,2013-01-12 00:09:23.267000
+ILL000050,Ron Sandack,Ron,,Sandack,,,False,il,,,,http://ilga.gov/images/members/%7B6BED5E82-0B0A-46EF-B3EF-45E223439873%7D.jpg,2011-08-23 15:06:27.631000,2016-09-24 08:06:16.149000
+ILL000052,Suzi Schmidt,Suzi,,Schmidt,,,False,il,,,,http://ilga.gov/images/members/{C54EFC1D-6E1C-4EFE-8314-BD17D713368D}.jpg,2011-08-23 15:06:27.650000,2013-01-12 00:09:23.297000
+ILL000053,Jeffrey M. Schoenberg,Jeffrey,M.,Schoenberg,,,False,il,,,,http://ilga.gov/images/members/{25D21C06-B9B5-429E-A8D9-71D21EBB6884}.jpg,2011-08-23 15:06:27.659000,2013-01-12 00:09:23.343000
+ILL000056,John M. Sullivan,John,M.,Sullivan,,,False,il,,,,http://ilga.gov/images/members/%7BC5C8F724-FBE7-4A3D-A63C-9758D2CD1EC3%7D.jpg,2011-08-23 15:06:27.778000,2017-01-14 15:04:45.510000
+ILL000059,A. J. Wilhelmi,A. J.,,Wilhelmi,,,False,il,,,,http://ilga.gov/images/members/{9161633C-6002-417A-8FF1-BB3661D8C6D5}.jpg,2011-08-23 15:06:27.810000,2012-09-07 18:31:11.899000
+ILL000060,Edward J. Acevedo,Edward,J.,Acevedo,,,False,il,,,,http://ilga.gov/images/members/%7B251C7010-7378-4919-AF20-6C216BC1AAC7%7D.jpg,2011-08-23 15:06:27.821000,2017-01-14 15:04:45.487000
+ILL000065,Maria Antonia Berrios,Maria Antonia,,Berrios,,,False,il,,,,http://ilga.gov/images/members/%7B391E439C-B14D-4151-A24F-968F9BBC686D%7D.jpg,2011-08-23 15:06:27.873000,2015-01-13 19:43:49.049000
+ILL000067,Mike Bost,Mike,,Bost,,,False,il,,,,http://ilga.gov/images/members/%7B6334951F-F553-43E0-ACC6-53FBC843582B%7D.jpg,2011-08-23 15:06:27.893000,2015-01-13 19:43:49.044000
+ILL000068,John Bradley,John,E.,Bradley,,,False,il,,,,http://ilga.gov/images/members/%7B72EE1079-0D33-40CE-8643-C24D916A8A15%7D.jpg,2011-08-23 15:06:27.903000,2017-01-14 15:04:45.490000
+ILL000070,Rich Brauer,Rich,,Brauer,,,False,il,,,,http://ilga.gov/images/members/%7B523E0F39-718E-476A-8FE4-C5A81076BF9D%7D.jpg,2011-08-23 15:06:28.034000,2015-04-08 20:45:45.648000
+ILL000071,Adam Brown,Adam,,Brown,,,False,il,,,,http://ilga.gov/images/members/%7B92075850-EB13-4CDA-B6B7-E2C13D591969%7D.jpg,2011-08-23 15:06:28.045000,2017-01-14 15:04:45.476000
+ILL000074,Dena M. Carli,Dena,M.,Carli,,,False,il,,,,http://ilga.gov/images/members/{E86580AD-90D6-42BB-92B5-C1560386EE6E}.jpg,2011-08-23 15:06:28.077000,2013-01-12 00:09:23.192000
+ILL000078,Franco Coladipietro,Franco,,Coladipietro,,,False,il,,,,http://ilga.gov/images/members/{BE8F9998-407E-4443-80DA-E1356C5A4806}.jpg,2011-08-23 15:06:28.117000,2013-01-12 00:09:23.219000
+ILL000079,Sandy Cole,Sandy,,Cole,,,False,il,,,,http://ilga.gov/images/members/{E1C3261A-2001-47EB-9D28-D0F2D6E12CB2}.jpg,2011-08-23 15:06:28.127000,2013-01-12 00:09:23.227000
+ILL000080,Marlow H. Colvin,Marlow,H.,Colvin,,,False,il,,,,http://ilga.gov/images/members/{42A961CE-5982-49B2-9C3F-4B305F5D46DE}.jpg,2011-08-23 15:06:28.137000,2012-09-07 18:31:12.003000
+ILL000084,Tom Cross,Tom,,Cross,,,False,il,,,,http://ilga.gov/images/members/%7BA4C2D17B-C96E-4E6C-9D51-99050A2F9649%7D.jpg,2011-08-23 15:06:28.178000,2015-01-13 19:43:49.064000
+ILL000088,Monique D. Davis,Monique,D.,Davis,,,False,il,,,,http://ilga.gov/images/members/%7BE794B0B4-5B6F-469D-AF8A-331DAF21698E%7D.jpg,2011-08-23 15:06:28.217000,2017-01-14 15:04:45.499000
+ILL000091,Kimberly du Buclet,Kimberly,,du Buclet,,,False,il,,,,http://ilga.gov/images/members/{40C74D9D-1033-45A5-B5C7-F352EAEC4A88}.jpg,2011-08-23 15:06:28.247000,2013-01-12 00:09:23.213000
+ILL000092,Lisa M. Dugan,Lisa,M.,Dugan,,,False,il,,,,http://ilga.gov/images/members/{DC32C77A-DBED-4160-92DD-2BEF012A94C6}.jpg,2011-08-23 15:06:28.257000,2013-01-12 00:09:23.234000
+ILL000093,Kenneth Dunkin,Kenneth,,Dunkin,,,False,il,,,,http://ilga.gov/images/members/%7BE2D61E8A-8883-4997-BC46-6BC9FA1CDCCB%7D.jpg,2011-08-23 15:06:28.268000,2017-01-14 15:04:45.494000
+ILL000095,Roger L. Eddy,Roger,L.,Eddy,,,False,il,,,,http://ilga.gov/images/members/{04D1EEDE-DF53-4E06-A79F-C09F1C0DC936}.jpg,2011-08-23 15:06:28.288000,2012-09-07 18:31:12.050000
+ILL000096,Paul Evans,Paul,,Evans,,,False,il,,,,http://ilga.gov/images/members/{39B9D699-63B3-494C-8C23-9195C72245C2}.jpg,2011-08-23 15:06:28.298000,2013-01-12 00:09:23.196000
+ILL000097,Keith Farnham,Keith,,Farnham,,,False,il,,,,http://ilga.gov/images/members/%7BCB3D88DE-769E-4455-8FC9-B9981583FA2A%7D.jpg,2011-08-23 15:06:28.307000,2014-12-09 10:36:39.462000
+ILL000102,Jack D. Franks,Jack,D.,Franks,,,False,il,,,,http://ilga.gov/images/members/%7B0706AD5D-51D3-4CDC-8342-B999A94FB756%7D.jpg,2011-08-23 15:06:28.359000,2017-01-14 15:04:45.489000
+ILL000104,Kent Gaffney,Kent,,Gaffney,,,False,il,,,,http://ilga.gov/images/members/{160EBBD9-999D-4425-A0C5-8B4688119CDF}.jpg,2011-08-23 15:06:28.380000,2013-01-12 00:09:23.223000
+ILL000105,Esther Golar,Esther,,Golar,,,False,il,,,,http://ilga.gov/images/members/%7B3CAC587E-CC52-4CAB-89FA-A7E765487B7B%7D.jpg,2011-08-23 15:06:28.391000,2016-09-24 08:06:16.151000
+ILL000110,Kay Hatcher,Kay,,Hatcher,,,False,il,,,,http://ilga.gov/images/members/%7B7336260E-B69D-4751-AAB4-CE84D454A88F%7D.jpg,2011-08-23 15:06:28.441000,2015-01-13 19:43:49.057000
+ILL000113,Thomas Holbrook,Thomas,,Holbrook,,,False,il,,,,http://ilga.gov/images/members/{316F4EBC-754D-4573-8EB7-6E57E1E2CF6D}.jpg,2011-08-23 15:06:28.471000,2012-09-07 18:31:12.122000
+ILL000114,Constance A. Howard,Constance,A.,Howard,,,False,il,,,,http://ilga.gov/images/members/{AFEBB814-9838-4114-9D97-DCB292B60E8F}.jpg,2011-08-23 15:06:28.529000,2012-09-07 18:31:12.129000
+ILL000115,Eddie Lee Jackson Sr.,Eddie,Lee,Jackson,Sr.,,False,il,,,,http://ilga.gov/images/members/%7B06CC7D5A-0964-4BB8-A994-D0D49E115380%7D.jpg,2011-08-23 15:06:28.539000,2017-01-14 15:04:45.486000
+ILL000116,Naomi D. Jakobsson,Naomi,D.,Jakobsson,,,False,il,,,,http://ilga.gov/images/members/%7BA57738A1-70F1-4307-A580-017AB4DE87DE%7D.jpg,2011-08-23 15:06:28.550000,2015-01-13 19:43:49.038000
+ILL000117,Charles E. Jefferson,Charles,E.,Jefferson,,,False,il,,,,http://ilga.gov/images/members/%7B991EB549-E946-4068-B25E-1EB224CAA524%7D.jpg,2011-08-23 15:06:28.560000,2014-08-01 16:17:32.821000
+ILL000119,Dwight Kay,Dwight,,Kay,,,False,il,,,,http://ilga.gov/images/members/%7B53605209-EF40-4C21-8AF4-E7D6C7990984%7D.jpg,2011-08-23 15:06:28.599000,2017-01-14 15:04:45.483000
+ILL000120,Renée Kosel,Renée,,Kosel,,,False,il,,,,http://ilga.gov/images/members/%7BB1826BE0-25CD-4964-A6C3-47C7228E0352%7D.jpg,2011-08-23 15:06:28.609000,2015-01-13 19:43:49.046000
+ILL000122,David R. Leitch,David,R.,Leitch,,,False,il,,,,http://ilga.gov/images/members/%7B9777EA1F-D646-448E-AD6D-4D689897E030%7D.jpg,2011-08-23 15:06:28.629000,2017-01-14 15:04:45.479000
+ILL000124,Joseph M. Lyons,Joseph,M.,Lyons,,,False,il,,,,http://ilga.gov/images/members/{6E240004-A86E-499B-8A71-3DB6CED8BA39}.jpg,2011-08-23 15:06:28.649000,2013-01-12 00:09:23.204000
+ILL000126,Sidney H. Mathias,Sidney,H.,Mathias,,,False,il,,,,http://ilga.gov/images/members/{B7D400B4-C30D-4422-A611-8EB253ACF86D}.jpg,2011-08-23 15:06:28.668000,2013-01-12 00:09:23.224000
+ILL000127,Frank J. Mautino,Frank,J.,Mautino,,,False,il,,,,http://ilga.gov/images/members/%7BF759FFCA-B2C3-43DA-B0C1-624517AB6F7A%7D.jpg,2011-08-23 15:06:28.678000,2016-02-05 03:22:59.004000
+ILL000128,Karen May,Karen,,May,,,False,il,,,,http://ilga.gov/images/members/{43D0AF4C-2D55-49AD-8532-0EC077609EC3}.jpg,2011-08-23 15:06:28.688000,2013-01-12 00:09:23.226000
+ILL000132,Kevin A. McCarthy,Kevin,A.,McCarthy,,,False,il,,,,http://ilga.gov/images/members/{30DFDFEF-87D0-41E5-922E-90A1378A2BC3}.jpg,2011-08-23 15:06:28.732000,2012-09-07 18:31:12.197000
+ILL000133,Jack McGuire,Jack,,McGuire,,,False,il,,,,http://ilga.gov/images/members/{0A0F0BBB-F60D-499B-A912-7DEE92A43D3E}.jpg,2011-08-23 15:06:28.742000,2012-09-07 18:31:12.203000
+ILL000134,Deborah Mell,Deborah,,Mell,,,False,il,,,,http://ilga.gov/images/members/{BC3E8441-2777-4941-BDC5-BFFE33EB7F21}.jpg,2011-08-23 15:06:28.752000,2013-08-16 13:20:57.314000
+ILL000136,Jerry L. Mitchell,Jerry,L.,Mitchell,,,False,il,,,,http://ilga.gov/images/members/{75FE9C55-93A0-4852-9A8B-CD7A91BF33E9}.jpg,2011-08-23 15:06:28.773000,2013-01-12 00:09:23.239000
+ILL000137,Donald L. Moffitt,Donald,L.,Moffitt,,,False,il,,,,http://ilga.gov/images/members/%7B066565AD-FC97-4C8B-98FE-CDE91BB1F624%7D.jpg,2011-08-23 15:06:28.784000,2017-01-14 15:04:45.481000
+ILL000139,Richard Morthland,Richard,,Morthland,,,False,il,,,,http://ilga.gov/images/members/{1A09A594-30C8-4E10-8492-20B0E096A078}.jpg,2011-08-23 15:06:28.805000,2013-01-12 00:09:23.232000
+ILL000140,Rosemary Mulligan,Rosemary,,Mulligan,,,False,il,,,,http://ilga.gov/images/members/{89A46C36-E007-4923-A4CB-864D5FDD47CA}.jpg,2011-08-23 15:06:28.814000,2013-01-12 00:09:23.229000
+ILL000144,JoAnn D. Osmond,JoAnn,D.,Osmond,,,False,il,,,,http://ilga.gov/images/members/%7B6C21D07B-08C1-4722-BE7D-C35F460A1C75%7D.jpg,2011-08-23 15:06:28.855000,2014-07-07 13:14:09.753000
+ILL000146,Sandra M. Pihos,Sandra,M.,Pihos,,,False,il,,,,http://ilga.gov/images/members/%7B00E6AC19-005E-423F-9085-67DDE31E090B%7D.jpg,2011-08-23 15:06:28.875000,2015-01-13 19:43:49.055000
+ILL000147,Raymond Poe,Raymond,,Poe,,,False,il,,,,http://ilga.gov/images/members/%7B9D847862-9455-4E6E-B8F9-6A6E6D4A440D%7D.jpg,2011-08-23 15:06:28.885000,2015-12-11 21:16:48.210000
+ILL000149,Randy Ramey Jr.,Harry R.,,Ramey,Jr.,,False,il,,,,http://ilga.gov/images/members/{69E7FA6C-032A-4172-B613-05F20E687EF3}.jpg,2011-08-23 15:06:28.905000,2013-01-12 00:09:23.225000
+ILL000150,Dennis M. Reboletti,Dennis,M.,Reboletti,,,False,il,,,,http://ilga.gov/images/members/%7B57BF292B-0C16-4A1F-A239-3DD646248D5A%7D.jpg,2011-08-23 15:06:28.915000,2015-01-13 19:43:49.053000
+ILL000155,Wayne Rosenthal,Wayne,,Rosenthal,,,False,il,,,,http://ilga.gov/images/members/%7BAF243514-814F-4894-A0D9-5F3CCC414019%7D.jpg,2011-08-23 15:06:28.966000,2015-04-08 20:47:48.388000
+ILL000156,Pam Roth,Pam,,Roth,,,False,il,,,,http://ilga.gov/images/members/{9AC5FE62-83C1-4B3F-8F94-A566225FC150}.jpg,2011-08-23 15:06:28.976000,2013-08-23 19:52:57.213000
+ILL000157,Jim Sacia,Jim,,Sacia,,,False,il,,,,http://ilga.gov/images/members/{22511DB9-2AA5-42F7-B556-D37CD318F598}.jpg,2011-08-23 15:06:28.986000,2013-10-09 14:31:42.658000
+ILL000158,Angelo Saviano,Angelo,,Saviano,,,False,il,,,,http://ilga.gov/images/members/{E9C3DCF0-745C-4552-87F2-7BE73D52953F}.jpg,2011-08-23 15:06:28.997000,2013-01-12 00:09:23.233000
+ILL000159,Timothy L. Schmitz,Timothy,L.,Schmitz,,,False,il,,,,http://ilga.gov/images/members/%7BA449C7DA-E8FF-4BC5-A4BE-5E14C491EA23%7D.jpg,2011-08-23 15:06:29.007000,2015-01-13 19:43:49.060000
+ILL000160,Darlene J. Senger,Darlene,J.,Senger,,,False,il,,,,http://ilga.gov/images/members/%7B8E740E77-7325-461E-8739-74519C3C775D%7D.jpg,2011-08-23 15:06:29.018000,2015-01-13 19:43:49.051000
+ILL000162,Derrick Smith,Derrick,,Smith,,,False,il,,,,http://ilga.gov/images/members/%7BDAE66F0C-E39A-4712-99C7-F3D84A25966E%7D.jpg,2011-08-23 15:06:29.042000,2015-01-13 19:43:49.035000
+ILL000166,Ed Sullivan Jr.,Ed,,Sullivan,,,False,il,,,,http://ilga.gov/images/members/%7BB32A342A-AEEE-49B0-B8A9-09B4935F543A%7D.jpg,2011-08-23 15:06:29.082000,2017-01-14 15:04:45.484000
+ILL000168,Jil Tracy,Jil,,Tracy,,,False,il,,,,http://ilga.gov/images/members/%7B95E28FCE-1CAD-4D71-8C3A-B4F37399AA78%7D.jpg,2011-08-23 15:06:29.102000,2015-01-13 19:43:49.062000
+ILL000169,Michael W. Tryon,Michael,W.,Tryon,,,False,il,,,,http://ilga.gov/images/members/%7B85CE1919-91CB-4E1E-B96B-8F8648595A4C%7D.jpg,2011-08-23 15:06:29.112000,2017-01-14 15:04:45.496000
+ILL000172,Patrick J. Verschoore,Patrick,J.,Verschoore,,,False,il,,,,http://ilga.gov/images/members/%7BACA32401-2582-4B47-8AA8-EDBB2C055F46%7D.jpg,2011-08-23 15:06:29.146000,2017-01-14 15:04:45.505000
+ILL000173,Jim Watson,Jim,,Watson,,,False,il,,,,http://ilga.gov/images/members/{31C099FA-25F6-4493-9A70-E024477C7888}.jpg,2011-08-23 15:06:29.156000,2013-01-12 00:09:23.245000
+ILL000175,Dave Winters,Dave,,Winters,,,False,il,,,,http://ilga.gov/images/members/{9D9587AE-4EB2-4CBC-8467-D83FDD32C545}.jpg,2011-08-23 15:06:29.176000,2012-09-07 18:31:12.388000
+ILL000176,Karen A. Yarbrough,Karen,A.,Yarbrough,,,False,il,,,,http://ilga.gov/images/members/{4A0F2ACB-DBC0-4F58-BDFD-6479A84ACBE9}.jpg,2011-08-23 15:06:29.186000,2013-01-12 00:09:23.231000
+ILL000182,J. Bradley Burzynski,J. Bradley,,Burzynski,,,False,il,,,,http://ilga.gov/images/members/{C6F2A8B4-26C9-4C6C-BDA6-E6B14AE80A1F}.jpg,2011-11-09 09:52:48.935000,2012-09-07 17:05:33.360000
+ILL000185,Dan Cronin,Dan,,Cronin,,,False,il,,,,http://ilga.gov/images/members/{BD474B94-5A24-487F-8312-1A4AF3190AA4}.jpg,2011-11-09 09:52:49.130000,2012-09-07 17:05:33.385000
+ILL000188,Miguel del Valle,Miguel,,del Valle,,,False,il,,,,http://ilga.gov/images/members/{E1B6C74A-C171-4738-9A53-10676D7878A3}.jpg,2011-11-09 09:52:49.181000,2012-09-07 17:05:33.410000
+ILL000189,James A. DeLeo,James A.,,DeLeo,,,False,il,,,,http://ilga.gov/images/members/{4D3BF5DC-DFF5-4644-A57F-736FA9AF7AA0}.jpg,2011-11-09 09:52:49.211000,2012-09-07 17:05:33.415000
+ILL000190,Deanna Demuzio,Deanna,,Demuzio,,,False,il,,,,http://ilga.gov/images/members/{17FF8820-C894-4D12-82E8-C96477CFC603}.jpg,2011-11-09 09:52:49.222000,2012-09-07 17:05:33.421000
+ILL000194,Adeline Jay Geo-Karis,Adeline Jay,,Geo-Karis,,,False,il,,,,http://ilga.gov/images/members/{55A70B6C-8AD1-4406-842E-B9265EB38B4A}.jpg,2011-11-09 09:52:49.301000,2012-09-07 17:05:33.481000
+ILL000196,Debbie DeFrancesco Halvorson,Debbie DeFrancesco,,Halvorson,,,False,il,,,,http://ilga.gov/images/members/{6DF1541C-8103-48AE-8183-8567E5F23CB0}.jpg,2011-11-09 09:52:49.328000,2012-09-07 17:05:33.496000
+ILL000198,Rickey R. Hendon,Rickey R.,,Hendon,,,False,il,,,,http://ilga.gov/images/members/{0335EE39-C5F7-42A9-9654-ABD6A2EE2530}.jpg,2011-11-09 09:52:49.375000,2012-09-07 17:05:33.511000
+ILL000200,Denny Jacobs,Denny,,Jacobs,,,False,il,,,,http://ilga.gov/images/members/{3702DFF2-6CF6-4852-83C9-9E78F6353308}.jpg,2011-11-09 09:52:49.439000,2012-09-07 17:05:33.529000
+ILL000203,Wendell E. Jones,Wendell E.,,Jones,,,False,il,,,,http://ilga.gov/images/members/{8C22B299-6BC0-4A38-9A7D-FA3735D0DF6B}.jpg,2011-11-09 09:52:49.526000,2012-09-07 17:05:33.555000
+ILL000213,William E. Peterson,William E.,,Peterson,,,False,il,,,,http://ilga.gov/images/members/{F7ACF8EA-AD62-40E0-AB9B-41EDE98D72E1}.jpg,2011-11-09 09:52:49.769000,2012-09-07 17:05:33.698000
+ILL000214,Edward Petka,Edward,,Petka,,,False,il,,,,http://ilga.gov/images/members/{34A50F5F-1E69-484F-BDDA-D60ED01B9A83}.jpg,2011-11-09 09:52:49.793000,2012-09-07 17:05:33.705000
+ILL000217,Steven J. Rauschenberger,Steven J.,,Rauschenberger,,,False,il,,,,http://ilga.gov/images/members/{15AD3458-95A4-4380-BDD8-1F53A4EC5D48}.jpg,2011-11-09 09:52:49.861000,2012-09-07 17:05:33.741000
+ILL000219,Dale E. Risinger,Dale E.,,Risinger,,,False,il,,,,http://ilga.gov/images/members/{0F252AFA-8FB5-4BC2-B265-81CC6A962CE7}.jpg,2011-11-09 09:52:49.909000,2012-09-07 18:57:39.386000
+ILL000220,Carol Ronen,Carol,,Ronen,,,False,il,,,,http://ilga.gov/images/members/{4B1AC925-E115-4398-8BA7-9EECF7579AD5}.jpg,2011-11-09 09:52:49.920000,2012-09-07 17:05:34.137000
+ILL000221,Peter J. Roskam,Peter J.,,Roskam,,,False,il,,,,http://ilga.gov/images/members/{29E8B7B1-7EF5-4BD4-A759-83D692A3EE7B}.jpg,2011-11-09 09:52:49.992000,2012-09-07 17:05:34.250000
+ILL000222,Dan Rutherford,Dan,,Rutherford,,,False,il,,,,http://ilga.gov/images/members/{AE97E60A-9E8B-422C-BD30-31A8109EF642}.jpg,2011-11-09 09:52:50.017000,2012-09-07 17:05:34.260000
+ILL000225,George P. Shadid,George P.,,Shadid,,,False,il,,,,http://ilga.gov/images/members/{4D6BB483-3401-4B5D-B11A-2DB4D2114E51}.jpg,2011-11-09 09:52:50.066000,2012-09-07 17:05:34.306000
+ILL000226,Todd Sieben,Todd,,Sieben,,,False,il,,,,http://ilga.gov/images/members/{9E220383-2E38-4721-9A7C-45E97A823EEC}.jpg,2011-11-09 09:52:50.077000,2012-09-07 17:05:34.342000
+ILL000228,Dave Sullivan,Dave,,Sullivan,,,False,il,,,,http://ilga.gov/images/members/{D6DDA62A-9EC2-42C6-AD2F-3D416377366B}.jpg,2011-11-09 09:52:50.111000,2012-09-07 17:05:34.400000
+ILL000232,Louis S. Viverito,Louis S.,,Viverito,,,False,il,,,,http://ilga.gov/images/members/{E13D6E74-CBE8-4635-9BD1-09B9A540DC3D}.jpg,2011-11-09 09:52:50.156000,2012-09-07 18:57:51.146000
+ILL000234,Frank C. Watson,Frank C.,,Watson,,,False,il,,,,http://ilga.gov/images/members/{20868BD1-BA52-4965-8A80-1B807ECA3A6C}.jpg,2011-11-09 09:52:50.178000,2012-09-07 17:05:34.462000
+ILL000235,Patrick Welch,Patrick,,Welch,,,False,il,,,,http://ilga.gov/images/members/{4A2663A0-2E61-4C09-9EF8-391150D2EFD0}.jpg,2011-11-09 09:52:50.189000,2012-09-07 17:05:34.469000
+ILL000236,"Richard J. Winkel, Jr.",Richard J.,,Winkel,Jr.,,False,il,,,,http://ilga.gov/images/members/{F9837867-3D8B-4963-82E6-F16CC7A4578E}.jpg,2011-11-09 09:52:50.205000,2012-09-07 17:05:34.474000
+ILL000237,Kathleen L. Wojcik,Kathleen L.,,Wojcik,,,False,il,,,,http://ilga.gov/images/members/{292034D3-0313-4031-B5DE-FF928C9FC6B7}.jpg,2011-11-09 09:52:50.219000,2012-09-07 17:05:34.480000
+ILL000239,Frank Aguilar,Frank,,Aguilar,,,False,il,,,,http://ilga.gov/images/members/{D020B1EE-3091-4D43-AF9B-C4DF20714332}.jpg,2011-11-09 09:52:50.260000,2012-09-07 17:05:34.508000
+ILL000240,Patricia Bailey,Patricia,,Bailey,,,False,il,,,,http://ilga.gov/images/members/{702567F5-3C83-41EE-95F4-B8853508C7D8}.jpg,2011-11-09 09:52:50.272000,2012-09-07 17:05:34.513000
+ILL000241,Suzanne Bassi,Suzanne,,Bassi,,,False,il,,,,http://ilga.gov/images/members/{B1C4A675-CB18-4F46-B99C-D60FB4129365}.jpg,2011-11-09 09:52:50.283000,2012-09-07 17:05:34.519000
+ILL000242,"Mark H. Beaubien, Jr.",Mark H.,,Beaubien,Jr.,,False,il,,,,http://ilga.gov/images/members/{D32F1008-1CC4-407E-8352-6B642DAF5331}.jpg,2011-11-09 09:52:50.294000,2012-09-07 17:05:34.525000
+ILL000246,Bob Biggins,Bob,,Biggins,,,False,il,,,,http://ilga.gov/images/members/{6F8DD5E7-B353-4233-8759-37F048D3B952}.jpg,2011-11-09 09:52:50.363000,2012-09-07 17:05:34.558000
+ILL000247,William B. Black,William B.,,Black,,,False,il,,,,http://ilga.gov/images/members/{8196C979-EA1D-4444-B3CF-3CCC92A5C8B5}.jpg,2011-11-09 09:52:50.374000,2012-09-07 17:05:34.564000
+ILL000248,Mike Boland,Mike,,Boland,,,False,il,,,,http://ilga.gov/images/members/{A36FF0A3-FC64-4A9C-943F-37D5A732C164}.jpg,2011-11-09 09:52:50.385000,2012-09-07 17:05:34.570000
+ILL000251,Richard T. Bradley,Richard T.,,Bradley,,,False,il,,,,http://ilga.gov/images/members/{F3134403-45D5-499C-B250-3B83298EA524}.jpg,2011-11-09 09:52:50.419000,2012-09-07 17:05:34.595000
+ILL000254,James D. Brosnahan,James D.,,Brosnahan,,,False,il,,,,http://ilga.gov/images/members/{479094EB-E776-4E9D-96EF-3CB0F916D945}.jpg,2011-11-09 09:52:50.470000,2012-09-07 17:05:34.618000
+ILL000257,Robert W. Churchill,Robert W.,,Churchill,,,False,il,,,,http://ilga.gov/images/members/{8EF67630-C672-4035-86CB-5A2F8088C22E}.jpg,2011-11-09 09:52:50.503000,2012-09-07 17:05:34.664000
+ILL000260,Elizabeth Coulson,Elizabeth,,Coulson,,,False,il,,,,http://ilga.gov/images/members/{2D34F6FE-2685-41A7-ABF3-34C342FF9E11}.jpg,2011-11-09 09:52:50.549000,2012-09-07 17:05:34.692000
+ILL000265,Lee A. Daniels,Lee A.,,Daniels,,,False,il,,,,http://ilga.gov/images/members/{9B5E5FC7-6104-4A1D-9658-18DCA0129D56}.jpg,2011-11-09 09:52:50.622000,2012-09-07 17:05:34.746000
+ILL000271,Joe Dunn,Joe,,Dunn,,,False,il,,,,http://ilga.gov/images/members/{15129D67-02AB-4B32-945F-DB483B52C53A}.jpg,2011-11-09 09:52:50.689000,2012-09-07 17:05:34.827000
+ILL000274,Robert F. Flider,Robert F.,,Flider,,,False,il,,,,http://ilga.gov/images/members/{5EB86D5F-0591-4D08-9300-B25F530773FE}.jpg,2011-11-09 09:52:50.722000,2012-09-07 17:05:34.867000
+ILL000277,John A. Fritchey,John A.,,Fritchey,,,False,il,,,,http://ilga.gov/images/members/{00C1FFA9-8F23-4124-8415-00BCE69F4EC3}.jpg,2011-11-09 09:52:50.777000,2012-09-07 17:05:34.910000
+ILL000278,Paul D. Froehlich,Paul D.,,Froehlich,,,False,il,,,,http://ilga.gov/images/members/{9935A50D-DB53-41C0-B870-CEADCE32F5E8}.jpg,2011-11-09 09:52:50.789000,2012-09-07 17:05:34.916000
+ILL000279,Calvin L. Giles,Calvin L.,,Giles,,,False,il,,,,http://ilga.gov/images/members/{650724D5-BC11-42C6-A07E-4D93719815AD}.jpg,2011-11-09 09:52:50.800000,2012-09-07 17:05:34.922000
+ILL000280,Careen M Gordon,Careen M,,Gordon,,,False,il,,,,http://ilga.gov/images/members/{0648DEEA-A636-4053-A7C2-C4AD3C745E6C}.jpg,2011-11-09 09:52:50.814000,2012-09-07 17:05:34.928000
+ILL000281,Deborah L. Graham,Deborah L.,,Graham,,,False,il,,,,http://ilga.gov/images/members/{69EDF3C0-50B6-4E78-BE44-EB888951A8C3}.jpg,2011-11-09 09:52:50.826000,2012-09-07 17:05:34.934000
+ILL000282,Kurt M. Granberg,Kurt M.,,Granberg,,,False,il,,,,http://ilga.gov/images/members/{6ABED42E-F582-4597-BCE4-360A268AEF4E}.jpg,2011-11-09 09:52:50.842000,2012-09-07 17:05:34.940000
+ILL000283,William J. Grunloh,William J.,,Grunloh,,,False,il,,,,http://ilga.gov/images/members/{BA942597-E21B-4C95-A706-34F8D149F3A3}.jpg,2011-11-09 09:52:50.869000,2012-09-07 17:05:34.946000
+ILL000284,Julie Hamos,Julie,,Hamos,,,False,il,,,,http://ilga.gov/images/members/{7EC54305-3740-4B7F-8BB9-A6BBC599A0E6}.jpg,2011-11-09 09:52:50.970000,2012-09-07 17:05:34.951000
+ILL000285,Gary Hannig,Gary,,Hannig,,,False,il,,,,http://ilga.gov/images/members/{0808C6DA-A3EA-4CA5-A7C2-918008872D1A}.jpg,2011-11-09 09:52:51.044000,2012-09-07 17:05:34.959000
+ILL000286,Brent Hassert,Brent,,Hassert,,,False,il,,,,http://ilga.gov/images/members/{B4E33A32-1009-4D09-BC1F-332F27381B66}.jpg,2011-11-09 09:52:51.067000,2012-09-07 17:05:34.976000
+ILL000290,Randy Hultgren,Randy,,Hultgren,,,False,il,,,,http://ilga.gov/images/members/{7B92C046-5740-4953-9F7A-D462EFEFE8B5}.jpg,2011-11-09 09:52:51.145000,2012-09-07 17:05:35.014000
+ILL000293,Lovana Jones,Lovana,,Jones,,,False,il,,,,http://ilga.gov/images/members/{000E6527-68D5-4653-A655-A62F46782E83}.jpg,2011-11-09 09:52:51.244000,2012-09-07 17:05:35.038000
+ILL000294,Kevin Joyce,Kevin,,Joyce,,,False,il,,,,http://ilga.gov/images/members/{F30D9B37-2653-41EA-B27B-5B16F08A363C}.jpg,2011-11-09 09:52:51.284000,2012-09-07 17:05:35.044000
+ILL000295,Robin Kelly,Robin,,Kelly,,,False,il,,,,http://ilga.gov/images/members/{3BDE5D75-8505-4E15-A039-F3E55D3BD3D2}.jpg,2011-11-09 09:52:51.312000,2012-09-07 17:05:35.049000
+ILL000297,Carolyn H. Krause,Carolyn H.,,Krause,,,False,il,,,,http://ilga.gov/images/members/{4AAD9282-E61C-49ED-AC77-659A158F8D8A}.jpg,2011-11-09 09:52:51.340000,2012-09-07 17:05:35.066000
+ILL000298,Rosemary Kurtz,Rosemary,,Kurtz,,,False,il,,,,http://ilga.gov/images/members/{5C75D0F3-01FF-45CB-8495-672DA45CF6F6}.jpg,2011-11-09 09:52:51.351000,2012-09-07 17:05:35.072000
+ILL000301,Patricia Reid Lindner,Patricia Reid,,Lindner,,,False,il,,,,http://ilga.gov/images/members/{68CFDBEB-1789-46A6-9183-CB5C6115A82B}.jpg,2011-11-09 09:52:51.421000,2012-09-07 17:05:35.096000
+ILL000302,Eileen Lyons,Eileen,,Lyons,,,False,il,,,,http://ilga.gov/images/members/{C0BA323E-4BC4-47AE-A15E-D8B948CE6BD5}.jpg,2011-11-09 09:52:51.438000,2012-09-07 17:05:35.103000
+ILL000311,Larry McKeon,Larry,,McKeon,,,False,il,,,,http://ilga.gov/images/members/{C11EAD14-1D93-4483-8DD9-D4957747D3BA}.jpg,2011-11-09 09:52:51.606000,2012-09-07 17:05:35.190000
+ILL000312,Susana A. Mendoza,Susana A.,,Mendoza,,,False,il,,,,http://ilga.gov/images/members/{651AFB2B-C2AA-429D-81CA-77FF7D986C38}.jpg,2011-11-09 09:52:51.617000,2012-09-07 17:05:35.196000
+ILL000313,James H. Meyer,James H.,,Meyer,,,False,il,,,,http://ilga.gov/images/members/{C8BF4C89-0028-4045-A288-C2709FB73C76}.jpg,2011-11-09 09:52:51.646000,2012-09-07 17:05:35.202000
+ILL000314,David E. Miller,David E.,,Miller,,,False,il,,,,http://ilga.gov/images/members/{DEF139AC-5C2B-4259-B8ED-32BC17138BF9}.jpg,2011-11-09 09:52:51.657000,2012-09-07 17:05:35.208000
+ILL000319,Robert S. Molaro,Robert S.,,Molaro,,,False,il,,,,http://ilga.gov/images/members/{E42A157F-2CE0-4194-B060-E9237F4B1E9C}.jpg,2011-11-09 09:52:51.815000,2012-09-07 17:05:35.259000
+ILL000320,"Charles G. Morrow, III",Charles G.,,Morrow,III,,False,il,,,,http://ilga.gov/images/members/{63F37A83-11ED-41ED-9198-12B0CBFC7E88}.jpg,2011-11-09 09:52:51.832000,2012-09-07 17:05:35.265000
+ILL000322,Ruth Munson,Ruth,,Munson,,,False,il,,,,http://ilga.gov/images/members/{27BF3E93-2E8B-49E1-9072-E2AAD6C9623D}.jpg,2011-11-09 09:52:51.889000,2012-09-07 17:05:35.280000
+ILL000323,Richard P. Myers,Richard P.,,Myers,,,False,il,,,,http://ilga.gov/images/members/{1B4CACFF-2BB5-4A6B-9707-49AEF6000548}.jpg,2011-11-09 09:52:51.903000,2012-09-07 17:05:35.286000
+ILL000326,Harry Osterman,Harry,,Osterman,,,False,il,,,,http://ilga.gov/images/members/{60C2303F-FC2E-44B7-AFB9-EBCC5052E87D}.jpg,2011-11-09 09:52:51.955000,2012-09-07 18:59:45.836000
+ILL000327,Terry R. Parke,Terry R.,,Parke,,,False,il,,,,http://ilga.gov/images/members/{A80729CA-9C53-4566-A793-D4ED889584C9}.jpg,2011-11-09 09:52:51.966000,2012-09-07 17:05:35.352000
+ILL000332,Dan Reitz,Dan,,Reitz,,,False,il,,,,http://ilga.gov/images/members/{BD11B2FC-D7A0-4FAD-B209-01AF4886C95B}.jpg,2011-11-09 09:52:52.078000,2012-09-07 18:59:59.143000
+ILL000335,Kathleen A. Ryg,Kathleen A.,,Ryg,,,False,il,,,,http://ilga.gov/images/members/{6B9DCBA9-D370-4320-BC43-576250FDFD08}.jpg,2011-11-09 09:52:52.128000,2012-09-07 17:05:35.552000
+ILL000339,"George Scully, Jr.",George,,Scully,Jr.,,False,il,,,,http://ilga.gov/images/members/{6D88144A-9451-4647-9585-D3254CE88B8E}.jpg,2011-11-09 09:52:52.190000,2012-09-07 17:05:35.583000
+ILL000340,Ricca Slone,Ricca,,Slone,,,False,il,,,,http://ilga.gov/images/members/{1BC299EF-7681-4881-AD33-5509870F8B64}.jpg,2011-11-09 09:52:52.213000,2012-09-07 17:05:35.589000
+ILL000341,Michael K. Smith,Michael K.,,Smith,,,False,il,,,,http://ilga.gov/images/members/{702EDB45-58AB-494F-A4C5-09244EA2DA2D}.jpg,2011-11-09 09:52:52.225000,2012-09-07 17:05:35.595000
+ILL000344,Ron Stephens,Ron,,Stephens,,,False,il,,,,http://ilga.gov/images/members/{0C9D924A-B913-4989-9AC8-FFB8752890F1}.jpg,2011-11-09 09:52:52.299000,2012-09-07 19:00:24.662000
+ILL000346,Art Tenhouse,Art,,Tenhouse,,,False,il,,,,http://ilga.gov/images/members/{501FFB60-DD92-4CFA-B231-C2C0B375C3EB}.jpg,2011-11-09 09:52:52.322000,2012-09-07 17:05:35.634000
+ILL000349,Ronald A. Wait,Ronald A.,,Wait,,,False,il,,,,http://ilga.gov/images/members/{C7DFB673-8946-43D1-A4F5-71B0AED10401}.jpg,2011-11-09 09:52:52.355000,2012-09-07 17:05:35.664000
+ILL000350,Eddie Washington,Eddie,,Washington,,,False,il,,,,http://ilga.gov/images/members/{2D311876-A9ED-49DE-89C3-DB2105FB07C6}.jpg,2011-11-09 09:52:52.366000,2012-09-07 17:05:35.670000
+ILL000354,Wyvetter H. Younge,Wyvetter H.,,Younge,,,False,il,,,,http://ilga.gov/images/members/{9602BFEC-1EFC-4F31-B401-E09E5C1050AC}.jpg,2011-11-09 09:52:52.442000,2012-09-07 17:05:35.742000
+ILL000498,Scott E. Penny,Scott E.,,Penny,,,False,il,,,,http://ilga.gov/images/members/{66B84C21-B863-42D1-81C2-4C9F4359E100}.jpg,2011-11-25 05:14:40.214000,2013-01-12 00:09:23.202000
+ILL000532,Charles W. Krezwick,Charles W.,,Krezwick,,,False,il,,,,http://ilga.gov/images/members/{1ED6AFBB-EC3A-45F0-9C95-24A48FA2C933}.jpg,2012-01-18 05:25:40.209000,2013-01-12 00:09:23.216000
+ILL000534,Brad E. Halbrook,Brad E.,,Halbrook,,,False,il,,,,http://ilga.gov/images/members/%7B57D1939F-96E1-43CD-84EC-D02996CC54BB%7D.jpg,2012-04-10 08:02:27.514000,2015-01-13 19:43:49.042000
+ILL000549,Vince Demuzio,Vince,,Demuzio,,,False,il,,,,http://ilga.gov/images/members/{0C46390A-2270-4918-82B2-35DE9E5E7DE9}.jpg,2012-09-07 17:05:33.431000,2012-09-07 17:05:36.107000
+ILL000551,Doris Karpiel,Doris,,Karpiel,,,False,il,,,,http://ilga.gov/images/members/{4C90F8C3-1FA9-4995-9661-D3CB1E7AEE82}.jpg,2012-09-07 17:05:33.565000,2012-09-07 17:05:36.104000
+ILL000552,Dick Klemm,Dick,,Klemm,,,False,il,,,,http://ilga.gov/images/members/{620F2F5F-7791-411C-B4FC-03676BEBC237}.jpg,2012-09-07 17:05:33.576000,2012-09-07 17:05:36.105000
+ILL000555,Barack Obama,Barack,,Obama,,,False,il,,,,http://ilga.gov/images/members/{C9DE691B-FC2A-461B-8F07-5B2FCF1FFCEC}.jpg,2012-09-07 17:05:33.682000,2012-09-07 17:05:36.093000
+ILL000556,James Pate Philip,James Pate,,Philip,,,False,il,,,,http://ilga.gov/images/members/{1384B1FB-53EC-4F9C-B349-CF349E77961E}.jpg,2012-09-07 17:05:33.715000,2012-09-07 17:05:36.102000
+ILL000557,Ray Soden,Ray,,Soden,,,False,il,,,,http://ilga.gov/images/members/{53DCCF2A-4CF1-4148-9738-329DCEB5694F}.jpg,2012-09-07 17:05:34.394000,2012-09-07 17:05:36.103000
+ILL000559,Larry D. Woolard,Larry D.,,Woolard,,,False,il,,,,http://ilga.gov/images/members/{C8E57D71-08FE-4F24-AB1B-8F170299986E}.jpg,2012-09-07 17:05:34.492000,2012-09-07 17:05:36.109000
+ILL000560,Joel Brunsvold,Joel,,Brunsvold,,,False,il,,,,http://ilga.gov/images/members/{EE10999E-25AE-4D2D-86A2-3A6FDC41001B}.jpg,2012-09-07 17:05:34.628000,2012-09-07 17:05:36.067000
+ILL000561,Ralph C. Capparelli,Ralph C.,,Capparelli,,,False,il,,,,http://ilga.gov/images/members/{4DD86015-653B-495C-99D4-080203426382}.jpg,2012-09-07 17:05:34.648000,2012-09-07 17:05:36.059000
+ILL000565,Julie A. Curry,Julie A.,,Curry,,,False,il,,,,http://ilga.gov/images/members/{090F9714-8ABA-4888-AEAC-ECCC2B935017}.jpg,2012-09-07 17:05:34.730000,2012-09-07 17:05:36.054000
+ILL000566,Steve Davis,Steve,,Davis,,,False,il,,,,http://ilga.gov/images/members/{A1916A56-F5ED-4030-8959-0F624372EC02}.jpg,2012-09-07 17:05:34.766000,2012-09-07 17:05:36.057000
+ILL000570,Charles A. Hartke,Charles A.,,Hartke,,,False,il,,,,http://ilga.gov/images/members/{9AE10137-EA40-4600-9080-B45C063DD90E}.jpg,2012-09-07 17:05:34.970000,2012-09-07 17:05:36.055000
+ILL000577,John Philip Novak,John Philip,,Novak,,,False,il,,,,http://ilga.gov/images/members/{BB2CC13C-E12F-4F90-BBB8-DB209C72C013}.jpg,2012-09-07 17:05:35.306000,2012-09-07 17:05:36.070000
+ILL000578,Mary K. O'Brien,Mary K.,,O'Brien,,,False,il,,,,http://ilga.gov/images/members/{F05E9B5F-BB25-420C-BBB1-4F1E7902D7B4}.jpg,2012-09-07 17:05:35.318000,2012-09-07 17:05:36.069000
+ILL000583,David A. Wirsing,David A.,,Wirsing,,,False,il,,,,http://ilga.gov/images/members/{0FFC09BC-DE6B-46D4-8D03-5EF9919D7BCA}.jpg,2012-09-07 17:05:35.714000,2012-09-07 17:05:36.067000
+ILL000585,Cheryl Axley,Cheryl,,Axley,,,False,il,,,,http://ilga.gov/images/members/{DBA54669-0EDB-477E-866B-CF8E49E3F74E}.jpg,2012-09-07 17:06:55.840000,2012-09-07 17:06:58.745000
+ILL000589,Gary G. Dahl,Gary G.,,Dahl,,,False,il,,,,http://ilga.gov/images/members/{27DB5E3C-3172-4090-9CAA-33FF6B0B2E04}.jpg,2012-09-07 17:06:55.951000,2012-09-07 17:06:58.748000
+ILL000604,Phyllis Petka,Phyllis,,Petka,,,False,il,,,,http://ilga.gov/images/members/{8A697866-3353-4442-B4F1-E42208BA72BE}.jpg,2012-09-07 17:06:56.400000,2012-09-07 17:06:58.750000
+ILL000627,Michelle Chavez,Michelle,,Chavez,,,False,il,,,,http://ilga.gov/images/members/{0847B4DC-7123-4C4B-8185-E2E60B60E51E}.jpg,2012-09-07 17:06:56.935000,2012-09-07 17:06:58.689000
+ILL000651,Elga L. Jefferies,Elga L.,,Jefferies,,,False,il,,,,http://ilga.gov/images/members/{BCE70081-6101-4D60-B703-72336A6DD831}.jpg,2012-09-07 17:06:57.473000,2012-09-07 17:06:58.691000
+ILL000652,Roger Jenisch,Roger,,Jenisch,,,False,il,,,,http://ilga.gov/images/members/{931C7281-E091-4401-B098-CF2EDA77ABA3}.jpg,2012-09-07 17:06:57.497000,2012-09-07 17:06:58.703000
+ILL000672,Milton Patterson,Milton,,Patterson,,,False,il,,,,http://ilga.gov/images/members/{50C2703C-3DF0-457E-9122-F55B772D8846}.jpg,2012-09-07 17:06:57.959000,2012-09-07 17:06:58.694000
+ILL000676,Aaron Schock,Aaron,,Schock,,,False,il,,,,http://ilga.gov/images/members/{620A5EA0-BB31-40C1-B976-3234203F0FA8}.jpg,2012-09-07 17:06:58.131000,2012-09-07 17:06:58.730000
+ILL000688,Michael Bond,Michael,,Bond,,,False,il,,,,http://ilga.gov/images/members/{37964DB3-6BAD-483F-89CB-F93B4D1AE3D7}.jpg,2012-09-07 17:08:17.609000,2012-09-07 17:08:20.929000
+ILL000741,Joan G. Krupa,Joan G.,,Krupa,,,False,il,,,,http://ilga.gov/images/members/{9F4388B6-BDF7-42C3-8629-538B5725FF88}.jpg,2012-09-07 17:08:19.489000,2012-09-07 17:08:20.920000
+ILL000765,Scott Wilzbach,Scott,,Wilzbach,,,False,il,,,,http://ilga.gov/images/members/{71502A60-1E11-42BD-9E05-21CC59DC41B4}.jpg,2012-09-07 17:08:20.403000,2012-09-07 17:08:20.807000
+ILL000792,William D. Burns,William D.,,Burns,,,False,il,,,,http://ilga.gov/images/members/{CD1C7BD7-9856-4B51-A462-1CC45DE014E7}.jpg,2012-09-07 17:09:42.004000,2012-09-07 17:09:43.795000
+ILL000793,Michael J. Carberry,Michael J.,,Carberry,,,False,il,,,,http://ilga.gov/images/members/{77A9C9C9-6F78-466F-A0D7-5BC776FF067E}.jpg,2012-09-07 17:09:42.018000,2012-09-07 17:09:43.800000
+ILL000803,Russell Geisler,Russell,,Geisler,,,False,il,,,,http://ilga.gov/images/members/{5B0EAED8-166B-470A-AC80-114E2A623263}.jpg,2012-09-07 17:09:42.410000,2012-09-07 17:09:43.784000
+ILL000807,Betsy Hannig,Betsy,,Hannig,,,False,il,,,,http://ilga.gov/images/members/{06787E01-BDE3-4D26-869C-328473A2DFB4}.jpg,2012-09-07 17:09:42.514000,2012-09-07 17:09:43.818000
+ILL000819,Kathleen C Moore,Kathleen C,,Moore,,,False,il,,,,http://ilga.gov/images/members/{E53C9EA0-2293-4C40-83BD-2856DCBD849F}.jpg,2012-09-07 17:09:42.949000,2012-09-07 17:09:43.789000
+ILL000822,John M. O'Sullivan,John M.,,O'Sullivan,,,False,il,,,,http://ilga.gov/images/members/{38B30132-8743-4766-B937-013EFD4AA1CB}.jpg,2012-09-07 17:09:43.030000,2012-09-07 17:09:43.798000
+ILL000830,Mark L. Walker,Mark L.,,Walker,,,False,il,,,,http://ilga.gov/images/members/{89A8A24A-1362-47DA-8207-33EDD5F1E8BE}.jpg,2012-09-07 17:09:43.428000,2012-09-07 17:09:43.807000
+ILL000862,Katherine Cloonen,Katherine,,Cloonen,,,False,il,,,,http://ilga.gov/images/members/%7B7D289AEC-6606-476C-86B1-C32357EC8AEC%7D.jpg,2013-01-12 00:09:22.155000,2017-01-14 15:04:45.492000
+ILL000872,Josh Harms,Josh,,Harms,,,False,il,,,,http://ilga.gov/images/members/%7B97BAA4CD-77D8-4CD7-BBBF-E4B1D350FF8C%7D.jpg,2013-01-12 00:09:22.391000,2015-01-13 19:43:49.040000
+ILL000895,Mike Smiddy,Mike,,Smiddy,,,False,il,,,,http://ilga.gov/images/members/%7BADEFED96-DA9B-493D-BF72-66B59CD53FAF%7D.jpg,2013-01-12 00:09:22.845000,2017-01-14 15:04:45.498000
+ILL000979,John D. Anthony,John D.,,Anthony,,,False,il,,,,http://ilga.gov/images/members/%7B057BB582-EC61-4F9A-B81E-2898D462DACB%7D.jpg,2013-08-23 05:23:57.871000,2016-08-30 17:14:37.597000
+ILL000992,Pamela Reaves-Harris,Pamela,,Reaves-Harris,,,False,il,,,,http://ilga.gov/images/members/%7B07593939-B788-43A5-9BE9-ED5119399A4A%7D.jpg,2015-01-13 19:43:47.966000,2017-01-14 15:04:45.500000
+ILL001012,Andrew F Skoog,Andrew F,,Skoog,,,False,il,,,,http://ilga.gov/images/members/%7B9B3B604C-7EC7-4D6C-BF62-CB1F26B3F78D%7D.jpg,2016-01-05 12:14:12.043000,2017-01-14 15:04:45.478000
+ILL001040,Thomas M Rooney,Thomas M,,Rooney,,,False,il,,,,http://ilga.gov/images/members/%7B24F2CAC0-B9AC-4B89-8578-AE0AD6C94903%7D.jpg,2016-09-22 08:07:05.557000,2017-01-14 15:04:45.514000
+ILL000061,Luis Arroyo,Luis,,Arroyo,,,True,il,lower,3,Democratic,http://ilga.gov/images/members/%7B1D4B0150-08AC-4850-AD44-B5B5E37CF4D1%7D.jpg,2011-08-23 15:06:27.831000,2017-06-01 11:46:06.529000
+ILL000063,Daniel V. Beiser,Daniel,V.,Beiser,,,True,il,lower,111,Democratic,http://ilga.gov/images/members/%7BA2AB5BBF-2990-4FF9-863A-7781FC7A1518%7D.jpg,2011-08-23 15:06:27.854000,2017-06-01 11:46:05.407000
+ILL000064,Patricia R. Bellock,Patricia,R.,Bellock,,,True,il,lower,47,Republican,http://ilga.gov/images/members/%7B7F4F182D-70F7-4C92-BC04-787910D47850%7D.jpg,2011-08-23 15:06:27.863000,2017-06-01 11:46:06.797000
+ILL000069,Dan Brady,Dan,,Brady,,,True,il,lower,105,Republican,http://ilga.gov/images/members/%7BB8BEEC1C-5E74-479B-8640-7B3407FDF4EB%7D.jpg,2011-08-23 15:06:27.913000,2017-06-01 11:46:05.831000
+ILL000072,Daniel J. Burke,Daniel,J.,Burke,,,True,il,lower,1,Democratic,http://ilga.gov/images/members/%7BD570B0F6-6F3C-452F-A4C3-74CF64087011%7D.jpg,2011-08-23 15:06:28.056000,2017-06-01 11:46:06.144000
+ILL000073,Kelly Burke,Kelly M.,,Burke,,,True,il,lower,36,Democratic,http://ilga.gov/images/members/%7B5D9078FA-21F1-411F-A447-B5E7299AC314%7D.jpg,2011-08-23 15:06:28.066000,2017-06-01 11:46:06.623000
+ILL000075,Kelly M. Cassidy,Kelly,M.,Cassidy,,,True,il,lower,14,Democratic,http://ilga.gov/images/members/%7B3EFBDD50-41FF-4677-AA47-FB35B70C4667%7D.jpg,2011-08-23 15:06:28.087000,2017-06-01 11:46:05.512000
+ILL000076,John D. Cavaletto,John,D.,Cavaletto,,,True,il,lower,107,Republican,http://ilga.gov/images/members/%7BA5CDE4F0-F985-4846-9C7D-F545FA4E36BB%7D.jpg,2011-08-23 15:06:28.097000,2017-06-01 11:46:06.314000
+ILL000077,Linda Chapa LaVia,Linda,,Chapa LaVia,,,True,il,lower,83,Democratic,http://ilga.gov/images/members/%7BC5A39C3F-04BC-4F42-A93C-A7D268623400%7D.jpg,2011-08-23 15:06:28.107000,2017-06-01 11:46:06.946000
+ILL000082,Jerry F. Costello II,Jerry,F.,Costello,II,,True,il,lower,116,Democratic,http://ilga.gov/images/members/%7B1A3F7A0B-4E51-4BDA-824F-4DC35DD7A64A%7D.jpg,2011-08-23 15:06:28.157000,2017-06-01 11:46:06.749000
+ILL000083,Fred Crespo,Fred,,Crespo,,,True,il,lower,44,Democratic,http://ilga.gov/images/members/%7BB92F7A2F-6517-4A3F-87B3-56FAA240285F%7D.jpg,2011-08-23 15:06:28.169000,2017-06-01 11:46:06.799000
+ILL000086,Barbara Flynn Currie,Barbara,Flynn,Currie,,,True,il,lower,25,Democratic,http://ilga.gov/images/members/%7BD9FD038D-C65B-4906-B637-63BA77C9390D%7D.jpg,2011-08-23 15:06:28.198000,2017-06-01 11:46:06.879000
+ILL000087,John D'Amico,John C.,,D'Amico,,,True,il,lower,15,Democratic,http://ilga.gov/images/members/%7BAF790B68-DC07-47D1-95DA-E7ED5AF4B332%7D.jpg,2011-08-23 15:06:28.208000,2017-06-01 11:46:06.562000
+ILL000089,William Davis,William,,Davis,,,True,il,lower,30,Democratic,http://ilga.gov/images/members/%7B6012DCA8-7486-49F9-A387-8703A2CF469C%7D.jpg,2011-08-23 15:06:28.227000,2017-06-01 11:46:05.939000
+ILL000090,Anthony DeLuca,Anthony,,DeLuca,,,True,il,lower,80,Democratic,http://ilga.gov/images/members/%7B64399002-8B14-4D8E-80A4-54A77F25421C%7D.jpg,2011-08-23 15:06:28.237000,2017-06-01 11:46:06.937000
+ILL000094,Jim Durkin,Jim,,Durkin,,,True,il,lower,82,Republican,http://ilga.gov/images/members/%7B760BBA90-38A6-4917-8C3A-D28908F67ED7%7D.jpg,2011-08-23 15:06:28.278000,2017-06-01 11:42:24.541000
+ILL000098,Sara Feigenholtz,Sara,,Feigenholtz,,,True,il,lower,12,Democratic,http://ilga.gov/images/members/%7B40E4D4B9-C6ED-4B40-922D-30C1D51B92D3%7D.jpg,2011-08-23 15:06:28.317000,2017-06-01 11:46:06.801000
+ILL000099,Mary E. Flowers,Mary,E.,Flowers,,,True,il,lower,31,Democratic,http://ilga.gov/images/members/%7B3049B08D-BD65-4FCF-B82C-D46B0B4CCF4F%7D.jpg,2011-08-23 15:06:28.328000,2017-06-01 11:46:05.779000
+ILL000100,La Shawn K. Ford,La Shawn,K.,Ford,,,True,il,lower,8,Democratic,http://ilga.gov/images/members/%7BBCC3C8D6-5728-4A69-8A3B-F203314DD563%7D.jpg,2011-08-23 15:06:28.338000,2017-06-01 11:46:06.670000
+ILL000101,Mike Fortner,Mike,,Fortner,,,True,il,lower,49,Republican,http://ilga.gov/images/members/%7BDA31CA6E-37CB-4999-BC68-1ED4404EF205%7D.jpg,2011-08-23 15:06:28.348000,2017-06-01 11:46:06.942000
+ILL000103,Robyn Gabel,Robyn,,Gabel,,,True,il,lower,18,Democratic,http://ilga.gov/images/members/%7B739CC8F9-E9E4-40A1-AB86-883EF9A5E313%7D.jpg,2011-08-23 15:06:28.370000,2017-06-01 11:46:06.768000
+ILL000106,Jehan A. Gordon,Jehan,A.,Gordon-Booth,,,True,il,lower,92,Democratic,http://ilga.gov/images/members/%7BA81D0C01-0A50-446D-B796-3A5A6D046EB1%7D.jpg,2011-08-23 15:06:28.401000,2017-06-01 11:46:05.944000
+ILL000107,Norine Hammond,Norine K.,,Hammond,,,True,il,lower,93,Republican,http://ilga.gov/images/members/%7B07D3914D-440A-4891-99AE-256F657BBFFF%7D.jpg,2011-08-23 15:06:28.411000,2017-06-01 11:46:06.716000
+ILL000108,David Harris,David,,Harris,,,True,il,lower,53,Republican,http://ilga.gov/images/members/%7B8C1DA2FE-14CF-4226-B353-E64F5F98CF7E%7D.jpg,2011-08-23 15:06:28.421000,2017-06-01 11:46:06.877000
+ILL000109,Greg Harris,Gregory,,Harris,,,True,il,lower,13,Democratic,http://ilga.gov/images/members/%7B8EDBEBE1-17C3-4EBA-A5AA-9DC1321DB0B3%7D.jpg,2011-08-23 15:06:28.431000,2017-06-01 11:46:06.657000
+ILL000111,Chad Hays,Chad,,Hays,,,True,il,lower,104,Republican,http://ilga.gov/images/members/%7BDF31C82F-F910-430F-B144-79E70FE2F43C%7D.jpg,2011-08-23 15:06:28.451000,2017-06-01 11:46:05.813000
+ILL000112,Elizabeth Hernandez,Elizabeth,,Hernandez,,,True,il,lower,24,Democratic,http://ilga.gov/images/members/%7B4E4C2A21-FDC2-48CA-9BA8-462A62E7A33B%7D.jpg,2011-08-23 15:06:28.461000,2017-06-01 11:46:06.706000
+ILL000118,Thaddeus Jones,Thaddeus,,Jones,,,True,il,lower,29,Democratic,http://ilga.gov/images/members/%7B6EE82A11-2CC6-48E9-9DE6-61D83EBCAB6B%7D.jpg,2011-08-23 15:06:28.570000,2017-06-01 11:46:06.539000
+ILL000121,Lou Lang,Lou,,Lang,,,True,il,lower,16,Democratic,http://ilga.gov/images/members/%7B0700D5D8-384A-4BB7-8C8B-63FB204923ED%7D.jpg,2011-08-23 15:06:28.619000,2017-06-01 11:46:06.808000
+ILL000123,Camille Y. Lilly,Camille,Y.,Lilly,,,True,il,lower,78,Democratic,http://ilga.gov/images/members/%7B84D8FB64-9F82-405A-9376-A69ADFB46E53%7D.jpg,2011-08-23 15:06:28.639000,2017-06-01 11:46:06.810000
+ILL000125,Michael J. Madigan,Michael,J.,Madigan,,,True,il,lower,22,Democratic,http://ilga.gov/images/members/%7B8270D4F3-2A64-41A4-A409-AEF225004390%7D.jpg,2011-08-23 15:06:28.658000,2017-06-01 11:42:24.572000
+ILL000129,Rita Mayfield,Rita,,Mayfield,,,True,il,lower,60,Democratic,http://ilga.gov/images/members/%7B3A2DAB8B-B5F8-48EE-85D3-05894ED42A5D%7D.jpg,2011-08-23 15:06:28.699000,2017-06-01 11:46:06.685000
+ILL000130,Emily McAsey,Emily,,McAsey,,,True,il,lower,85,Democratic,http://ilga.gov/images/members/%7BCC3C0B36-5DA6-48DB-98B0-492B409F0768%7D.jpg,2011-08-23 15:06:28.709000,2017-06-01 11:46:06.137000
+ILL000131,Michael P. McAuliffe,Michael,P.,McAuliffe,,,True,il,lower,20,Republican,http://ilga.gov/images/members/%7B3C94A86E-56D4-408D-8B2E-C23872E89352%7D.jpg,2011-08-23 15:06:28.721000,2017-06-01 11:46:05.428000
+ILL000135,Bill Mitchell,Bill,,Mitchell,,,True,il,lower,101,Republican,http://ilga.gov/images/members/%7BA57F99DA-0B3F-43E5-99DD-E5DBCC7DCF0C%7D.jpg,2011-08-23 15:06:28.762000,2017-06-01 11:46:05.430000
+ILL000138,Thomas Morrison,Thomas,,Morrison,,,True,il,lower,54,Republican,http://ilga.gov/images/members/%7B590FA09F-B685-4E88-B384-B5EE3F2D58E8%7D.jpg,2011-08-23 15:06:28.794000,2017-06-01 11:46:06.141000
+ILL000141,Michelle Mussman,Michelle,,Mussman,,,True,il,lower,56,Democratic,http://ilga.gov/images/members/%7B63BBD5DE-333E-4015-8658-4F7B2D45E1B7%7D.jpg,2011-08-23 15:06:28.825000,2017-06-01 11:46:06.820000
+ILL000142,Elaine Nekritz,Elaine,,Nekritz,,,True,il,lower,57,Democratic,http://ilga.gov/images/members/%7B91CB9FC9-A261-418C-BD66-19EB8EC8D912%7D.jpg,2011-08-23 15:06:28.835000,2017-06-01 11:46:05.666000
+ILL000145,Brandon W. Phelps,Brandon,W.,Phelps,,,True,il,lower,118,Democratic,http://ilga.gov/images/members/%7BA536B868-B125-48B8-AF93-F4165EBCFC5B%7D.jpg,2011-08-23 15:06:28.865000,2017-06-01 11:46:05.786000
+ILL000148,Robert W. Pritchard,Robert,W.,Pritchard,,,True,il,lower,70,Republican,http://ilga.gov/images/members/%7B18EF11CE-497B-4D38-B993-E9ECD80730F0%7D.jpg,2011-08-23 15:06:28.895000,2017-06-01 11:46:06.641000
+ILL000151,David Reis,David B.,,Reis,,,True,il,lower,109,Republican,http://ilga.gov/images/members/%7BE0F263B3-D624-421C-9A5D-835ED0CB21AA%7D.jpg,2011-08-23 15:06:28.926000,2017-06-01 11:46:06.544000
+ILL000152,Al Riley,Al,,Riley,,,True,il,lower,38,Democratic,http://ilga.gov/images/members/%7B90F4EABA-F0A4-443E-A255-CB35C95F083E%7D.jpg,2011-08-23 15:06:28.936000,2017-06-01 11:46:06.957000
+ILL000153,Robert Rita,Robert,,Rita,,,True,il,lower,28,Democratic,http://ilga.gov/images/members/%7BAC16F1E8-0988-4A08-A2E5-EF4D06371A24%7D.jpg,2011-08-23 15:06:28.946000,2017-06-01 11:46:06.890000
+ILL000161,Carol A. Sente,Carol,A.,Sente,,,True,il,lower,59,Democratic,http://ilga.gov/images/members/%7B9F2B5100-76F9-42F7-B622-C981E4862597%7D.jpg,2011-08-23 15:06:29.031000,2017-06-01 11:46:04.942000
+ILL000163,Keith P. Sommer,Keith,P.,Sommer,,,True,il,lower,88,Republican,http://ilga.gov/images/members/%7BC88F32E6-78FD-4BFF-9894-105CEC155A8F%7D.jpg,2011-08-23 15:06:29.052000,2017-06-01 11:46:05.941000
+ILL000164,Joe Sosnowski,Joe,,Sosnowski,,,True,il,lower,69,Republican,http://ilga.gov/images/members/%7B7DEBF89C-D2BA-4952-94A2-40F564A00144%7D.jpg,2011-08-23 15:06:29.062000,2017-06-01 11:46:06.959000
+ILL000165,Cynthia Soto,Cynthia,,Soto,,,True,il,lower,4,Democratic,http://ilga.gov/images/members/%7BE55D6C53-E58A-417C-88C1-67366EC69DFF%7D.jpg,2011-08-23 15:06:29.072000,2017-06-01 11:46:06.703000
+ILL000167,André M. Thapedi,André,M.,Thapedi,,,True,il,lower,32,Democratic,http://ilga.gov/images/members/%7B5E31C56F-A3AA-4089-B697-E05B02B3F147%7D.jpg,2011-08-23 15:06:29.092000,2017-06-01 11:46:06.541000
+ILL000170,Arthur Turner,Arthur,,Turner,,,True,il,lower,9,Democratic,http://ilga.gov/images/members/%7BB219A2D0-208B-45CB-BDAA-287DC452F74E%7D.jpg,2011-08-23 15:06:29.122000,2017-06-01 11:46:06.897000
+ILL000171,Michael Unes,Michael D.,,Unes,,,True,il,lower,91,Republican,http://ilga.gov/images/members/%7B376F1209-F11E-4357-9F50-85702CFDE27F%7D.jpg,2011-08-23 15:06:29.136000,2017-06-01 11:46:06.830000
+ILL000174,Ann Williams,Ann M.,,Williams,,,True,il,lower,11,Democratic,http://ilga.gov/images/members/%7BC45B418C-4848-4467-ADC2-739B2D1E4418%7D.jpg,2011-08-23 15:06:29.166000,2017-06-01 11:46:06.584000
+ILL000177,Michael J. Zalewski,Michael,J.,Zalewski,,,True,il,lower,23,Democratic,http://ilga.gov/images/members/%7B120BA436-317C-406F-9408-F648E3594BA1%7D.jpg,2011-08-23 15:06:29.196000,2017-06-01 11:46:06.871000
+ILL000233,"Lawrence Walsh, Jr.",Lawrence,,Walsh,Jr.,,True,il,lower,86,Democratic,http://ilga.gov/images/members/%7BF11DA3BE-D8FF-48F0-8450-43231B4DD28F%7D.jpg,2011-11-09 09:52:50.167000,2017-06-01 11:46:06.108000
+ILL000287,Jay Hoffman,Jay,,Hoffman,,,True,il,lower,113,Democratic,http://ilga.gov/images/members/%7BFCD7EF06-36D9-46A7-8085-4B5A5ED81A80%7D.jpg,2011-11-09 09:52:51.093000,2017-06-01 11:46:06.093000
+ILL000535,"Marcus C. Evans, Jr.",Marcus C.,,Evans,Jr.,,True,il,lower,33,Democratic,http://ilga.gov/images/members/%7BBFD8B13A-CD65-452C-8F20-9D32C3A013BF%7D.jpg,2012-04-17 08:03:30.676000,2017-06-01 11:46:06.882000
+ILL000541,"Elgie R. Sims, Jr.",Elgie R.,,Sims,Jr.,,True,il,lower,34,Democratic,http://ilga.gov/images/members/%7B5FF0F578-5245-48D3-997A-494E4B5EFCF3%7D.jpg,2012-08-07 08:37:46.668000,2017-06-01 11:46:06.874000
+ILL000543,John M. Cabello,John M.,,Cabello,,,True,il,lower,68,Republican,http://ilga.gov/images/members/%7B8AFD3AA5-D48C-4A27-B8A4-B595F925C6D1%7D.jpg,2012-08-14 08:42:03.708000,2017-06-01 11:46:06.628000
+ILL000863,Deb Conroy,Deb,,Conroy,,,True,il,lower,46,Democratic,http://ilga.gov/images/members/%7B643B5E07-BEDA-400C-BBDD-8FADE7A97A38%7D.jpg,2013-01-12 00:09:22.163000,2017-06-01 11:46:06.787000
+ILL000865,C.D. Davidsmeyer,C.D.,,Davidsmeyer,,,True,il,lower,100,Republican,http://ilga.gov/images/members/%7BE54250D5-EB1C-4CB6-9CF9-CA95CAA2F269%7D.jpg,2013-01-12 00:09:22.213000,2017-06-01 11:46:05.193000
+ILL000866,Tom Demmer,Tom,,Demmer,,,True,il,lower,90,Republican,http://ilga.gov/images/members/%7B32747BD4-4453-4942-8DE7-CCED7209FFE2%7D.jpg,2013-01-12 00:09:22.240000,2017-06-01 11:46:06.792000
+ILL000867,Scott Drury,Scott,,Drury,,,True,il,lower,58,Democratic,http://ilga.gov/images/members/%7BB7088E86-6C1A-4716-A833-24E33A902787%7D.jpg,2013-01-12 00:09:22.248000,2017-06-01 11:46:06.148000
+ILL000868,Laura Fine,Laura,,Fine,,,True,il,lower,17,Democratic,http://ilga.gov/images/members/%7B80280E6A-02AE-4CC7-B1E1-3DEA2A91BD48%7D.jpg,2013-01-12 00:09:22.296000,2017-06-01 11:46:06.790000
+ILL000875,Frances Ann Hurley,Frances Ann,,Hurley,,,True,il,lower,35,Democratic,http://ilga.gov/images/members/%7BE5ABA68E-10AC-4592-B38E-2C65AFB777B2%7D.jpg,2013-01-12 00:09:22.450000,2017-06-01 11:46:05.772000
+ILL000876,Jeanne M Ives,Jeanne M,,Ives,,,True,il,lower,42,Republican,http://ilga.gov/images/members/%7B0D8D0F9F-8803-4718-9D26-C757423D8118%7D.jpg,2013-01-12 00:09:22.457000,2017-06-01 11:46:05.454000
+ILL000877,Stephanie A. Kifowit,Stephanie A.,,Kifowit,,,True,il,lower,84,Democratic,http://ilga.gov/images/members/%7B96E18070-8D3D-4EEC-8432-8A30FEC19E5C%7D.jpg,2013-01-12 00:09:22.512000,2017-06-01 11:46:06.804000
+ILL000879,Natalie A. Manley,Natalie A.,,Manley,,,True,il,lower,98,Democratic,http://ilga.gov/images/members/%7BF3781CCA-4285-44C3-8E60-811B9229EA1B%7D.jpg,2013-01-12 00:09:22.561000,2017-06-01 11:46:06.812000
+ILL000880,Robert Martwick,Robert,,Martwick,,,True,il,lower,19,Democratic,http://ilga.gov/images/members/%7BF6FFE366-9A8B-422B-9111-1A63EFED05C6%7D.jpg,2013-01-12 00:09:22.569000,2017-06-01 11:46:06.885000
+ILL000881,David McSweeney,David,,McSweeney,,,True,il,lower,52,Republican,http://ilga.gov/images/members/%7BA49355BD-BBD6-43D9-8310-B25869FD5D60%7D.jpg,2013-01-12 00:09:22.613000,2017-06-01 11:46:06.887000
+ILL000882,Charles Meier,Charles,,Meier,,,True,il,lower,108,Republican,http://ilga.gov/images/members/%7B9D43D019-A58A-47EC-B769-A7050C4B49DB%7D.jpg,2013-01-12 00:09:22.624000,2017-06-01 11:46:06.817000
+ILL000884,Christian L. Mitchell,Christian L.,,Mitchell,,,True,il,lower,26,Democratic,http://ilga.gov/images/members/%7B8D071FCE-4835-4BBC-9B0E-1FAF147E69E0%7D.jpg,2013-01-12 00:09:22.646000,2017-06-01 11:46:06.649000
+ILL000885,Martin J. Moylan,Martin J.,,Moylan,,,True,il,lower,55,Democratic,http://ilga.gov/images/members/%7B3E365092-6B37-486C-996B-C140284F8723%7D.jpg,2013-01-12 00:09:22.668000,2017-06-01 11:46:06.955000
+ILL000891,Sue Scherer,Sue,,Scherer,,,True,il,lower,96,Democratic,http://ilga.gov/images/members/%7BA0B92E66-B4F7-4B85-A7F2-14C0153B426F%7D.jpg,2013-01-12 00:09:22.807000,2017-06-01 11:46:06.312000
+ILL000898,Silvana Tabares,Silvana,,Tabares,,,True,il,lower,21,Democratic,http://ilga.gov/images/members/%7B9B1B511E-F2D7-4B3D-9530-A0D3DF8172FB%7D.jpg,2013-01-12 00:09:22.923000,2017-06-01 11:46:06.771000
+ILL000901,Emanuel Chris Welch,Emanuel Chris,,Welch,,,True,il,lower,7,Democratic,http://ilga.gov/images/members/%7B5D419B94-66B4-4F3B-86F1-BFF37B3FA55C%7D.jpg,2013-01-12 00:09:22.980000,2017-06-01 11:46:06.966000
+ILL000902,Barbara Wheeler,Barbara,,Wheeler,,,True,il,lower,64,Republican,http://ilga.gov/images/members/%7BB35C80ED-8639-4B29-A536-FE7EE1A1C1C2%7D.jpg,2013-01-12 00:09:22.989000,2017-06-01 11:46:06.708000
+ILL000903,Kathleen Willis,Kathleen,,Willis,,,True,il,lower,77,Democratic,http://ilga.gov/images/members/%7B771B20C1-5974-452E-9CE7-D8070D5A82FF%7D.jpg,2013-01-12 00:09:23.003000,2017-06-01 11:46:06.940000
+ILL000904,Sam Yingling,Sam,,Yingling,,,True,il,lower,62,Democratic,http://ilga.gov/images/members/%7B4A9D137F-EA10-4C6A-BAB4-27CE34D4BED1%7D.jpg,2013-01-12 00:09:23.011000,2017-06-01 11:46:06.968000
+ILL000971,"Jaime M. Andrade, Jr.",Jaime M.,,Andrade,Jr.,,True,il,lower,40,Democratic,http://ilga.gov/images/members/%7B34A19039-7BF5-44A7-9A06-4EC121E52514%7D.jpg,2013-08-16 05:23:56.448000,2017-06-01 11:46:05.909000
+ILL000980,Brian W. Stewart,Brian W.,,Stewart,,,True,il,lower,89,Republican,http://ilga.gov/images/members/%7BFD5BBF8F-9CED-444D-A991-D308A724998E%7D.jpg,2013-10-08 06:05:23.380000,2017-06-01 11:46:06.895000
+ILL000981,Anna Moeller,Anna,,Moeller,,,True,il,lower,43,Democratic,http://ilga.gov/images/members/%7BDCE9D682-0582-49BD-AD67-98C2502D89C2%7D.jpg,2014-04-01 07:36:04.707000,2017-06-01 11:46:06.139000
+ILL000982,Sheri Jesiel,Sheri,,Jesiel,,,True,il,lower,61,Republican,http://ilga.gov/images/members/%7BDEED32A3-94E4-431F-8ECE-82F17698C404%7D.jpg,2014-07-04 09:07:12.289000,2017-06-01 11:46:06.677000
+ILL000983,Litesa E. Wallace,Litesa E.,,Wallace,,,True,il,lower,67,Democratic,http://ilga.gov/images/members/%7BEDC789FB-ED6B-43C2-BFF8-BE71E6513C12%7D.jpg,2014-08-01 09:05:44.080000,2017-06-01 11:46:06.833000
+ILL000985,Carol Ammons,Carol,,Ammons,,,True,il,lower,103,Democratic,http://ilga.gov/images/members/%7BBD4B7A5C-6D24-4E82-9C18-D5A0F3C42F6C%7D.jpg,2015-01-13 19:43:46.737000,2017-06-01 11:46:05.829000
+ILL000986,Grant Wehrli,Grant,,Wehrli,,,True,il,lower,41,Republican,http://ilga.gov/images/members/%7B1842D15F-3B1B-4F28-B5C0-6D5C99D263E5%7D.jpg,2015-01-13 19:43:47.113000,2017-06-01 11:46:06.964000
+ILL000987,Peter Breen,Peter,,Breen,,,True,il,lower,48,Republican,http://ilga.gov/images/members/%7B47477A06-EF1E-4C7B-9B08-3D718CAAFD6A%7D.jpg,2015-01-13 19:43:47.454000,2017-06-01 11:46:06.096000
+ILL000988,Thomas M. Bennett,Thomas M.,,Bennett,,,True,il,lower,106,Republican,http://ilga.gov/images/members/%7B8AC89431-9F59-46C7-9D68-E141A152A362%7D.jpg,2015-01-13 19:43:47.519000,2017-06-01 11:46:06.115000
+ILL000989,Keith R. Wheeler,Keith,R.,Wheeler,,,True,il,lower,50,Republican,http://ilga.gov/images/members/%7BE55EB524-32B8-4A2A-951D-4BD5A1182F5B%7D.jpg,2015-01-13 19:43:47.606000,2017-06-01 11:46:05.473000
+ILL000990,Reginald Phillips,Reginald,,Phillips,,,True,il,lower,110,Republican,http://ilga.gov/images/members/%7B57B94E4C-D470-4041-A72C-1AFC80C58FB5%7D.jpg,2015-01-13 19:43:47.879000,2017-06-01 11:46:05.586000
+ILL000991,Terri Bryant,Terri,,Bryant,,,True,il,lower,115,Republican,http://ilga.gov/images/members/%7B880F9FD4-185B-4339-9AA2-4EF360F55F79%7D.jpg,2015-01-13 19:43:47.934000,2017-06-01 11:46:05.980000
+ILL000993,Margo McDermed,Margo,,McDermed,,,True,il,lower,37,Republican,http://ilga.gov/images/members/%7BDAC1967F-26C4-43B2-9BE4-C7F3D78922D4%7D.jpg,2015-01-13 19:43:48.248000,2017-06-01 11:46:06.815000
+ILL000994,Randy E. Frese,Randy E.,,Frese,,,True,il,lower,94,Republican,http://ilga.gov/images/members/%7BBFF3CD04-BFB6-4681-952F-D519B27FE904%7D.jpg,2015-01-13 19:43:48.270000,2017-06-01 11:46:06.672000
+ILL000995,Will Guzzardi,Will,,Guzzardi,,,True,il,lower,39,Democratic,http://ilga.gov/images/members/%7BC127AF36-0EAE-48B6-8C31-86AAE3935790%7D.jpg,2015-01-13 19:43:48.280000,2017-06-01 11:46:05.834000
+ILL000996,Christine Winger,Christine,,Winger,,,True,il,lower,45,Republican,http://ilga.gov/images/members/%7B047AAF1B-A64A-469C-9FE9-3BCB979EFC8A%7D.jpg,2015-01-13 19:43:48.301000,2017-06-01 11:46:05.989000
+ILL000997,Steven A. Andersson,Steven A.,,Andersson,,,True,il,lower,65,Republican,http://ilga.gov/images/members/%7B0AD5763F-434C-4AE5-A5DA-B8CFE760F5D9%7D.jpg,2015-01-13 19:43:48.564000,2017-06-01 11:46:06.795000
+ILL001000,Mark Batinick,Mark,,Batinick,,,True,il,lower,97,Republican,http://ilga.gov/images/members/%7B6432B106-8A75-40C0-BAE1-238FFE4DA487%7D.jpg,2015-01-16 15:58:27.775000,2017-06-01 11:46:05.978000
+ILL001003,Avery Bourne,Avery,,Bourne,,,True,il,lower,95,Republican,http://ilga.gov/images/members/%7B1E0F129F-D165-4015-A615-FAB6B0DED9F0%7D.jpg,2015-02-19 02:43:15.022000,2017-06-01 11:46:06.763000
+ILL001004,Tim Butler,Tim,,Butler,,,True,il,lower,87,Republican,http://ilga.gov/images/members/%7B8D147B40-5711-4E50-AAC8-ED40137F3B46%7D.jpg,2015-03-04 04:02:26.502000,2017-06-01 11:46:05.652000
+ILL001009,Sonya M. Harper,Sonya M.,,Harper,,,True,il,lower,6,Democratic,http://ilga.gov/images/members/%7B04C99384-69F8-4ACE-9E43-11E21CC5F820%7D.jpg,2015-10-24 11:24:31.715000,2017-06-01 11:46:05.684000
+ILL001010,Sara Wojcicki Jimenez,Sara Wojcicki,,Jimenez,,,True,il,lower,99,Republican,http://ilga.gov/images/members/%7BCD4544EF-E777-4441-9A7F-480DC43DBBE6%7D.jpg,2015-11-21 12:33:34.271000,2017-06-01 11:46:06.806000
+ILL001037,David A. Welter,David A.,,Welter,,,True,il,lower,75,Republican,http://ilga.gov/images/members/%7BFDBB59A3-86E8-4DAA-9A29-27419536211A%7D.jpg,2016-07-12 08:05:38.515000,2017-06-01 11:46:06.546000
+ILL001038,David S. Olsen,David S.,,Olsen,,,True,il,lower,81,Republican,http://ilga.gov/images/members/%7BBB669B09-8F9D-4888-BAB6-EA87110920F9%7D.jpg,2016-08-02 08:05:53.661000,2017-06-01 11:46:05.464000
+ILL001042,Dave Severin,Dave,,Severin,,,True,il,lower,117,Republican,http://ilga.gov/images/members/%7BFC792043-4CE1-4796-BA38-E68B39A9847A%7D.jpg,2017-01-14 15:04:44.217000,2017-06-01 11:46:06.824000
+ILL001043,Juliana Stratton,Juliana,,Stratton,,,True,il,lower,5,Democratic,http://ilga.gov/images/members/%7B0B2E980B-44A9-4924-B93A-9ABF79D8EE3A%7D.jpg,2017-01-14 15:04:44.223000,2017-06-01 11:46:06.828000
+ILL001044,Tony McCombie,Tony,,McCombie,,,True,il,lower,71,Republican,http://ilga.gov/images/members/%7B0766A6E9-981F-491B-B3A1-12DF91F1DBDA%7D.jpg,2017-01-14 15:04:44.260000,2017-06-01 11:46:06.953000
+ILL001045,Ryan Spain,Ryan,,Spain,,,True,il,lower,73,Republican,http://ilga.gov/images/members/%7B4C25C70B-0E39-406B-9318-A899C2A6D1B0%7D.jpg,2017-01-14 15:04:44.278000,2017-06-01 11:46:06.962000
+ILL001047,Justin Slaughter,Justin,,Slaughter,,,True,il,lower,27,Democratic,http://ilga.gov/images/members/%7B170C17F3-38A1-42E5-B222-020B43077D53%7D.jpg,2017-01-14 15:04:44.380000,2017-06-01 11:46:06.573000
+ILL001048,Lindsay Parkhurst,Lindsay,,Parkhurst,,,True,il,lower,79,Republican,http://ilga.gov/images/members/%7B72D8A315-AF67-4260-AF98-4C0DA63C7087%7D.jpg,2017-01-14 15:04:44.419000,2017-06-01 11:46:06.098000
+ILL001051,Katie Stuart,Katie,,Stuart,,,True,il,lower,112,Democratic,http://ilga.gov/images/members/%7BD6DC8152-9760-4BEA-ACF5-C41785E6F6C4%7D.jpg,2017-01-14 15:04:44.515000,2017-06-01 11:46:05.716000
+ILL001052,Steven Reick,Steven,,Reick,,,True,il,lower,63,Republican,http://ilga.gov/images/members/%7BD4845B6E-9A2E-4F0E-9F70-503B2E5891CA%7D.jpg,2017-01-14 15:04:44.541000,2017-06-01 11:46:05.528000
+ILL001053,Jerry Lee Long,Jerry Lee,,Long,,,True,il,lower,76,Republican,http://ilga.gov/images/members/%7B808162B3-5723-4CFA-8CAC-4D04235AFEDE%7D.jpg,2017-01-14 15:04:44.616000,2017-06-01 11:46:05.884000
+ILL001054,Brad Halbrook,Brad,,Halbrook,,,True,il,lower,102,Republican,http://ilga.gov/images/members/%7B3F3C3739-E087-440D-B006-33043A8F5083%7D.jpg,2017-01-14 15:04:44.794000,2017-06-01 11:46:06.948000
+ILL001055,Daniel Swanson,Daniel,,Swanson,,,True,il,lower,74,Republican,http://ilga.gov/images/members/%7BF7512D74-4694-4272-9A1E-6935F4AD4F1D%7D.jpg,2017-01-14 15:04:44.841000,2017-06-01 11:46:05.568000
+ILL001056,LaToya Greenwood,LaToya,,Greenwood,,,True,il,lower,114,Democratic,http://ilga.gov/images/members/%7B87BFA17C-40F4-48B9-AFF5-5A0F37E8EEAF%7D.jpg,2017-01-14 15:04:44.860000,2017-06-01 11:46:06.117000
+ILL001057,Allen Skillicorn,Allen,,Skillicorn,,,True,il,lower,66,Republican,http://ilga.gov/images/members/%7B47D93AEC-3D46-409B-B881-CD0CBC9226B7%7D.jpg,2017-01-14 15:04:44.931000,2017-06-01 11:46:05.921000
+ILL001058,Theresa Mah,Theresa,,Mah,,,True,il,lower,2,Democratic,http://ilga.gov/images/members/%7B808BAA30-BB82-437A-9A76-386F9A65A073%7D.jpg,2017-01-14 15:04:44.962000,2017-06-01 11:46:05.983000
+ILL001060,Melissa Conyears-Ervin,Melissa,,Conyears-Ervin,,,True,il,lower,10,Democratic,http://ilga.gov/images/members/%7BA5181ACC-B0B9-445C-B0F5-C64653954C2B%7D.jpg,2017-01-14 15:04:45.084000,2017-06-01 11:46:05.692000
+ILL001061,Nick Sauer,Nick,,Sauer,,,True,il,lower,51,Republican,http://ilga.gov/images/members/%7BF199D35B-A38A-4BF4-B1A0-70233857E97A%7D.jpg,2017-01-14 15:04:45.155000,2017-06-01 11:46:05.946000
+ILL001062,Michael Halpin,Michael,,Halpin,,,True,il,lower,72,Democratic,http://ilga.gov/images/members/%7B51EA8D97-3DDD-42AC-B607-CF1C1235CB56%7D.jpg,2017-01-14 15:04:45.205000,2017-06-01 11:46:06.950000
+ILL000001,Pamela J. Althoff,Pamela,J.,Althoff,,,True,il,upper,32,Republican,http://ilga.gov/images/members/%7B02918973-185F-4819-A253-1890F18F92EB%7D.jpg,2011-08-23 15:06:26.937000,2017-06-01 11:46:06.865000
+ILL000002,Tim Bivins,Tim,,Bivins,,,True,il,upper,45,Republican,http://ilga.gov/images/members/%7B7EC78627-4822-4F87-BFBF-D600D79E2496%7D.jpg,2011-08-23 15:06:26.947000,2017-06-01 11:46:06.456000
+ILL000004,William E. Brady,William,E.,Brady,,,True,il,upper,44,Republican,http://ilga.gov/images/members/%7BD9BF6EBA-FC02-48DC-8505-B83436A46DD5%7D.jpg,2011-08-23 15:06:26.984000,2017-06-01 11:46:06.984000
+ILL000005,James F. Clayborne Jr.,James,F.,Clayborne,Jr.,,True,il,upper,57,Democratic,http://ilga.gov/images/members/%7BA7F90AD5-BEA7-45C8-B502-9045AFD95AB2%7D.jpg,2011-08-23 15:06:26.995000,2017-06-01 11:46:06.976000
+ILL000007,Jacqueline Y. Collins,Jacqueline,Y.,Collins,,,True,il,upper,16,Democratic,http://ilga.gov/images/members/%7BD2A0AAA1-D1A0-49D3-8A11-78A1A73D73A9%7D.jpg,2011-08-23 15:06:27.015000,2017-06-01 11:46:06.973000
+ILL000009,John J. Cullerton,John,J.,Cullerton,,,True,il,upper,6,Democratic,http://ilga.gov/images/members/%7B56A810B7-0182-4539-9A97-6F097C80B818%7D.jpg,2011-08-23 15:06:27.100000,2017-06-01 11:46:06.201000
+ILL000017,William R. Haine,William,R.,Haine,,,True,il,upper,56,Democratic,http://ilga.gov/images/members/%7BF23D1126-6D0A-4410-8E67-F08A3B043627%7D.jpg,2011-08-23 15:06:27.179000,2017-06-01 11:46:06.776000
+ILL000018,Don Harmon,Don,,Harmon,,,True,il,upper,39,Democratic,http://ilga.gov/images/members/%7BCF3F6473-4E6D-4E84-A0A4-4FF7335132E2%7D.jpg,2011-08-23 15:06:27.188000,2017-06-01 11:46:06.516000
+ILL000019,Linda Holmes,Linda,,Holmes,,,True,il,upper,42,Democratic,http://ilga.gov/images/members/%7B9A39C8B9-4B06-4BF7-85CE-4C6F4FD07769%7D.jpg,2011-08-23 15:06:27.199000,2017-06-01 11:46:06.440000
+ILL000020,Mattie Hunter,Mattie,,Hunter,,,True,il,upper,3,Democratic,http://ilga.gov/images/members/%7BF4630DDB-11F0-417E-8C0A-B4ED6426116F%7D.jpg,2011-08-23 15:06:27.209000,2017-06-01 11:46:06.903000
+ILL000021,Toi W. Hutchinson,Toi,W.,Hutchinson,,,True,il,upper,40,Democratic,http://ilga.gov/images/members/%7B19F30FF0-35A9-4088-A1C7-345013518E09%7D.jpg,2011-08-23 15:06:27.219000,2017-06-01 11:46:06.852000
+ILL000025,Emil Jones III,Emil,,Jones,III,,True,il,upper,14,Democratic,http://ilga.gov/images/members/%7B2C0EE719-E9D8-4625-990D-69FCE146BC0F%7D.jpg,2011-08-23 15:06:27.321000,2017-06-01 11:46:06.227000
+ILL000027,David Koehler,David,,Koehler,,,True,il,upper,46,Democratic,http://ilga.gov/images/members/%7B2C57E551-D82A-4C7D-8746-3F83913F0D7D%7D.jpg,2011-08-23 15:06:27.341000,2017-06-01 11:46:06.996000
+ILL000030,Steven M. Landek,Steven M.,,Landek,,,True,il,upper,12,Democratic,http://ilga.gov/images/members/%7BCB30B8CB-1FBB-4869-A78E-D08AF0616D74%7D.jpg,2011-08-23 15:06:27.371000,2017-06-01 11:46:06.442000
+ILL000032,Kimberly A. Lightford,Kimberly,A.,Lightford,,,True,il,upper,4,Democratic,http://ilga.gov/images/members/%7B7FBA8DB0-281E-406F-BF9F-ABEB75B7B38E%7D.jpg,2011-08-23 15:06:27.391000,2017-06-01 11:46:06.910000
+ILL000033,Terry Link,Terry,,Link,,,True,il,upper,30,Democratic,http://ilga.gov/images/members/%7B2F06AA07-1281-4363-A31D-3C7AFD0D3963%7D.jpg,2011-08-23 15:06:27.400000,2017-06-01 11:46:06.912000
+ILL000036,Iris Y. Martinez,Iris,Y.,Martinez,,,True,il,upper,20,Democratic,http://ilga.gov/images/members/%7B274BFBAB-00D7-4DB2-A9CD-FFABCDA5AD08%7D.jpg,2011-08-23 15:06:27.430000,2017-06-01 11:46:06.915000
+ILL000037,Wm. Sam McCann,Wm. Sam,,McCann,,,True,il,upper,50,Republican,http://ilga.gov/images/members/%7BD755E4A9-D3A8-4316-9EA9-CB8743D133C6%7D.jpg,2011-08-23 15:06:27.439000,2017-06-01 11:46:06.244000
+ILL000038,Kyle McCarter,Kyle,,McCarter,,,True,il,upper,54,Republican,http://ilga.gov/images/members/%7B8F25CE3B-78B1-43DD-8C4C-A351E574427C%7D.jpg,2011-08-23 15:06:27.449000,2017-06-01 11:46:06.247000
+ILL000041,John G. Mulroe,John,G.,Mulroe,,,True,il,upper,10,Democratic,http://ilga.gov/images/members/%7BD0BA1F92-B075-443F-B212-B1717250243B%7D.jpg,2011-08-23 15:06:27.479000,2017-06-01 11:46:06.841000
+ILL000042,Antonio Muñoz,Antonio,,Muñoz,,,True,il,upper,1,Democratic,http://ilga.gov/images/members/%7BC4AA7682-5256-4C1D-A7C6-90953534A514%7D.jpg,2011-08-23 15:06:27.489000,2017-06-01 11:46:06.593000
+ILL000046,Christine Radogno,Christine,,Radogno,,,True,il,upper,41,Republican,http://ilga.gov/images/members/%7BCF98FD8D-168C-4592-94DC-E1B9CEBD1F6C%7D.jpg,2011-08-23 15:06:27.588000,2017-06-01 11:46:06.270000
+ILL000047,Kwame Raoul,Kwame,,Raoul,,,True,il,upper,13,Democratic,http://ilga.gov/images/members/%7B3FB8BFCD-539B-4860-8EE3-F05E1A1BF5D9%7D.jpg,2011-08-23 15:06:27.597000,2017-06-01 11:46:06.981000
+ILL000048,Sue Rezin,Sue,,Rezin,,,True,il,upper,38,Republican,http://ilga.gov/images/members/%7B45666230-B77D-4162-A45E-6AC5587C4E56%7D.jpg,2011-08-23 15:06:27.607000,2017-06-01 11:46:06.922000
+ILL000049,Dale A. Righter,Dale,A.,Righter,,,True,il,upper,55,Republican,http://ilga.gov/images/members/%7B25A344E9-478E-40E1-8D41-CA34A8FCCD61%7D.jpg,2011-08-23 15:06:27.617000,2017-06-01 11:46:06.609000
+ILL000051,Martin A. Sandoval,Martin,A.,Sandoval,,,True,il,upper,11,Democratic,http://ilga.gov/images/members/%7B88BB608C-BBD8-4A34-81A1-1932135188B6%7D.jpg,2011-08-23 15:06:27.640000,2017-06-01 11:46:06.905000
+ILL000054,Ira I. Silverstein,Ira,I.,Silverstein,,,True,il,upper,8,Democratic,http://ilga.gov/images/members/%7B58D7E85F-F277-4D8E-8085-26897528F846%7D.jpg,2011-08-23 15:06:27.670000,2017-06-01 11:46:06.606000
+ILL000055,Heather A. Steans,Heather,A.,Steans,,,True,il,upper,7,Democratic,http://ilga.gov/images/members/%7B222FB39E-971E-4E7B-B43C-0B12080C2DD9%7D.jpg,2011-08-23 15:06:27.767000,2017-06-01 11:46:06.491000
+ILL000057,Dave Syverson,Dave,,Syverson,,,True,il,upper,35,Republican,http://ilga.gov/images/members/%7B6FD168B8-C34B-4399-8E39-7373F7600882%7D.jpg,2011-08-23 15:06:27.789000,2017-06-01 11:46:06.494000
+ILL000058,Donne E. Trotter,Donne,E.,Trotter,,,True,il,upper,17,Democratic,http://ilga.gov/images/members/%7B9605AB90-2966-4A54-B665-4BF738A73E44%7D.jpg,2011-08-23 15:06:27.799000,2017-06-01 11:46:06.917000
+ILL000062,Jason Barickman,Jason A.,,Barickman,,,True,il,upper,53,Republican,http://ilga.gov/images/members/%7B73221756-E2C7-4B72-8907-701CC96B7ED2%7D.jpg,2011-08-23 15:06:27.841000,2017-06-01 11:46:06.782000
+ILL000066,Daniel Biss,Daniel,,Biss,,,True,il,upper,9,Democratic,http://ilga.gov/images/members/%7B60745ED0-FF48-43D4-8CBC-FE77944E7AEF%7D.jpg,2011-08-23 15:06:27.883000,2017-06-01 11:46:06.598000
+ILL000081,Michael G. Connelly,Michael,G.,Connelly,,,True,il,upper,21,Republican,http://ilga.gov/images/members/%7BCA5C1B4C-0777-42B2-93D7-446D040B324D%7D.jpg,2011-08-23 15:06:28.147000,2017-06-01 11:46:06.986000
+ILL000085,William Cunningham,Bill,,Cunningham,,,True,il,upper,18,Democratic,http://ilga.gov/images/members/%7B402F0454-4EAF-4721-993D-53C7459BA35B%7D.jpg,2011-08-23 15:06:28.188000,2017-06-01 11:46:06.206000
+ILL000143,Chris Nybo,Chris,,Nybo,,,True,il,upper,24,Republican,http://ilga.gov/images/members/%7B7F102A5F-E038-4E06-B9AD-90D8DD71CBA5%7D.jpg,2011-08-23 15:06:28.845000,2017-06-01 11:46:06.931000
+ILL000154,Chapin Rose,Chapin,,Rose,,,True,il,upper,51,Republican,http://ilga.gov/images/members/%7BBA95E1D1-0570-4492-B739-D1F593F183FD%7D.jpg,2011-08-23 15:06:28.955000,2017-06-01 11:46:06.463000
+ILL000533,Pat McGuire,Pat,,McGuire,,,True,il,upper,43,Democratic,http://ilga.gov/images/members/%7B7994F2D1-3BE5-4722-915A-13C69FB3766C%7D.jpg,2012-02-28 07:35:00.430000,2017-06-01 11:46:06.254000
+ILL000909,Jennifer Bertino-Tarrant,Jennifer,,Bertino-Tarrant,,,True,il,upper,49,Democratic,http://ilga.gov/images/members/%7B01A3B178-08B3-42A9-9022-FEE4C3220565%7D.jpg,2013-01-17 18:13:26.318000,2017-06-01 11:46:06.180000
+ILL000913,Melinda Bush,Melinda,,Bush,,,True,il,upper,31,Democratic,http://ilga.gov/images/members/%7B772B9650-EA19-4BC6-9C53-F76EB5DA14B3%7D.jpg,2013-01-17 18:13:26.345000,2017-06-01 11:46:06.380000
+ILL000918,Thomas Cullerton,Thomas,,Cullerton,,,True,il,upper,23,Democratic,http://ilga.gov/images/members/%7BA0AAC8CC-CA27-4DD9-9F4F-E1EA4C12B0E3%7D.jpg,2013-01-17 18:13:26.378000,2017-06-01 11:46:06.204000
+ILL000927,"Napoleon Harris, III",Napoleon,,Harris,III,,True,il,upper,15,Democratic,http://ilga.gov/images/members/%7B87402198-6E85-4CFE-BDD2-B9DC58948869%7D.jpg,2013-01-17 18:13:26.444000,2017-06-01 11:46:06.978000
+ILL000928,Michael E. Hastings,Michael E.,,Hastings,,,True,il,upper,19,Democratic,http://ilga.gov/images/members/%7BC6E534EB-7243-4687-8A65-04BD4DA5DF72%7D.jpg,2013-01-17 18:13:26.451000,2017-06-01 11:46:06.473000
+ILL000941,Andy Manar,Andy,,Manar,,,True,il,upper,48,Democratic,http://ilga.gov/images/members/%7B385C74DA-9ACC-41E3-99D3-08A6A1EC1FC9%7D.jpg,2013-01-17 18:13:26.540000,2017-06-01 11:46:06.596000
+ILL000945,Karen McConnaughay,Karen,,McConnaughay,,,True,il,upper,33,Republican,http://ilga.gov/images/members/%7B9CCBAF5D-3B68-47B4-8A93-C31C741E4BD7%7D.jpg,2013-01-17 18:13:26.568000,2017-06-01 11:46:06.929000
+ILL000947,Julie A. Morrison,Julie A.,,Morrison,,,True,il,upper,29,Democratic,http://ilga.gov/images/members/%7B0E6BF8A6-C5C8-4F54-977B-D5FD11707FA5%7D.jpg,2013-01-17 18:13:26.582000,2017-06-01 11:46:06.488000
+ILL000952,Jim Oberweis,Jim,,Oberweis,,,True,il,upper,25,Republican,http://ilga.gov/images/members/%7B732CAC2D-CEC4-467B-A9AA-05282259B15F%7D.jpg,2013-01-17 18:13:26.617000,2017-06-01 11:46:06.268000
+ILL000960,Steve Stadelman,Steve,,Stadelman,,,True,il,upper,34,Democratic,http://ilga.gov/images/members/%7B47906765-AB0A-48BF-8C14-B5443B8F27C4%7D.jpg,2013-01-17 18:13:26.678000,2017-06-01 11:46:06.476000
+ILL000965,Patricia Van Pelt,Patricia,,Van Pelt,,,True,il,upper,5,Democratic,http://ilga.gov/images/members/%7B71DA8897-D74A-4034-9A99-79C7FB2BD90E%7D.jpg,2013-01-17 18:13:26.714000,2017-06-01 11:46:06.919000
+ILL000998,Scott M. Bennett,Scott,M.,Bennett,,,True,il,upper,52,Democratic,http://ilga.gov/images/members/%7B8F1A0093-CB44-43C1-9D4D-67266A50A8C6%7D.jpg,2015-01-16 15:58:27.462000,2017-06-01 11:46:06.994000
+ILL000999,Neil Anderson,Neil,,Anderson,,,True,il,upper,36,Republican,http://ilga.gov/images/members/%7B90CDA259-1DEA-4D18-AE97-30051E03D154%7D.jpg,2015-01-16 15:58:27.524000,2017-06-01 11:46:06.999000
+ILL001006,Laura M. Murphy,Laura,M.,Murphy,,,True,il,upper,28,Democratic,http://ilga.gov/images/members/%7BE8C6FBF1-611C-4DD5-A81D-F0FF8917556D%7D.jpg,2015-10-07 11:22:29.149000,2017-06-01 11:46:06.264000
+ILL001007,Chuck Weaver,Chuck,,Weaver,,,True,il,upper,37,Republican,http://ilga.gov/images/members/%7B984DFCEF-3D95-4524-9102-FAF8B6511BE4%7D.jpg,2015-10-08 11:17:30.665000,2017-06-01 11:46:06.468000
+ILL001035,Dan McConchie,Dan,,McConchie,,,True,il,upper,26,Republican,http://ilga.gov/images/members/%7BB3DB61E4-CBA1-4E2C-9DC7-4EEE9F52BCD7%7D.jpg,2016-04-22 14:36:43.437000,2017-06-01 11:46:06.989000
+ILL001036,Omar Aquino,Omar,,Aquino,,,True,il,upper,2,Democratic,http://ilga.gov/images/members/%7B79A5CDE2-DD9F-423E-83F0-4643FDB13ABB%7D.jpg,2016-07-07 08:05:07.046000,2017-06-01 11:46:06.863000
+ILL001041,Tom Rooney,Tom,,Rooney,,,True,il,upper,27,Republican,http://ilga.gov/images/members/%7B24F2CAC0-B9AC-4B89-8578-AE0AD6C94903%7D.jpg,2016-09-23 08:07:58.954000,2017-06-01 11:46:06.382000
+ILL001046,Dale Fowler,Dale,,Fowler,,,True,il,upper,59,Republican,http://ilga.gov/images/members/%7B1E60CA94-7006-4CAB-841D-C9D99569D9D3%7D.jpg,2017-01-14 15:04:44.304000,2017-06-01 11:46:06.208000
+ILL001049,Jil Tracy,Jil,,Tracy,,,True,il,upper,47,Republican,http://ilga.gov/images/members/%7B21C0F860-E9DD-4215-A3AA-703E275C8526%7D.jpg,2017-01-14 15:04:44.431000,2017-06-01 11:46:06.844000
+ILL001050,Paul Schimpf,Paul,,Schimpf,,,True,il,upper,58,Republican,http://ilga.gov/images/members/%7B9118303D-1BC2-4023-B54F-52B34927106C%7D.jpg,2017-01-14 15:04:44.450000,2017-06-01 11:46:06.744000
+ILL001059,Cristina Castro,Cristina,,Castro,,,True,il,upper,22,Democratic,http://ilga.gov/images/members/%7BF09EB558-EB8D-48B1-91F0-EF47A07632F5%7D.jpg,2017-01-14 15:04:45.021000,2017-06-01 11:46:06.192000

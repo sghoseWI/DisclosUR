@@ -1,0 +1,303 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+CTL000002,Eric D. Coleman,Eric D.,,Coleman,,,False,ct,,,,http://www.senatedems.ct.gov/photos/coleman-hi.jpg,2011-04-20 16:37:10.658000,2017-01-08 05:14:18.186000
+CTL000003,Gary D. LeBeau,Gary,D.,LeBeau, ,,False,ct,,,,http://www.senatedems.ct.gov/photos/lebeau-hi.jpg,2011-04-20 16:37:10.660000,2015-01-07 19:39:51.378000
+CTL000010,Toni N. Harp,Toni,N.,Harp, ,,False,ct,,,,http://www.senatedems.ct.gov/photos/harp-hi.jpg,2011-04-20 16:37:10.687000,2014-03-04 16:09:04.294000
+CTL000012,Edward Meyer,Edward,,Meyer, ,,False,ct,,,,http://www.senatedems.ct.gov/photos/meyer-hi.jpg,2011-04-20 16:37:10.691000,2015-01-07 19:39:51.367000
+CTL000013,Len Suzio,Len, ,Suzio, ,,False,ct,,,,http://ctsenaterepublicans.com/wp-content/uploads/2012/06/suzio-splash.jpg,2011-04-20 16:37:10.693000,2013-01-09 20:13:52.401000
+CTL000017,Joseph J. Crisco Jr.,Joseph J.,,Crisco,Jr.,,False,ct,,,,http://www.senatedems.ct.gov/photos/crisco-hi.jpg,2011-04-20 16:37:10.719000,2017-01-08 05:14:18.187000
+CTL000018,Andrew M. Maynard,Andrew M.,,Maynard,,,False,ct,,,,http://www.senatedems.ct.gov/photos/maynard-hi.jpg,2011-04-20 16:37:10.721000,2017-01-08 05:14:18.182000
+CTL000019,Edith G. Prague,Edith,G.,Prague, ,,False,ct,,,,http://www.senatedems.ct.gov/im/im-sn/prague-head.jpg,2011-04-20 16:37:10.724000,2013-01-09 20:13:52.402000
+CTL000020,Andrea L. Stillman,Andrea,L.,Stillman, ,,False,ct,,,,http://www.senatedems.ct.gov/photos/stillman-hi.jpg,2011-04-20 16:37:10.726000,2015-01-07 19:39:51.369000
+CTL000022,Anthony J. Musto,Anthony,J.,Musto, ,,False,ct,,,,http://www.senatedems.ct.gov/photos/musto-hi.jpg,2011-04-20 16:37:10.745000,2015-01-07 19:39:51.371000
+CTL000028,John McKinney,John,,McKinney, ,,False,ct,,,,http://www.ctsenaterepublicans.com/images/sens/mckinney_about.png,2011-04-20 16:37:10.805000,2015-01-07 19:39:51.374000
+CTL000029,Donald E. Williams Jr.,Donald,E.,Williams,Jr.,,False,ct,,,,http://www.senatedems.ct.gov/photos/williams-hi.jpg,2011-04-20 16:37:10.808000,2015-01-07 19:39:51.376000
+CTL000030,Andrew W. Roraback,Andrew,W.,Roraback, ,,False,ct,,,,http://www.ctsenaterepublicans.com/images/headshot_roraback.png,2011-04-20 16:37:10.810000,2013-01-09 20:13:52.414000
+CTL000031,Jason C. Welch,Jason,C.,Welch, ,,False,ct,,,,http://www.ctsenaterepublicans.com/images/sens/welch_about.png,2011-04-20 16:37:10.813000,2015-01-07 19:39:51.379000
+CTL000032,Robert J. Kane,Robert J.,,Kane,,,False,ct,,,,http://www.ctsenaterepublicans.com/images/sens/kane_about.png,2011-04-20 16:37:10.815000,2017-01-08 05:14:18.190000
+CTL000033,Eileen M. Daily,Eileen,M.,Daily, ,,False,ct,,,,http://www.senatedems.ct.gov/im/im-sn/daily-head.jpg,2011-04-20 16:37:10.823000,2013-01-09 20:13:52.410000
+CTL000038,Dan Carter,Dan,,Carter,,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2011/12/carter_thumb.jpg,2011-04-20 16:37:10.867000,2017-01-08 05:14:18.126000
+CTL000040,Kelvin Roldan,Kelvin, ,Roldan, ,,False,ct,,,,,2011-04-20 16:37:10.871000,2013-01-09 20:13:52.405000
+CTL000041,Marie Lopez Kirkley-Bey,Marie Lopez, ,Kirkley-Bey, ,,False,ct,,,,,2011-04-20 16:37:10.873000,2013-01-09 20:13:52.413000
+CTL000042,Hector L. Robles,Hector,L.,Robles, ,,False,ct,,,,,2011-04-20 16:37:10.887000,2013-01-09 20:13:52.404000
+CTL000048,Geoff Luxenberg,Geoff,,Luxenberg, ,,False,ct,,,,http://www.housedems.ct.gov/Luxenberg/images/Luxenberg04.jpg,2011-04-20 16:37:10.901000,2015-01-07 19:39:51.326000
+CTL000049,John W. Thompson,John,W.,Thompson, ,,False,ct,,,,,2011-04-20 16:37:10.923000,2013-01-09 20:13:52.412000
+CTL000050,William Aman,William,,Aman,,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2012/01/aman_thumb.jpg,2011-04-20 16:37:10.947000,2017-01-08 05:14:18.181000
+CTL000052,Linda Schofield,Linda, ,Schofield, ,,False,ct,,,,http://www.housedems.ct.gov/Schofield/images/Schofield_35.jpg,2011-04-20 16:37:10.951000,2013-01-09 20:13:52.411000
+CTL000055,Brian Becker,Brian,,Becker,,,False,ct,,,,http://www.housedems.ct.gov/Becker/images/Becker_2013-03-26.png,2011-04-20 16:37:10.968000,2017-01-08 05:14:18.118000
+CTL000057,William Wadsworth,William, ,Wadsworth, ,,False,ct,,,,,2011-04-20 16:37:10.981000,2013-01-09 20:13:52.409000
+CTL000058,Elizabeth A. Boukus,Elizabeth A.,,Boukus,,,False,ct,,,,http://www.housedems.ct.gov/Boukus/images/Boukus8.jpg,2011-04-20 16:37:10.983000,2017-01-08 05:14:18.136000
+CTL000059,Marilyn Giuliano,Marilyn,,Giuliano, ,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2012/01/giuliano_thumb.jpg,2011-04-20 16:37:11.001000,2015-01-07 19:39:51.340000
+CTL000060,Tim O'Brien,Tim, ,O'Brien, ,,False,ct,,,,,2011-04-20 16:37:11.003000,2012-06-06 16:49:42.217000
+CTL000063,Sandy H. Nafis,Sandy,H.,Nafis, ,,False,ct,,,,http://www.housedems.ct.gov/Nafis/images/Nafis_2009-05-01b.jpg,2011-04-20 16:37:11.025000,2015-01-07 19:39:51.342000
+CTL000070,Gail K. Hamm,Gail,K.,Hamm, ,,False,ct,,,,http://www.housedems.ct.gov/Hamm/images/Hamm2.jpg,2011-04-20 16:37:11.065000,2013-01-09 20:13:52.456000
+CTL000071,James M. Crawford,James,M.,Crawford, ,,False,ct,,,,,2011-04-20 16:37:11.095000,2013-01-09 20:13:52.400000
+CTL000072,Philip Miller,Philip J.,,Miller,,,False,ct,,,,http://www.housedems.ct.gov/MillerPJ/images/MillerPJ_2011-02-25.jpg,2011-04-20 16:37:11.097000,2017-01-08 05:14:18.172000
+CTL000073,Ed Jutila,Ed,,Jutila,,,False,ct,,,,http://www.housedems.ct.gov/Jutila/images/Jutila2.jpg,2011-04-20 16:37:11.100000,2017-01-08 05:14:18.131000
+CTL000074,Elizabeth B. Ritter,Elizabeth,B.,Ritter, ,,False,ct,,,,http://www.housedems.ct.gov/Ritter/images/Ritter_2014-01-29b.jpg,2011-04-20 16:37:11.122000,2015-01-07 19:39:51.345000
+CTL000075,Ernest Hewett,Ernest,,Hewett,,,False,ct,,,,http://www.housedems.ct.gov/Hewett/images/Hewett_2013-01-09d.jpg,2011-04-20 16:37:11.125000,2017-01-08 05:14:18.137000
+CTL000076,Edward E. Moukawsher,Edward,E.,Moukawsher, ,,False,ct,,,,http://www.housedems.ct.gov/Moukawsher/images/Moukawsher_2013-06-05.png,2011-04-20 16:37:11.127000,2015-01-07 19:39:51.350000
+CTL000077,Elissa T. Wright,Elissa,T.,Wright, ,,False,ct,,,,http://www.housedems.ct.gov/Wright/images/Wright07.jpg,2011-04-20 16:37:11.129000,2015-01-07 19:39:51.351000
+CTL000078,Tom Reynolds,Tom, ,Reynolds, ,,False,ct,,,,http://www.housedems.ct.gov/Reynolds/images/Reynolds10.jpg,2011-04-20 16:37:11.132000,2013-01-09 20:13:52.408000
+CTL000081,Steven T. Mikutel,Steven,T.,Mikutel, ,,False,ct,,,,http://www.housedems.ct.gov/Mikutel/images/Mikutel_2011-10-27.jpg,2011-04-20 16:37:11.139000,2015-01-07 19:39:51.355000
+CTL000082,Melissa M. Riley,Melissa,M.,Riley, ,,False,ct,,,,,2011-04-20 16:37:11.141000,2013-01-09 20:13:52.398000
+CTL000083,Christopher D. Coutu,Christopher,D.,Coutu, ,,False,ct,,,,,2011-04-20 16:37:11.143000,2013-01-09 20:13:52.406000
+CTL000086,Mike Alberts,Mike,,Alberts,,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2012/01/alberts_thumb.jpg,2011-04-20 16:37:11.152000,2017-01-08 05:14:18.169000
+CTL000088,Penny Bacchiochi,Penny,,Bacchiochi, ,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2012/01/penny_thumb.jpg,2011-04-20 16:37:11.156000,2015-01-07 19:39:51.358000
+CTL000089,Bryan Hurlburt,Bryan, ,Hurlburt, ,,False,ct,,,,http://www.housedems.ct.gov/Hurlburt/images/Hurlburt_blank.jpg,2011-04-20 16:37:11.165000,2013-07-24 13:47:22.750000
+CTL000091,Pamela Z. Sawyer,Pamela,Z.,Sawyer, ,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2012/03/sawyer_thumb2.jpg,2011-04-20 16:37:11.169000,2015-01-07 19:39:51.359000
+CTL000092,Claire L. Janowski,Claire L.,,Janowski,,,False,ct,,,,http://www.housedems.ct.gov/Janowski/images/Janowski36.jpg,2011-04-20 16:37:11.172000,2017-01-08 05:14:18.123000
+CTL000094,Kathleen M. Tallarita,Kathleen,M.,Tallarita, ,,False,ct,,,,,2011-04-20 16:37:11.177000,2013-01-09 20:13:52.417000
+CTL000095,David W. Kiner,David W.,,Kiner,,,False,ct,,,,https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xaf1/t31.0-8/412671_408708765834742_1098816654_o.jpg,2011-04-20 16:37:11.179000,2017-01-08 05:14:18.129000
+CTL000096,Peggy Sayers,Peggy,,Sayers,,,False,ct,,,,http://www.housedems.ct.gov/Sayers/images/Sayers24.jpg,2011-04-20 16:37:11.181000,2017-01-08 05:14:18.171000
+CTL000097,Elaine C. O'Brien,Elaine,C.,O'Brien, ,,False,ct,,,,http://www.housedems.ct.gov/OBrienE/images/OBrienE_blank.jpg,2011-04-20 16:37:11.183000,2014-04-22 13:35:38.614000
+CTL000099,John B. Rigby,John,B.,Rigby, ,,False,ct,,,,,2011-04-20 16:37:11.188000,2013-01-09 20:13:52.399000
+CTL000100,Roberta B. Willis,Roberta B.,,Willis,,,False,ct,,,,http://www.housedems.ct.gov/Willis/images/Willis_2014-04-14.jpg,2011-04-20 16:37:11.191000,2017-01-08 05:14:18.175000
+CTL000102,Craig A. Miner,Craig A.,,Miner,,,False,ct,,,,http://www.cthousegop.com/wp-content/uploads/2012/01/miner_thumb.jpg,2011-04-20 16:37:11.196000,2017-01-08 05:14:18.124000
+CTL000103,Clark J. Chapin,Clark J.,,Chapin,,,False,ct,,,,http://ballotpedia.org/wiki/images/thumb/Clark_Chapin.jpg/200px-Clark_Chapin.jpg,2011-04-20 16:37:11.198000,2017-01-08 05:14:18.183000
+CTL000104,Sean J. Williams,Sean,J.,Williams, ,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2011/11/williams_thumb.jpg,2011-04-20 16:37:11.201000,2015-01-07 19:39:51.360000
+CTL000110,Selim G. Noujaim,Selim G.,,Noujaim,,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2012/01/noujaim_thumb.jpg,2011-04-20 16:37:11.218000,2017-01-08 05:14:18.177000
+CTL000111,David Aldarondo,David, ,Aldarondo, ,,False,ct,,,,,2011-04-20 16:37:11.220000,2013-01-09 20:13:52.418000
+CTL000113,Christopher A. Wright,Christopher,A.,Wright, ,,False,ct,,,,http://www.housedems.ct.gov/WrightC/images/WrightC-04.jpg,2011-04-20 16:37:11.226000,2015-01-07 19:39:51.362000
+CTL000115,Frank N. Nicastro Sr.,Frank N.,,Nicastro,Sr.,,False,ct,,,,http://www.housedems.ct.gov/Nicastro/images/Nicastro08.jpg,2011-04-20 16:37:11.231000,2017-01-08 05:14:18.139000
+CTL000117,Bruce Zalaski,Bruce, ,Zalaski, ,,False,ct,,,,http://www.housedems.ct.gov/Zalaski/images/Zalaski5.jpg,2011-04-20 16:37:11.236000,2013-01-09 20:13:52.419000
+CTL000120,Christopher G. Donovan,Christopher,G.,Donovan, ,,False,ct,,,,,2011-04-20 16:37:11.244000,2013-01-09 20:13:52.407000
+CTL000124,Brendan Sharkey,J. Brendan,,Sharkey,,,False,ct,,,,http://www.housedems.ct.gov/Sharkey/images/Sharkey_2013-03-12.jpg,2011-04-20 16:37:11.255000,2017-01-08 05:14:18.116000
+CTL000125,Vickie O. Nardello,Vickie,O.,Nardello, ,,False,ct,,,,,2011-04-20 16:37:11.257000,2013-01-09 20:13:52.420000
+CTL000126,Mary G. Fritz,Mary G.,,Fritz,,,False,ct,,,,http://www.housedems.ct.gov/Fritz/images/Fritz8.jpg,2011-04-20 16:37:11.259000,2017-01-08 05:14:18.166000
+CTL000127,Peter F. Villano,Peter,F.,Villano, ,,False,ct,,,,,2011-04-20 16:37:11.262000,2013-01-09 20:13:52.421000
+CTL000130,Gary A. Holder-Winfield,Gary,A.,Holder-Winfield, ,,False,ct,,,,http://www.senatedems.ct.gov/im/im-sn/holder-winfield-head.jpg,2011-04-20 16:37:11.268000,2015-01-07 19:39:51.364000
+CTL000133,Robert W. Megna,Robert W.,,Megna,,,False,ct,,,,http://ballotpedia.org/wiki/images/thumb/3/35/Robert_Megna.jpg/200px-Robert_Megna.jpg,2011-04-20 16:37:11.275000,2017-01-08 05:14:18.174000
+CTL000134,Patricia M. Widlitz,Patricia,M.,Widlitz, ,,False,ct,,,,http://www.housedems.ct.gov/Widlitz/images/Widlitz_2012-04-11.jpg,2011-04-20 16:37:11.277000,2015-01-07 19:39:51.363000
+CTL000135,James M. Albis,James,,Albis,,,False,ct,,,,http://www.housedems.ct.gov/Albis/images/Albis_2014-01-24b.jpg,2011-04-20 16:37:11.280000,2017-01-08 05:14:18.141000
+CTL000139,Al Adinolfi,Al,,Adinolfi,,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2012/01/adinolfi_thumb.jpg,2011-04-20 16:37:11.289000,2017-01-08 05:14:18.113000
+CTL000141,Leonard C. Greene Jr.,Leonard,C.,Greene,Jr.,,False,ct,,,,,2011-04-20 16:37:11.293000,2013-01-09 20:13:52.423000
+CTL000142,Christopher Lyddy,Christopher, ,Lyddy, ,,False,ct,,,,,2011-04-20 16:37:11.296000,2013-01-09 20:13:52.424000
+CTL000143,David A. Scribner,David,A.,Scribner, ,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2011/11/scribner_thumb.jpg,2011-04-20 16:37:11.298000,2015-03-06 16:09:01.871000
+CTL000145,Joseph J. Taborsak,Joseph,J.,Taborsak, ,,False,ct,,,,,2011-04-20 16:37:11.302000,2013-01-09 20:13:52.425000
+CTL000148,DebraLee Hovey,DebraLee,,Hovey, ,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2012/01/hovey_thumb.jpg,2011-04-20 16:37:11.330000,2015-01-07 19:39:51.322000
+CTL000151,Stephen D. Dargan,Stephen D.,,Dargan,,,False,ct,,,,http://www.housedems.ct.gov/Dargan/images/dargan4.jpg,2011-04-20 16:37:11.337000,2017-01-08 05:14:18.178000
+CTL000152,Louis P. Esposito Jr.,Louis P.,,Esposito,Jr.,,False,ct,,,,http://www.housedems.ct.gov/Esposito/images/Esposito_2013-06-17.jpg,2011-04-20 16:37:11.339000,2017-01-08 05:14:18.146000
+CTL000153,Paul Davis,Paul,,Davis, ,,False,ct,,,,http://www.housedems.ct.gov/Davis/images/Davis_2013-10-08b.jpg,2011-04-20 16:37:11.341000,2015-01-07 19:39:51.323000
+CTL000155,Richard Roy,Richard, ,Roy, ,,False,ct,,,,,2011-04-20 16:37:11.348000,2013-01-09 20:13:52.426000
+CTL000157,Terry Backer,Terry,,Backer,,,False,ct,,,,http://www.housedems.ct.gov/Backer/images/Backer05.jpg,2011-04-20 16:37:11.354000,2016-02-16 15:10:04.972000
+CTL000158,Lawrence G. Miller,Lawrence,G.,Miller, ,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2012/01/miller_thumb.jpg,2011-04-20 16:37:11.357000,2015-01-07 19:39:51.328000
+CTL000159,T.R. Rowe,T.R., ,Rowe, ,,False,ct,,,,http://farm8.staticflickr.com/7242/7161427492_e1ffac8bc7.jpg,2011-04-20 16:37:11.359000,2013-01-09 20:13:52.452000
+CTL000160,Charles D. Clemons Jr.,Charles,D.,Clemons,Jr.,,False,ct,,,,http://www.housedems.ct.gov/Clemons/images/Clemons_2012-04-24.jpg,2011-04-20 16:37:11.363000,2015-01-07 19:39:51.329000
+CTL000161,John W. Hetherington,John,W.,Hetherington, ,,False,ct,,,,,2011-04-20 16:37:11.365000,2013-01-09 20:13:52.453000
+CTL000164,Andres Ayala Jr.,Andres,,Ayala,Jr.,,False,ct,,,,http://www.senatedems.ct.gov/photos/ayala-hi.jpg,2011-04-20 16:37:11.372000,2015-03-06 15:49:38.040000
+CTL000165,Auden Grogins,Auden,,Grogins, ,,False,ct,,,,http://www.housedems.ct.gov/Grogins/images/Grogins_2013-02-07.jpg,2011-04-20 16:37:11.374000,2015-07-08 20:29:37.652000
+CTL000169,Kim Fawcett,Kim,,Fawcett, ,,False,ct,,,,http://www.housedems.ct.gov/Fawcett/images/Fawcett24.jpg,2011-04-20 16:37:11.383000,2015-01-07 19:39:51.333000
+CTL000171,John Shaban,John T.,,Shaban,,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2011/10/Shaban-121510-2_sm2.jpg,2011-04-20 16:37:11.387000,2017-01-08 05:14:18.145000
+CTL000174,Janice R. Giegler,Janice R.,,Giegler,,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2012/01/giegler_thumb.jpg,2011-04-20 16:37:11.405000,2017-01-08 05:14:18.142000
+CTL000178,Lawrence F. Cafero Jr.,Lawrence,F.,Cafero,Jr.,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2011/10/cafero_2011thumb.jpg,2011-04-20 16:37:11.413000,2015-01-07 19:39:51.335000
+CTL000180,Michael L. Molgano,Michael,L.,Molgano, ,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2011/10/molgano_thumb.jpg,2011-04-20 16:37:11.418000,2015-01-07 19:39:51.337000
+CTL000182,Gerald M. Fox III,Gerald,M.,Fox,III,,False,ct,,,,http://www.housedems.ct.gov/Fox/images/thumbnails/Fox_Testifying.jpg,2011-04-20 16:37:11.424000,2015-01-07 19:39:51.338000
+CTL000186,Lile R. Gibbons,Lile,R.,Gibbons, ,,False,ct,,,,http://farm9.staticflickr.com/8007/7145733395_38cd4806af.jpg,2011-04-20 16:37:11.432000,2013-01-09 20:13:52.455000
+CTL000196,Joe Diminico,Joe,,Diminico, ,,False,ct,,,,http://www.housedems.ct.gov/Diminico/images/Diminico_2013-01-09.jpg,2013-01-09 20:13:50.822000,2015-01-07 19:39:51.332000
+CTL000200,Thomas A. Vicino,Thomas,A.,Vicino, ,,False,ct,,,,http://ballotpedia.org/wiki/images/thumb/2/2e/Tom_Vicino.jpg/200px-Tom_Vicino.jpg,2013-01-09 20:13:50.985000,2015-01-07 19:39:51.343000
+CTL000201,Timothy R. Bowles,Timothy,R.,Bowles, ,,False,ct,,,,http://www.housedems.ct.gov/Bowles/images/thumbnails/Bowles_2013-04-22_thumb.jpg,2013-01-09 20:13:51.036000,2015-01-07 19:39:51.353000
+CTL000203,Brian H. Sear,Brian,H.,Sear, ,,False,ct,,,,https://scontent-b-lga.xx.fbcdn.net/hphotos-xfa1/t1.0-9/217518_603045139709015_1934779458_n.jpg,2013-01-09 20:13:51.072000,2015-01-07 19:39:51.357000
+CTL000204,David Alexander,David,,Alexander,,,False,ct,,,,http://www.housedems.ct.gov/Alexander/images/Alexander_2013-04-05.jpg,2013-01-09 20:13:51.153000,2017-01-08 05:14:18.128000
+CTL000206,Cecilia Buck-Taylor,Cecilia,,Buck-Taylor,,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2013/01/Buck-Taylor-webHS.jpg,2013-01-09 20:13:51.219000,2017-01-08 05:14:18.120000
+CTL000207,Victor Cuevas,Victor,,Cuevas,,,False,ct,,,,http://www.housedems.ct.gov/cuevas/images/Cuevas10.jpg,2013-01-09 20:13:51.283000,2016-05-11 20:06:12.325000
+CTL000208,David Zoni,David,,Zoni,,,False,ct,,,,http://www.housedems.ct.gov/Zoni/images/Zoni_2013-01-09.jpg,2013-01-09 20:13:51.329000,2017-01-08 05:14:18.130000
+CTL000213,Theresa W. Conroy,Theresa W.,,Conroy,,,False,ct,,,,http://www.housedems.ct.gov/Conroy/images/Conroy_2013-01-23.jpg,2013-01-09 20:13:51.529000,2017-01-08 05:14:18.180000
+CTL000216,James Maroney,James,,Maroney, ,,False,ct,,,,http://www.housedems.ct.gov/Maroney/images/Maroney_2013-05-13.jpg,2013-01-09 20:13:51.626000,2015-01-07 19:39:51.324000
+CTL000219,"Christina ""Tita"" M. Ayala","Christina ""Tita""",M.,Ayala, ,,False,ct,,,,http://www.housedems.ct.gov/Ayala/images/Ayala_2013-01-09.jpg,2013-01-09 20:13:51.687000,2015-01-07 19:39:51.330000
+CTL000220,Stephen G. Walko,Stephen,G.,Walko, ,,False,ct,,,,http://cthousegop.com/wp-content/uploads/2013/01/Walko-webHS.jpg,2013-01-09 20:13:51.844000,2015-01-07 19:39:51.339000
+CTL000221,Dante Bartolomeo,Dante,,Bartolomeo, ,,False,ct,,,,http://www.senatedems.ct.gov/photos/bartolomeo-hi.jpg,2013-01-09 20:13:51.957000,2015-01-07 19:39:51.368000
+CTL000262,Paul Brycki,Paul,,Brycki,,,False,ct,,,,,2015-01-07 19:39:49.129000,2017-01-08 05:14:18.170000
+CTL000270,Gayle J. Mulligan,Gayle J.,,Mulligan,,,False,ct,,,,,2015-01-07 19:39:49.412000,2017-01-08 05:14:18.140000
+CTL000271,Aundré Bumgardner,Aundré,,Bumgardner,,,False,ct,,,,,2015-01-07 19:39:49.419000,2017-01-08 05:14:18.115000
+CTL000276,John F. Scott,John F.,,Scott,,,False,ct,,,,,2015-01-07 19:39:49.738000,2017-01-08 05:14:18.144000
+CTL000285,Christine Randall,Christine,,Randall,,,False,ct,,,,,2015-01-07 19:39:50.231000,2017-01-08 05:14:18.122000
+CTL000288,Cara Christine Pavalock,Cara Christine,,Pavalock,,,False,ct,,,,,2015-01-07 19:39:50.372000,2017-01-08 05:14:18.119000
+CTL000295,Danté Bartolomeo,Danté,,Bartolomeo,,,False,ct,,,,,2015-01-07 19:39:50.802000,2017-01-08 05:14:18.185000
+CTL000299,Marilyn Moore,Marilyn,,Moore,,,False,ct,,,,,2015-01-07 19:39:50.895000,2017-01-08 05:14:18.189000
+CTL000037,Matthew Ritter,Matthew,,Ritter,,,True,ct,lower,1,Democratic,http://www.housedems.ct.gov/RitterM/images/RitterM_2012-06-08.jpg,2011-04-20 16:37:10.847000,2017-06-01 05:36:47.235000
+CTL000039,Minnie Gonzalez,Minnie,,Gonzalez,,,True,ct,lower,3,Democratic,http://www.housedems.ct.gov/Gonzalez/images/thumbnails/Gonzalez.jpg,2011-04-20 16:37:10.869000,2017-06-01 05:36:47.258000
+CTL000044,Tim J. Ackert,Tim,J.,Ackert,,,True,ct,lower,8,Republican,http://cthousegop.com/wp-content/uploads/2012/01/ackert_thumb.jpg,2011-04-20 16:37:10.892000,2017-06-01 05:36:47.292000
+CTL000045,Jason Rojas,Jason,,Rojas,,,True,ct,lower,9,Democratic,http://www.housedems.ct.gov/Rojas/images/Rojas01.jpg,2011-04-20 16:37:10.894000,2017-06-01 05:36:47.193000
+CTL000046,Henry J. Genga,Henry J.,,Genga,,,True,ct,lower,10,Democratic,http://www.housedems.ct.gov/Genga/images/Genga_2012-01-12.jpg,2011-04-20 16:37:10.896000,2017-06-01 05:36:47.186000
+CTL000051,David A. Baram,David A.,,Baram,,,True,ct,lower,15,Democratic,http://www.housedems.ct.gov/Baram/images/Baram11.jpg,2011-04-20 16:37:10.949000,2017-06-01 05:36:47.161000
+CTL000053,Timothy B. LeGeyt,Timothy B.,,LeGeyt,,,True,ct,lower,17,Republican,http://cthousegop.com/wp-content/uploads/2012/01/legeyt_thumb.jpg,2011-04-20 16:37:10.964000,2017-06-01 05:36:47.293000
+CTL000054,Andrew M. Fleischmann,Andrew M.,,Fleischmann,,,True,ct,lower,18,Democratic,http://www.housedems.ct.gov/Fleischmann/images/Fleischmann4.jpg,2011-04-20 16:37:10.966000,2017-06-01 05:36:47.125000
+CTL000056,Joe Verrengia,Joe,,Verrengia,,,True,ct,lower,20,Democratic,http://www.housedems.ct.gov/Verrengia/images/Verrengia_2013-05-15.jpg,2011-04-20 16:37:10.970000,2017-06-01 05:36:47.201000
+CTL000061,Robert Sanchez,Robert,,Sanchez,,,True,ct,lower,25,Democratic,http://www.housedems.ct.gov/Sanchez/images/Sanchez01.jpg,2011-04-20 16:37:11.019000,2017-06-01 05:36:47.273000
+CTL000062,Peter A. Tercyak,Peter A.,,Tercyak,,,True,ct,lower,26,Democratic,http://www.housedems.ct.gov/Tercyak/images/Tercyak_2013-12-11.jpg,2011-04-20 16:37:11.022000,2017-06-01 05:36:47.267000
+CTL000064,Russell A. Morin,Russell A.,,Morin,,,True,ct,lower,28,Democratic,http://www.housedems.ct.gov/Morin/images/Morin_2012-09-12.jpg,2011-04-20 16:37:11.027000,2017-06-01 05:36:47.279000
+CTL000065,Antonio Guerrera,Antonio,,Guerrera,,,True,ct,lower,29,Democratic,http://www.housedems.ct.gov/Guerrera/images/Guerrera7.jpg,2011-04-20 16:37:11.029000,2017-06-01 05:36:47.129000
+CTL000066,Joe Aresimowicz,Joe,,Aresimowicz,,,True,ct,lower,30,Democratic,http://www.housedems.ct.gov/Aresimowicz/images/Aresimowicz_2014-03-02.jpg,2011-04-20 16:37:11.032000,2017-06-01 05:36:47.199000
+CTL000067,Prasad Srinivasan M.D.,Prasad,,Srinivasan,M.D.,,True,ct,lower,31,Republican,http://cthousegop.com/wp-content/uploads/2012/01/srinivasan_thumb.jpg,2011-04-20 16:37:11.035000,2017-06-01 05:36:47.268000
+CTL000068,Christie M. Carpino,Christie M.,,Carpino,,,True,ct,lower,32,Republican,http://cthousegop.com/wp-content/uploads/2011/08/Carpino_headshot_sm.jpg,2011-04-20 16:37:11.037000,2017-06-01 05:36:47.149000
+CTL000069,Joseph C. Serra,Joseph C.,,Serra,,,True,ct,lower,33,Democratic,http://www.housedems.ct.gov/Serra/images/Serra_2012-04-24.jpg,2011-04-20 16:37:11.062000,2017-06-01 05:36:47.210000
+CTL000079,Diana S. Urban,Diana S.,,Urban,,,True,ct,lower,43,Democratic,http://www.housedems.ct.gov/Urban/images/Urban26.jpg,2011-04-20 16:37:11.134000,2017-06-01 05:36:47.169000
+CTL000084,Linda A. Orange,Linda A.,,Orange,,,True,ct,lower,48,Democratic,http://www.housedems.ct.gov/Orange/images/Orange_2012-02-14.jpg,2011-04-20 16:37:11.146000,2017-06-01 05:36:47.225000
+CTL000085,Susan M. Johnson,Susan M.,,Johnson,,,True,ct,lower,49,Democratic,http://www.housedems.ct.gov/Johnson/images/Johnson_2012-02-15.jpg,2011-04-20 16:37:11.149000,2017-06-01 05:36:47.287000
+CTL000087,Daniel S. Rovero,Daniel S.,,Rovero,,,True,ct,lower,51,Democratic,http://www.housedems.ct.gov/Rovero/images/Rovero_2014-04-09.jpg,2011-04-20 16:37:11.154000,2017-06-01 05:36:47.159000
+CTL000090,Gregory Haddad,Gregory,,Haddad,,,True,ct,lower,54,Democratic,http://www.housedems.ct.gov/haddad/images/Haddad_2011-06-06.jpg,2011-04-20 16:37:11.167000,2017-06-01 05:36:47.185000
+CTL000093,Christopher Davis,Christopher,,Davis,,,True,ct,lower,57,Republican,http://cthousegop.com/wp-content/uploads/2012/01/davis_thumb.jpg,2011-04-20 16:37:11.174000,2017-06-01 05:36:47.152000
+CTL000098,Bill Simanski,Bill,,Simanski,,,True,ct,lower,62,Republican,http://cthousegop.com/wp-content/uploads/2012/01/simanski_thumb.jpg,2011-04-20 16:37:11.186000,2017-06-01 05:36:47.134000
+CTL000101,Michelle L. Cook,Michelle L.,,Cook,,,True,ct,lower,65,Democratic,http://www.housedems.ct.gov/Cook/images/Cook_2012-05-01.jpg,2011-04-20 16:37:11.194000,2017-06-01 05:36:47.253000
+CTL000105,Arthur J. O'Neill,Arthur J.,,O'Neill,,,True,ct,lower,69,Republican,http://cthousegop.com/wp-content/uploads/2012/01/oneill_thumb.jpg,2011-04-20 16:37:11.205000,2017-06-01 05:36:47.131000
+CTL000106,Rosa C. Rebimbas Esq.,Rosa C.,,Rebimbas,Esq.,,True,ct,lower,70,Republican,http://cthousegop.com/wp-content/uploads/2012/01/rebimbas_thumb.jpg,2011-04-20 16:37:11.208000,2017-06-01 05:36:47.278000
+CTL000107,Anthony J. D'Amelio,Anthony J.,,D'Amelio,,,True,ct,lower,71,Republican,http://cthousegop.com/wp-content/uploads/2012/01/damelio_thumb.jpg,2011-04-20 16:37:11.210000,2017-06-01 05:36:47.128000
+CTL000108,Larry B. Butler,Larry B.,,Butler,,,True,ct,lower,72,Democratic,http://www.housedems.ct.gov/Butler/images/Butler_2014-04-09.jpg,2011-04-20 16:37:11.212000,2017-06-01 05:36:47.221000
+CTL000109,Jeffrey J. Berger,Jeffrey J.,,Berger,,,True,ct,lower,73,Democratic,http://www.housedems.ct.gov/Berger/images/Berger_2013-02-13.jpg,2011-04-20 16:37:11.215000,2017-06-01 05:36:47.197000
+CTL000112,John E. Piscopo,John E.,,Piscopo,,,True,ct,lower,76,Republican,http://cthousegop.com/wp-content/uploads/2012/03/piscopo_thumb2.jpg,2011-04-20 16:37:11.222000,2017-06-01 05:36:47.203000
+CTL000114,Whit Betts,Whit,,Betts,,,True,ct,lower,78,Republican,http://cthousegop.com/wp-content/uploads/2012/01/betts_thumb.jpg,2011-04-20 16:37:11.229000,2017-06-01 05:36:47.299000
+CTL000116,Robert C. Sampson,Robert C.,,Sampson,,,True,ct,lower,80,Republican,http://cthousegop.com/wp-content/uploads/2011/11/sampson_thumb.jpg,2011-04-20 16:37:11.233000,2017-06-01 05:36:47.272000
+CTL000118,Emil Altobello,Emil,,Altobello,,,True,ct,lower,82,Democratic,http://www.housedems.ct.gov/Altobello/images/Altobello_secondary.jpg,2011-04-20 16:37:11.238000,2017-06-01 05:36:47.174000
+CTL000119,Catherine F. Abercrombie,Catherine F.,,Abercrombie,,,True,ct,lower,83,Democratic,http://www.housedems.ct.gov/Abercrombie/images/Abercrombie22.jpg,2011-04-20 16:37:11.240000,2017-06-01 05:36:47.144000
+CTL000121,Mary M. Mushinsky,Mary M.,,Mushinsky,,,True,ct,lower,85,Democratic,http://www.housedems.ct.gov/Mushinsky/images/Mushinsky_2014-05-06.jpg,2011-04-20 16:37:11.246000,2017-06-01 05:36:47.232000
+CTL000122,Vincent J. Candelora,Vincent J.,,Candelora,,,True,ct,lower,86,Republican,http://cthousegop.com/wp-content/uploads/2012/03/candelora_thumb.jpg,2011-04-20 16:37:11.250000,2017-06-01 05:36:47.297000
+CTL000123,Dave W. Yaccarino,Dave W.,,Yaccarino,,,True,ct,lower,87,Republican,http://cthousegop.com/wp-content/uploads/2012/01/yaccarino_thumb.jpg,2011-04-20 16:37:11.253000,2017-06-01 05:36:47.160000
+CTL000128,Patricia A. Dillon,Patricia A.,,Dillon,,,True,ct,lower,92,Democratic,http://www.housedems.ct.gov/Dillon/images/Dillon_2013-01-07.jpg,2011-04-20 16:37:11.264000,2017-06-01 05:36:47.264000
+CTL000129,Toni E. Walker,Toni E.,,Walker,,,True,ct,lower,93,Democratic,http://www.housedems.ct.gov/Walker/images/Walker_2012-07-31.jpg,2011-04-20 16:37:11.266000,2017-06-01 05:36:47.296000
+CTL000131,Juan R. Candelaria,Juan R.,,Candelaria,,,True,ct,lower,95,Democratic,http://www.housedems.ct.gov/Candelaria/images/Candelaria4.jpg,2011-04-20 16:37:11.271000,2017-06-01 05:36:47.214000
+CTL000132,Roland J. Lemar,Roland J.,,Lemar,,,True,ct,lower,96,Democratic,http://www.housedems.ct.gov/lemar/images/Lemar_2013-09-18.jpg,2011-04-20 16:37:11.273000,2017-06-01 05:36:47.277000
+CTL000136,Matthew Lesser,Matthew,,Lesser,,,True,ct,lower,100,Democratic,http://www.housedems.ct.gov/Lesser/images/Lesser_2014-04-28a.jpg,2011-04-20 16:37:11.282000,2017-06-01 05:36:47.233000
+CTL000137,Noreen S. Kokoruda,Noreen S.,,Kokoruda,,,True,ct,lower,101,Republican,http://cthousegop.com/wp-content/uploads/2011/10/kokoruda_thumb.jpg,2011-04-20 16:37:11.284000,2017-06-01 05:36:47.261000
+CTL000138,Lonnie Reed,Lonnie,,Reed,,,True,ct,lower,102,Democratic,http://www.housedems.ct.gov/Reed/images/Reed-21.jpg,2011-04-20 16:37:11.287000,2017-06-01 05:36:47.230000
+CTL000140,Linda M. Gentile,Linda M.,,Gentile,,,True,ct,lower,104,Democratic,http://www.housedems.ct.gov/Gentile/images/Gentile11.jpg,2011-04-20 16:37:11.291000,2017-06-01 05:36:47.227000
+CTL000144,Richard A. Smith,Richard A.,,Smith,,,True,ct,lower,108,Republican,http://cthousegop.com/wp-content/uploads/2012/01/SmithWebMug1.jpg,2011-04-20 16:37:11.300000,2017-06-01 05:36:47.269000
+CTL000146,Bob Godfrey,Bob,,Godfrey,,,True,ct,lower,110,Democratic,http://www.housedems.ct.gov/Godfrey/images/Godfrey_2012-02-29.png,2011-04-20 16:37:11.305000,2017-06-01 05:36:47.135000
+CTL000147,John H. Frey,John H.,,Frey,,,True,ct,lower,111,Republican,http://cthousegop.com/wp-content/uploads/2012/03/freynewthumb.jpg,2011-04-20 16:37:11.307000,2017-06-01 05:36:47.206000
+CTL000149,Jason Perillo,Jason,,Perillo,,,True,ct,lower,113,Republican,http://cthousegop.com/wp-content/uploads/2012/01/perillo_thumb.jpg,2011-04-20 16:37:11.332000,2017-06-01 05:36:47.192000
+CTL000150,Themis Klarides,Themis,,Klarides,,,True,ct,lower,114,Republican,http://cthousegop.com/wp-content/uploads/2012/02/klarides2012_thumb.jpg,2011-04-20 16:37:11.334000,2017-06-01 05:36:47.291000
+CTL000154,Kim Rose,Kim,,Rose,,,True,ct,lower,118,Democratic,http://housedems.ct.gov/Rose/images/RosePodium_PTLI-GRAD.jpg,2011-04-20 16:37:11.345000,2017-06-01 05:36:47.219000
+CTL000156,Laura R. Hoydick,Laura R.,,Hoydick,,,True,ct,lower,120,Republican,http://cthousegop.com/wp-content/uploads/2012/01/hoydick_thumb.jpg,2011-04-20 16:37:11.351000,2017-06-01 05:36:47.223000
+CTL000162,Charlie L. Stallworth,Charlie L.,,Stallworth,,,True,ct,lower,126,Democratic,http://www.housedems.ct.gov/stallworth/images/Stallworth06.jpg,2011-04-20 16:37:11.367000,2017-06-01 05:36:47.146000
+CTL000163,John F. Hennessy,John,,Hennessy,,Jack,True,ct,lower,127,Democratic,http://www.housedems.ct.gov/Hennessy/images/Hennessy_2013-05-16.jpg,2011-04-20 16:37:11.369000,2017-06-01 05:36:47.204000
+CTL000166,Ezequiel Santiago,Ezequiel,,Santiago,,,True,ct,lower,130,Democratic,http://www.housedems.ct.gov/Santiago/images/Santiago_2011-05-25.jpg,2011-04-20 16:37:11.376000,2017-06-01 05:36:47.177000
+CTL000167,David K. Labriola,David K.,,Labriola,,,True,ct,lower,131,Republican,http://cthousegop.com/wp-content/uploads/2012/01/labriola_thumb.jpg,2011-04-20 16:37:11.378000,2017-06-01 05:36:47.164000
+CTL000168,Brenda L. Kupchick,Brenda L.,,Kupchick,,,True,ct,lower,132,Republican,http://cthousegop.com/wp-content/uploads/2012/01/kupchick_thumb.jpg,2011-04-20 16:37:11.381000,2017-06-01 05:36:47.138000
+CTL000172,Jonathan Steinberg,Jonathan,,Steinberg,,,True,ct,lower,136,Democratic,http://www.housedems.ct.gov/Steinberg/images/Steinberg_2013-10-16.png,2011-04-20 16:37:11.390000,2017-06-01 05:36:47.208000
+CTL000173,Chris Perone,Chris,,Perone,,,True,ct,lower,137,Democratic,http://www.housedems.ct.gov/Perone/images/Perone3.jpg,2011-04-20 16:37:11.402000,2017-06-01 05:36:47.147000
+CTL000175,Kevin Ryan,Kevin,,Ryan,,,True,ct,lower,139,Democratic,http://www.housedems.ct.gov/Ryan/images/Ryan12.jpg,2011-04-20 16:37:11.407000,2017-06-01 05:36:47.217000
+CTL000176,Bruce V. Morris,Bruce V.,,Morris,,,True,ct,lower,140,Democratic,http://www.housedems.ct.gov/Morris/images/Morris05.jpg,2011-04-20 16:37:11.409000,2017-06-01 05:36:47.140000
+CTL000177,Terrie Wood,Terrie E.,,Wood,,,True,ct,lower,141,Republican,http://cthousegop.com/wp-content/uploads/2012/04/Wood-headsho-thumbt-.jpg,2011-04-20 16:37:11.411000,2017-06-01 05:36:47.289000
+CTL000179,Gail Lavielle,Gail,,Lavielle,,,True,ct,lower,143,Republican,http://cthousegop.com/wp-content/uploads/2011/10/lavielle_thumb.jpg,2011-04-20 16:37:11.416000,2017-06-01 05:36:47.180000
+CTL000181,Patricia Billie Miller,Patricia Billie,,Miller,,,True,ct,lower,145,Democratic,http://www.housedems.ct.gov/Miller/images/Miller02.jpg,2011-04-20 16:37:11.421000,2017-06-01 05:36:47.265000
+CTL000183,William Tong,William,,Tong,,,True,ct,lower,147,Democratic,http://www.housedems.ct.gov/Tong/images/Tong_2012-10-03.jpg,2011-04-20 16:37:11.426000,2017-06-01 05:36:47.302000
+CTL000184,Daniel J. Fox,Daniel J.,,Fox,,,True,ct,lower,148,Democratic,http://www.housedems.ct.gov/FoxD/images/FoxD-06.png,2011-04-20 16:37:11.428000,2017-06-01 05:36:47.158000
+CTL000185,Livvy R. Floren,Livvy R.,,Floren,,,True,ct,lower,149,Republican,http://cthousegop.com/wp-content/uploads/2011/10/floren_web_sm.jpg,2011-04-20 16:37:11.430000,2017-06-01 05:36:47.228000
+CTL000187,Fred Camillo,Fred,,Camillo,,,True,ct,lower,151,Republican,http://cthousegop.com/wp-content/uploads/2013/01/Camillo-Headshot-Site.jpg,2011-04-20 16:37:11.434000,2017-06-01 05:36:47.178000
+CTL000190,Rick Lopes,Rick,,Lopes,,,True,ct,lower,24,Democratic,http://www.housedems.ct.gov/Lopes/images/Lopes_2012-12-12b.jpg,2012-02-08 00:28:56.426000,2017-06-01 05:36:47.270000
+CTL000193,Angel Arce,Angel,,Arce,,,True,ct,lower,4,Democratic,http://www.housedems.ct.gov/Arce/images/thumbnails/Arce_2013-11-22_thumb.jpg,2013-01-09 20:13:50.752000,2017-06-01 05:36:47.126000
+CTL000194,Brandon L. McGee Jr.,Brandon L.,,McGee,Jr.,,True,ct,lower,5,Democratic,http://www.housedems.ct.gov/McGee/images/McGee_2013-01-09.jpg,2013-01-09 20:13:50.761000,2017-06-01 05:36:47.136000
+CTL000195,Edwin Vargas,Edwin,,Vargas,,,True,ct,lower,6,Democratic,http://housedems.ct.gov/Vargas/images/Vargas_2013-01-09.jpg,2013-01-09 20:13:50.768000,2017-06-01 05:36:47.173000
+CTL000197,John K. Hampton,John K.,,Hampton,,,True,ct,lower,16,Democratic,http://www.housedems.ct.gov/Hampton/images/Hampton_2013-05-15.jpg,2013-01-09 20:13:50.843000,2017-06-01 05:36:47.207000
+CTL000198,Mike Demicco,Mike,,Demicco,,,True,ct,lower,21,Democratic,http://www.housedems.ct.gov/Demicco/images/Demicco_2013-01-09.jpg,2013-01-09 20:13:50.885000,2017-06-01 05:36:47.255000
+CTL000199,Melissa H. Ziobron,Melissa H.,,Ziobron,,,True,ct,lower,34,Republican,http://cthousegop.com/wp-content/uploads/2013/01/Ziobron-webHS.jpg,2013-01-09 20:13:50.978000,2017-06-01 05:36:47.247000
+CTL000202,Emmett D. Riley,Emmett D.,,Riley,,,True,ct,lower,46,Democratic,http://www.housedems.ct.gov/Riley/images/Riley_2013-01-09.jpg,2013-01-09 20:13:51.064000,2017-06-01 05:36:47.175000
+CTL000205,Jay M. Case,Jay M.,,Case,,,True,ct,lower,63,Republican,http://cthousegop.com/wp-content/uploads/2013/01/Case-webHS.jpg,2013-01-09 20:13:51.189000,2017-06-01 05:36:47.194000
+CTL000209,Hilda E. Santiago,Hilda E.,,Santiago,,,True,ct,lower,84,Democratic,http://www.housedems.ct.gov/SantiagoH/images/SantiagoH_2013-01-09.jpg,2013-01-09 20:13:51.379000,2017-06-01 05:36:47.188000
+CTL000210,Lezlye Zupkus,Lezlye,,Zupkus,,,True,ct,lower,89,Republican,http://cthousegop.com/wp-content/uploads/2013/01/Zupkus-webHS.jpg,2013-01-09 20:13:51.415000,2017-06-01 05:36:47.224000
+CTL000211,Michael D'Agostino,Michael,,D'Agostino,,,True,ct,lower,91,Democratic,http://www.housedems.ct.gov/DAgostino/images/DAgostino_2014-05-28c.jpg,2013-01-09 20:13:51.429000,2017-06-01 05:36:47.249000
+CTL000214,Mitch Bolinsky,Mitch,,Bolinsky,,,True,ct,lower,106,Republican,http://cthousegop.com/wp-content/uploads/2013/01/Bolinsky-webHS.jpg,2013-01-09 20:13:51.537000,2017-06-01 05:36:47.259000
+CTL000215,"David Arconti, Jr.",David,,Arconti,Jr.,,True,ct,lower,109,Democratic,http://www.housedems.ct.gov/Arconti/images/Arconti_2013-01-09.jpg,2013-01-09 20:13:51.557000,2017-06-01 05:36:47.162000
+CTL000217,David Rutigliano,David,,Rutigliano,,,True,ct,lower,123,Republican,http://cthousegop.com/wp-content/uploads/2013/01/Rutigliano-webHS.jpg,2013-01-09 20:13:51.653000,2017-06-01 05:36:47.165000
+CTL000218,Tom O'Dea,Tom,,O'Dea,,,True,ct,lower,125,Republican,http://cthousegop.com/wp-content/uploads/2013/01/ODea-webHS.jpg,2013-01-09 20:13:51.666000,2017-06-01 05:36:47.295000
+CTL000238,Sam Belsito,Sam,,Belsito,,,True,ct,lower,53,Republican,http://cthousegop.com/wp-content/uploads/2013/06/belsito_thumb.jpg,2013-07-24 05:44:20.374000,2017-06-01 05:36:47.280000
+CTL000259,Tami Zawistowski,Tami,,Zawistowski,,,True,ct,lower,61,Republican,http://cthousegop.com/wp-content/uploads/2014/04/tamiz_thumb.jpg,2014-04-22 00:37:15.952000,2017-06-01 05:36:47.288000
+CTL000260,Robyn A. Porter,Robyn A.,,Porter,,,True,ct,lower,94,Democratic,http://www.housedems.ct.gov/Porter/images/Porter_2014-04-28c.jpg,2014-05-13 01:02:07.534000,2017-06-01 05:36:47.276000
+CTL000261,Ben McGorty,Ben,,McGorty,,,True,ct,lower,122,Republican,,2014-12-06 01:30:17.929000,2017-06-01 05:36:47.132000
+CTL000264,Caroline Simmons,Caroline,,Simmons,,,True,ct,lower,144,Democratic,,2015-01-07 19:39:49.168000,2017-06-01 05:36:47.143000
+CTL000265,Jesse MacLachlan,Jesse,,MacLachlan,,,True,ct,lower,35,Republican,,2015-01-07 19:39:49.281000,2017-06-01 05:36:47.198000
+CTL000266,Laura M. Devlin,Laura M.,,Devlin,,,True,ct,lower,134,Republican,,2015-01-07 19:39:49.312000,2017-06-01 05:36:47.222000
+CTL000267,Andre F. Baker Jr.,Andre F.,,Baker,Jr.,,True,ct,lower,124,Democratic,,2015-01-07 19:39:49.318000,2017-06-01 05:36:47.124000
+CTL000268,Kelly J. Luxenberg,Kelly J.,,Luxenberg,,,True,ct,lower,12,Democratic,,2015-01-07 19:39:49.347000,2017-06-01 05:36:47.216000
+CTL000269,Mark Tweedie,Mark,,Tweedie,,,True,ct,lower,13,Republican,,2015-01-07 19:39:49.371000,2017-06-01 05:36:47.231000
+CTL000274,Pam Staneski,Pam,,Staneski,,,True,ct,lower,119,Republican,,2015-01-07 19:39:49.588000,2017-06-01 05:36:47.263000
+CTL000275,Mike France,Mike,,France,,,True,ct,lower,42,Republican,,2015-01-07 19:39:49.644000,2017-06-01 05:36:47.256000
+CTL000277,Kathleen M. McCarty,Kathleen M.,,McCarty,,,True,ct,lower,38,Republican,,2015-01-07 19:39:49.781000,2017-06-01 05:36:47.215000
+CTL000278,Jeff Currey,Jeff,,Currey,,,True,ct,lower,11,Democratic,,2015-01-07 19:39:49.876000,2017-06-01 05:36:47.196000
+CTL000280,Doug Dubitsky,Doug,,Dubitsky,,,True,ct,lower,47,Republican,,2015-01-07 19:39:50.056000,2017-06-01 05:36:47.172000
+CTL000281,Cristin McCarthy Vahey,Cristin McCarthy,,Vahey,,,True,ct,lower,133,Democratic,,2015-01-07 19:39:50.092000,2017-06-01 05:36:47.156000
+CTL000283,Mike Bocchino,Mike,,Bocchino,,,True,ct,lower,150,Republican,,2015-01-07 19:39:50.196000,2017-06-01 05:36:47.254000
+CTL000286,Gary Byron,Gary,,Byron,,,True,ct,lower,27,Republican,,2015-01-07 19:39:50.266000,2017-06-01 05:36:47.181000
+CTL000289,J.P. Sredzinski,J.P.,,Sredzinski,,,True,ct,lower,112,Republican,,2015-01-07 19:39:50.458000,2017-06-01 05:36:47.190000
+CTL000290,Fred Wilms,Fred,,Wilms,,,True,ct,lower,142,Republican,,2015-01-07 19:39:50.470000,2017-06-01 05:36:47.179000
+CTL000291,Kurt Vail,Kurt,,Vail,,,True,ct,lower,52,Republican,,2015-01-07 19:39:50.484000,2017-06-01 05:36:47.220000
+CTL000292,Terry B. Adams,Terry B.,,Adams,,,True,ct,lower,146,Democratic,,2015-01-07 19:39:50.575000,2017-06-01 05:36:47.290000
+CTL000293,Devin R. Carney,Devin R.,,Carney,,,True,ct,lower,23,Republican,,2015-01-07 19:39:50.746000,2017-06-01 05:36:47.168000
+CTL000294,Sean Scanlon,Sean,,Scanlon,,,True,ct,lower,98,Democratic,,2015-01-07 19:39:50.752000,2017-06-01 05:36:47.283000
+CTL000296,Charles J. Ferraro,Charles J.,,Ferraro,,,True,ct,lower,117,Republican,,2015-01-07 19:39:50.860000,2017-06-01 05:36:47.145000
+CTL000297,Christopher Rosario,Christopher,,Rosario,,,True,ct,lower,128,Democratic,,2015-01-07 19:39:50.875000,2017-06-01 05:36:47.153000
+CTL000306,Steven J. Stafstrom,Steven J.,,Stafstrom,,,True,ct,lower,129,Democratic,,2015-02-26 03:06:45.422000,2017-06-01 05:36:47.286000
+CTL000307,Stephen G. Harding Jr.,Stephen G.,,Harding,Jr.,,True,ct,lower,107,Republican,,2015-02-26 03:06:45.452000,2017-06-01 05:36:47.285000
+CTL000310,Joseph P. Gresko,Joseph,P.,Gresko,,,True,ct,lower,121,Democratic,,2016-02-09 05:14:53.241000,2017-06-01 05:36:47.211000
+CTL000312,Geraldo C. Reyes Jr.,Geraldo C.,,Reyes,Jr.,,True,ct,lower,75,Democratic,,2016-04-29 04:25:44.880000,2017-06-01 05:36:47.183000
+CTL000313,Greg Stokes,Greg,,Stokes,,,True,ct,lower,58,Republican,,2017-01-08 05:14:16.664000,2017-06-01 05:36:47.184000
+CTL000314,Christopher Ziogas,Christopher,,Ziogas,,,True,ct,lower,79,Democratic,,2017-01-08 05:14:16.738000,2017-06-01 05:36:47.154000
+CTL000315,Kevin Skulczyck,Kevin,,Skulczyck,,,True,ct,lower,45,Republican,,2017-01-08 05:14:16.951000,2017-06-01 05:36:47.218000
+CTL000316,Christine Conley,Christine,,Conley,,,True,ct,lower,40,Democratic,,2017-01-08 05:14:17.010000,2017-06-01 05:36:47.151000
+CTL000317,Bill Buckbee,Bill,,Buckbee,,,True,ct,lower,67,Republican,,2017-01-08 05:14:17.047000,2017-06-01 05:36:47.133000
+CTL000318,Carol Hall,Carol,,Hall,,,True,ct,lower,59,Republican,,2017-01-08 05:14:17.071000,2017-06-01 05:36:47.142000
+CTL000320,Derek Slap,Derek,,Slap,,,True,ct,lower,19,Democratic,,2017-01-08 05:14:17.124000,2017-06-01 05:36:47.167000
+CTL000321,Scott A. Storms,Scott A.,,Storms,,,True,ct,lower,60,Republican,,2017-01-08 05:14:17.187000,2017-06-01 05:36:47.281000
+CTL000322,Cara Christine Pavalock-D'Amato,Cara Christine,,Pavalock-D'Amato,,,True,ct,lower,77,Republican,,2017-01-08 05:14:17.218000,2017-06-01 05:36:47.141000
+CTL000323,William Duff,William,,Duff,,,True,ct,lower,2,Republican,,2017-01-08 05:14:17.238000,2017-06-01 05:36:47.301000
+CTL000324,Holly H. Cheeseman,Holly H.,,Cheeseman,,,True,ct,lower,37,Republican,,2017-01-08 05:14:17.245000,2017-06-01 05:36:47.189000
+CTL000325,Robert W. Siegrist III,Robert W.,,Siegrist,III,,True,ct,lower,36,Republican,,2017-01-08 05:14:17.250000,2017-06-01 05:36:47.274000
+CTL000326,Alphonse Paolillo Jr.,Alphonse,,Paolillo,Jr.,,True,ct,lower,97,Democratic,,2017-01-08 05:14:17.256000,2017-06-01 05:36:47.123000
+CTL000327,Josh Elliott,Josh,,Elliott,,,True,ct,lower,88,Democratic,,2017-01-08 05:14:17.267000,2017-06-01 05:36:47.212000
+CTL000328,Michael Ferguson,Michael,,Ferguson,,,True,ct,lower,138,Republican,,2017-01-08 05:14:17.380000,2017-06-01 05:36:47.250000
+CTL000331,Brian M. Ohler,Brian M.,,Ohler,,,True,ct,lower,64,Republican,,2017-01-08 05:14:17.428000,2017-06-01 05:36:47.139000
+CTL000332,Michael A. DiMassa,Michael A.,,DiMassa,,,True,ct,lower,116,Democratic,,2017-01-08 05:14:17.464000,2017-06-01 05:36:47.248000
+CTL000333,Stephanie E. Cummings,Stephanie E.,,Cummings,,,True,ct,lower,74,Republican,,2017-01-08 05:14:17.489000,2017-06-01 05:36:47.284000
+CTL000334,Anne Dauphinais,Anne,,Dauphinais,,,True,ct,lower,44,Republican,,2017-01-08 05:14:17.495000,2017-06-01 05:36:47.127000
+CTL000335,Liz Linehan,Liz,,Linehan,,,True,ct,lower,103,Democratic,,2017-01-08 05:14:17.500000,2017-06-01 05:36:47.229000
+CTL000337,David T. Wilson,David T.,,Wilson,,,True,ct,lower,66,Republican,,2017-01-08 05:14:17.547000,2017-06-01 05:36:47.166000
+CTL000338,Adam Dunsby,Adam,,Dunsby,,,True,ct,lower,135,Republican,,2017-01-08 05:14:17.565000,2017-06-01 05:36:47.121000
+CTL000339,Tom Delnicki,Tom,,Delnicki,,,True,ct,lower,14,Republican,,2017-01-08 05:14:17.583000,2017-06-01 05:36:47.294000
+CTL000340,Robin Green,Robin,,Green,,,True,ct,lower,55,Republican,,2017-01-08 05:14:17.613000,2017-06-01 05:36:47.275000
+CTL000341,Craig C. Fishbein,Craig C.,,Fishbein,,,True,ct,lower,90,Republican,,2017-01-08 05:14:17.661000,2017-06-01 05:36:47.155000
+CTL000342,John Fusco,John,,Fusco,,,True,ct,lower,81,Republican,,2017-01-08 05:14:17.696000,2017-06-01 05:36:47.205000
+CTL000343,Nicole Klarides-Ditria,Nicole,,Klarides-Ditria,,,True,ct,lower,105,Republican,,2017-01-08 05:14:17.705000,2017-06-01 05:36:47.260000
+CTL000344,Chris Soto,Chris,,Soto,,,True,ct,lower,39,Democratic,,2017-01-08 05:14:17.758000,2017-06-01 05:36:47.148000
+CTL000345,Joe de la Cruz,Joe,,de la Cruz,,,True,ct,lower,41,Democratic,,2017-01-08 05:14:17.764000,2017-06-01 05:36:47.202000
+CTL000346,"William A. Petit Jr., M.D.",William A.,,Petit,"Jr., M.D.",,True,ct,lower,22,Republican,,2017-01-08 05:14:17.776000,2017-06-01 05:36:47.300000
+CTL000347,James M. Albis,James M.,,Albis,,,True,ct,lower,99,Democratic,,2017-01-08 05:14:17.794000,2017-06-01 05:36:47.191000
+CTL000349,Michael Winkler,Michael,,Winkler,,,True,ct,lower,56,Democratic,,2017-01-08 05:14:17.812000,2017-06-01 05:36:47.251000
+CTL000350,Patrick S. Boyd,Patrick S.,,Boyd,,,True,ct,lower,50,Democratic,,2017-01-08 05:14:17.818000,2017-06-01 05:36:47.266000
+CTL000357,Dorinda Borer,Dorinda,,Borer,,,True,ct,lower,115,Democratic,,2017-03-07 05:33:50.086000,2017-06-01 05:36:47.171000
+CTL000361,Joe Polletta,Joe,,Polletta,,,True,ct,lower,68,Republican,,2017-04-27 05:37:04.150000,2017-06-01 05:36:47.200000
+CTL000362,Joshua M. Hall,Joshua M.,,Hall,,,True,ct,lower,7,Democratic,,2017-04-29 05:31:50.059000,2017-06-01 05:36:47.213000
+CTL000001,John W. Fonfara,John W.,,Fonfara,,,True,ct,upper,1,Democratic,http://www.senatedems.ct.gov/photos/fonfara-hi.jpg,2011-04-20 16:37:10.655000,2017-06-01 05:36:47.327000
+CTL000004,Steve Cassano,Steve,,Cassano,,,True,ct,upper,4,Democratic,http://www.senatedems.ct.gov/photos/cassano-hi.jpg,2011-04-20 16:37:10.672000,2017-06-01 05:36:47.345000
+CTL000005,Beth Bye,Beth,,Bye,,,True,ct,upper,5,Democratic,http://www.senatedems.ct.gov/photos/bye-hi.jpg,2011-04-20 16:37:10.675000,2017-06-01 05:36:47.307000
+CTL000006,Terry B. Gerratana,Terry B.,,Gerratana,,,True,ct,upper,6,Democratic,http://www.senatedems.ct.gov/photos/gerratana-hi.jpg,2011-04-20 16:37:10.677000,2017-06-01 05:36:47.349000
+CTL000007,John A. Kissel,John A.,,Kissel,,,True,ct,upper,7,Republican,http://www.ctsenaterepublicans.com/images/sens/kissel_about.png,2011-04-20 16:37:10.679000,2017-06-01 05:36:47.326000
+CTL000008,Kevin D. Witkos,Kevin D.,,Witkos,,,True,ct,upper,8,Republican,http://www.ctsenaterepublicans.com/images/sens/witkos_about.png,2011-04-20 16:37:10.682000,2017-06-01 05:36:47.330000
+CTL000009,Paul R. Doyle,Paul R.,,Doyle,,,True,ct,upper,9,Democratic,http://www.senatedems.ct.gov/photos/doyle-hi.jpg,2011-04-20 16:37:10.684000,2017-06-01 05:36:47.344000
+CTL000011,Martin M. Looney,Martin M.,,Looney,,,True,ct,upper,11,Democratic,http://www.senatedems.ct.gov/photos/looney-hi.jpg,2011-04-20 16:37:10.689000,2017-06-01 05:36:47.338000
+CTL000014,Gayle S. Slossberg,Gayle S.,,Slossberg,,,True,ct,upper,14,Democratic,http://www.senatedems.ct.gov/photos/slossberg-hi.jpg,2011-04-20 16:37:10.695000,2017-06-01 05:36:47.319000
+CTL000015,Joan V. Hartley,Joan V.,,Hartley,,,True,ct,upper,15,Democratic,http://www.senatedems.ct.gov/photos/hartley-hi.jpg,2011-04-20 16:37:10.697000,2017-06-01 05:36:47.323000
+CTL000016,Joe Markley,Joe,,Markley,,,True,ct,upper,16,Republican,http://www.ctsenaterepublicans.com/images/sens/markley_about.png,2011-04-20 16:37:10.717000,2017-06-01 05:36:47.324000
+CTL000021,Kevin C. Kelly,Kevin C.,,Kelly,,,True,ct,upper,21,Republican,http://www.ctsenaterepublicans.com/images/sens/kelly_about.png,2011-04-20 16:37:10.743000,2017-06-01 05:36:47.328000
+CTL000023,Edwin A. Gomes,Edwin A.,,Gomes,,,True,ct,upper,23,Democratic,http://www.senatedems.ct.gov/im/im-sn/gomes-head.jpg,2011-04-20 16:37:10.750000,2017-06-01 05:36:47.315000
+CTL000024,Michael A. McLachlan,Michael A.,,McLachlan,,,True,ct,upper,24,Republican,http://www.ctsenaterepublicans.com/images/sens/mclachlan_about.png,2011-04-20 16:37:10.753000,2017-06-01 05:36:47.340000
+CTL000025,Bob Duff,Bob,,Duff,,,True,ct,upper,25,Democratic,http://www.senatedems.ct.gov/photos/duff-hi.jpg,2011-04-20 16:37:10.757000,2017-06-01 05:36:47.309000
+CTL000026,Antonietta Boucher,Antonietta,,Boucher,,Toni,True,ct,upper,26,Republican,http://www.ctsenaterepublicans.com/images/sens/boucher_about.png,2011-04-20 16:37:10.789000,2017-06-01 05:36:47.305000
+CTL000027,Carlo Leone,Carlo,,Leone,,,True,ct,upper,27,Democratic,http://www.senatedems.ct.gov/photos/leone-hi.jpg,2011-04-20 16:37:10.792000,2017-06-01 05:36:47.310000
+CTL000034,Leonard A. Fasano,Leonard A.,,Fasano,,,True,ct,upper,34,Republican,http://www.ctsenaterepublicans.com/images/sens/fasano_about.png,2011-04-20 16:37:10.825000,2017-06-01 05:36:47.334000
+CTL000035,Anthony Guglielmo,Anthony,,Guglielmo,,,True,ct,upper,35,Republican,http://www.ctsenaterepublicans.com/images/sens/guglielmo_about.png,2011-04-20 16:37:10.828000,2017-06-01 05:36:47.303000
+CTL000036,L. Scott Frantz,L. Scott,,Frantz,,,True,ct,upper,36,Republican,http://www.ctsenaterepublicans.com/images/sens/frantz_about.png,2011-04-20 16:37:10.844000,2017-06-01 05:36:47.331000
+CTL000043,Douglas McCrory,Douglas,,McCrory,,,True,ct,upper,2,Democratic,http://www.housedems.ct.gov/McCrory/images/McCrory_2012-05-22.jpg,2011-04-20 16:37:10.890000,2017-06-01 05:36:47.314000
+CTL000047,Timothy D. Larson,Timothy D.,,Larson,,,True,ct,upper,3,Democratic,http://www.housedems.ct.gov/Larson/images/Larson_2014-06-11a.jpg,2011-04-20 16:37:10.898000,2017-06-01 05:36:47.350000
+CTL000080,Mae M. Flexer,Mae,,Flexer,,,True,ct,upper,29,Democratic,http://www.housedems.ct.gov/Flexer/images/Flexer10.jpg,2011-04-20 16:37:11.136000,2017-06-01 05:36:47.335000
+CTL000170,Tony Hwang,Tony,,Hwang,,,True,ct,upper,28,Republican,http://cthousegop.com/wp-content/uploads/2012/01/hwang_thumb.jpg,2011-04-20 16:37:11.385000,2017-06-01 05:36:47.353000
+CTL000222,Catherine A. Osten,Catherine A.,,Osten,,,True,ct,upper,19,Democratic,http://www.senatedems.ct.gov/photos/osten-hi.jpg,2013-01-09 20:13:52.002000,2017-06-01 05:36:47.311000
+CTL000225,Art Linares,Art,,Linares,,,True,ct,upper,33,Republican,http://ctsenaterepublicans.com/wp-content/uploads/2013/01/linares-bio-pic.jpg,2013-01-09 20:13:52.109000,2017-06-01 05:36:47.306000
+CTL000263,Henri Martin,Henri,,Martin,,,True,ct,upper,31,Republican,,2015-01-07 19:39:49.145000,2017-06-01 05:36:47.322000
+CTL000273,Eric C. Berthel,Eric C.,,Berthel,,,True,ct,upper,32,Republican,,2015-01-07 19:39:49.561000,2017-06-01 05:36:47.316000
+CTL000279,Gary A. Winfield,Gary A.,,Winfield,,,True,ct,upper,10,Democratic,,2015-01-07 19:39:50.020000,2017-06-01 05:36:47.318000
+CTL000282,Ted Kennedy Jr.,Ted,,Kennedy,Jr.,,True,ct,upper,12,Democratic,,2015-01-07 19:39:50.161000,2017-06-01 05:36:47.347000
+CTL000298,Paul M. Formica,Paul M.,,Formica,,,True,ct,upper,20,Republican,,2015-01-07 19:39:50.882000,2017-06-01 05:36:47.342000
+CTL000319,George S. Logan,George S.,,Logan,,,True,ct,upper,17,Republican,,2017-01-08 05:14:17.076000,2017-06-01 05:36:47.320000
+CTL000329,Marilyn V. Moore,Marilyn V.,,Moore,,,True,ct,upper,22,Democratic,,2017-01-08 05:14:17.410000,2017-06-01 05:36:47.336000
+CTL000330,Heather B. Somers,Heather B.,,Somers,,,True,ct,upper,18,Republican,,2017-01-08 05:14:17.422000,2017-06-01 05:36:47.321000
+CTL000336,Craig Miner,Craig,,Miner,,,True,ct,upper,30,Republican,,2017-01-08 05:14:17.530000,2017-06-01 05:36:47.313000
+CTL000348,Len Suzio Jr.,Len,,Suzio,Jr.,,True,ct,upper,13,Republican,,2017-01-08 05:14:17.806000,2017-06-01 05:36:47.332000

@@ -1,0 +1,199 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+NEL000001,Lavon Heidemann,Lavon,,Heidemann,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist01.jpg,2011-09-22 17:37:48.884000,2013-01-09 17:17:26.183000
+NEL000002,Dave Pankonin,Dave,,Pankonin,,,False,ne,,,,,2011-09-22 17:37:48.894000,2012-02-22 21:11:56.382000
+NEL000003,Scott Price,Scott,,Price,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist03.jpg,2011-09-22 17:37:48.904000,2014-12-09 00:47:24.457000
+NEL000004,Pete Pirsch,Pete,,Pirsch,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist04.jpg,2011-09-22 17:37:48.914000,2015-01-07 19:15:43.878000
+NEL000005,Heath Mello,Heath,,Mello,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist05.jpg,2011-09-22 17:37:48.924000,2017-01-06 07:03:13.954000
+NEL000006,John Nelson,John,,Nelson,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist06.jpg,2011-09-22 17:37:48.935000,2015-01-07 19:15:43.885000
+NEL000007,Jeremy Nordquist,Jeremy,,Nordquist,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist07.jpg,2011-09-22 17:37:48.946000,2016-05-12 05:08:44.580000
+NEL000009,Gwen Howard,Gwen,,Howard,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist09.jpg,2011-09-22 17:37:48.966000,2013-01-09 17:17:26.184000
+NEL000011,Brenda Council,Brenda,,Council,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist11.jpg,2011-09-22 17:37:48.999000,2013-01-09 17:17:26.185000
+NEL000012,Steve Lathrop,Steve,,Lathrop,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist12.jpg,2011-09-22 17:37:49.009000,2015-01-07 19:15:43.858000
+NEL000013,Tanya Cook,Tanya,,Cook,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist13.jpg,2011-09-22 17:37:49.020000,2017-01-06 07:03:13.966000
+NEL000015,Charlie Janssen,Charlie,,Janssen,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist15.jpg,2011-09-22 17:37:49.039000,2015-01-07 19:15:43.860000
+NEL000017,Dave Bloomfield,Dave,,Bloomfield,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist17.jpg,2011-09-22 17:37:49.124000,2017-01-06 07:03:13.949000
+NEL000018,Scott Lautenbaugh,Scott,,Lautenbaugh,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist18.jpg,2011-09-22 17:37:49.134000,2015-01-07 19:15:43.863000
+NEL000019,Mike Flood,Mike,,Flood,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist19.jpg,2011-09-22 17:37:49.145000,2013-01-10 20:31:02.730000
+NEL000020,Brad Ashford,Brad,,Ashford,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist20.jpg,2011-09-22 17:37:49.155000,2015-01-07 19:15:43.865000
+NEL000021,Ken Haar,Ken,,Haar,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist21.jpg,2011-09-22 17:37:49.183000,2017-01-06 07:03:13.959000
+NEL000023,Chris Langemeier,Chris,,Langemeier,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist23.jpg,2011-09-22 17:37:49.203000,2013-01-09 17:17:26.187000
+NEL000024,Greg Adams,Greg,,Adams,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist24.jpg,2011-09-22 17:37:49.214000,2015-01-07 19:15:43.866000
+NEL000025,Kathy Campbell,Kathy,,Campbell,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist25.jpg,2011-09-22 17:37:49.224000,2017-01-06 07:03:13.958000
+NEL000026,Amanda McGill,Amanda,,McGill,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist26.jpg,2011-09-22 17:37:49.238000,2015-01-07 19:15:43.868000
+NEL000027,Colby Coash,Colby,,Coash,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist27.jpg,2011-09-22 17:37:49.248000,2017-01-06 07:03:13.948000
+NEL000028,Bill Avery,Bill,,Avery,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist28.jpg,2011-09-22 17:37:49.258000,2015-01-07 19:15:43.869000
+NEL000029,Tony Fulton,Tony,,Fulton,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist29.jpg,2011-09-22 17:37:49.268000,2013-01-09 17:17:26.188000
+NEL000030,Norman Wallman,Norman,,Wallman,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist30.jpg,2011-09-22 17:37:49.285000,2015-01-07 19:15:43.870000
+NEL000031,Rich Pahls,Rich,,Pahls,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist31.jpg,2011-09-22 17:37:49.295000,2013-01-09 17:17:26.189000
+NEL000032,Russ Karpisek,Russ,,Karpisek,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist32.jpg,2011-09-22 17:37:49.305000,2015-01-07 19:15:43.872000
+NEL000033,Dennis Utter,Dennis,,Utter,,,False,ne,,,,,2011-09-22 17:37:49.315000,2012-02-22 21:12:37.897000
+NEL000034,Annette Dubas,Annette,,Dubas,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist34.jpg,2011-09-22 17:37:49.325000,2015-01-07 19:15:43.873000
+NEL000035,Mike Gloor,Mike,,Gloor,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist35.jpg,2011-09-22 17:37:49.336000,2017-01-06 07:03:13.963000
+NEL000036,John Wightman,John,,Wightman,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist36.jpg,2011-09-22 17:37:49.348000,2015-01-07 19:15:43.875000
+NEL000037,Galen Hadley,Galen,,Hadley,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist37.jpg,2011-09-22 17:37:49.357000,2017-01-06 07:03:13.952000
+NEL000038,Tom Carlson,Tom,,Carlson,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist38.jpg,2011-09-22 17:37:49.367000,2015-01-07 19:15:43.876000
+NEL000039,Beau McCoy,Beau,,McCoy,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist39.jpg,2011-09-22 17:37:49.377000,2017-01-06 07:03:13.947000
+NEL000041,Kate Sullivan,Kate,,Sullivan,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist41.jpg,2011-09-22 17:37:49.397000,2017-01-06 07:03:13.957000
+NEL000042,Thomas Hansen,Thomas,,Hansen,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist42.jpg,2011-09-22 17:37:49.406000,2015-01-07 19:15:43.879000
+NEL000043,Deb Fischer,Deb,,Fischer,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist43.jpg,2011-09-22 17:37:49.416000,2013-01-09 17:17:26.190000
+NEL000044,Mark Christensen,Mark,,Christensen,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist44.jpg,2011-09-22 17:37:49.426000,2015-01-07 19:15:43.880000
+NEL000045,Abbie Cornett,Abbie,,Cornett,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist45.jpg,2011-09-22 17:37:49.436000,2013-01-09 17:17:26.192000
+NEL000046,Danielle Conrad,Danielle,,Conrad,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist46.jpg,2011-09-22 17:37:49.447000,2015-01-07 19:15:43.882000
+NEL000047,Ken Schilz,Ken,,Schilz,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist47.jpg,2011-09-22 17:37:49.523000,2017-01-06 07:03:13.960000
+NEL000048,John Harms,John,,Harms,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist42.jpg,2011-09-22 17:37:49.534000,2015-01-07 19:15:43.883000
+NEL000049,LeRoy Louden,LeRoy,,Louden,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist49.jpg,2011-09-22 17:37:49.544000,2013-01-09 17:17:26.193000
+NEL000052,R. Paul Lambert,R. Paul,,Lambert,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist02.jpg,2011-11-15 00:44:15.813000,2013-01-09 17:17:26.194000
+NEL000053,Les Seiler,Les,,Seiler,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist33.jpg,2012-02-06 16:28:53.778000,2017-01-06 07:03:13.962000
+NEL000055,Bill Kintner,Bill,,Kintner,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist02.jpg,2013-01-09 17:17:25.835000,2017-02-23 03:09:00.692000
+NEL000059,Jerry Johnson,Jerry,,Johnson,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist23.jpg,2013-01-09 17:17:25.946000,2017-01-06 07:03:13.955000
+NEL000062,Al Davis,Al,,Davis,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist43.jpg,2013-01-09 17:17:26.082000,2017-01-06 07:03:13.945000
+NEL000066,Tommy Garrett,Tommy,,Garrett,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist03.jpg,2013-12-13 16:21:27.664000,2017-01-06 07:03:13.967000
+NEL000069,David Schnoor,David,,Schnoor,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist15.jpg,2015-01-07 19:15:43.525000,2017-01-06 07:03:13.951000
+NEL000087,Nicole Fox,Nicole,,Fox,,,False,ne,,,,http://www.nebraskalegislature.gov/media/images/blogs/dist 7.jpg,2015-08-19 05:20:41.128000,2017-01-06 07:03:13.965000
+NEL000106,Dan Hughes,Dan,,Hughes,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist44.jpg,2017-05-08 07:15:22.105000,2017-06-01 07:17:44.902000
+NEL000107,Burke Harr,Burke,,Harr,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 8.jpg,2017-05-08 07:15:22.115000,2017-06-01 07:17:44.898000
+NEL000108,Mike McDonnell,Mike,,McDonnell,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 5.jpg,2017-05-08 07:15:22.121000,2017-06-01 07:17:44.929000
+NEL000109,Jim Scheer,Jim,,Scheer,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist19.jpg,2017-05-08 07:15:22.127000,2017-06-01 07:17:44.906000
+NEL000110,Matt Hansen,Matt,,Hansen,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist26.jpg,2017-05-08 07:15:22.133000,2017-06-01 07:17:44.924000
+NEL000111,John McCollister,John,,McCollister,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist20.jpg,2017-05-08 07:15:22.139000,2017-06-01 07:17:44.911000
+NEL000112,Mike Hilgers,Mike,,Hilgers,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist21.jpg,2017-05-08 07:15:22.145000,2017-06-01 07:17:44.928000
+NEL000113,Matt Williams,Matt,,Williams,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist36.jpg,2017-05-08 07:15:22.152000,2017-06-01 07:17:44.925000
+NEL000114,Lydia Brasch,Lydia,,Brasch,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist16.jpg,2017-05-08 07:15:22.158000,2017-06-01 07:17:44.920000
+NEL000115,Laura Ebke,Laura,,Ebke,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist32.jpg,2017-05-08 07:15:22.165000,2017-06-01 07:17:44.918000
+NEL000116,Rick Kolowski,Rick,,Kolowski,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist31.jpg,2017-05-08 07:15:22.171000,2017-06-01 07:17:44.932000
+NEL000117,Lynne Walz,Lynne,,Walz,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist15.jpg,2017-05-08 07:15:22.177000,2017-06-01 07:17:44.921000
+NEL000118,Sara Howard,Sara,,Howard,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 9.jpg,2017-05-08 07:15:22.183000,2017-06-01 07:17:44.936000
+NEL000119,Robert Hilkemann,Robert,,Hilkemann,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 4.jpg,2017-05-08 07:15:22.190000,2017-06-01 07:17:44.934000
+NEL000120,Adam Morfeld,Adam,,Morfeld,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist46.jpg,2017-05-08 07:15:22.196000,2017-06-01 07:17:44.892000
+NEL000121,Roy Baker,Roy,,Baker,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist30.jpg,2017-05-08 07:15:22.202000,2017-06-01 07:17:44.935000
+NEL000122,Tom Briese,Tom,,Briese,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist41.jpg,2017-05-08 07:15:22.208000,2017-06-01 07:17:44.943000
+NEL000123,Justin Wayne,Justin,,Wayne,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist13.jpg,2017-05-08 07:15:22.214000,2017-06-01 07:17:44.916000
+NEL000124,Mark Kolterman,Mark,,Kolterman,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist24.jpg,2017-05-08 07:15:22.220000,2017-06-01 07:17:44.922000
+NEL000125,Kate Bolz,Kate,,Bolz,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist29.jpg,2017-05-08 07:15:22.227000,2017-06-01 07:17:44.917000
+NEL000126,Tyson Larson,Tyson,,Larson,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist40.jpg,2017-05-08 07:15:22.234000,2017-06-01 07:17:44.945000
+NEL000127,Carol Blood,Carol,,Blood,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 3.jpg,2017-05-08 07:15:22.241000,2017-06-01 07:17:44.899000
+NEL000128,Steve Halloran,Steve,,Halloran,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist33.jpg,2017-05-08 07:15:22.247000,2017-06-01 07:17:44.939000
+NEL000129,Brett Lindstrom,Brett,,Lindstrom,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist18.jpg,2017-05-08 07:15:22.256000,2017-06-01 07:17:44.896000
+NEL000130,Robert Clements,Robert,,Clements,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 2.jpg,2017-05-08 07:15:22.262000,2017-06-01 07:17:44.933000
+NEL000131,Bruce Bostelman,Bruce,,Bostelman,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist23.jpg,2017-05-08 07:15:22.269000,2017-06-01 07:17:44.897000
+NEL000132,Ernie Chambers,Ernie,,Chambers,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist11.jpg,2017-05-08 07:15:22.275000,2017-06-01 07:17:44.905000
+NEL000133,Dan Watermeier,Dan,,Watermeier,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 1.jpg,2017-05-08 07:15:22.281000,2017-06-01 07:17:44.904000
+NEL000134,Curt Friesen,Curt,,Friesen,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist34.jpg,2017-05-08 07:15:22.288000,2017-06-01 07:17:44.900000
+NEL000135,Tony Vargas,Tony,,Vargas,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 7.jpg,2017-05-08 07:15:22.295000,2017-06-01 07:17:44.944000
+NEL000136,Patty Pansing Brooks,Patty Pansing,,Brooks,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist28.jpg,2017-05-08 07:15:22.301000,2017-06-01 07:17:44.930000
+NEL000137,Paul Schumacher,Paul,,Schumacher,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist22.jpg,2017-05-08 07:15:22.307000,2017-06-01 07:17:44.931000
+NEL000138,John Lowe,John,,Lowe,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist37.jpg,2017-05-08 07:15:22.314000,2017-06-01 07:17:44.909000
+NEL000139,Lou Ann Linehan,Lou Ann,,Linehan,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist39.jpg,2017-05-08 07:15:22.321000,2017-06-01 07:17:44.919000
+NEL000140,Dan Quick,Dan,,Quick,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist35.jpg,2017-05-08 07:15:22.327000,2017-06-01 07:17:44.903000
+NEL000141,John Kuehn,John,,Kuehn,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist38.jpg,2017-05-08 07:15:22.334000,2017-06-01 07:17:44.908000
+NEL000142,Joni Albrecht,Joni,,Albrecht,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist17.jpg,2017-05-08 07:15:22.341000,2017-06-01 07:17:44.914000
+NEL000143,Suzanne Geist,Suzanne,,Geist,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist25.jpg,2017-05-08 07:15:22.347000,2017-06-01 07:17:44.941000
+NEL000144,Jim Smith,Jim,,Smith,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist14.jpg,2017-05-08 07:15:22.354000,2017-06-01 07:17:44.907000
+NEL000145,Tom Brewer,Tom,,Brewer,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist43.jpg,2017-05-08 07:15:22.361000,2017-06-01 07:17:44.942000
+NEL000146,John Murante,John,,Murante,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist49.jpg,2017-05-08 07:15:22.368000,2017-06-01 07:17:44.912000
+NEL000147,Bob Krist,Bob,,Krist,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist10.jpg,2017-05-08 07:15:22.374000,2017-06-01 07:17:44.895000
+NEL000148,Steve Erdman,Steve,,Erdman,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist47.jpg,2017-05-08 07:15:22.381000,2017-06-01 07:17:44.937000
+NEL000149,John Stinner,John,,Stinner,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist48.jpg,2017-05-08 07:15:22.387000,2017-06-01 07:17:44.913000
+NEL000150,Merv Riepe,Merv,,Riepe,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist12.jpg,2017-05-08 07:15:22.394000,2017-06-01 07:17:44.926000
+NEL000151,Joni Craighead,Joni,,Craighead,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 6.jpg,2017-05-08 07:15:22.400000,2017-06-01 07:17:44.915000
+NEL000152,Anna Wishart,Anna,,Wishart,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist27.jpg,2017-05-08 07:15:22.407000,2017-06-01 07:17:44.893000
+NEL000153,Sue Crawford,Sue,,Crawford,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist45.jpg,2017-05-08 07:15:22.414000,2017-06-01 07:17:44.940000
+NEL000154,Mike Groene,Mike,,Groene,,,True,ne,,,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist42.jpg,2017-05-08 07:15:22.421000,2017-06-01 07:17:44.927000
+NEL000008,Burke Harr,Burke,,Harr,,,True,ne,upper,8,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 8.jpg,2011-09-22 17:37:48.956000,2017-06-01 07:17:44.843000
+NEL000010,Bob Krist,Bob,,Krist,,,True,ne,upper,10,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist10.jpg,2011-09-22 17:37:48.989000,2017-06-01 07:17:44.839000
+NEL000014,Jim Smith,Jim,,Smith,,,True,ne,upper,14,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist14.jpg,2011-09-22 17:37:49.029000,2017-06-01 07:17:44.852000
+NEL000016,Lydia Brasch,Lydia,,Brasch,,,True,ne,upper,16,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist16.jpg,2011-09-22 17:37:49.050000,2017-06-01 07:17:44.865000
+NEL000022,Paul Schumacher,Paul,,Schumacher,,,True,ne,upper,22,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist22.jpg,2011-09-22 17:37:49.193000,2017-06-01 07:17:44.877000
+NEL000040,Tyson Larson,Tyson,,Larson,,,True,ne,upper,40,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist40.jpg,2011-09-22 17:37:49.387000,2017-06-01 07:17:44.891000
+NEL000054,Dan Watermeier,Dan,,Watermeier,,,True,ne,upper,1,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 1.jpg,2013-01-09 17:17:25.829000,2017-06-01 07:17:44.849000
+NEL000056,Sara Howard,Sara,,Howard,,,True,ne,upper,9,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 9.jpg,2013-01-09 17:17:25.872000,2017-06-01 07:17:44.882000
+NEL000057,Ernie Chambers,Ernie,,Chambers,,,True,ne,upper,11,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist11.jpg,2013-01-09 17:17:25.883000,2017-06-01 07:17:44.850000
+NEL000060,Kate Bolz,Kate,,Bolz,,,True,ne,upper,29,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist29.jpg,2013-01-09 17:17:25.979000,2017-06-01 07:17:44.862000
+NEL000061,Rick Kolowski,Rick,,Kolowski,,,True,ne,upper,31,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist31.jpg,2013-01-09 17:17:25.989000,2017-06-01 07:17:44.878000
+NEL000063,Sue Crawford,Sue,,Crawford,,,True,ne,upper,45,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist45.jpg,2013-01-09 17:17:26.093000,2017-06-01 07:17:44.885000
+NEL000064,John Murante,John,,Murante,,,True,ne,upper,49,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist49.jpg,2013-01-09 17:17:26.114000,2017-06-01 07:17:44.856000
+NEL000065,Jim Scheer,Jim,,Scheer,,,True,ne,upper,19,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist19.jpg,2013-01-10 00:05:27.709000,2017-06-01 07:17:44.851000
+NEL000067,Curt Friesen,Curt,,Friesen,,,True,ne,upper,34,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist34.jpg,2015-01-07 19:15:43.486000,2017-06-01 07:17:44.845000
+NEL000068,Mike Groene,Mike,,Groene,,,True,ne,upper,42,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist42.jpg,2015-01-07 19:15:43.498000,2017-06-01 07:17:44.872000
+NEL000070,Brett Lindstrom,Brett,,Lindstrom,,,True,ne,upper,18,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist18.jpg,2015-01-07 19:15:43.532000,2017-06-01 07:17:44.841000
+NEL000071,Dan Hughes,Dan,,Hughes,,,True,ne,upper,44,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist44.jpg,2015-01-07 19:15:43.548000,2017-06-01 07:17:44.846000
+NEL000072,Matt Hansen,Matt,,Hansen,,,True,ne,upper,26,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist26.jpg,2015-01-07 19:15:43.554000,2017-06-01 07:17:44.869000
+NEL000073,Matt Williams,Matt,,Williams,,,True,ne,upper,36,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist36.jpg,2015-01-07 19:15:43.560000,2017-06-01 07:17:44.870000
+NEL000074,Adam Morfeld,Adam,,Morfeld,,,True,ne,upper,46,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist46.jpg,2015-01-07 19:15:43.566000,2017-06-01 07:17:44.836000
+NEL000075,Joni Craighead,Joni,,Craighead,,,True,ne,upper,6,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 6.jpg,2015-01-07 19:15:43.592000,2017-06-01 07:17:44.860000
+NEL000076,John McCollister,John,,McCollister,,,True,ne,upper,20,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist20.jpg,2015-01-07 19:15:43.626000,2017-06-01 07:17:44.855000
+NEL000077,Patty Pansing Brooks,Patty,,Pansing Brooks,,,True,ne,upper,28,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist28.jpg,2015-01-07 19:15:43.632000,2017-06-01 07:17:44.875000
+NEL000078,Laura Ebke,Laura,,Ebke,,,True,ne,upper,32,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist32.jpg,2015-01-07 19:15:43.638000,2017-06-01 07:17:44.863000
+NEL000079,Merv Riepe,Merv,,Riepe,,,True,ne,upper,12,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist12.jpg,2015-01-07 19:15:43.684000,2017-06-01 07:17:44.871000
+NEL000080,John Kuehn,John,,Kuehn,,,True,ne,upper,38,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist38.jpg,2015-01-07 19:15:43.690000,2017-06-01 07:17:44.853000
+NEL000081,Mark Kolterman,Mark,,Kolterman,,,True,ne,upper,24,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist24.jpg,2015-01-07 19:15:43.697000,2017-06-01 07:17:44.868000
+NEL000082,Robert Hilkemann,Robert,,Hilkemann,,,True,ne,upper,4,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 4.jpg,2015-01-07 19:15:43.703000,2017-06-01 07:17:44.880000
+NEL000083,John Stinner,John,,Stinner,,,True,ne,upper,48,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist48.jpg,2015-01-07 19:15:43.724000,2017-06-01 07:17:44.858000
+NEL000084,Roy Baker,Roy,,Baker,,,True,ne,upper,30,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist30.jpg,2015-01-07 19:15:43.772000,2017-06-01 07:17:44.881000
+NEL000088,Dan Quick,Dan,,Quick,,,True,ne,upper,35,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist35.jpg,2017-01-06 07:03:13.626000,2017-06-01 07:17:44.847000
+NEL000089,Lynne Walz,Lynne,,Walz,,,True,ne,upper,15,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist15.jpg,2017-01-06 07:03:13.666000,2017-06-01 07:17:44.867000
+NEL000090,Steve Halloran,Steve,,Halloran,,,True,ne,upper,33,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist33.jpg,2017-01-06 07:03:13.684000,2017-06-01 07:17:44.884000
+NEL000091,Tom Briese,Tom,,Briese,,,True,ne,upper,41,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist41.jpg,2017-01-06 07:03:13.690000,2017-06-01 07:17:44.889000
+NEL000092,Joni Albrecht,Joni,,Albrecht,,,True,ne,upper,17,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist17.jpg,2017-01-06 07:03:13.713000,2017-06-01 07:17:44.859000
+NEL000093,Carol Blood,Carol,,Blood,,,True,ne,upper,3,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 3.jpg,2017-01-06 07:03:13.719000,2017-06-01 07:17:44.844000
+NEL000094,Tony Vargas,Tony,,Vargas,,,True,ne,upper,7,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 7.jpg,2017-01-06 07:03:13.730000,2017-06-01 07:17:44.890000
+NEL000095,Bruce Bostelman,Bruce,,Bostelman,,,True,ne,upper,23,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist23.jpg,2017-01-06 07:03:13.735000,2017-06-01 07:17:44.842000
+NEL000096,Justin Wayne,Justin,,Wayne,,,True,ne,upper,13,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist13.jpg,2017-01-06 07:03:13.758000,2017-06-01 07:17:44.861000
+NEL000097,Mike Hilgers,Mike,,Hilgers,,,True,ne,upper,21,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist21.jpg,2017-01-06 07:03:13.763000,2017-06-01 07:17:44.873000
+NEL000098,Anna Wishart,Anna,,Wishart,,,True,ne,upper,27,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist27.jpg,2017-01-06 07:03:13.768000,2017-06-01 07:17:44.838000
+NEL000099,Steve Erdman,Steve,,Erdman,,,True,ne,upper,47,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist47.jpg,2017-01-06 07:03:13.785000,2017-06-01 07:17:44.883000
+NEL000100,Suzanne Geist,Suzanne,,Geist,,,True,ne,upper,25,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist25.jpg,2017-01-06 07:03:13.796000,2017-06-01 07:17:44.887000
+NEL000101,John Lowe,John,,Lowe,,,True,ne,upper,37,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist37.jpg,2017-01-06 07:03:13.824000,2017-06-01 07:17:44.854000
+NEL000102,Lou Ann Linehan,Lou Ann,,Linehan,,,True,ne,upper,39,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist39.jpg,2017-01-06 07:03:13.836000,2017-06-01 07:17:44.864000
+NEL000103,Mike McDonnell,Mike,,McDonnell,,,True,ne,upper,5,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 5.jpg,2017-01-06 07:03:13.841000,2017-06-01 07:17:44.874000
+NEL000104,Tom Brewer,Tom,,Brewer,,,True,ne,upper,43,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist43.jpg,2017-01-06 07:03:13.851000,2017-06-01 07:17:44.888000
+NEL000105,Robert Clements,Robert,,Clements,,,True,ne,upper,2,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 2.jpg,2017-02-07 07:13:10.896000,2017-06-01 07:17:44.879000
+NEL000155,Tom Briese,Tom,,Briese,,,True,ne,upper,41,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist41.jpg,2017-05-21 07:17:44.875000,2017-06-01 07:17:44.994000
+NEL000156,John Kuehn,John,,Kuehn,,,True,ne,upper,38,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist38.jpg,2017-05-21 07:17:44.885000,2017-06-01 07:17:44.962000
+NEL000157,John Stinner,John,,Stinner,,,True,ne,upper,48,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist48.jpg,2017-05-21 07:17:44.890000,2017-06-01 07:17:44.966000
+NEL000158,Burke Harr,Burke,,Harr,,,True,ne,upper,8,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 8.jpg,2017-05-21 07:17:44.895000,2017-06-01 07:17:44.953000
+NEL000159,Merv Riepe,Merv,,Riepe,,,True,ne,upper,12,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist12.jpg,2017-05-21 07:17:44.900000,2017-06-01 07:17:44.978000
+NEL000160,Mike McDonnell,Mike,,McDonnell,,,True,ne,upper,5,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 5.jpg,2017-05-21 07:17:44.905000,2017-06-01 07:17:44.981000
+NEL000161,Jim Scheer,Jim,,Scheer,,,True,ne,upper,19,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist19.jpg,2017-05-21 07:17:44.910000,2017-06-01 07:17:44.960000
+NEL000162,Robert Clements,Robert,,Clements,,,True,ne,upper,2,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 2.jpg,2017-05-21 07:17:44.915000,2017-06-01 07:17:44.985000
+NEL000163,Steve Halloran,Steve,,Halloran,,,True,ne,upper,33,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist33.jpg,2017-05-21 07:17:44.920000,2017-06-01 07:17:44.990000
+NEL000164,Justin Wayne,Justin,,Wayne,,,True,ne,upper,13,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist13.jpg,2017-05-21 07:17:44.926000,2017-06-01 07:17:44.969000
+NEL000165,Tom Brewer,Tom,,Brewer,,,True,ne,upper,43,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist43.jpg,2017-05-21 07:17:44.931000,2017-06-01 07:17:44.993000
+NEL000166,Adam Morfeld,Adam,,Morfeld,,,True,ne,upper,46,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist46.jpg,2017-05-21 07:17:44.937000,2017-06-01 07:17:44.946000
+NEL000167,Lou Ann Linehan,Lou Ann,,Linehan,,,True,ne,upper,39,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist39.jpg,2017-05-21 07:17:44.942000,2017-06-01 07:17:44.972000
+NEL000168,John McCollister,John,,McCollister,,,True,ne,upper,20,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist20.jpg,2017-05-21 07:17:44.947000,2017-06-01 07:17:44.964000
+NEL000169,Lynne Walz,Lynne,,Walz,,,True,ne,upper,15,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist15.jpg,2017-05-21 07:17:44.952000,2017-06-01 07:17:44.974000
+NEL000170,Ernie Chambers,Ernie,,Chambers,,,True,ne,upper,11,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist11.jpg,2017-05-21 07:17:44.957000,2017-06-01 07:17:44.959000
+NEL000171,Matt Williams,Matt,,Williams,,,True,ne,upper,36,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist36.jpg,2017-05-21 07:17:44.962000,2017-06-01 07:17:44.977000
+NEL000172,Mike Hilgers,Mike,,Hilgers,,,True,ne,upper,21,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist21.jpg,2017-05-21 07:17:44.967000,2017-06-01 07:17:44.980000
+NEL000173,Tyson Larson,Tyson,,Larson,,,True,ne,upper,40,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist40.jpg,2017-05-21 07:17:44.971000,2017-06-01 07:17:44.996000
+NEL000174,Rick Kolowski,Rick,,Kolowski,,,True,ne,upper,31,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist31.jpg,2017-05-21 07:17:44.976000,2017-06-01 07:17:44.984000
+NEL000175,Anna Wishart,Anna,,Wishart,,,True,ne,upper,27,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist27.jpg,2017-05-21 07:17:44.981000,2017-06-01 07:17:44.947000
+NEL000176,Tony Vargas,Tony,,Vargas,,,True,ne,upper,7,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 7.jpg,2017-05-21 07:17:44.988000,2017-06-01 07:17:44.995000
+NEL000177,Suzanne Geist,Suzanne,,Geist,,,True,ne,upper,25,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist25.jpg,2017-05-21 07:17:44.999000,2017-06-01 07:17:44.992000
+NEL000178,Carol Blood,Carol,,Blood,,,True,ne,upper,3,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 3.jpg,2017-05-21 07:17:45.006000,2017-06-01 07:17:44.954000
+NEL000179,Joni Albrecht,Joni,,Albrecht,,,True,ne,upper,17,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist17.jpg,2017-05-21 07:17:45.011000,2017-06-01 07:17:44.967000
+NEL000180,Paul Schumacher,Paul,,Schumacher,,,True,ne,upper,22,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist22.jpg,2017-05-21 07:17:45.017000,2017-06-01 07:17:44.983000
+NEL000181,Roy Baker,Roy,,Baker,,,True,ne,upper,30,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist30.jpg,2017-05-21 07:17:45.022000,2017-06-01 07:17:44.987000
+NEL000182,Robert Hilkemann,Robert,,Hilkemann,,,True,ne,upper,4,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 4.jpg,2017-05-21 07:17:45.028000,2017-06-01 07:17:44.986000
+NEL000183,Sara Howard,Sara,,Howard,,,True,ne,upper,9,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 9.jpg,2017-05-21 07:17:45.033000,2017-06-01 07:17:44.988000
+NEL000184,Mike Groene,Mike,,Groene,,,True,ne,upper,42,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist42.jpg,2017-05-21 07:17:45.039000,2017-06-01 07:17:44.979000
+NEL000185,Dan Quick,Dan,,Quick,,,True,ne,upper,35,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist35.jpg,2017-05-21 07:17:45.044000,2017-06-01 07:17:44.957000
+NEL000186,John Lowe,John,,Lowe,,,True,ne,upper,37,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist37.jpg,2017-05-21 07:17:45.049000,2017-06-01 07:17:44.963000
+NEL000187,Dan Hughes,Dan,,Hughes,,,True,ne,upper,44,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist44.jpg,2017-05-21 07:17:45.054000,2017-06-01 07:17:44.956000
+NEL000188,Dan Watermeier,Dan,,Watermeier,,,True,ne,upper,1,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 1.jpg,2017-05-21 07:17:45.059000,2017-06-01 07:17:44.958000
+NEL000189,Matt Hansen,Matt,,Hansen,,,True,ne,upper,26,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist26.jpg,2017-05-21 07:17:45.064000,2017-06-01 07:17:44.976000
+NEL000190,Bob Krist,Bob,,Krist,,,True,ne,upper,10,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist10.jpg,2017-05-21 07:17:45.070000,2017-06-01 07:17:44.948000
+NEL000191,John Murante,John,,Murante,,,True,ne,upper,49,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist49.jpg,2017-05-21 07:17:45.075000,2017-06-01 07:17:44.965000
+NEL000192,Joni Craighead,Joni,,Craighead,,,True,ne,upper,6,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist 6.jpg,2017-05-21 07:17:45.080000,2017-06-01 07:17:44.968000
+NEL000193,Jim Smith,Jim,,Smith,,,True,ne,upper,14,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist14.jpg,2017-05-21 07:17:45.085000,2017-06-01 07:17:44.961000
+NEL000194,Brett Lindstrom,Brett,,Lindstrom,,,True,ne,upper,18,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist18.jpg,2017-05-21 07:17:45.090000,2017-06-01 07:17:44.951000
+NEL000195,Sue Crawford,Sue,,Crawford,,,True,ne,upper,45,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist45.jpg,2017-05-21 07:17:45.095000,2017-06-01 07:17:44.991000
+NEL000196,Laura Ebke,Laura,,Ebke,,,True,ne,upper,32,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist32.jpg,2017-05-21 07:17:45.100000,2017-06-01 07:17:44.971000
+NEL000197,Curt Friesen,Curt,,Friesen,,,True,ne,upper,34,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist34.jpg,2017-05-21 07:17:45.106000,2017-06-01 07:17:44.955000
+NEL000198,Lydia Brasch,Lydia,,Brasch,,,True,ne,upper,16,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist16.jpg,2017-05-21 07:17:45.111000,2017-06-01 07:17:44.973000
+NEL000199,Steve Erdman,Steve,,Erdman,,,True,ne,upper,47,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist47.jpg,2017-05-21 07:17:45.116000,2017-06-01 07:17:44.989000
+NEL000200,Bruce Bostelman,Bruce,,Bostelman,,,True,ne,upper,23,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist23.jpg,2017-05-21 07:17:45.121000,2017-06-01 07:17:44.952000
+NEL000201,Patty Pansing Brooks,Patty Pansing,,Brooks,,,True,ne,upper,28,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist28.jpg,2017-05-21 07:17:45.126000,2017-06-01 07:17:44.982000
+NEL000202,Kate Bolz,Kate,,Bolz,,,True,ne,upper,29,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist29.jpg,2017-05-21 07:17:45.132000,2017-06-01 07:17:44.970000
+NEL000203,Mark Kolterman,Mark,,Kolterman,,,True,ne,upper,24,Nonpartisan,http://www.nebraskalegislature.gov/media/images/blogs/dist24.jpg,2017-05-21 07:17:45.137000,2017-06-01 07:17:44.975000

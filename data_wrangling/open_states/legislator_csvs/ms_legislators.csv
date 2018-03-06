@@ -1,0 +1,282 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+MSL000001,Sidney Albritton,Sidney,,Albritton,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/albritton.jpg,2010-12-10 00:05:11.485000,2012-01-05 00:05:51.837000
+MSL000003,Cindy Hyde-Smith,Cindy,,Hyde-Smith,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/hyde-smith.jpg,2010-12-10 00:05:11.516000,2012-01-05 00:05:51.840000
+MSL000004,T. O. Moffatt,T. O.,,Moffatt,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/moffatt.jpg,2010-12-10 00:05:11.518000,2012-01-05 00:05:51.824000
+MSL000006,Bob M Dearing,Bob,M,Dearing,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/dearing.jpg,2010-12-10 00:05:11.541000,2012-01-05 00:05:51.815000
+MSL000008,Haskins Montgomery,Haskins,,Montgomery,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/montgomery.jpg,2010-12-10 00:05:11.544000,2016-01-12 06:04:58.003000
+MSL000010,Tommy Dickerson,Tommy,,Dickerson,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/dickerson.jpg,2010-12-10 00:05:11.548000,2012-01-05 00:05:51.817000
+MSL000012,Alan Nunnelee,Alan,,Nunnelee,,,False,ms,,,,,2010-12-10 00:05:11.551000,2012-01-05 00:05:51.849000
+MSL000013,Terry W Brown,Terry,W,Brown,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/brown.jpg,2010-12-10 00:05:11.553000,2015-07-08 20:23:11.155000
+MSL000016,Eric Powell,Eric,,Powell,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/powell.jpg,2010-12-10 00:05:11.558000,2012-01-05 00:05:51.844000
+MSL000018,Merle Flowers,Merle,,Flowers,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/flowers.jpg,2010-12-10 00:05:11.561000,2013-01-08 15:19:34.535000
+MSL000019,Kenneth Wayne Jones,Kenneth,Wayne,Jones,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/jones.jpg,2010-12-10 00:05:11.563000,2016-01-12 06:04:57.999000
+MSL000024,Bill Stone,Bill,,Stone,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/stone.jpg,2010-12-10 00:05:11.571000,2016-01-12 06:04:57.995000
+MSL000027,Tom King,Tom,,King,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/king.jpg,2010-12-10 00:05:11.576000,2012-01-05 00:05:51.835000
+MSL000030,Jack Gordon,Jack,,Gordon,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/gordon.jpg,2010-12-10 00:05:11.581000,2012-01-05 00:05:51.853000
+MSL000032,Bennie L Turner,Bennie,L,Turner,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/turner.jpg,2010-12-10 00:05:11.585000,2013-01-24 15:58:40.660000
+MSL000033,Alice Harden,Alice,,Harden,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/harden.jpg,2010-12-10 00:05:11.586000,2013-03-06 14:47:41.817000
+MSL000034,Ezell Lee,Ezell,,Lee,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/lee_(47th).jpg,2010-12-10 00:05:11.588000,2012-01-05 00:05:51.842000
+MSL000035,Johnnie E Walls Jr.,Johnnie,E,Walls,Jr.,,False,ms,,,,,2010-12-10 00:05:11.590000,2012-01-05 00:05:51.847000
+MSL000037,Billy Hewes,Billy,,Hewes,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/hewes.jpg,2010-12-10 00:05:11.593000,2012-01-05 00:05:51.826000
+MSL000038,Perry Lee,Perry,,Lee,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/lee.jpg,2010-12-10 00:05:11.595000,2016-01-12 06:04:58.013000
+MSL000039,Giles Ward,Giles,,Ward,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/ward.jpg,2010-12-10 00:05:11.597000,2016-01-12 06:04:57.983000
+MSL000048,Doug E Davis,Doug,E,Davis,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/davis.jpg,2010-12-10 00:05:11.645000,2012-01-05 00:05:51.831000
+MSL000050,Walter Michel,Walter,,Michel,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/michel.jpg,2010-12-10 00:05:11.649000,2012-01-05 00:05:51.822000
+MSL000051,Lee Yancey,Lee,,Yancey,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/yancey.jpg,2010-12-10 00:05:11.650000,2012-01-05 00:05:51.819000
+MSL000052,Noal Akins,Noal,,Akins,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/akins.jpg,2010-12-10 00:05:11.652000,2012-01-05 00:05:51.471000
+MSL000054,David Gibbs,David,,Gibbs,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/gibbs.jpg,2010-12-10 00:05:11.655000,2013-04-05 13:10:14.401000
+MSL000055,Warner F McBride,Warner,F,McBride,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/mcbride.jpg,2010-12-10 00:05:11.657000,2012-01-05 00:05:51.810000
+MSL000057,Brian Aldridge,Brian,,Aldridge,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/aldridge.jpg,2010-12-10 00:05:11.660000,2016-01-12 06:04:57.783000
+MSL000060,Kevin McGee,Kevin,,McGee,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/mcgee.jpg,2010-12-10 00:05:11.665000,2013-01-14 16:16:28
+MSL000062,Tracy Arinder,Tracy,,Arinder,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/arinder.jpg,2010-12-10 00:05:11.669000,2012-01-05 00:05:51.458000
+MSL000068,Linda F Coleman,Linda,F,Coleman,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/coleman_(29th).jpg,2010-12-10 00:05:11.679000,2017-02-02 03:05:48.588000
+MSL000071,Bobby Shows,Bobby,,Shows,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/shows.jpg,2010-12-10 00:05:11.699000,2017-02-02 03:10:52.233000
+MSL000072,Larry Baker,Larry,,Baker,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/baker_(8th).jpg,2010-12-10 00:05:11.700000,2012-01-05 00:05:51.281000
+MSL000073,Mary H Coleman,Mary,H,Coleman,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/coleman_(65th).jpg,2010-12-10 00:05:11.702000,2016-01-12 06:04:57.899000
+MSL000074,Eugene Forrest Hamilton,Eugene,Forrest,Hamilton,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/hamilton.jpg,2010-12-10 00:05:11.704000,2016-01-12 06:04:57.887000
+MSL000075,Bobby Moak,Bobby,,Moak,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/moak.jpg,2010-12-10 00:05:11.705000,2016-01-12 06:04:57.871000
+MSL000076,Ferr Smith,Ferr,,Smith,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/smith_(27th).jpg,2010-12-10 00:05:11.707000,2016-01-12 06:04:57.807000
+MSL000079,Frank Hamilton,Frank,,Hamilton,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/hamilton_(109th).jpg,2010-12-10 00:05:11.712000,2012-01-05 00:05:51.751000
+MSL000083,Dirk D Dedeaux,Dirk,D,Dedeaux,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/dedeaux.jpg,2010-12-10 00:05:11.719000,2012-01-05 00:05:51.658000
+MSL000084,Esther Harrison,Esther,,Harrison,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/harrison.jpg,2010-12-10 00:05:11.720000,2016-01-12 06:04:57.829000
+MSL000095,Harvey Moss,Harvey,,Moss,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/moss.jpg,2010-12-10 00:05:11.739000,2012-01-05 00:05:51.805000
+MSL000096,Mary Ann Stevens,Mary Ann,,Stevens,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/stevens.jpg,2010-12-10 00:05:11.751000,2012-01-05 00:05:51.756000
+MSL000098,Reecy L Dickson,Reecy,L,Dickson,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/dickson.jpg,2010-12-10 00:05:11.754000,2016-01-12 06:04:57.843000
+MSL000103,Mark DuVall,Mark,,DuVall,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/duvall.jpg,2010-12-10 00:05:11.762000,2012-01-05 00:05:51.808000
+MSL000105,Billy Nicholson,Billy,,Nicholson,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/nicholson.jpg,2010-12-10 00:05:11.765000,2012-01-05 00:05:51.812000
+MSL000106,Johnny W Stringer,Johnny,W,Stringer,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/stringer.jpg,2010-12-10 00:05:11.767000,2016-01-12 06:04:57.956000
+MSL000108,Blaine Eaton,Blaine,,Eaton,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/eaton.jpg,2010-12-10 00:05:11.771000,2016-02-05 02:59:59.926000
+MSL000109,Bobby B Howell,Bobby,B,Howell,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/howell.jpg,2010-12-10 00:05:11.772000,2016-01-12 06:04:57.856000
+MSL000110,David Norquist,David,,Norquist,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/norquist.jpg,2010-12-10 00:05:11.774000,2012-01-05 00:05:51.796000
+MSL000112,Sidney Bondurant,Sidney,,Bondurant,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/bondurant.jpg,2010-12-10 00:05:11.777000,2012-01-05 00:05:51.759000
+MSL000113,Jim Ellington,Jim,,Ellington,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/ellington.jpg,2010-12-10 00:05:11.778000,2012-01-05 00:05:51.800000
+MSL000115,Russ Nowell,Russ,,Nowell,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/nowell.jpg,2010-12-10 00:05:11.792000,2012-01-05 00:05:51.764000
+MSL000120,Steven Palazzo,Steven,,Palazzo,,,False,ms,,,,,2010-12-10 00:05:11.800000,2012-01-05 00:05:51.465000
+MSL000122,Billy Broomfield,Billy,,Broomfield,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/broomfield.jpg,2010-12-10 00:05:11.803000,2013-12-11 15:06:54.545000
+MSL000123,Chuck Espy,Chuck,,Espy,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/espy.jpg,2010-12-10 00:05:11.805000,2016-01-12 06:04:57.797000
+MSL000124,Roger Ishee,Roger,,Ishee,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/ishee.jpg,2010-12-10 00:05:11.807000,2012-01-05 00:05:51.791000
+MSL000125,Deryk R Parker,Deryk,R,Parker,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/parker.jpg,2010-12-10 00:05:11.808000,2012-01-05 00:05:51.748000
+MSL000126,Jessica Upshaw,Jessica,,Upshaw,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/upshaw.jpg,2010-12-10 00:05:11.810000,2015-12-16 07:28:41.964000
+MSL000127,Cecil Brown,Cecil,,Brown,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/brown_(66th).jpg,2010-12-10 00:05:11.812000,2016-01-12 06:04:57.903000
+MSL000129,Wanda Jennings,Wanda,,Jennings,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/jennings.jpg,2010-12-10 00:05:11.815000,2016-01-12 06:04:57.912000
+MSL000131,J. Shaun Walley,J. Shaun,,Walley,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/walley.jpg,2010-12-10 00:05:11.818000,2012-01-05 00:05:51.785000
+MSL000132,Kelvin Buck,Kelvin,,Buck,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/buck_(5th).jpg,2010-12-10 00:05:11.820000,2015-12-16 07:28:41.973000
+MSL000133,James Evans,James,,Evans,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/evans_(70th).jpg,2010-12-10 00:05:11.834000,2016-01-12 06:04:57.919000
+MSL000135,Diane C Peranich,Diane,C,Peranich,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/peranich.jpg,2010-12-10 00:05:11.837000,2012-01-05 00:05:51.766000
+MSL000136,Greg Ward,Greg,,Ward,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/ward.jpg,2010-12-10 00:05:11.839000,2012-01-05 00:05:51.787000
+MSL000137,Kimberly Campbell Buck,Kimberly,Campbell,Campbell,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/buck_(72nd).jpg,2010-12-10 00:05:11.840000,2017-02-02 03:07:08.830000
+MSL000138,Harvey Fillingane,Harvey,,Fillingane,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/fillingane.jpg,2010-12-10 00:05:11.842000,2012-01-05 00:05:50.914000
+MSL000139,Brandon Jones,Brandon,,Jones,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/jones_(111th).jpg,2010-12-10 00:05:11.843000,2012-01-05 00:05:51.768000
+MSL000141,Joseph L Warren,Joseph,L,Warren,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/warren.jpg,2010-12-10 00:05:11.849000,2016-01-12 06:04:57.970000
+MSL000142,Clara Burnett,Clara,,Burnett,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/burnett.jpg,2010-12-10 00:05:11.851000,2016-01-12 06:04:57.967000
+MSL000143,George Flaggs Jr.,George,,Flaggs,Jr.,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/flaggs.jpg,2010-12-10 00:05:11.852000,2013-12-11 15:08:24.154000
+MSL000144,Wilbert L Jones,Wilbert,L,Jones,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/jones_(82nd).jpg,2010-12-10 00:05:11.854000,2012-01-05 00:05:51.469000
+MSL000149,Sherra Hillman Lane,Sherra Hillman,,Lane,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/lane.jpg,2010-12-10 00:05:11.873000,2016-01-12 06:04:57.951000
+MSL000150,Jimmy Puckett,Jimmy,,Puckett,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/puckett.jpg,2010-12-10 00:05:11.875000,2012-01-05 00:05:51.754000
+MSL000153,Frances Fredericks,Frances,,Fredericks,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/fredericks.jpg,2010-12-10 00:05:11.880000,2012-01-05 00:05:51.803000
+MSL000154,Bennett Malone,Bennett,,Malone,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/malone.jpg,2010-12-10 00:05:11.881000,2015-12-16 07:28:41.969000
+MSL000156,Linda Whittington,Linda,,Whittington,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/whittington.jpg,2010-12-10 00:05:11.885000,2016-01-12 06:04:57.814000
+MSL000157,Tad Campbell,Tad,,Campbell,,,False,ms,,,,,2010-12-10 00:05:11.886000,2012-01-05 00:05:51.789000
+MSL000158,Herb Frierson,Herb,,Frierson,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/frierson.jpg,2010-12-10 00:05:11.888000,2017-02-02 03:12:48.291000
+MSL000159,Rita Martinson,Rita,,Martinson,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/martinson.jpg,2010-12-10 00:05:11.889000,2016-01-12 06:04:57.875000
+MSL000160,Dannie Reed,Dannie,,Reed,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/reed.jpg,2010-12-10 00:05:11.891000,2012-01-05 00:05:51.794000
+MSL000161,Tommy L Woods,Tommy,L,Woods,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/woods.jpg,2010-12-10 00:05:11.893000,2013-01-09 15:22:12.401000
+MSL000163,Jack Gadd,Jack,,Gadd,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/gadd.jpg,2010-12-10 00:05:11.896000,2012-01-05 00:05:51.463000
+MSL000164,W. T. Mayhall Jr.,W. T.,,Mayhall,Jr.,Ted,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/mayhall.jpg,2010-12-10 00:05:11.898000,2012-01-05 00:05:50.663000
+MSL000168,Joe C. Gardner,Joe C.,,Gardner,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/gardner.jpg,2010-12-10 00:05:11.922000,2013-02-21 15:32:41.973000
+MSL000169,John Mayo,John,,Mayo,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/mayo.jpg,2010-12-10 00:05:11.924000,2012-01-05 00:05:51.761000
+MSL000170,Walter L Robinson Jr.,Walter,L,Robinson,Jr.,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/robinson.jpg,2010-12-10 00:05:11.925000,2012-01-05 00:05:51.467000
+MSL000172,William J McCoy,William,J,McCoy,,,False,ms,,,,,2010-12-10 00:05:11.929000,2012-01-05 00:05:51.460000
+MSL000173,Joseph Patrick Compretta,Joseph,Patrick,Compretta,,J.P.,False,ms,,,,,2010-12-10 00:05:11.930000,2012-01-05 00:05:51.798000
+MSL000174,Kelvin E Butler,Kelvin,E,Butler,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/butler_(38th).jpg,2011-01-14 22:24:08.506000,2016-01-12 06:04:58.027000
+MSL000175,Nancy Adams Collins,Nancy Adams,,Collins,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/collins.jpg,2011-01-18 00:37:02.073000,2016-01-12 06:04:58.080000
+MSL000181,Phillip A. Gandy,Phillip A.,,Gandy,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/gandy.jpg,2012-01-05 00:05:48.490000,2016-01-12 06:04:58.039000
+MSL000182,Tony Smith,Tony,,Smith,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/smith.jpg,2012-01-05 00:05:48.512000,2016-01-12 06:04:58.060000
+MSL000183,Melanie Sojourner,Melanie,,Sojourner,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/sojourner.jpg,2012-01-05 00:05:48.568000,2016-01-12 06:04:58.024000
+MSL000184,Steve Hale,Steve,,Hale,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/hale.jpg,2012-01-05 00:05:48.596000,2016-01-12 06:04:57.974000
+MSL000187,Will Longwitz,Will,,Longwitz,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/longwitz.jpg,2012-01-05 00:05:48.693000,2016-02-16 14:59:57.682000
+MSL000194,Gene Alday,Gene,,Alday,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/alday.jpg,2012-01-05 00:05:48.956000,2016-01-12 06:04:57.795000
+MSL000198,Brad Mayo,Brad,,Mayo,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/mayo.jpg,2012-01-05 00:05:49.092000,2016-01-12 06:04:57.779000
+MSL000210,Tommy Taylor,Tommy,,Taylor,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/taylor.jpg,2012-01-05 00:05:49.510000,2016-01-12 06:04:57.811000
+MSL000212,Kevin Horan,Kevin,,Horan,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/horan.jpg,2012-01-05 00:05:49.594000,2016-01-12 06:04:57.787000
+MSL000214,Pat Nelson,Pat,,Nelson,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/nelson.jpg,2012-01-05 00:05:49.703000,2016-01-12 06:04:57.827000
+MSL000216,Brad A. Oberhousen,Brad A.,,Oberhousen,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/oberhousen.jpg,2012-01-05 00:05:49.753000,2016-01-12 06:04:57.925000
+MSL000222,Michael T. Evans,Michael T.,,Evans,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/evans_(43rd).jpg,2012-01-05 00:05:50.033000,2016-01-12 06:04:57.847000
+MSL000224,Hank Lott,Hank,,Lott,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/lott.jpg,2012-01-05 00:05:50.098000,2016-01-12 06:04:57.763000
+MSL000228,David Parker,David,,Parker,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/parker.jpg,2013-01-07 16:23:33.190000,2016-01-12 06:04:57.987000
+MSL000241,Charles Younger,Charles,,Younger,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/senate/younger.jpg,2015-01-06 16:32:27.044000,2016-01-12 06:04:57.978000
+MSL000242,James W. Mathis,James W.,,Mathis,,,False,ms,,,,http://billstatus.ls.state.ms.us/members/house/mathis.jpg,2015-05-27 00:44:00.804000,2016-01-12 06:04:57.854000
+MSL000005,David Baria,David,,Baria,,,True,ms,lower,122,Democratic,http://billstatus.ls.state.ms.us/members/house/baria.jpg,2010-12-10 00:05:11.519000,2017-06-01 07:31:41.368000
+MSL000046,Nolan Mettetal,Nolan,,Mettetal,,,True,ms,lower,10,Republican,http://billstatus.ls.state.ms.us/members/house/mettetal.jpg,2010-12-10 00:05:11.640000,2017-06-01 07:31:40.660000
+MSL000053,Bryant W Clark,Bryant,W,Clark,,,True,ms,lower,47,Democratic,http://billstatus.ls.state.ms.us/members/house/clark.jpg,2010-12-10 00:05:11.654000,2017-06-01 07:31:41.379000
+MSL000056,Margaret Rogers,Margaret,,Rogers,,,True,ms,lower,14,Republican,http://billstatus.ls.state.ms.us/members/house/rogers_(14th).jpg,2010-12-10 00:05:11.659000,2017-06-01 07:31:41.487000
+MSL000058,Alyce G Clarke,Alyce,G,Clarke,,,True,ms,lower,69,Democratic,http://billstatus.ls.state.ms.us/members/house/clarke.jpg,2010-12-10 00:05:11.662000,2017-06-01 07:31:41.628000
+MSL000059,Andy Gipson,Andy,,Gipson,,,True,ms,lower,77,Republican,http://billstatus.ls.state.ms.us/members/house/gipson.jpg,2010-12-10 00:05:11.664000,2017-06-01 07:31:41.351000
+MSL000061,Ray Rogers,Ray,,Rogers,,,True,ms,lower,61,Republican,http://billstatus.ls.state.ms.us/members/house/rogers_(61st).jpg,2010-12-10 00:05:11.667000,2017-06-01 07:31:41.445000
+MSL000063,Angela Cockerham,Angela,,Cockerham,,,True,ms,lower,96,Democratic,http://billstatus.ls.state.ms.us/members/house/cockerham.jpg,2010-12-10 00:05:11.671000,2017-06-01 07:31:41.327000
+MSL000064,Jeffrey Guice,Jeffrey S.,,Guice,,,True,ms,lower,114,Republican,http://billstatus.ls.state.ms.us/members/house/guice.jpg,2010-12-10 00:05:11.672000,2017-06-01 07:31:41.623000
+MSL000065,America Middleton,America,,Middleton,,Chuck,True,ms,lower,85,Democratic,http://billstatus.ls.state.ms.us/members/house/middleton.jpg,2010-12-10 00:05:11.674000,2017-06-01 07:31:41.476000
+MSL000066,Omeria Scott,Omeria,,Scott,,,True,ms,lower,80,Democratic,http://billstatus.ls.state.ms.us/members/house/scott.jpg,2010-12-10 00:05:11.676000,2017-06-01 07:31:41.469000
+MSL000067,Willie Bailey,Willie,,Bailey,,,True,ms,lower,49,Democratic,http://billstatus.ls.state.ms.us/members/house/bailey.jpg,2010-12-10 00:05:11.677000,2017-06-01 07:31:41.450000
+MSL000069,Philip Gunn,Philip,,Gunn,,,True,ms,lower,56,Republican,http://billstatus.ls.state.ms.us/members/house/gunn.jpg,2010-12-10 00:05:11.695000,2017-06-01 07:31:41.226000
+MSL000070,Sam C Mims V,Sam,C,Mims,V,,True,ms,lower,97,Republican,http://billstatus.ls.state.ms.us/members/house/mims.jpg,2010-12-10 00:05:11.697000,2017-06-01 07:31:41.420000
+MSL000077,Mark Baker,Mark,,Baker,,,True,ms,lower,74,Republican,http://billstatus.ls.state.ms.us/members/house/baker.jpg,2010-12-10 00:05:11.709000,2017-06-01 07:31:41.354000
+MSL000078,Becky Currie,Becky,,Currie,,,True,ms,lower,92,Republican,http://billstatus.ls.state.ms.us/members/house/currie.jpg,2010-12-10 00:05:11.710000,2017-06-01 07:31:41.620000
+MSL000080,Alex Monsour,Alex,,Monsour,,,True,ms,lower,54,Republican,http://billstatus.ls.state.ms.us/members/house/monsour.jpg,2010-12-10 00:05:11.714000,2017-06-01 07:31:41.381000
+MSL000081,Jeffrey C Smith,Jeffrey,C,Smith,,,True,ms,lower,39,Republican,http://billstatus.ls.state.ms.us/members/house/smith.jpg,2010-12-10 00:05:11.715000,2017-06-01 07:31:41.489000
+MSL000082,Earle S Banks,Earle,S,Banks,,,True,ms,lower,67,Democratic,http://billstatus.ls.state.ms.us/members/house/banks.jpg,2010-12-10 00:05:11.717000,2017-06-01 07:31:41.394000
+MSL000085,John L Moore,John,L,Moore,,,True,ms,lower,60,Republican,http://billstatus.ls.state.ms.us/members/house/moore.jpg,2010-12-10 00:05:11.722000,2017-06-01 07:31:41.564000
+MSL000086,Greg Snowden,Greg,,Snowden,,,True,ms,lower,83,Republican,http://billstatus.ls.state.ms.us/members/house/snowden.jpg,2010-12-10 00:05:11.724000,2017-06-01 07:31:41.383000
+MSL000087,Toby Barker,Toby,,Barker,,,True,ms,lower,102,Republican,http://billstatus.ls.state.ms.us/members/house/barker.jpg,2010-12-10 00:05:11.726000,2017-06-01 07:31:41.579000
+MSL000088,Scott DeLano,Scott,,DeLano,,,True,ms,lower,117,Republican,http://billstatus.ls.state.ms.us/members/house/DeLano.jpg,2010-12-10 00:05:11.727000,2017-06-01 07:31:41.616000
+MSL000089,John W Hines Sr.,John,W,Hines,Sr.,,True,ms,lower,50,Democratic,http://billstatus.ls.state.ms.us/members/house/hines.jpg,2010-12-10 00:05:11.729000,2017-06-01 07:31:41.244000
+MSL000090,Ken Morgan,Ken,,Morgan,,,True,ms,lower,100,Republican,http://billstatus.ls.state.ms.us/members/house/morgan.jpg,2010-12-10 00:05:11.731000,2017-06-01 07:31:41.465000
+MSL000091,Gary V Staples,Gary,V,Staples,,,True,ms,lower,88,Republican,http://billstatus.ls.state.ms.us/members/house/staples.jpg,2010-12-10 00:05:11.733000,2017-06-01 07:31:40.695000
+MSL000092,Charles Jim Beckett,Charles,Jim,Beckett,,,True,ms,lower,23,Republican,http://billstatus.ls.state.ms.us/members/house/beckett.jpg,2010-12-10 00:05:11.734000,2017-06-01 07:31:41.325000
+MSL000093,Bill Denny,Bill,,Denny,,,True,ms,lower,64,Republican,http://billstatus.ls.state.ms.us/members/house/denny.jpg,2010-12-10 00:05:11.736000,2017-06-01 07:31:41.386000
+MSL000094,D. Stephen Holland,D. Stephen,,Holland,,,True,ms,lower,16,Democratic,http://billstatus.ls.state.ms.us/members/house/holland.jpg,2010-12-10 00:05:11.738000,2017-06-01 07:31:40.032000
+MSL000097,Donnie Bell,Donnie,,Bell,,,True,ms,lower,21,Republican,http://billstatus.ls.state.ms.us/members/house/bell_(21st).jpg,2010-12-10 00:05:11.753000,2017-06-01 07:31:41.687000
+MSL000099,Gregory Holloway,Gregory,,Holloway,Sr.,,True,ms,lower,76,Democratic,http://billstatus.ls.state.ms.us/members/house/holloway.jpg,2010-12-10 00:05:11.756000,2017-06-01 07:31:41.573000
+MSL000100,David W Myers,David,W,Myers,,,True,ms,lower,98,Democratic,http://billstatus.ls.state.ms.us/members/house/myers.jpg,2010-12-10 00:05:11.757000,2017-06-01 07:31:40.853000
+MSL000101,Rufus Straughter,Rufus,,Straughter,,,True,ms,lower,51,Democratic,http://billstatus.ls.state.ms.us/members/house/straughter.jpg,2010-12-10 00:05:11.759000,2017-06-01 07:31:41.604000
+MSL000102,Richard Bennett,Richard,,Bennett,,,True,ms,lower,120,Republican,http://billstatus.ls.state.ms.us/members/house/bennett.jpg,2010-12-10 00:05:11.761000,2017-06-01 07:31:41.577000
+MSL000104,Steven A Horne,Steven,A,Horne,,,True,ms,lower,81,Republican,http://billstatus.ls.state.ms.us/members/house/horne.jpg,2010-12-10 00:05:11.764000,2017-06-01 07:31:41.448000
+MSL000107,Edward Blackmon Jr.,Edward,,Blackmon,Jr.,,True,ms,lower,57,Democratic,http://billstatus.ls.state.ms.us/members/house/blackmon.jpg,2010-12-10 00:05:11.769000,2017-06-01 07:31:41.441000
+MSL000111,Preston E Sullivan,Preston,E,Sullivan,,,True,ms,lower,22,Democratic,http://billstatus.ls.state.ms.us/members/house/sullivan.jpg,2010-12-10 00:05:11.775000,2017-06-01 07:31:40.299000
+MSL000114,Mac Huddleston,Mac,,Huddleston,,,True,ms,lower,15,Republican,http://billstatus.ls.state.ms.us/members/house/huddleston_(15th).jpg,2010-12-10 00:05:11.780000,2017-06-01 07:31:41.183000
+MSL000116,Sara R Thomas,Sara,R,Thomas,,,True,ms,lower,31,Democratic,http://billstatus.ls.state.ms.us/members/house/thomas.jpg,2010-12-10 00:05:11.793000,2017-06-01 07:31:41.602000
+MSL000117,C. Scott Bounds,C. Scott,,Bounds,,,True,ms,lower,44,Republican,http://billstatus.ls.state.ms.us/members/house/bounds.jpg,2010-12-10 00:05:11.795000,2017-06-01 07:31:41.231000
+MSL000118,Tyrone Ellis,Tyrone,,Ellis,,,True,ms,lower,38,Democratic,http://billstatus.ls.state.ms.us/members/house/ellis.jpg,2010-12-10 00:05:11.797000,2017-06-01 07:31:41.498000
+MSL000119,Robert E Huddleston,Robert,E,Huddleston,,,True,ms,lower,30,Democratic,http://billstatus.ls.state.ms.us/members/house/huddleston_(30th).jpg,2010-12-10 00:05:11.798000,2017-06-01 07:31:41.694000
+MSL000121,Jerry R Turner,Jerry,R,Turner,,,True,ms,lower,18,Republican,http://billstatus.ls.state.ms.us/members/house/turner.jpg,2010-12-10 00:05:11.802000,2017-06-01 07:31:41.234000
+MSL000128,Bob Evans,Bob,,Evans,,,True,ms,lower,91,Democratic,http://billstatus.ls.state.ms.us/members/house/evans_(91st).jpg,2010-12-10 00:05:11.813000,2017-06-01 07:31:41.618000
+MSL000130,Randall Patterson,Randall,,Patterson,,,True,ms,lower,115,Republican,http://billstatus.ls.state.ms.us/members/house/patterson.jpg,2010-12-10 00:05:11.816000,2017-06-01 07:31:41.480000
+MSL000134,Robert L Johnson III,Robert,L,Johnson,III,,True,ms,lower,94,Democratic,http://billstatus.ls.state.ms.us/members/house/johnson_(94th).jpg,2010-12-10 00:05:11.835000,2017-06-01 07:31:41.434000
+MSL000140,Willie J Perkins Sr.,Willie,J,Perkins,Sr.,,True,ms,lower,32,Democratic,http://billstatus.ls.state.ms.us/members/house/perkins.jpg,2010-12-10 00:05:11.847000,2017-06-01 07:31:41.485000
+MSL000145,Bill Pigott,Bill,,Pigott,,,True,ms,lower,99,Republican,http://billstatus.ls.state.ms.us/members/house/pigott.jpg,2010-12-10 00:05:11.856000,2017-06-01 07:31:40.291000
+MSL000146,Percy W Watson,Percy,W,Watson,,,True,ms,lower,103,Democratic,http://billstatus.ls.state.ms.us/members/house/watson.jpg,2010-12-10 00:05:11.858000,2017-06-01 07:31:41.405000
+MSL000147,Larry Byrd,Larry,,Byrd,,,True,ms,lower,104,Republican,http://billstatus.ls.state.ms.us/members/house/byrd.jpg,2010-12-10 00:05:11.860000,2017-06-01 07:31:41.443000
+MSL000148,Mark Formby,Mark,,Formby,,,True,ms,lower,108,Republican,http://billstatus.ls.state.ms.us/members/house/formby.jpg,2010-12-10 00:05:11.861000,2017-06-01 07:31:41.595000
+MSL000151,Tom Weathersby,Tom,,Weathersby,,,True,ms,lower,62,Republican,http://billstatus.ls.state.ms.us/members/house/weathersby.jpg,2010-12-10 00:05:11.876000,2017-06-01 07:31:41.492000
+MSL000152,Credell Calhoun,Credell,,Calhoun,,,True,ms,lower,68,Democratic,http://billstatus.ls.state.ms.us/members/house/calhoun.jpg,2010-12-10 00:05:11.878000,2017-06-01 07:31:41.575000
+MSL000155,John Read,John,,Read,,,True,ms,lower,112,Republican,http://billstatus.ls.state.ms.us/members/house/read.jpg,2010-12-10 00:05:11.883000,2017-06-01 07:31:40.962000
+MSL000162,Lester Carpenter,Lester,,Carpenter,,,True,ms,lower,1,Republican,http://billstatus.ls.state.ms.us/members/house/carpenter.jpg,2010-12-10 00:05:11.894000,2017-06-01 07:31:41.473000
+MSL000165,Thomas U Reynolds,Thomas,U,Reynolds,,,True,ms,lower,33,Democratic,http://billstatus.ls.state.ms.us/members/house/reynolds.jpg,2010-12-10 00:05:11.900000,2017-06-01 07:31:41.503000
+MSL000166,Adrienne Wooten,Adrienne,,Wooten,,,True,ms,lower,71,Democratic,http://billstatus.ls.state.ms.us/members/house/wooten.jpg,2010-12-10 00:05:11.902000,2017-06-01 07:31:41.410000
+MSL000167,Gary Chism,Gary,,Chism,,,True,ms,lower,37,Republican,http://billstatus.ls.state.ms.us/members/house/chism.jpg,2010-12-10 00:05:11.920000,2017-06-01 07:31:41.613000
+MSL000171,Henry Zuber III,Henry,,Zuber,III,,True,ms,lower,113,Republican,http://billstatus.ls.state.ms.us/members/house/zuber.jpg,2010-12-10 00:05:11.927000,2017-06-01 07:31:41.501000
+MSL000176,Casey Eure,Casey,,Eure,,,True,ms,lower,116,Republican,http://billstatus.ls.state.ms.us/members/house/eure.jpg,2011-02-09 00:59:45.155000,2017-06-01 07:31:40.912000
+MSL000195,Steve Massengill,Steve,,Massengill,,,True,ms,lower,13,Republican,http://billstatus.ls.state.ms.us/members/house/massengill.jpg,2012-01-05 00:05:49.036000,2017-06-01 07:31:41.673000
+MSL000196,William Shirley,William,,Shirley,,,True,ms,lower,84,Republican,http://billstatus.ls.state.ms.us/members/house/shirley.jpg,2012-01-05 00:05:49.048000,2017-06-01 07:31:41.334000
+MSL000197,William Tracy Arnold,William Tracy,,Arnold,,,True,ms,lower,3,Republican,http://billstatus.ls.state.ms.us/members/house/arnold.jpg,2012-01-05 00:05:49.062000,2017-06-01 07:31:41.336000
+MSL000199,Nick Bain,Nick,,Bain,,,True,ms,lower,2,Democratic,http://billstatus.ls.state.ms.us/members/house/bain.jpg,2012-01-05 00:05:49.162000,2017-06-01 07:31:41.342000
+MSL000201,Doug McLeod,Doug,,McLeod,,,True,ms,lower,107,Republican,http://billstatus.ls.state.ms.us/members/house/mcleod.jpg,2012-01-05 00:05:49.194000,2017-06-01 07:31:41.681000
+MSL000203,Greg Haney,Greg,,Haney,,,True,ms,lower,118,Republican,http://billstatus.ls.state.ms.us/members/house/haney.jpg,2012-01-05 00:05:49.288000,2017-06-01 07:31:41.666000
+MSL000204,Jody Steverson,Jody,,Steverson,,,True,ms,lower,4,Republican,http://billstatus.ls.state.ms.us/members/house/steverson.jpg,2012-01-05 00:05:49.309000,2017-06-01 07:31:41.467000
+MSL000206,Tom Miles,Tom,,Miles,,,True,ms,lower,75,Democratic,http://billstatus.ls.state.ms.us/members/house/miles.jpg,2012-01-05 00:05:49.351000,2017-06-01 07:31:40.697000
+MSL000207,Carolyn Crawford,Carolyn,,Crawford,,,True,ms,lower,121,Republican,http://billstatus.ls.state.ms.us/members/house/crawford.jpg,2012-01-05 00:05:49.380000,2017-06-01 07:31:41.582000
+MSL000208,Manly Barton,Manly,,Barton,,,True,ms,lower,109,Republican,http://billstatus.ls.state.ms.us/members/house/barton.jpg,2012-01-05 00:05:49.422000,2017-06-01 07:31:40.948000
+MSL000211,Joey Hood,Joey,,Hood,,,True,ms,lower,35,Republican,http://billstatus.ls.state.ms.us/members/house/hood.jpg,2012-01-05 00:05:49.542000,2017-06-01 07:31:41.455000
+MSL000213,Deborah Butler Dixon,Deborah Butler,,Dixon,,,True,ms,lower,63,Democratic,http://billstatus.ls.state.ms.us/members/house/dixon.jpg,2012-01-05 00:05:49.682000,2017-06-01 07:31:41.372000
+MSL000215,Randy P. Boyd,Randy P.,,Boyd,,,True,ms,lower,19,Republican,http://billstatus.ls.state.ms.us/members/house/boyd.jpg,2012-01-05 00:05:49.724000,2017-06-01 07:31:41.611000
+MSL000217,Jason White,Jason,,White,,,True,ms,lower,48,Republican,http://billstatus.ls.state.ms.us/members/house/white.jpg,2012-01-05 00:05:49.858000,2017-06-01 07:31:41.453000
+MSL000218,Chris Brown,Chris,,Brown,,,True,ms,lower,20,Republican,http://billstatus.ls.state.ms.us/members/house/brown.jpg,2012-01-05 00:05:49.871000,2017-06-01 07:31:41.246000
+MSL000219,Timmy Ladner,Timmy,,Ladner,,,True,ms,lower,93,Republican,http://billstatus.ls.state.ms.us/members/house/ladner.jpg,2012-01-05 00:05:49.944000,2017-06-01 07:31:41.683000
+MSL000220,Sonya Williams-Barnes,Sonya,,Williams-Barnes,,,True,ms,lower,119,Democratic,http://billstatus.ls.state.ms.us/members/house/williams-barnes.jpg,2012-01-05 00:05:49.964000,2017-06-01 07:31:41.590000
+MSL000221,"John Thomas ""Trey"" Lamar, III","John Thomas ""Trey""",,Lamar,III,,True,ms,lower,8,Republican,http://billstatus.ls.state.ms.us/members/house/lamar.jpg,2012-01-05 00:05:49.994000,2017-06-01 07:31:41.506000
+MSL000223,Charles Busby,Charles,,Busby,,,True,ms,lower,111,Republican,http://billstatus.ls.state.ms.us/members/house/busby.jpg,2012-01-05 00:05:50.077000,2017-06-01 07:31:41.570000
+MSL000225,"Charles Young, Jr.",Charles,,Young,Jr.,,True,ms,lower,82,Democratic,http://billstatus.ls.state.ms.us/members/house/young.jpg,2012-01-05 00:05:50.119000,2017-06-01 07:31:40.624000
+MSL000226,Randy Rushing,Randy,,Rushing,,,True,ms,lower,78,Republican,http://billstatus.ls.state.ms.us/members/house/rushing.jpg,2012-01-05 00:05:50.168000,2017-06-01 07:31:41.460000
+MSL000229,Bill Kinkade,Bill,,Kinkade,,,True,ms,lower,52,Republican,http://billstatus.ls.state.ms.us/members/house/kinkade.jpg,2013-01-09 00:04:18.303000,2017-06-01 07:31:41.439000
+MSL000230,Brent Powell,Brent,,Powell,,,True,ms,lower,59,Republican,http://billstatus.ls.state.ms.us/members/house/powell.jpg,2013-01-12 00:13:44.752000,2017-06-01 07:31:41.437000
+MSL000233,Karl Gibbs,Karl,,Gibbs,,,True,ms,lower,36,Democratic,http://billstatus.ls.state.ms.us/members/house/gibbs_(36th).jpg,2013-04-05 02:27:08.632000,2017-06-01 07:31:41.073000
+MSL000234,Lataisha Jackson,Lataisha,,Jackson,,,True,ms,lower,11,Democratic,http://billstatus.ls.state.ms.us/members/house/jackson.jpg,2013-05-03 01:24:56.117000,2017-06-01 07:31:40.667000
+MSL000235,Patricia H. Willis,Patricia H.,,Willis,,,True,ms,lower,95,Republican,http://billstatus.ls.state.ms.us/members/house/willis.jpg,2013-06-12 01:45:20.562000,2017-06-01 07:31:41.330000
+MSL000238,Jeramey D. Anderson,Jeramey D.,,Anderson,,,True,ms,lower,110,Democratic,http://billstatus.ls.state.ms.us/members/house/anderson.jpg,2013-12-11 00:56:59.261000,2017-06-01 07:31:41.332000
+MSL000239,Oscar Denton,Oscar,,Denton,,,True,ms,lower,55,Democratic,http://billstatus.ls.state.ms.us/members/house/denton.jpg,2013-12-11 00:56:59.461000,2017-06-01 07:31:41.670000
+MSL000240,John G. Faulkner,John G.,,Faulkner,,,True,ms,lower,5,Democratic,http://billstatus.ls.state.ms.us/members/house/faulkner.jpg,2014-01-08 00:14:46.740000,2017-06-01 07:31:41.050000
+MSL000243,Cedric Burnett,Cedric,,Burnett,,,True,ms,lower,9,Democratic,http://billstatus.ls.state.ms.us/members/house/burnett.jpg,2016-01-12 06:04:52.488000,2017-06-01 07:31:41.388000
+MSL000244,Karl Oliver,Karl,,Oliver,,,True,ms,lower,46,Republican,http://billstatus.ls.state.ms.us/members/house/oliver.jpg,2016-01-12 06:04:52.586000,2017-06-01 07:31:40.308000
+MSL000245,Jay Hughes,Jay,,Hughes,,,True,ms,lower,12,Democratic,http://billstatus.ls.state.ms.us/members/house/hughes.jpg,2016-01-12 06:04:52.592000,2017-06-01 07:31:41.401000
+MSL000246,Joel Bomgar,Joel,,Bomgar,,,True,ms,lower,58,Republican,http://billstatus.ls.state.ms.us/members/house/bomgar.jpg,2016-01-12 06:04:52.643000,2017-06-01 07:31:41.586000
+MSL000248,Carl Mickens,Carl,,Mickens,,,True,ms,lower,42,Democratic,http://billstatus.ls.state.ms.us/members/house/mickens.jpg,2016-01-12 06:04:52.699000,2017-06-01 07:31:41.690000
+MSL000249,Cory Wilson,Cory,,Wilson,,,True,ms,lower,73,Republican,http://billstatus.ls.state.ms.us/members/house/wilson.jpg,2016-01-12 06:04:53.012000,2017-06-01 07:31:41.588000
+MSL000250,Shane Barnett,Shane,,Barnett,,,True,ms,lower,86,Republican,http://billstatus.ls.state.ms.us/members/house/barnett.jpg,2016-01-12 06:04:53.071000,2017-06-01 07:31:41.392000
+MSL000252,Dana Criswell,Dana,,Criswell,,,True,ms,lower,6,Republican,http://billstatus.ls.state.ms.us/members/house/criswell.jpg,2016-01-12 06:04:53.231000,2017-06-01 07:31:41.625000
+MSL000253,Ashley Henley,Ashley,,Henley,,,True,ms,lower,40,Republican,http://billstatus.ls.state.ms.us/members/house/henley.jpg,2016-01-12 06:04:53.466000,2017-06-01 07:31:41.677000
+MSL000254,Brad Touchstone,Brad,,Touchstone,,,True,ms,lower,101,Republican,http://billstatus.ls.state.ms.us/members/house/touchstone.jpg,2016-01-12 06:04:53.699000,2017-06-01 07:31:41.568000
+MSL000256,Noah Sanford,Noah,,Sanford,,,True,ms,lower,90,Republican,http://billstatus.ls.state.ms.us/members/house/sanford.jpg,2016-01-12 06:04:53.860000,2017-06-01 07:31:41.318000
+MSL000257,Kevin Horan,Kevin,,Horan,,,True,ms,lower,34,Democratic,http://billstatus.ls.state.ms.us/members/house/horan.jpg,2016-01-12 06:04:53.974000,2017-06-01 07:31:41.390000
+MSL000259,Steve Hopkins,Steve,,Hopkins,,,True,ms,lower,7,Republican,http://billstatus.ls.state.ms.us/members/house/hopkins.jpg,2016-01-12 06:04:54.081000,2017-06-01 07:31:41.560000
+MSL000262,Vince Mangold,Vince,,Mangold,,,True,ms,lower,53,Republican,http://billstatus.ls.state.ms.us/members/house/mangold.jpg,2016-01-12 06:04:54.468000,2017-06-01 07:31:41.608000
+MSL000263,Christopher Bell,Christopher,,Bell,,,True,ms,lower,65,Democratic,http://billstatus.ls.state.ms.us/members/house/bell_(65th).jpg,2016-01-12 06:04:54.486000,2017-06-01 07:31:41.097000
+MSL000264,Kathy Sykes,Kathy,,Sykes,,,True,ms,lower,70,Democratic,http://billstatus.ls.state.ms.us/members/house/sykes.jpg,2016-01-12 06:04:54.499000,2017-06-01 07:31:41.685000
+MSL000265,Roun McNeal,Roun,,McNeal,,,True,ms,lower,105,Republican,http://billstatus.ls.state.ms.us/members/house/mcneal.jpg,2016-01-12 06:04:54.707000,2017-06-01 07:31:41.668000
+MSL000266,Shane Aguirre,Shane,,Aguirre,,,True,ms,lower,17,Republican,http://billstatus.ls.state.ms.us/members/house/aguirre.jpg,2016-01-12 06:04:54.717000,2017-06-01 07:31:41.359000
+MSL000267,Dan Eubanks,Dan,,Eubanks,,,True,ms,lower,25,Republican,http://billstatus.ls.state.ms.us/members/house/eubanks.jpg,2016-01-12 06:04:54.750000,2017-06-01 07:31:41.087000
+MSL000268,Kabir Karriem,Kabir,,Karriem,,,True,ms,lower,41,Democratic,http://billstatus.ls.state.ms.us/members/house/karriem.jpg,2016-01-12 06:04:54.756000,2017-06-01 07:31:40.847000
+MSL000269,Chris Johnson,Chris,,Johnson,,,True,ms,lower,87,Republican,http://billstatus.ls.state.ms.us/members/house/johnson_(87th).jpg,2016-01-12 06:04:54.815000,2017-06-01 07:31:41.606000
+MSL000270,Robert Foster,Robert,,Foster,,,True,ms,lower,28,Republican,http://billstatus.ls.state.ms.us/members/house/foster.jpg,2016-01-12 06:04:54.921000,2017-06-01 07:31:41.664000
+MSL000271,Michael T. Evans,Michael T.,,Evans,,,True,ms,lower,45,Democratic,http://billstatus.ls.state.ms.us/members/house/evans_(45th).jpg,2016-01-12 06:04:54.930000,2017-06-01 07:31:40.690000
+MSL000273,Rob Roberson,Rob,,Roberson,,,True,ms,lower,43,Republican,http://billstatus.ls.state.ms.us/members/house/roberson.jpg,2016-01-12 06:04:54.983000,2017-06-01 07:31:41.566000
+MSL000277,Kenneth Walker,Kenneth,,Walker,,,True,ms,lower,27,Democratic,http://billstatus.ls.state.ms.us/members/house/walker.jpg,2016-01-12 06:04:55.159000,2017-06-01 07:31:41.675000
+MSL000279,Orlando Paden,Orlando,,Paden,,,True,ms,lower,26,Democratic,http://billstatus.ls.state.ms.us/members/house/paden.jpg,2016-01-12 06:04:55.375000,2017-06-01 07:31:41.597000
+MSL000280,Jarvis Dortch,Jarvis,,Dortch,,,True,ms,lower,66,Democratic,http://billstatus.ls.state.ms.us/members/house/dortch.jpg,2016-01-12 06:04:55.402000,2017-06-01 07:31:41.562000
+MSL000282,Jeff Hale,Jeff,,Hale,,,True,ms,lower,24,Republican,http://billstatus.ls.state.ms.us/members/house/hale.jpg,2016-01-12 06:04:55.690000,2017-06-01 07:31:41.679000
+MSL000286,Mark Tullos,Mark,,Tullos,,,True,ms,lower,79,Republican,http://billstatus.ls.state.ms.us/members/house/tullos.jpg,2016-01-25 16:03:31.463000,2017-06-01 07:31:41.340000
+MSL000290,John Glen Corley,John Glen,,Corley,,,True,ms,lower,106,Republican,http://billstatus.ls.state.ms.us/members/house/corley.jpg,2017-01-05 04:29:22.123000,2017-06-01 07:31:41.692000
+MSL000291,Donnie Scoggin,Donnie,,Scoggin,,,True,ms,lower,89,Republican,http://billstatus.ls.state.ms.us/members/house/,2017-01-05 04:29:22.203000,2017-06-01 07:31:41.415000
+MSL000292,Abe Hudson,Abe,,Hudson,,,True,ms,lower,29,Democratic,http://billstatus.ls.state.ms.us/members/house/hudson.jpg,2017-01-05 04:29:22.214000,2017-06-01 07:31:40.255000
+MSL000293,Debra Gibbs,Debra,,Gibbs,,,True,ms,lower,72,Democratic,http://billstatus.ls.state.ms.us/members/house/gibbs_(72nd).jpg,2017-01-05 04:29:22.227000,2017-06-01 07:31:41.316000
+MSL000002,Deborah Jeanne Dawkins,Deborah,Jeanne,Dawkins,,,True,ms,upper,48,Democratic,http://billstatus.ls.state.ms.us/members/senate/dawkins.jpg,2010-12-10 00:05:11.514000,2017-06-01 07:31:41.536000
+MSL000007,Gary Jackson,Gary,,Jackson,,,True,ms,upper,15,Republican,http://billstatus.ls.state.ms.us/members/senate/jackson_(15th).jpg,2010-12-10 00:05:11.543000,2017-06-01 07:31:41.651000
+MSL000009,David Blount,David,,Blount,,,True,ms,upper,29,Democratic,http://billstatus.ls.state.ms.us/members/senate/blount.jpg,2010-12-10 00:05:11.546000,2017-06-01 07:31:41.209000
+MSL000011,Robert L Jackson,Robert,L,Jackson,,,True,ms,upper,11,Democratic,http://billstatus.ls.state.ms.us/members/senate/jackson_(11th).jpg,2010-12-10 00:05:11.550000,2017-06-01 07:31:41.519000
+MSL000014,Joey Fillingane,Joey,,Fillingane,,,True,ms,upper,41,Republican,http://billstatus.ls.state.ms.us/members/senate/fillingane.jpg,2010-12-10 00:05:11.555000,2017-06-01 07:31:41.287000
+MSL000015,Sampson Jackson II,Sampson,,Jackson,II,,True,ms,upper,32,Democratic,http://billstatus.ls.state.ms.us/members/senate/jackson_(32nd).jpg,2010-12-10 00:05:11.556000,2017-06-01 07:31:41.643000
+MSL000017,Nickey Browning,Nickey,,Browning,,,True,ms,upper,3,Republican,http://billstatus.ls.state.ms.us/members/senate/browning.jpg,2010-12-10 00:05:11.560000,2017-06-01 07:31:41.173000
+MSL000020,Willie Simmons,Willie,,Simmons,,,True,ms,upper,13,Democratic,http://billstatus.ls.state.ms.us/members/senate/simmons_(13th).jpg,2010-12-10 00:05:11.565000,2017-06-01 07:31:41.021000
+MSL000021,Hob Bryan,Hob,,Bryan,,,True,ms,upper,7,Democratic,http://billstatus.ls.state.ms.us/members/senate/bryan.jpg,2010-12-10 00:05:11.566000,2017-06-01 07:31:41.261000
+MSL000022,Hillman Terome Frazier,Hillman,Terome,Frazier,,,True,ms,upper,27,Democratic,http://billstatus.ls.state.ms.us/members/senate/frazier.jpg,2010-12-10 00:05:11.568000,2017-06-01 07:31:41.541000
+MSL000023,David Jordan,David,,Jordan,,,True,ms,upper,24,Democratic,http://billstatus.ls.state.ms.us/members/senate/jordan.jpg,2010-12-10 00:05:11.570000,2017-06-01 07:31:41.122000
+MSL000025,Terry C Burton,Terry,C,Burton,,,True,ms,upper,31,Republican,http://billstatus.ls.state.ms.us/members/senate/burton.jpg,2010-12-10 00:05:11.573000,2017-06-01 07:31:41.266000
+MSL000026,Tommy A Gollott,Tommy,A,Gollott,,,True,ms,upper,50,Republican,http://billstatus.ls.state.ms.us/members/senate/gollott.jpg,2010-12-10 00:05:11.575000,2017-06-01 07:31:41.298000
+MSL000028,Gray Tollison,Gray,,Tollison,,,True,ms,upper,9,Republican,http://billstatus.ls.state.ms.us/members/senate/tollison.jpg,2010-12-10 00:05:11.578000,2017-06-01 07:31:41.633000
+MSL000029,Albert Butler,Albert,,Butler,,,True,ms,upper,36,Democratic,http://billstatus.ls.state.ms.us/members/senate/butler.jpg,2010-12-10 00:05:11.580000,2017-06-01 07:31:41.516000
+MSL000031,Dean Kirby,Dean,,Kirby,,,True,ms,upper,30,Republican,http://billstatus.ls.state.ms.us/members/senate/kirby.jpg,2010-12-10 00:05:11.583000,2017-06-01 07:31:41.134000
+MSL000036,Videt Carmichael,Videt,,Carmichael,,,True,ms,upper,33,Republican,http://billstatus.ls.state.ms.us/members/senate/carmichael.jpg,2010-12-10 00:05:11.591000,2017-06-01 07:31:41.544000
+MSL000040,Lydia Graves Chassaniol,Lydia,Graves,Chassaniol,,,True,ms,upper,14,Republican,http://billstatus.ls.state.ms.us/members/senate/chassaniol.jpg,2010-12-10 00:05:11.598000,2017-06-01 07:31:41.538000
+MSL000041,W. Briggs Hopson III,W. Briggs,,Hopson,III,,True,ms,upper,23,Republican,http://billstatus.ls.state.ms.us/members/senate/hopson.jpg,2010-12-10 00:05:11.600000,2017-06-01 07:31:40.363000
+MSL000042,Chris McDaniel,Chris,,McDaniel,,,True,ms,upper,42,Republican,http://billstatus.ls.state.ms.us/members/senate/mcdaniel.jpg,2010-12-10 00:05:11.621000,2017-06-01 07:31:41.524000
+MSL000043,Michael Watson,Michael,,Watson,,,True,ms,upper,51,Republican,http://billstatus.ls.state.ms.us/members/senate/watson.jpg,2010-12-10 00:05:11.623000,2017-06-01 07:31:41.648000
+MSL000044,Eugene S Clarke,Eugene,S,Clarke,,,True,ms,upper,22,Republican,http://billstatus.ls.state.ms.us/members/senate/clarke.jpg,2010-12-10 00:05:11.625000,2017-06-01 07:31:41.263000
+MSL000045,John Horhn,John,,Horhn,,,True,ms,upper,26,Democratic,http://billstatus.ls.state.ms.us/members/senate/horhn.jpg,2010-12-10 00:05:11.626000,2017-06-01 07:31:41.306000
+MSL000047,J. P. Wilemon Jr.,J. P.,,Wilemon,Jr.,,True,ms,upper,5,Democratic,http://billstatus.ls.state.ms.us/members/senate/wilemon.jpg,2010-12-10 00:05:11.644000,2017-06-01 07:31:41.550000
+MSL000049,Billy Hudson,Billy,,Hudson,,,True,ms,upper,45,Republican,http://billstatus.ls.state.ms.us/members/senate/hudson.jpg,2010-12-10 00:05:11.647000,2017-06-01 07:31:41.521000
+MSL000177,Derrick T. Simmons,Derrick T.,,Simmons,,,True,ms,upper,12,Democratic,http://billstatus.ls.state.ms.us/members/senate/simmons_(12th).jpg,2011-03-08 01:18:49.246000,2017-06-01 07:31:41.640000
+MSL000179,Russell Jolly,Russell,,Jolly,,,True,ms,upper,8,Democratic,http://billstatus.ls.state.ms.us/members/senate/jolly.jpg,2011-11-16 02:02:57.387000,2017-06-01 07:31:41.132000
+MSL000180,John A. Polk,John A.,,Polk,,,True,ms,upper,44,Republican,http://billstatus.ls.state.ms.us/members/senate/polk.jpg,2012-01-05 00:05:48.382000,2017-06-01 07:31:41.218000
+MSL000185,Sean J. Tindell,Sean J.,,Tindell,,,True,ms,upper,49,Republican,http://billstatus.ls.state.ms.us/members/senate/tindell.jpg,2012-01-05 00:05:48.658000,2017-06-01 07:31:40.481000
+MSL000186,Josh Harkins,Josh,,Harkins,,,True,ms,upper,20,Republican,http://billstatus.ls.state.ms.us/members/senate/harkins.jpg,2012-01-05 00:05:48.680000,2017-06-01 07:31:41.157000
+MSL000188,Angela Burks Hill,Angela Burks,,Hill,,,True,ms,upper,40,Republican,http://billstatus.ls.state.ms.us/members/senate/hill.jpg,2012-01-05 00:05:48.728000,2017-06-01 07:31:41.658000
+MSL000189,Chris Massey,Chris,,Massey,,,True,ms,upper,1,Republican,http://billstatus.ls.state.ms.us/members/senate/massey.jpg,2012-01-05 00:05:48.740000,2017-06-01 07:31:41.653000
+MSL000190,Philip Moran,Philip,,Moran,,,True,ms,upper,46,Republican,http://billstatus.ls.state.ms.us/members/senate/moran.jpg,2012-01-05 00:05:48.866000,2017-06-01 07:31:41.638000
+MSL000191,Brice Wiggins,Brice,,Wiggins,,,True,ms,upper,52,Republican,http://billstatus.ls.state.ms.us/members/senate/wiggins.jpg,2012-01-05 00:05:48.880000,2017-06-01 07:31:41.273000
+MSL000192,Sally Doty,Sally,,Doty,,,True,ms,upper,39,Republican,http://billstatus.ls.state.ms.us/members/senate/doty.jpg,2012-01-05 00:05:48.912000,2017-06-01 07:31:41.308000
+MSL000193,Rita Potts Parks,Rita Potts,,Parks,,,True,ms,upper,4,Republican,http://billstatus.ls.state.ms.us/members/senate/parks.jpg,2012-01-05 00:05:48.934000,2017-06-01 07:31:41.292000
+MSL000209,"Dennis DeBar, Jr.",Dennis,,DeBar,Jr.,,True,ms,upper,43,Republican,http://billstatus.ls.state.ms.us/members/senate/debar.jpg,2012-01-05 00:05:49.479000,2017-06-01 07:31:41.003000
+MSL000231,Angela Turner-Ford,Angela,,Turner-Ford,,,True,ms,upper,16,Democratic,http://billstatus.ls.state.ms.us/members/senate/turner-ford.jpg,2013-01-24 00:37:20.587000,2017-06-01 07:31:40.883000
+MSL000232,Sollie B. Norwood,Sollie B.,,Norwood,,,True,ms,upper,28,Democratic,http://billstatus.ls.state.ms.us/members/senate/norwood.jpg,2013-03-06 01:35:54.707000,2017-06-01 07:31:41.514000
+MSL000247,Tammy Witherspoon,Tammy,,Witherspoon,,,True,ms,upper,38,Democratic,http://billstatus.ls.state.ms.us/members/senate/witherspoon.jpg,2016-01-12 06:04:52.670000,2017-06-01 07:31:41.169000
+MSL000251,David Parker,David,,Parker,,,True,ms,upper,2,Republican,http://billstatus.ls.state.ms.us/members/senate/parker.jpg,2016-01-12 06:04:53.080000,2017-06-01 07:31:41.301000
+MSL000255,Chuck Younger,Chuck,,Younger,,,True,ms,upper,17,Republican,http://billstatus.ls.state.ms.us/members/senate/younger.jpg,2016-01-12 06:04:53.771000,2017-06-01 07:31:41.296000
+MSL000258,Chris Caughman,Chris,,Caughman,,,True,ms,upper,35,Republican,http://billstatus.ls.state.ms.us/members/senate/caughman.jpg,2016-01-12 06:04:53.992000,2017-06-01 07:31:41.646000
+MSL000260,Barbara Blackmon,Barbara,,Blackmon,,,True,ms,upper,21,Democratic,http://billstatus.ls.state.ms.us/members/senate/blackmon.jpg,2016-01-12 06:04:54.096000,2017-06-01 07:31:41.277000
+MSL000261,Chad McMahan,Chad,,McMahan,,,True,ms,upper,6,Republican,http://billstatus.ls.state.ms.us/members/senate/mcmahan.jpg,2016-01-12 06:04:54.298000,2017-06-01 07:31:41.526000
+MSL000272,Joseph M. Seymour,Joseph M.,,Seymour,,,True,ms,upper,47,Republican,http://billstatus.ls.state.ms.us/members/senate/seymour.jpg,2016-01-12 06:04:54.973000,2017-06-01 07:31:40.987000
+MSL000275,Bill Stone,Bill,,Stone,,,True,ms,upper,10,Democratic,http://billstatus.ls.state.ms.us/members/senate/stone.jpg,2016-01-12 06:04:55.086000,2017-06-01 07:31:41.636000
+MSL000278,Jenifer B. Branning,Jenifer B.,,Branning,,,True,ms,upper,18,Republican,http://billstatus.ls.state.ms.us/members/senate/branning.jpg,2016-01-12 06:04:55.208000,2017-06-01 07:31:41.656000
+MSL000281,Juan Barnett,Juan,,Barnett,,,True,ms,upper,34,Democratic,http://billstatus.ls.state.ms.us/members/senate/barnett.jpg,2016-01-12 06:04:55.497000,2017-06-01 07:31:41.285000
+MSL000283,Kevin Blackwell,Kevin,,Blackwell,,,True,ms,upper,19,Republican,http://billstatus.ls.state.ms.us/members/senate/blackwell.jpg,2016-01-12 06:04:55.802000,2017-06-01 07:31:41.294000
+MSL000285,Bob M. Dearing,Bob M.,,Dearing,,,True,ms,upper,37,Democratic,http://billstatus.ls.state.ms.us/members/senate/dearing.jpg,2016-01-20 06:05:57.785000,2017-06-01 07:31:41.007000
+MSL000288,J. Walter Michel,J. Walter,,Michel,,,True,ms,upper,25,Republican,http://billstatus.ls.state.ms.us/members/senate/michel.jpg,2016-03-25 06:11:52.719000,2017-06-01 07:31:41.005000

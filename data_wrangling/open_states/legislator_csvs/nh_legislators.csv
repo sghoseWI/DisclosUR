@@ -1,0 +1,969 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+NHL000001,"John S Barnes, Jr.",John,S,"Barnes, Jr.",,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/17.jpg,2011-06-21 18:49:56.640000,2013-01-04 00:08:31.988000
+NHL000002,David R Boutin,David,R,Boutin,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/16.jpg,2011-06-21 18:49:56.642000,2017-01-10 05:01:21.547000
+NHL000003,Jeb Bradley,Jeb,,Bradley,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/03.jpg,2011-06-21 18:49:56.644000,2017-01-10 05:01:21.553000
+NHL000004,Peter Bragdon,Peter,,Bragdon,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/11.jpg,2011-06-21 18:49:56.647000,2015-01-06 18:49:41.622000
+NHL000005,Sharon M Carson,Sharon,M,Carson,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/14.jpg,2011-06-21 18:49:56.649000,2017-01-10 05:01:21.563000
+NHL000006,Lou D'Allesandro,Lou,,D'Allesandro,,,False,nh,,,,http://www.votesmart.org/canphoto/14808.jpg,2011-06-21 18:49:56.651000,2017-01-10 05:01:21.556000
+NHL000007,Tom H De Blois,Tom,H,De Blois,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/18.jpg,2011-06-21 18:49:56.653000,2013-01-04 00:08:31.989000
+NHL000008,Jeanie L Forrester,Jeanie,L,Forrester,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/02.jpg,2011-06-21 18:49:56.675000,2017-01-10 05:01:21.552000
+NHL000009,James R Forsythe,James,R,Forsythe,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/04.jpg,2011-06-21 18:49:56.677000,2013-01-04 00:08:31.990000
+NHL000010,John T Gallus,John,T,Gallus,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/01.jpg,2011-06-21 18:49:56.680000,2013-01-04 00:08:31.991000
+NHL000011,Fenton L Groen,Fenton,L,Groen,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/06.jpg,2011-06-21 18:49:56.682000,2013-01-04 00:08:31.993000
+NHL000012,Matthew S Houde,Matthew,S,Houde,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/05.jpg,2011-06-21 18:49:56.684000,2013-01-04 00:08:31.994000
+NHL000013,Molly M Kelly,Molly,M,Kelly,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/10.jpg,2011-06-21 18:49:56.686000,2017-01-10 05:01:21.559000
+NHL000014,Gary E Lambert,Gary,E,Lambert,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/13.jpg,2011-06-21 18:49:56.688000,2013-01-04 00:08:31.995000
+NHL000015,Sylvia B Larsen,Sylvia,B,Larsen,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/15.jpg,2011-06-21 18:49:56.690000,2015-01-06 18:49:41.625000
+NHL000016,Jim Luther,Jim,,Luther,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/12.jpg,2011-06-21 18:49:56.693000,2013-01-04 00:08:31.996000
+NHL000017,Amanda A Merrill,Amanda,A.,Merrill,,,False,nh,,,,,2011-06-21 18:49:56.695000,2015-01-06 18:49:41.612000
+NHL000018,Chuck W Morse,Chuck,W,Morse,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/22.jpg,2011-06-21 18:49:56.710000,2017-01-10 05:01:21.542000
+NHL000019,Bob Odell,Bob,,Odell,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/08.jpg,2011-06-21 18:49:56.712000,2015-01-06 18:49:41.627000
+NHL000020,Russell E Prescott,Russell,E,Prescott,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/23.jpg,2011-06-21 18:49:56.715000,2017-01-10 05:01:21.561000
+NHL000021,Jim B Rausch,Jim,B,Rausch,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/19.jpg,2011-06-21 18:49:56.717000,2015-01-06 18:49:41.626000
+NHL000022,Andy Sanborn,Andy,,Sanborn,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/09.jpg,2011-06-21 18:49:56.719000,2017-01-10 05:01:21.540000
+NHL000023,Nancy F Stiles,Nancy,F,Stiles,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/24.jpg,2011-06-21 18:49:56.721000,2017-01-10 05:01:21.560000
+NHL000024,Raymond M White,Raymond,M,White,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/09.jpg,2011-06-21 18:49:56.724000,2013-01-04 00:08:31.999000
+NHL000026,Harry Accornero,Harry,,Accornero,,,False,nh,,,,,2011-06-21 18:49:56.728000,2013-01-04 00:08:31.501000
+NHL000027,James D Aguiar,James,D,Aguiar,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/jaugiargh7.jpg,2011-06-21 18:49:56.730000,2015-01-06 18:49:41.284000
+NHL000028,Christopher J Ahlgren,Christopher,J,Ahlgren,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/CAhlgrenCAH6.jpg,2011-06-21 18:49:56.731000,2015-01-06 18:49:41.251000
+NHL000029,Mary M Allen,Mary,M,Allen,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MAllenRH11.jpg,2011-06-21 18:49:56.734000,2015-01-06 18:49:41.515000
+NHL000030,Susan W Almy,Susan,W,Almy,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376095.jpg,2011-06-21 18:49:56.736000,2015-01-06 18:49:41.276000
+NHL000031,Donald C Andolina,Donald,C,Andolina,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376898.jpg,2011-06-21 18:49:56.738000,2013-01-04 00:08:31.507000
+NHL000032,Jason P Antosz,Jason,P,Antosz,,,False,nh,,,,,2011-06-21 18:49:56.752000,2013-01-04 00:08:31.508000
+NHL000035,David L Babson,David,L,Babson,,,False,nh,,,,,2011-06-21 18:49:56.774000,2013-01-04 00:08:31.511000
+NHL000036,Michael A Balboni,Michael,A,Balboni,,,False,nh,,,,,2011-06-21 18:49:56.777000,2013-01-04 00:08:31.512000
+NHL000038,J. Michael Ball,J. Michael,,Ball,,,False,nh,,,,,2011-06-21 18:49:56.781000,2013-01-04 00:08:31.514000
+NHL000039,Benjamin C Baroody,Benjamin,C,Baroody,,,False,nh,,,,,2011-06-21 18:49:56.783000,2013-01-04 00:08:31.515000
+NHL000040,J. Gail Barry,J. Gail,,Barry,,,False,nh,,,,,2011-06-21 18:49:56.785000,2013-01-04 00:08:31.516000
+NHL000043,Thomas L Beattie,Thomas,L,Beattie,,,False,nh,,,,,2011-06-21 18:49:56.792000,2013-01-04 00:08:31.519000
+NHL000046,William S Belvin,William,S,Belvin,,,False,nh,,,,,2011-06-21 18:49:56.798000,2013-01-04 00:08:31.522000
+NHL000047,Bernard L Benn,Bernard,L,Benn,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/bbenngh12.jpg,2011-06-21 18:49:56.801000,2015-01-06 18:49:41.274000
+NHL000048,Jerry E Bergevin,Jerry,E,Bergevin,,,False,nh,,,,,2011-06-21 18:49:56.803000,2013-01-04 00:08:31.524000
+NHL000050,David J Bettencourt,David,J,Bettencourt,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376551.jpg,2011-06-21 18:49:56.807000,2012-06-05 19:06:14.009000
+NHL000052,Lynne F Blankenbeker,Lynne,F,Blankenbeker,,,False,nh,,,,,2011-06-21 18:49:56.811000,2013-01-04 00:08:31.527000
+NHL000053,Ralph G Boehm,Ralph,G.,Boehm,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/RBoehmHH20.jpg,2011-06-21 18:49:56.813000,2017-01-10 05:01:21.490000
+NHL000054,Peter S Bolster,Peter,S,Bolster,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376797.jpg,2011-06-21 18:49:56.836000,2013-01-04 00:08:31.530000
+NHL000055,Candace C W Bouchard,Candace,C W,Bouchard,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376201.jpg,2011-06-21 18:49:56.839000,2015-01-06 18:49:41.459000
+NHL000056,Spec Bowers,Spec,,Bowers,,,False,nh,,,,,2011-06-21 18:49:56.841000,2013-01-04 00:08:31.532000
+NHL000057,Lester W Bradley,Lester,W,Bradley,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/LBradleygh6.jpg,2011-06-21 18:49:56.843000,2015-01-06 18:49:41.283000
+NHL000058,Charles J Brosseau,Charles,J,Brosseau,,,False,nh,,,,,2011-06-21 18:49:56.845000,2013-01-04 00:08:31.534000
+NHL000059,Julie M Brown,Julie,M,Brown,,,False,nh,,,,,2011-06-21 18:49:56.847000,2013-01-04 00:08:31.535000
+NHL000060,Kevin J Brown,Kevin,J,Brown,,,False,nh,,,,,2011-06-21 18:49:56.849000,2013-01-04 00:08:31.536000
+NHL000061,Paul E Brown,Paul,E,Brown,,,False,nh,,,,,2011-06-21 18:49:56.893000,2013-01-04 00:08:31.537000
+NHL000062,Brendon S Browne,Brendon,S,Browne,,,False,nh,,,,,2011-06-21 18:49:56.936000,2013-01-04 00:08:31.538000
+NHL000063,Randall S Brownrigg,Randall,S,Brownrigg,,,False,nh,,,,,2011-06-21 18:49:56.938000,2013-01-04 00:08:31.539000
+NHL000064,Michael D Brunelle,Michael,D,Brunelle,,,False,nh,,,,,2011-06-21 18:49:56.940000,2012-06-05 18:35:12.810000
+NHL000065,Lyle E Bulis,Lyle,E,Bulis,,,False,nh,,,,,2011-06-21 18:49:56.942000,2013-01-04 00:08:31.540000
+NHL000067,William Butynski,William,,Butynski,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376556.jpg,2011-06-21 18:49:56.946000,2015-01-06 18:49:41.255000
+NHL000068,Michael P Buxton,Michael,P,Buxton,,,False,nh,,,,,2011-06-21 18:49:56.948000,2013-01-04 00:08:31.543000
+NHL000069,John J Byrnes,John,J,Byrnes,,,False,nh,,,,,2011-06-21 18:49:56.950000,2013-01-04 00:08:31.544000
+NHL000071,David B Campbell,David,B,Campbell,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376559.jpg,2011-06-21 18:49:56.954000,2015-01-06 18:49:41.376000
+NHL000072,Daniel P Carr,Daniel,P,Carr,,,False,nh,,,,,2011-06-21 18:49:56.956000,2013-01-04 00:08:31.547000
+NHL000073,Anne S Cartwright,Anne,S,Cartwright,,,False,nh,,,,,2011-06-21 18:49:56.958000,2013-01-04 00:08:31.548000
+NHL000074,Frank G Case,Frank,G,Case,,,False,nh,,,,,2011-06-21 18:49:56.960000,2013-01-04 00:08:31.549000
+NHL000075,Sam Cataldo,Sam,,Cataldo,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/06.jpg,2011-06-21 18:49:56.962000,2017-01-10 05:01:21.562000
+NHL000076,John W Cebrowski,John,W.,Cebrowski,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JCebrowskiHH7.jpg,2011-06-21 18:49:56.965000,2015-01-06 18:49:41.408000
+NHL000077,Norma G Champagne,Norma,G,Champagne,,,False,nh,,,,,2011-06-21 18:49:56.967000,2013-01-04 00:08:31.553000
+NHL000079,Gene P Charron,Gene,P.,Charron,,,False,nh,,,,,2011-06-21 18:49:56.971000,2015-01-06 18:49:41.539000
+NHL000080,Cynthia L Chase,Cynthia,L.,Chase,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376916.jpg,2011-06-21 18:49:56.973000,2017-01-10 05:01:21.385000
+NHL000082,D.L. Chris Christensen,D.L. Chris,,Christensen,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376314.jpg,2011-06-21 18:49:56.977000,2013-01-04 00:08:31.557000
+NHL000083,Lars T Christiansen,Lars,T.,Christiansen,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/LChristiansenHH37.jpg,2011-06-21 18:49:56.979000,2017-01-10 05:01:21.459000
+NHL000085,James E Coffey,James,E.,Coffey,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JCoffeyHH25.jpg,2011-06-21 18:49:56.983000,2017-01-10 05:01:21.428000
+NHL000086,Jennifer R Coffey,Jennifer,R,Coffey,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376804.jpg,2011-06-21 18:49:56.985000,2013-01-04 00:08:31.561000
+NHL000087,Seth Cohn,Seth,,Cohn,,,False,nh,,,,,2011-06-21 18:49:56.987000,2013-01-04 00:08:31.562000
+NHL000088,Timothy P Comerford,Timothy,P.,Comerford,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/TComerfordRH9.jpg,2011-06-21 18:49:56.989000,2015-01-06 18:49:41.537000
+NHL000089,Guy Comtois,Guy,,Comtois,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/GComtoisBH7.jpg,2011-06-21 18:49:56.991000,2017-01-10 05:01:21.422000
+NHL000090,William F Condra,William,F,Condra,,,False,nh,,,,,2011-06-21 18:49:56.993000,2013-01-04 00:08:31.565000
+NHL000091,Mary R Cooney,Mary,R.,Cooney,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/mcooneygh8.jpg,2011-06-21 18:49:56.995000,2017-01-10 05:01:21.473000
+NHL000092,Timothy D Copeland,Timothy,D.,Copeland,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376922.jpg,2011-06-21 18:49:56.997000,2015-01-06 18:49:41.520000
+NHL000094,Sean E Coughlin,Sean,E,Coughlin,,,False,nh,,,,,2011-06-21 18:49:57.002000,2013-01-04 00:08:31.570000
+NHL000095,Gary M Coulombe,Gary,M.,Coulombe,,,False,nh,,,,,2011-06-21 18:49:57.004000,2015-01-06 18:49:41.266000
+NHL000096,Sean C Cox,Sean,C,Cox,,,False,nh,,,,,2011-06-21 18:49:57.006000,2012-06-05 18:51:19.094000
+NHL000097,Steven L Cunningham,Steven,L,Cunningham,,,False,nh,,,,,2011-06-21 18:49:57.008000,2013-01-04 00:08:31.572000
+NHL000098,Kathleen J Cusson-Cail,Kathleen,J,Cusson-Cail,,,False,nh,,,,,2011-06-21 18:49:57.010000,2013-01-04 00:08:31.573000
+NHL000099,Jennifer Daler,Jennifer,,Daler,,,False,nh,,,,,2011-06-21 18:49:57.012000,2013-01-04 00:08:31.574000
+NHL000100,Gary L Daniels,Gary,L.,Daniels,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/GDanielsHH40.jpg,2011-06-21 18:49:57.014000,2017-01-10 05:01:21.549000
+NHL000101,Duffy Daugherty,Duffy,,Daugherty,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376927.jpg,2011-06-21 18:49:57.016000,2013-01-04 00:08:31.576000
+NHL000102,Joshua C Davenport,Joshua,C,Davenport,,,False,nh,,,,,2011-06-21 18:49:57.018000,2013-01-04 00:08:31.583000
+NHL000103,Russell C Day,Russell,C,Day,,,False,nh,,,,,2011-06-21 18:49:57.020000,2013-01-04 00:08:31.584000
+NHL000104,Cameron W DeJong,Cameron,W,DeJong,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376929.jpg,2011-06-21 18:49:57.022000,2013-01-04 00:08:31.585000
+NHL000105,Susan C DeLemus,Susan,C,DeLemus,,,False,nh,,,,,2011-06-21 18:49:57.024000,2013-01-04 00:08:31.587000
+NHL000106,Helen M Deloge,Helen,M,Deloge,,,False,nh,,,,,2011-06-21 18:49:57.026000,2013-01-04 00:08:31.588000
+NHL000108,Stephen T DeStefano,Stephen,T,DeStefano,,,False,nh,,,,,2011-06-21 18:49:57.030000,2013-01-04 00:08:31.590000
+NHL000109,James E Devine,James,E.,Devine,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376750.jpg,2011-06-21 18:49:57.032000,2017-01-10 05:01:21.429000
+NHL000110,Rich T DiPentima,Rich,T,DiPentima,,,False,nh,,,,,2011-06-21 18:49:57.034000,2013-01-04 00:08:31.592000
+NHL000111,Shaun S Doherty,Shaun,S,Doherty,,,False,nh,,,,,2011-06-21 18:49:57.037000,2013-01-04 00:08:31.593000
+NHL000112,Baldwin M Domingo,Baldwin,M,Domingo,,,False,nh,,,,,2011-06-21 18:49:57.041000,2013-01-04 00:08:31.594000
+NHL000115,Richard B Drisko,Richard,B,Drisko,,,False,nh,,,,,2011-06-21 18:49:57.047000,2013-01-04 00:08:31.597000
+NHL000116,Joe Duarte,Joe,,Duarte,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JDuarteRH2.jpg,2011-06-21 18:49:57.049000,2017-01-10 05:01:21.438000
+NHL000117,Richard J Dwinell,Richard,J,Dwinell,,,False,nh,,,,,2011-06-21 18:49:57.067000,2013-01-04 00:08:31.599000
+NHL000118,Stephanie Eaton,Stephanie,,Eaton,,,False,nh,,,,,2011-06-21 18:49:57.069000,2013-01-04 00:08:31.600000
+NHL000120,Susan Emerson,Susan,,Emerson,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/SEmersonCH11.jpg,2011-06-21 18:49:57.073000,2017-01-10 05:01:21.517000
+NHL000121,Larry Emerton,Larry,,Emerton,,,False,nh,,,,,2011-06-21 18:49:57.076000,2013-01-04 00:08:31.605000
+NHL000122,Duane H Erickson,Duane,H,Erickson,,,False,nh,,,,,2011-06-21 18:49:57.078000,2013-01-04 00:08:31.606000
+NHL000123,Beverly A Ferrante,Beverly,A.,Ferrante,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376810.jpg,2011-06-21 18:49:57.080000,2017-01-10 05:01:21.372000
+NHL000124,Robert M Fesh,Robert,M,Fesh,,,False,nh,,,,http://www.votesmart.org/canphoto/5037.jpg,2011-06-21 18:49:57.082000,2015-01-06 18:49:41.545000
+NHL000126,Jack B Flanagan,Jack,B.,Flanagan,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JFlanaganHH26.jpg,2011-06-21 18:49:57.086000,2017-01-10 05:01:21.425000
+NHL000128,Joseph W Fleck,Joseph,W,Fleck,,,False,nh,,,,,2011-06-21 18:49:57.090000,2013-01-04 00:08:31.611000
+NHL000129,Robert A Foose,Robert,A,Foose,,,False,nh,,,,,2011-06-21 18:49:57.092000,2013-01-04 00:08:31.612000
+NHL000130,June M Frazer,June,M.,Frazer,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JFrazerMH13.jpg,2011-06-21 18:49:57.115000,2017-01-10 05:01:21.450000
+NHL000131,Robert A Fredette,Robert,A,Fredette,,,False,nh,,,,,2011-06-21 18:49:57.117000,2013-01-04 00:08:31.668000
+NHL000134,Laura J Gandia,Laura,J,Gandia,,,False,nh,,,,,2011-06-21 18:49:57.124000,2013-01-04 00:08:31.670000
+NHL000135,Marilinda J Garcia,Marilinda,J,Garcia,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MGarciaRH4.jpg,2011-06-21 18:49:57.126000,2015-01-06 18:49:41.554000
+NHL000137,James M Garrity,James,M,Garrity,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376581.jpg,2011-06-21 18:49:57.130000,2013-01-04 00:08:31.674000
+NHL000138,Patrick F Garrity,Patrick,F,Garrity,,,False,nh,,,,,2011-06-21 18:49:57.142000,2014-01-13 15:12:20.600000
+NHL000141,John G Gimas,John,G,Gimas,,,False,nh,,,,,2011-06-21 18:49:57.148000,2013-01-04 00:08:31.677000
+NHL000142,Philip E Ginsburg,Philip,E,Ginsburg,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376940.jpg,2011-06-21 18:49:57.150000,2014-01-13 15:36:21.001000
+NHL000143,Edmond D Gionet,Edmond,D.,Gionet,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376464.jpg,2011-06-21 18:49:57.152000,2017-01-10 05:01:21.406000
+NHL000144,J. Brandon Giuda,J. Brandon,,Giuda,,,False,nh,,,,,2011-06-21 18:49:57.155000,2013-01-04 00:08:31.680000
+NHL000146,Carlos E Gonzalez,Carlos,E,Gonzalez,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376341.jpg,2011-06-21 18:49:57.159000,2017-01-10 05:01:21.376000
+NHL000147,Mary J Gorman,Mary,J.,Gorman,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MGormanHH31.jpg,2011-06-21 18:49:57.161000,2017-01-10 05:01:21.471000
+NHL000148,Franklin F Gould,Franklin,F,Gould,,,False,nh,,,,,2011-06-21 18:49:57.163000,2013-01-04 00:08:31.683000
+NHL000149,Kenneth H Gould,Kenneth,H,Gould,,,False,nh,,,,,2011-06-21 18:49:57.165000,2012-06-05 19:09:12.476000
+NHL000150,John A Graham,John,A.,Graham,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JGrahamHH7.jpg,2011-06-21 18:49:57.167000,2015-01-06 18:49:41.409000
+NHL000151,Anne C Grassie,Anne,C.,Grassie,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/agrassiesth11.jpg,2011-06-21 18:49:57.169000,2015-01-06 18:49:41.560000
+NHL000152,Phil J Greazzo,Phil,J,Greazzo,,,False,nh,,,,,2011-06-21 18:49:57.171000,2013-01-04 00:08:31.691000
+NHL000153,Robert H Greemore,Robert,H.,Greemore,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/bgreemorebh2.jpg,2011-06-21 18:49:57.183000,2015-01-06 18:49:41.216000
+NHL000154,Mary E Griffin,Mary,E,Griffin,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MGriffinRH4.jpg,2011-06-21 18:49:57.185000,2015-01-06 18:49:41.550000
+NHL000155,Warren J Groen,Warren,J.,Groen,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/wgroensth10.jpg,2011-06-21 18:49:57.187000,2017-01-10 05:01:21.530000
+NHL000156,Robert H Haefner,Robert,H.,Haefner,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/rhaefnerhh37.jpg,2011-06-21 18:49:57.189000,2017-01-10 05:01:21.497000
+NHL000158,Christine C Hamm,Christine,C,Hamm,,,False,nh,,,,,2011-06-21 18:49:57.193000,2013-01-04 00:08:31.697000
+NHL000160,Laurie Harding,Laurie,,Harding,,,False,nh,,,,http://www.votesmart.org/canphoto/42755.jpg,2011-06-21 18:49:57.197000,2015-01-06 18:49:41.277000
+NHL000161,Harry B Hardwick,Harry,B,Hardwick,,,False,nh,,,,,2011-06-21 18:49:57.199000,2013-01-04 00:08:31.701000
+NHL000163,Samuel L Hawkes,Samuel,L,Hawkes,,,False,nh,,,,,2011-06-21 18:49:57.203000,2013-01-04 00:08:31.703000
+NHL000164,Kenneth Hawkins,Kenneth, ,Hawkins,,,False,nh,,,,,2011-06-21 18:49:57.205000,2013-01-04 00:08:31.704000
+NHL000165,James F Headd,James,F,Headd,,,False,nh,,,,,2011-06-21 18:49:57.207000,2013-01-04 00:08:31.705000
+NHL000166,David W Hess,David,W.,Hess,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/375955.jpg,2011-06-21 18:49:57.220000,2017-01-10 05:01:21.396000
+NHL000167,John A Hikel,John,A,Hikel,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376822.jpg,2011-06-21 18:49:57.222000,2015-01-06 18:49:41.403000
+NHL000172,Roland P Hofemann,Roland,P,Hofemann,,,False,nh,,,,,2011-06-21 18:49:57.234000,2013-01-04 00:08:32.002000
+NHL000173,Edith A Hogan,Edith,A,Hogan,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376716.jpg,2011-06-21 18:49:57.236000,2017-01-10 05:01:21.405000
+NHL000174,Timothy Hogan,Timothy,,Hogan,,,False,nh,,,,,2011-06-21 18:49:57.239000,2013-01-04 00:08:31.713000
+NHL000175,Frank R Holden,Frank,R,Holden,,,False,nh,,,,,2011-06-21 18:49:57.245000,2013-01-04 00:08:31.714000
+NHL000176,Dorothea D Hooper,Dorothea,D.,Hooper,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/dhoopersth16.jpg,2011-06-21 18:49:57.247000,2015-01-06 18:49:41.562000
+NHL000179,Thomas J Howard,Thomas,J,Howard,,,False,nh,,,,,2011-06-21 18:49:57.253000,2013-01-04 00:08:31.718000
+NHL000181,Karen K Hutchinson,Karen,K,Hutchinson,,,False,nh,,,,,2011-06-21 18:49:57.257000,2013-01-04 00:08:31.720000
+NHL000182,Winfred O Hutchinson,Winfred,O,Hutchinson,,,False,nh,,,,,2011-06-21 18:49:57.271000,2013-01-04 00:08:31.721000
+NHL000183,William J Infantine,William,J.,Infantine,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/WInfantineHH13.jpg,2011-06-21 18:49:57.273000,2017-01-10 05:01:21.533000
+NHL000184,Paul C Ingbretson,Paul,C,Ingbretson,,,False,nh,,,,,2011-06-21 18:49:57.275000,2013-01-04 00:08:31.722000
+NHL000185,Robert E Introne,Robert,E.,Introne,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/RIntroneRH3.jpg,2011-06-21 18:49:57.277000,2017-01-10 05:01:21.496000
+NHL000190,Jane B Johnson,Jane,B,Johnson,,,False,nh,,,,,2011-06-21 18:49:57.290000,2015-01-06 18:49:41.256000
+NHL000191,Kyle D Jones,Kyle,D,Jones,,,False,nh,,,,,2011-06-21 18:49:57.293000,2013-01-04 00:08:31.728000
+NHL000192,Laura M Jones,Laura,M.,Jones,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376956.jpg,2011-06-21 18:49:57.296000,2017-01-10 05:01:21.460000
+NHL000193,Naida L Kaen,Naida,L.,Kaen,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376077.jpg,2011-06-21 18:49:57.298000,2017-01-10 05:01:21.481000
+NHL000194,Lawrence M Kappler,Lawrence,Mike,Kappler,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/lkapplerrh2.jpg,2011-06-21 18:49:57.301000,2017-01-10 05:01:21.462000
+NHL000195,Phyllis M Katsakiores,Phyllis,M,Katsakiores,,,False,nh,,,,,2011-06-21 18:49:57.303000,2013-01-04 00:08:31.732000
+NHL000197,Thomas E Keane,Thomas,E,Keane,,,False,nh,,,,,2011-06-21 18:49:57.318000,2013-01-04 00:08:31.733000
+NHL000199,David H Kidder,David,H.,Kidder,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376591.jpg,2011-06-21 18:49:57.322000,2017-01-10 05:01:21.394000
+NHL000200,Robert P Kingsbury,Robert,P,Kingsbury,,,False,nh,,,,,2011-06-21 18:49:57.324000,2013-01-04 00:08:31.736000
+NHL000201,J. David Knox,J. David,,Knox,,,False,nh,,,,,2011-06-21 18:49:57.327000,2013-01-04 00:08:31.737000
+NHL000204,Joseph F Krasucki,Joseph,F,Krasucki,,,False,nh,,,,,2011-06-21 18:49:57.333000,2013-01-04 00:08:31.740000
+NHL000205,Kenneth Kreis,Kenneth,,Kreis,,,False,nh,,,,,2011-06-21 18:49:57.335000,2013-01-04 00:08:31.741000
+NHL000207,Paul D LaCasse,Paul,D,LaCasse,,,False,nh,,,,,2011-06-21 18:49:57.340000,2013-01-04 00:08:31.743000
+NHL000209,George A Lambert,George,A,Lambert,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/glamberthh44.jpg,2011-06-21 18:49:57.344000,2015-01-06 18:49:41.399000
+NHL000210,Kirsten L Larsen Schultz,Kirsten,L,Larsen Schultz,,,False,nh,,,,,2011-06-21 18:49:57.347000,2013-01-04 00:08:31.746000
+NHL000211,Kathleen A Lauer-Rago,Kathleen,A,Lauer-Rago,,,False,nh,,,,,2011-06-21 18:49:57.349000,2013-01-04 00:08:31.747000
+NHL000212,Thomas W Laware,Thomas,W,Laware,,,False,nh,,,,,2011-06-21 18:49:57.351000,2013-01-04 00:08:31.748000
+NHL000214,Benjamin P Lefebvre,Benjamin,P,Lefebvre,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/blefebvresuh1.jpg,2011-06-21 18:49:57.356000,2015-01-06 18:49:41.614000
+NHL000215,Frederick F Leonard,Frederick,F,Leonard,,,False,nh,,,,,2011-06-21 18:49:57.358000,2013-01-04 00:08:32.001000
+NHL000216,Alfred C Lerandeau,Alfred,C,Lerandeau,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/ALerandeauCHH12.jpg,2011-06-21 18:49:57.360000,2015-01-06 18:49:41.257000
+NHL000217,Nickolas J Levasseur,Nickolas,J,Levasseur,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/NLevasseurHH11.jpg,2011-06-21 18:49:57.362000,2015-01-06 18:49:41.289000
+NHL000218,Steven W Lindsey,Steven,W,Lindsey,,,False,nh,,,,,2011-06-21 18:49:57.365000,2013-01-04 00:08:31.751000
+NHL000219,Mark H Lindsley,Mark,H,Lindsley,,,False,nh,,,,,2011-06-21 18:49:57.367000,2013-01-04 00:08:31.752000
+NHL000220,Priscilla P Lockwood,Priscilla,P,Lockwood,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/PLockwoodMH9.jpg,2011-06-21 18:49:57.369000,2015-01-06 18:49:41.498000
+NHL000223,Charlene M Lovett,Charlene,M,Lovett,,,False,nh,,,,,2011-06-21 18:49:57.376000,2013-01-04 00:08:31.756000
+NHL000225,Robert A Luther,Robert A.,,Luther,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/blutherbh3.jpg,2011-06-21 18:49:57.380000,2017-01-10 05:01:21.494000
+NHL000227,Bruce A MacMahon,Bruce,A,MacMahon,,,False,nh,,,,,2011-06-21 18:49:57.384000,2013-01-04 00:08:31.761000
+NHL000229,Robert J Malone,Robert,J,Malone,,,False,nh,,,,,2011-06-21 18:49:57.389000,2013-01-04 00:08:31.763000
+NHL000230,Jonathan S Maltz,Jonathan,S,Maltz,,,False,nh,,,,,2011-06-21 18:49:57.391000,2013-01-04 00:08:31.764000
+NHL000231,Andrew J Manuse,Andrew,J,Manuse,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376977.jpg,2011-06-21 18:49:57.393000,2013-01-04 00:08:31.765000
+NHL000232,Bruce Marcus,Bruce,,Marcus,,,False,nh,,,,,2011-06-21 18:49:57.395000,2013-01-04 00:08:31.766000
+NHL000233,Donna C Mauro,Donna,C,Mauro,,,False,nh,,,,,2011-06-21 18:49:57.398000,2013-01-04 00:08:31.767000
+NHL000234,Frank H McCarthy,Frank,H,McCarthy,,,False,nh,,,,,2011-06-21 18:49:57.400000,2013-01-04 00:08:31.768000
+NHL000235,Michael J McCarthy,Michael,J..,McCarthy,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MMcCarthyHH29.jpg,2011-06-21 18:49:57.402000,2015-01-06 18:49:41.369000
+NHL000236,Donald B McClarren,Donald,B,McClarren,,,False,nh,,,,,2011-06-21 18:49:57.404000,2017-01-10 05:01:21.404000
+NHL000238,John J McDonnell,John,J,McDonnell,,,False,nh,,,,,2011-06-21 18:49:57.408000,2013-01-04 00:08:31.771000
+NHL000239,Sean M McGuinness,Sean,M,McGuinness,,,False,nh,,,,,2011-06-21 18:49:57.410000,2013-01-04 00:08:31.772000
+NHL000241,Dan McGuire,Dan,,McGuire,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376984.jpg,2011-06-21 18:49:57.414000,2017-01-10 05:01:21.386000
+NHL000245,Holly L Mecheski,Holly,L,Mecheski,,,False,nh,,,,,2011-06-21 18:49:57.423000,2013-01-04 00:08:31.779000
+NHL000246,Evalyn S Merrick,Evalyn,S,Merrick,,,False,nh,,,,,2011-06-21 18:49:57.445000,2013-01-04 00:08:31.780000
+NHL000247,Harry C Merrow,Harry,C,Merrow,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/herrowcah5.jpg,2011-06-21 18:49:57.447000,2015-01-06 18:49:41.248000
+NHL000248,Irene M Messier,Irene,M,Messier,,,False,nh,,,,,2011-06-21 18:49:57.450000,2013-01-04 00:08:31.782000
+NHL000249,Alida I Millham,Alida,I,Millham,,,False,nh,,,,,2011-06-21 18:49:57.452000,2013-01-04 00:08:31.783000
+NHL000250,Paul Mirski,Paul,,Mirski,,,False,nh,,,,,2011-06-21 18:49:57.454000,2013-01-04 00:08:31.784000
+NHL000251,Marcia G Moody,Marcia,G.,Moody,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MMoodyRH17.jpg,2011-06-21 18:49:57.456000,2017-01-10 05:01:21.467000
+NHL000252,Charles E Moore,Charles,E,Moore,,,False,nh,,,,,2011-06-21 18:49:57.458000,2013-01-04 00:08:31.789000
+NHL000253,Robert W Moore,Robert,W,Moore,,,False,nh,,,,,2011-06-21 18:49:57.460000,2013-01-04 00:08:31.790000
+NHL000254,Edward P Moran,Edward,P,Moran,,,False,nh,,,,,2011-06-21 18:49:57.462000,2013-01-04 00:08:31.791000
+NHL000255,Philip L Munck,Philip,L,Munck,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376988.jpg,2011-06-21 18:49:57.464000,2013-01-04 00:08:31.792000
+NHL000256,Brian JX Murphy,Brian,JX,Murphy,,,False,nh,,,,,2011-06-21 18:49:57.466000,2013-01-04 00:08:31.794000
+NHL000258,Chris F Nevins,Chris,F,Nevins,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376791.jpg,2011-06-21 18:49:57.470000,2013-01-04 00:08:31.802000
+NHL000259,Clifford A Newton,Clifford,A,Newton,,,False,nh,,,,,2011-06-21 18:49:57.473000,2013-01-04 00:08:31.803000
+NHL000261,Terie Norelli,Terie,,Norelli,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376154.jpg,2011-06-21 18:49:57.496000,2015-01-06 18:49:41.530000
+NHL000263,William L O'Brien,William,L.,O'Brien,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376610.jpg,2011-06-21 18:49:57.500000,2017-01-10 05:01:21.535000
+NHL000265,William H O'Connor,William,H,O'Connor,,,False,nh,,,,,2011-06-21 18:49:57.505000,2013-01-04 00:08:31.811000
+NHL000269,Richard Okerman,Richard,,Okerman,,,False,nh,,,,,2011-06-21 18:49:57.513000,2013-01-04 00:08:31.815000
+NHL000270,Jeffrey D Oligny,Jeffrey,D.,Oligny,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376996.jpg,2011-06-21 18:49:57.515000,2017-01-10 05:01:21.434000
+NHL000271,Joe Osgood,Joe,,Osgood,,,False,nh,,,,,2011-06-21 18:49:57.518000,2015-01-06 18:49:41.616000
+NHL000272,Derek Owen,Derek,,Owen,,,False,nh,,,,,2011-06-21 18:49:57.520000,2013-01-04 00:08:31.818000
+NHL000274,David J Palfrey,David,J,Palfrey,,,False,nh,,,,,2011-06-21 18:49:57.524000,2013-01-04 00:08:31.820000
+NHL000275,Barry J Palmer,Barry,J,Palmer,,,False,nh,,,,,2011-06-21 18:49:57.526000,2013-01-04 00:08:31.821000
+NHL000276,Stephen J Palmer,Stephen,J,Palmer,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/SPalmerHH23.jpg,2011-06-21 18:49:57.528000,2015-01-06 18:49:41.310000
+NHL000277,William D Panek,William,D,Panek,,,False,nh,,,,,2011-06-21 18:49:57.530000,2013-01-04 00:08:31.823000
+NHL000279,James A Parison,James,A.,Parison,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376999.jpg,2011-06-21 18:49:57.534000,2017-01-10 05:01:21.427000
+NHL000281,Robbie L Parsons,Robbie,L.,Parsons,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/rparsonssth1.jpg,2011-06-21 18:49:57.538000,2016-02-05 02:51:39.611000
+NHL000282,Beatriz Pastor-Bodmer,Beatriz,,Pastor-Bodmer,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/BPastor-BodmerHG12.jpg,2011-06-21 18:49:57.541000,2015-01-06 18:49:41.275000
+NHL000283,Betsey L Patten,Betsey,L,Patten,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376041.jpg,2011-06-21 18:49:57.543000,2013-01-04 00:08:31.831000
+NHL000285,Michele S Peckham,Michele,S.,Peckham,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MPeckhamRH13.jpg,2011-06-21 18:49:57.547000,2017-01-10 05:01:21.480000
+NHL000286,Tony J Pellegrino,Tony,J.,Pellegrino,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/TPellegrinoHH21.jpg,2011-06-21 18:49:57.549000,2015-01-06 18:49:41.308000
+NHL000287,Marsha L Pelletier,Marsha,L,Pelletier,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MPelletierSH20.jpg,2011-06-21 18:49:57.551000,2015-01-06 18:49:41.586000
+NHL000288,Leo P Pepino,Leo,P,Pepino,,,False,nh,,,,,2011-06-21 18:49:57.553000,2013-01-04 00:08:31.836000
+NHL000289,Amy S Perkins,Amy,S,Perkins,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376849.jpg,2011-06-21 18:49:57.555000,2015-01-06 18:49:41.524000
+NHL000290,Lawrence B Perkins,Lawrence,B,Perkins,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/LPerkinsRH14.jpg,2011-06-21 18:49:57.557000,2015-01-06 18:49:41.525000
+NHL000291,Lenette M Peterson,Lenette,M,Peterson,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/LPetersonHH21.jpg,2011-06-21 18:49:57.559000,2015-01-06 18:49:41.305000
+NHL000292,Laurie P Pettengill,Laurie,P,Pettengill,,,False,nh,,,,,2011-06-21 18:49:57.561000,2013-01-04 00:08:31.842000
+NHL000293,David M Pierce,David,,Pierce,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/05.jpg,2011-06-21 18:49:57.625000,2017-01-10 05:01:21.546000
+NHL000294,James P Pilliod,James,P,Pilliod,,,False,nh,,,,,2011-06-21 18:49:57.627000,2013-01-04 00:08:31.844000
+NHL000295,Maurice L Pilotte,Maurice,L,Pilotte,,,False,nh,,,,,2011-06-21 18:49:57.629000,2013-01-04 00:08:31.845000
+NHL000298,Frances D Potter,Frances,D,Potter,,,False,nh,,,,,2011-06-21 18:49:57.645000,2013-01-04 00:08:31.847000
+NHL000299,James F Powers,James,F,Powers,,,False,nh,,,,,2011-06-21 18:49:57.647000,2012-06-05 18:57:35.685000
+NHL000300,Calvin D Pratt,Calvin,D.,Pratt,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/CPrattHH6.jpg,2011-06-21 18:49:57.649000,2015-01-06 18:49:41.407000
+NHL000301,Mark L Proulx,Mark,L,Proulx,,,False,nh,,,,,2011-06-21 18:49:57.651000,2013-01-04 00:08:31.849000
+NHL000302,Marshall E Quandt,Marshall,E,Quandt,,,False,nh,,,,,2011-06-21 18:49:57.653000,2013-01-04 00:08:31.851000
+NHL000303,Matt J Quandt,Matt,J,Quandt,,,False,nh,,,,,2011-06-21 18:49:57.655000,2013-01-04 00:08:31.852000
+NHL000304,Peter E Ramsey,Peter,E,Ramsey,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/PRamseyHH8.jpg,2011-06-21 18:49:57.659000,2015-01-06 18:49:41.424000
+NHL000305,Laurence M Rappaport,Laurence,M,Rappaport,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376854.jpg,2011-06-21 18:49:57.661000,2015-01-06 18:49:41.264000
+NHL000306,Robin P Read,Robin,P,Read,,,False,nh,,,,,2011-06-21 18:49:57.663000,2013-01-04 00:08:31.853000
+NHL000307,John M Reagan,John,,Reagan,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/17.jpg,2011-06-21 18:49:57.665000,2017-01-10 05:01:21.555000
+NHL000308,Dennis Reed,Dennis,,Reed,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376513.jpg,2011-06-21 18:49:57.678000,2015-01-06 18:49:41.460000
+NHL000309,Michael T Reed,Michael,T,Reed,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377008.jpg,2011-06-21 18:49:57.680000,2013-01-04 00:08:31.855000
+NHL000310,Kevin E Reichard,Kevin,E,Reichard,,,False,nh,,,,,2011-06-21 18:49:57.682000,2013-01-04 00:08:31.856000
+NHL000311,Harold T Reilly,Harold,T,Reilly,,Skip,False,nh,,,,,2011-06-21 18:49:57.684000,2015-01-06 18:49:41.287000
+NHL000312,William J Remick,William,J,Remick,,,False,nh,,,,,2011-06-21 18:49:57.686000,2013-01-04 00:08:31.858000
+NHL000313,Andrew Renzullo,Andrew,,Renzullo,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/ARenzulloHH37.jpg,2011-06-21 18:49:57.688000,2015-01-06 18:49:41.385000
+NHL000314,Brian D Rhodes,Brian,D,Rhodes,,,False,nh,,,,,2011-06-21 18:49:57.691000,2015-01-06 18:49:41.373000
+NHL000316,Frederick C Rice,Frederick,C,Rice,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/fricerh15.jpg,2011-06-21 18:49:57.695000,2015-01-06 18:49:41.528000
+NHL000317,Gary B Richardson,Gary,B,Richardson,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376725.jpg,2011-06-21 18:49:57.697000,2015-01-06 18:49:41.425000
+NHL000318,Herbert D Richardson,Herbert,D,Richardson,,,False,nh,,,,,2011-06-21 18:49:57.700000,2015-01-06 18:49:41.269000
+NHL000319,Jon F Richardson,Jon,F,Richardson,,,False,nh,,,,,2011-06-21 18:49:57.702000,2013-01-04 00:08:31.868000
+NHL000320,Glenn F Ritter,Glenn,F,Ritter,,,False,nh,,,,,2011-06-21 18:49:57.704000,2013-01-04 00:08:31.869000
+NHL000321,David S Robbins,David,S,Robbins,,,False,nh,,,,,2011-06-21 18:49:57.706000,2013-01-04 00:08:31.870000
+NHL000322,Jenna J Roberts,Jenna,J,Roberts,,,False,nh,,,,,2011-06-21 18:49:57.718000,2013-01-04 00:08:31.871000
+NHL000323,Kris E Roberts,Kris,E.,Roberts,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/KRobertsCH4.jpg,2011-06-21 18:49:57.720000,2017-01-10 05:01:21.455000
+NHL000324,Beverly T Rodeschin,Beverly,T,Rodeschin,,,False,nh,,,,,2011-06-21 18:49:57.723000,2013-01-04 00:08:31.873000
+NHL000325,Ted Rokas,Ted,,Rokas,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/TRokasHH12.jpg,2011-06-21 18:49:57.725000,2015-01-06 18:49:41.291000
+NHL000327,Robert H Rowe,Robert,H.,Rowe,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376192.jpg,2011-06-21 18:49:57.729000,2017-01-10 05:01:21.498000
+NHL000328,David H Russell,David,H,Russell,,,False,nh,,,,,2011-06-21 18:49:57.732000,2013-01-04 00:08:31.876000
+NHL000329,Tara A Sad,Tara,A.,Sad,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/TSadCH1.jpg,2011-06-21 18:49:57.734000,2017-01-10 05:01:21.521000
+NHL000331,Elisabeth N Sanders,Elisabeth,N.,Sanders,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376625.jpg,2011-06-21 18:49:57.738000,2017-01-10 05:01:21.409000
+NHL000333,Marie N Sapienza,Marie,N,Sapienza,,,False,nh,,,,,2011-06-21 18:49:57.743000,2013-01-04 00:08:31.879000
+NHL000334,Dino A Scala,Dino,A,Scala,,,False,nh,,,,,2011-06-21 18:49:57.745000,2013-01-04 00:08:31.880000
+NHL000335,Donna L Schlachman,Donna,L,Schlachman,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376861.jpg,2011-06-21 18:49:57.757000,2015-01-06 18:49:41.516000
+NHL000338,Stephen J Schmidt,Stephen,J,Schmidt,,,False,nh,,,,,2011-06-21 18:49:57.764000,2015-01-06 18:49:41.252000
+NHL000339,Adam R Schroadter,Adam,R.,Schroadter,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/ASchroadterRH12.jpg,2011-06-21 18:49:57.786000,2017-01-10 05:01:21.358000
+NHL000340,Lisa E Scontsas,Lisa,E,Scontsas,,,False,nh,,,,,2011-06-21 18:49:57.788000,2013-01-04 00:08:31.885000
+NHL000341,G. Brian Seaworth,G. Brian,,Seaworth,,,False,nh,,,,,2011-06-21 18:49:57.790000,2013-01-04 00:08:31.886000
+NHL000342,John B Sedensky,John,B,Sedensky,,,False,nh,,,,,2011-06-21 18:49:57.792000,2015-01-06 18:49:41.511000
+NHL000344,Christopher W Serlin,Christopher,W,Serlin,,,False,nh,,,,,2011-06-21 18:49:57.798000,2013-01-04 00:08:31.889000
+NHL000345,Jeffrey S Shackett,Jeffrey,S.,Shackett,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377024.jpg,2011-06-21 18:49:57.800000,2017-04-10 02:46:14.135000
+NHL000347,Kenneth W Sheffert,Kenneth,W,Sheffert,,,False,nh,,,,,2011-06-21 18:49:57.804000,2013-01-04 00:08:31.891000
+NHL000348,Wyman E Shuler,Wyman,E,Shuler,,,False,nh,,,,,2011-06-21 18:49:57.806000,2013-01-04 00:08:31.892000
+NHL000350,Peter L Silva,Peter,L,Silva,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376865.jpg,2011-06-21 18:49:57.811000,2013-01-04 00:08:31.894000
+NHL000351,Paul H Simard,Paul,H,Simard,,,False,nh,,,,,2011-06-21 18:49:57.814000,2013-01-04 00:08:31.895000
+NHL000352,Tammy A Simmons,Tammy,A.,Simmons,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377028.jpg,2011-06-21 18:49:57.816000,2017-01-10 05:01:21.520000
+NHL000353,Tyler W Simpson,Tyler,W,Simpson,,,False,nh,,,,,2011-06-21 18:49:57.818000,2013-01-04 00:08:31.897000
+NHL000354,Edwin O Smith,Edwin,O,Smith,,,False,nh,,,,,2011-06-21 18:49:57.821000,2013-01-04 00:08:31.898000
+NHL000355,Molly J Smith,Molly,J,Smith,,,False,nh,,,,,2011-06-21 18:49:57.823000,2013-01-04 00:08:31.899000
+NHL000358,Todd P Smith,Todd,P,Smith,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/TSmithMH24.jpg,2011-06-21 18:49:57.846000,2015-01-06 18:49:41.469000
+NHL000359,William B Smith,William,B,Smith,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376868.jpg,2011-06-21 18:49:57.848000,2013-01-04 00:08:31.910000
+NHL000360,Tony F Soltani,Tony,F,Soltani,,,False,nh,,,,,2011-06-21 18:49:57.861000,2013-01-04 00:08:31.911000
+NHL000361,Gregory M Sorg,Gregory,M,Sorg,,,False,nh,,,,,2011-06-21 18:49:57.863000,2013-01-04 00:08:31.912000
+NHL000362,Connie M Soucy,Connie,M,Soucy,,,False,nh,,,,,2011-06-21 18:49:57.865000,2013-01-04 00:08:31.913000
+NHL000364,Charles E Sova,Charles,E,Sova,,,False,nh,,,,,2011-06-21 18:49:57.869000,2013-01-04 00:08:31.915000
+NHL000365,Dale S Spainhower,Dale,S,Spainhower,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/dspainhowersth18.jpg,2011-06-21 18:49:57.871000,2015-01-06 18:49:41.584000
+NHL000367,Dale R Sprague,Dale,R,Sprague,,,False,nh,,,,,2011-06-21 18:49:57.876000,2013-01-04 00:08:31.918000
+NHL000368,Jeffrey L St. Cyr,Jeffrey,L,St. Cyr,,,False,nh,,,,,2011-06-21 18:49:57.878000,2013-01-04 00:08:31.919000
+NHL000369,Stephen B Stepanek,Stephen,B,Stepanek,,,False,nh,,,,,2011-06-21 18:49:57.881000,2013-01-04 00:08:31.920000
+NHL000370,Franklin W Sterling,Franklin,W,Sterling,,,False,nh,,,,,2011-06-21 18:49:57.883000,2013-01-04 00:08:31.921000
+NHL000371,Kathleen M Stroud,Kathleen,M,Stroud,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/KStroudHH21.jpg,2011-06-21 18:49:57.885000,2015-01-06 18:49:41.307000
+NHL000372,Daniel J Sullivan,Daniel,J.,Sullivan,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376692.jpg,2011-06-21 18:49:57.887000,2017-01-10 05:01:21.389000
+NHL000373,James M Sullivan,James,M,Sullivan,,,False,nh,,,,,2011-06-21 18:49:57.900000,2013-01-04 00:08:31.924000
+NHL000374,Kevin P Sullivan,Kevin,P,Sullivan,,,False,nh,,,,,2011-06-21 18:49:57.902000,2013-01-04 00:08:31.925000
+NHL000375,James D Summers,James,D,Summers,,,False,nh,,,,,2011-06-21 18:49:57.905000,2013-01-04 00:08:31.926000
+NHL000376,Matthew J Swank,Matthew,J,Swank,,,False,nh,,,,,2011-06-21 18:49:57.912000,2013-01-04 00:08:31.927000
+NHL000377,Elaine B Swinford,Elaine,B,Swinford,,,False,nh,,,,,2011-06-21 18:49:57.915000,2013-01-04 00:08:31.928000
+NHL000379,Daniel J Tamburello,Daniel,J.,Tamburello,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/dtamburellorh3.jpg,2011-06-21 18:49:57.922000,2017-01-10 05:01:21.390000
+NHL000380,Kyle J Tasker,Kyle,J,Tasker,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/ktaskerrh2.jpg,2011-06-21 18:49:57.924000,2015-01-06 18:49:41.521000
+NHL000382,Kathleen N Taylor,Kathleen,N,Taylor,,,False,nh,,,,,2011-06-21 18:49:57.939000,2013-01-04 00:08:31.933000
+NHL000383,Ross W Terrio,Ross,W,Terrio,,,False,nh,,,,,2011-06-21 18:49:57.941000,2013-01-04 00:08:31.934000
+NHL000384,Robert L Theberge,Robert,L,Theberge,,,False,nh,,,,,2011-06-21 18:49:57.944000,2015-01-06 18:49:41.268000
+NHL000385,John E Tholl,John,E,Tholl,,,False,nh,,,,,2011-06-21 18:49:57.946000,2013-01-04 00:08:31.936000
+NHL000386,Joseph D Thomas,Joseph,D,Thomas,,,False,nh,,,,,2011-06-21 18:49:57.948000,2013-01-04 00:08:31.937000
+NHL000389,William B Tobin,William,B,Tobin,,,False,nh,,,,,2011-06-21 18:49:57.959000,2013-01-04 00:08:31.940000
+NHL000390,Charles L Townsend,Charles,L.,Townsend,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376877.jpg,2011-06-21 18:49:57.961000,2017-01-10 05:01:21.381000
+NHL000391,Norman A Tregenza,Norman,A,Tregenza,,,False,nh,,,,,2011-06-21 18:49:57.964000,2012-06-05 17:37:27.570000
+NHL000392,Marc D Tremblay,Marc,D,Tremblay,,,False,nh,,,,,2011-06-21 18:49:57.966000,2013-01-04 00:08:31.942000
+NHL000393,Stella S Tremblay,Stella,S,Tremblay,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/STremblayRH3.jpg,2011-06-21 18:49:57.968000,2015-01-06 18:49:41.541000
+NHL000394,Pamela Z Tucker,Pamela,Z.,Tucker,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/PTuckerRH17.jpg,2011-06-21 18:49:57.970000,2017-01-10 05:01:21.483000
+NHL000395,Timothy L Twombly,Timothy,L,Twombly,,,False,nh,,,,,2011-06-21 18:49:57.972000,2013-01-04 00:08:31.945000
+NHL000398,Steve Vaillancourt,Steve,,Vaillancourt,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376171.jpg,2011-06-21 18:49:57.979000,2015-01-06 18:49:41.295000
+NHL000399,Moe Villeneuve,Moe,,Villeneuve,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MVilleneuveHH7.jpg,2011-06-21 18:49:57.983000,2015-01-06 18:49:41.421000
+NHL000400,Carol M Vita,Carol,M,Vita,,,False,nh,,,,,2011-06-21 18:49:57.986000,2013-01-04 00:08:31.950000
+NHL000401,Lucien A Vita,Lucien,A,Vita,,,False,nh,,,,,2011-06-21 18:49:57.988000,2013-01-04 00:08:31.952000
+NHL000402,James A Waddell,James,A,Waddell,,,False,nh,,,,,2011-06-21 18:49:57.990000,2013-01-04 00:08:31.953000
+NHL000405,Joanne A Ward,Joanne,A,Ward,,,False,nh,,,,,2011-06-21 18:49:57.997000,2013-01-04 00:08:31.956000
+NHL000406,Mark Warden,Mark,,Warden,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MWardenHH39.jpg,2011-06-21 18:49:58.012000,2015-01-06 18:49:41.392000
+NHL000407,Kevin K Waterhouse,Kevin,K,Waterhouse,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/KWaterhouseRH4.jpg,2011-06-21 18:49:58.014000,2015-01-06 18:49:41.551000
+NHL000408,Rick H Watrous,Rick,H,Watrous,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/RWatrousMH16.jpg,2011-06-21 18:49:58.018000,2015-01-06 18:49:41.457000
+NHL000409,David H Watters,David,H,Watters,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/04.jpg,2011-06-21 18:49:58.020000,2017-01-10 05:01:21.544000
+NHL000412,Charles F Weed,Charles,F,Weed,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/CWeedCH16.jpg,2011-06-21 18:49:58.027000,2015-01-06 18:49:41.259000
+NHL000413,Michael W Weeden,Michael,W,Weeden,,,False,nh,,,,,2011-06-21 18:49:58.030000,2013-01-04 00:08:31.967000
+NHL000414,David A Welch,David,A,Welch,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/330795.jpg,2011-06-21 18:49:58.032000,2013-01-04 00:08:31.968000
+NHL000417,Randall A Whitehead,Randall,A,Whitehead,,,False,nh,,,,,2011-06-21 18:49:58.038000,2013-01-04 00:08:31.971000
+NHL000418,Robert F Willette,Robert,F,Willette,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/RWilletteHH23.jpg,2011-06-21 18:49:58.041000,2015-01-06 18:49:41.313000
+NHL000419,Robert W Williams,Robert,W,Williams,,,False,nh,,,,,2011-06-21 18:49:58.043000,2013-01-04 00:08:31.973000
+NHL000420,Steven J Winter,Steven,J,Winter,,,False,nh,,,,,2011-06-21 18:49:58.055000,2013-01-04 00:08:31.983000
+NHL000421,Colette Worsman,Colette,,Worsman,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/cworsemanb2.jpg,2011-06-21 18:49:58.057000,2015-01-06 18:49:41.218000
+NHL000422,Robert J. Perry,Robert,J.,Perry,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/bobperry.jpg,2011-09-15 14:58:42.674000,2015-01-06 18:49:41.608000
+NHL000423,Kevin M Janvrin,Kevin,M,Janvrin,,,False,nh,,,,,2011-10-25 01:00:42.231000,2013-01-04 00:08:31.986000
+NHL000426,Peter M Sullivan,Peter,M,Sullivan,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/PSullivanHH10.jpg,2012-03-13 00:14:01.479000,2015-01-06 18:49:41.288000
+NHL000434,Christopher R Andrews,Christopher,R,Andrews,,,False,nh,,,,,2013-01-04 00:08:25.584000,2015-01-06 18:49:41.466000
+NHL000435,E. Elaine Andrews-Ahearn,E. Elaine,,Andrews-Ahearn,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377059.jpg,2013-01-04 00:08:25.594000,2015-01-06 18:49:41.538000
+NHL000436,Beth R Arsenault,Beth,R,Arsenault,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/BArsenaultBH9.jpg,2013-01-04 00:08:25.603000,2015-01-06 18:49:41.228000
+NHL000438,William S. Baber,William,S.,Baber,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/BBaberSTH14.jpg,2013-01-04 00:08:25.622000,2017-01-10 05:01:21.538000
+NHL000451,Patrick J. Bick,Patrick,J.,Bick,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/PBickRH8.jpg,2013-01-04 00:08:25.748000,2015-01-06 18:49:41.555000
+NHL000452,David A. Bickford,David,A.,Bickford,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/dbickfordsth3.jpg,2013-01-04 00:08:25.758000,2017-01-10 05:01:21.391000
+NHL000454,Franklin C Bishop,Franklin,C,Bishop,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/fbishoprh3.jpg,2013-01-04 00:08:25.777000,2015-01-06 18:49:41.533000
+NHL000457,Ronald R Boisvert,Ronald,R,Boisvert,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/RBoisvertHH45.jpg,2013-01-04 00:08:25.805000,2015-01-06 18:49:41.401000
+NHL000458,Efstathia C. Booras,Efstathia,C.,Booras,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/EBoorasHH33.jpg,2013-01-04 00:08:25.815000,2017-01-10 05:01:21.407000
+NHL000459,David A. Borden,David,A.,Borden,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/dbordenrh24.jpg,2013-01-04 00:08:25.825000,2017-01-10 05:01:21.392000
+NHL000462,Steven J. Briden,Steven,J.,Briden,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/SBridenRH18.jpg,2013-01-04 00:08:25.854000,2015-01-06 18:49:41.518000
+NHL000463,Rebecca A. Brown,Rebecca,A.,Brown,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/RBrownGH2.jpg,2013-01-04 00:08:25.863000,2017-01-10 05:01:21.491000
+NHL000465,Richard B Burchell,Richard,B,Burchell,,,False,nh,,,,,2013-01-04 00:08:25.882000,2015-01-06 18:49:41.222000
+NHL000466,Greg Burdwood,Greg,,Burdwood,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/GBurdwoodStH17.jpg,2013-01-04 00:08:25.892000,2015-01-06 18:49:41.563000
+NHL000467,Rachel B. Burke,Rachel,B.,Burke,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/rburkesth2.jpg,2013-01-04 00:08:25.902000,2015-01-06 18:49:41.585000
+NHL000468,Scott A. Burns,Scott,A.,Burns,,,False,nh,,,,,2013-01-04 00:08:25.911000,2015-01-06 18:49:41.462000
+NHL000471,Elizabeth B Burtis,Elizabeth,B,Burtis,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377077.jpg,2013-01-04 00:08:25.940000,2015-01-06 18:49:41.548000
+NHL000478,Lorrie J. Carey,Lorrie,J.,Carey,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377080.jpg,2013-01-04 00:08:26.012000,2015-01-06 18:49:41.470000
+NHL000479,Douglas L Carroll,Douglas,L,Carroll,,,False,nh,,,,,2013-01-04 00:08:26.022000,2015-01-06 18:49:41.378000
+NHL000480,Clyde J Carson,Clyde,J,Carson,,,False,nh,,,,,2013-01-04 00:08:26.032000,2015-01-06 18:49:41.497000
+NHL000482,Shannon E. Chandley,Shannon,E.,Chandley,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/SChandleyHH22.jpg,2013-01-04 00:08:26.061000,2015-01-06 18:49:41.309000
+NHL000491,Evelyn M. Connor,Evelyn,M.,Connor,,,False,nh,,,,,2013-01-04 00:08:26.160000,2015-01-06 18:49:41.302000
+NHL000495,Jane Cormier,Jane,,Cormier,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JCormierBH8.jpg,2013-01-04 00:08:26.200000,2015-01-06 18:49:41.227000
+NHL000499,Patrick L. Culbert,Patrick,L.,Culbert,,,False,nh,,,,,2013-01-04 00:08:26.239000,2015-01-06 18:49:41.387000
+NHL000500,Robert R. Cushing,Robert,R.,Cushing,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/RCushingRH21.jpg,2013-01-04 00:08:26.249000,2017-01-10 05:01:21.500000
+NHL000501,Romeo Danais,Romeo,,Danais,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/RDanaisRH2.jpg,2013-01-04 00:08:26.259000,2015-01-06 18:49:41.523000
+NHL000504,Frank W. Davis,Frank,W.,Davis,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/FDavisMH20.jpg,2013-01-04 00:08:26.289000,2015-01-06 18:49:41.463000
+NHL000507,Lisa DiMartino,Lisa,,DiMartino,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/LDimartinoBH2.jpg,2013-01-04 00:08:26.320000,2015-01-06 18:49:41.219000
+NHL000509,Jeremy S. Dobson,Jeremy,S.,Dobson,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JDobsonHH43.jpg,2013-01-04 00:08:26.341000,2015-01-06 18:49:41.397000
+NHL000510,Thomas E Donovan,Thomas,E,Donovan,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/TDonovanSH4.jpg,2013-01-04 00:08:26.351000,2014-01-13 15:38:38.767000
+NHL000511,Ralph J. Doolan,Ralph,J.,Doolan,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/RDoolanGH1.jpg,2013-01-04 00:08:26.361000,2015-01-06 18:49:41.271000
+NHL000513,Dudley D. Dumaine,Dudley,D.,Dumaine,,,False,nh,,,,,2013-01-04 00:08:26.381000,2015-01-06 18:49:41.542000
+NHL000515,Richard S. Eaton,Richard,S.,Eaton,,,False,nh,,,,,2013-01-04 00:08:26.402000,2015-01-06 18:49:41.391000
+NHL000520,Rebecca Emerson-Brown,Rebecca,,Emerson-Brown,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377095.jpg,2013-01-04 00:08:26.453000,2015-01-06 18:49:41.531000
+NHL000521,Larry S Enman,Larry,S,Enman,,,False,nh,,,,,2013-01-04 00:08:26.463000,2015-01-06 18:49:41.265000
+NHL000525,Charles R. Fink,Charles,R.,Fink,,,False,nh,,,,,2013-01-04 00:08:26.516000,2015-01-06 18:49:41.226000
+NHL000528,Eileen C Flockhart,Eileen,C,Flockhart,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376575.jpg,2013-01-04 00:08:26.548000,2015-01-06 18:49:41.519000
+NHL000529,Susan M. Ford,Susan,M.,Ford,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/sfordgh3.jpg,2013-01-04 00:08:26.558000,2017-01-10 05:01:21.519000
+NHL000530,Mary E. Frambach,Mary,E.,Frambach,,,False,nh,,,,,2013-01-04 00:08:26.569000,2015-01-06 18:49:41.465000
+NHL000532,Barbara C French,Barbara,C,French,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/BFrenchMH6.jpg,2013-01-04 00:08:26.590000,2017-01-10 05:01:21.369000
+NHL000533,Carol H. Friedrich,Carol,H.,Friedrich,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/cfreidrichgh16.jpg,2013-01-04 00:08:26.600000,2015-01-06 18:49:41.280000
+NHL000535,Ruth E. Gage,Ruth,E.,Gage,,,False,nh,,,,,2013-01-04 00:08:26.626000,2015-01-06 18:49:41.404000
+NHL000537,Sylvia E. Gale,Sylvia,E.,Gale,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/SGaleHH28.jpg,2013-01-04 00:08:26.657000,2015-01-06 18:49:41.348000
+NHL000538,Bianca R Garcia,Bianca,R,Garcia,,,False,nh,,,,,2013-01-04 00:08:26.667000,2015-01-06 18:49:41.556000
+NHL000540,Michael A. Garcia,Michael,A.,Garcia,,,False,nh,,,,,2013-01-04 00:08:26.688000,2015-01-06 18:49:41.379000
+NHL000541,Janice S. Gardner,Janice,S.,Gardner,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JGardnerSH15.jpg,2013-01-04 00:08:26.699000,2017-01-10 05:01:21.432000
+NHL000550,Curtis W Grace,Curtis,W,Grace,,,False,nh,,,,,2013-01-04 00:08:26.829000,2015-01-06 18:49:41.499000
+NHL000551,Brenda E. Grady,Brenda,E.,Grady,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/BGradyHH21.jpg,2013-01-04 00:08:26.839000,2015-01-06 18:49:41.304000
+NHL000554,James P. Gray,James,P.,Gray,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377107.jpg,2013-01-04 00:08:26.871000,2017-01-10 05:01:21.430000
+NHL000559,Kenneth Grossman,Kenneth,,Grossman,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/kgrossmansth4.jpg,2013-01-04 00:08:26.925000,2015-01-06 18:49:41.611000
+NHL000560,Ruth P Gulick,Ruth,P,Gulick,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/rgulickb1.jpg,2013-01-04 00:08:26.935000,2015-01-06 18:49:41.215000
+NHL000561,Paul L Hackel,Paul,L,Hackel,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/PHackelHH29.jpg,2013-01-04 00:08:26.946000,2015-01-06 18:49:41.370000
+NHL000564,Marcia Hammon,Marcia,,Hammon,,,False,nh,,,,,2013-01-04 00:08:26.980000,2015-01-06 18:49:41.270000
+NHL000565,Jill S Hammond,Jill,S.,Hammond,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JShafferHammondHH24.jpg,2013-01-04 00:08:26.991000,2015-01-06 18:49:41.345000
+NHL000566,Daniel C. Hansberry,Daniel,C.,Hansberry,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/DHansberryHH35.jpg,2013-01-04 00:08:27.002000,2017-01-10 05:01:21.387000
+NHL000569,Linda Harriott-Gathright,Linda,,Harriott-Gathright,,,False,nh,,,,,2013-01-04 00:08:27.034000,2015-01-06 18:49:41.383000
+NHL000570,Jeffrey F. Harris,Jeffrey,F.,Harris,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377114.jpg,2013-01-04 00:08:27.045000,2017-01-10 05:01:21.435000
+NHL000572,Jack Hayes,Jack,,Hayes,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JHayesRH14.jpg,2013-01-04 00:08:27.067000,2015-01-06 18:49:41.514000
+NHL000573,Ruth S. Heden,Ruth,S.,Heden,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/RHedenHH23.jpg,2013-01-04 00:08:27.078000,2015-01-06 18:49:41.312000
+NHL000574,Frank H. Heffron,Frank,H.,Heffron,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377117.jpg,2013-01-04 00:08:27.088000,2017-01-10 05:01:21.415000
+NHL000575,Barbara S. Helmstetter,Barbara,S.,Helmstetter,,,False,nh,,,,,2013-01-04 00:08:27.100000,2015-01-06 18:49:41.559000
+NHL000581,Geoffrey D. Hirsch,Geoffrey,D.,Hirsch,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/GHirschMH6.jpg,2013-01-04 00:08:27.167000,2017-01-10 05:01:21.418000
+NHL000582,Bruce E. Hodgdon,Bruce,E.,Hodgdon,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377122.jpg,2013-01-04 00:08:27.179000,2017-01-10 05:01:21.374000
+NHL000585,Stephen Holmes,Stephen,,Holmes,,,False,nh,,,,,2013-01-04 00:08:27.212000,2015-01-06 18:49:41.224000
+NHL000589,Pamela J. Hubbard,Pamela,J.,Hubbard,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/PHubbardSH12.jpg,2013-01-04 00:08:27.257000,2015-01-06 18:49:41.561000
+NHL000590,Jane J Hunt,Jane,J,Hunt,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JHuntMH15.jpg,2013-01-04 00:08:27.270000,2015-01-06 18:49:41.426000
+NHL000592,David O. Huot,David,O.,Huot,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377125.jpg,2013-01-04 00:08:27.297000,2015-01-06 18:49:41.220000
+NHL000594,Virginia O'Brien Irwin,Virginia,O'Brien,Irwin,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377057.jpg,2013-01-04 00:08:27.330000,2017-01-10 05:01:21.529000
+NHL000603,David B. Karrick,David,B.,Karrick,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377127.jpg,2013-01-04 00:08:27.443000,2017-01-10 05:01:21.393000
+NHL000604,George Katsiantonis,George,,Katsiantonis,,,False,nh,,,,,2013-01-04 00:08:27.454000,2015-01-06 18:49:41.297000
+NHL000605,John D. Kelley,John,D.,Kelley,,,False,nh,,,,,2013-01-04 00:08:27.476000,2015-01-06 18:49:41.375000
+NHL000606,Sally H Kelly,Sally,H,Kelly,,,False,nh,,,,,2013-01-04 00:08:27.487000,2015-01-06 18:49:41.464000
+NHL000607,Stephen M Ketel,Stephen,M,Ketel,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/SKetelSH17.jpg,2013-01-04 00:08:27.498000,2015-01-06 18:49:41.583000
+NHL000610,Mary Ann Knowles,Mary Ann,,Knowles,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376723.jpg,2013-01-04 00:08:27.533000,2015-01-06 18:49:41.388000
+NHL000612,Angeline A. Kopka,Angeline,A.,Kopka,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/AKopkaHH28.jpg,2013-01-04 00:08:27.573000,2015-01-06 18:49:41.349000
+NHL000617,Roland H LaPlante,Roland,H,LaPlante,,,False,nh,,,,,2013-01-04 00:08:27.629000,2014-01-13 15:24:40.344000
+NHL000618,Linda D Lauer,Linda,D,Lauer,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377131.jpg,2013-01-04 00:08:27.640000,2015-01-06 18:49:41.279000
+NHL000619,Tom Lavender,Tom,,Lavender,,,False,nh,,,,,2013-01-04 00:08:27.652000,2015-01-06 18:49:41.250000
+NHL000623,Richard D LeVasseur,Richard,D,LeVasseur,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377134.jpg,2013-01-04 00:08:27.720000,2015-01-06 18:49:41.389000
+NHL000624,Melanie A. Levesque,Melanie,A.,Levesque,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MLevesqueHH26.jpg,2013-01-04 00:08:27.731000,2015-01-06 18:49:41.346000
+NHL000629,Sid Lovett,Sid,,Lovett,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/SLovettGH8.jpg,2013-01-04 00:08:27.790000,2015-01-06 18:49:41.286000
+NHL000633,Mariellen J. MacKay,Mariellen,J.,MacKay,,,False,nh,,,,,2013-01-04 00:08:27.837000,2015-01-06 18:49:41.374000
+NHL000635,Dennis J. Malloy,Dennis,J.,Malloy,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377137.jpg,2013-01-04 00:08:27.860000,2015-01-06 18:49:41.610000
+NHL000638,Maureen R Mann,Maureen,R,Mann,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MMannRH32.jpg,2013-01-04 00:08:27.894000,2015-01-06 18:49:41.536000
+NHL000639,Dick Marston,Dick,,Marston,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377140.jpg,2013-01-04 00:08:27.906000,2017-01-10 05:01:21.402000
+NHL000640,Andre A. Martel,Andre,A.,Martel,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/AMartelHH44.jpg,2013-01-04 00:08:27.917000,2017-04-10 02:46:18.320000
+NHL000641,Linda Massimilla,Linda,,Massimilla,,,False,nh,,,,,2013-01-04 00:08:27.929000,2015-01-06 18:49:41.272000
+NHL000643,David McCloskey,David,,McCloskey,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/DMcCloskeyHH16.jpg,2013-01-04 00:08:27.952000,2015-01-06 18:49:41.296000
+NHL000649,Richard E Meaney,Richard,E,Meaney,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/RMeaneyHH6.jpg,2013-01-04 00:08:28.032000,2015-01-06 18:49:41.406000
+NHL000650,H. Robert Menear,H. Robert,,Menear,,,False,nh,,,,,2013-01-04 00:08:28.044000,2015-01-06 18:49:41.590000
+NHL000652,David P Miller,David,P,Miller,,,False,nh,,,,,2013-01-04 00:08:28.067000,2015-01-06 18:49:41.589000
+NHL000657,Catherine Mulholland,Catherine,,Mulholland,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/cmulhollandgh17.jpg,2013-01-04 00:08:28.126000,2015-01-06 18:49:41.282000
+NHL000659,Chris Muns,Chris,,Muns,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377150.jpg,2013-01-04 00:08:28.149000,2015-01-06 18:49:41.529000
+NHL000662,Kelleigh D Murphy,Kelleigh,D,Murphy,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/KDomaingueMurphyHH7.jpg,2013-01-04 00:08:28.185000,2015-01-06 18:49:41.423000
+NHL000665,Mary S Nelson,Mary,S,Nelson,,,False,nh,,,,,2013-01-04 00:08:28.220000,2015-01-06 18:49:41.380000
+NHL000673,Tim O'Flaherty,Tim,,O'Flaherty,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/TO'FlahertyHH12.jpg,2013-01-04 00:08:28.318000,2015-01-06 18:49:41.292000
+NHL000674,Andrew S. O'Hearne,Andrew,S.,O'Hearne,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/AOhearneSUH3.jpg,2013-01-04 00:08:28.330000,2017-01-10 05:01:21.365000
+NHL000679,Eric Palangas,Eric,,Palangas,,,False,nh,,,,,2013-01-04 00:08:28.390000,2015-01-06 18:49:41.398000
+NHL000693,Larry R. Phillips,Larry,R.,Phillips,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377158.jpg,2013-01-04 00:08:28.578000,2017-01-10 05:01:21.458000
+NHL000694,Wendy A. Piper,Wendy,A.,Piper,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/WPiperGH10.jpg,2013-01-04 00:08:28.589000,2017-01-10 05:01:21.531000
+NHL000697,Anne K Priestley,Anne,K,Priestley,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/APriestleyRH8.jpg,2013-01-04 00:08:28.640000,2015-01-06 18:49:41.558000
+NHL000698,Mario F. Ratzki,Mario,F.,Ratzki,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/MRatzkiMH1.jpg,2013-01-04 00:08:28.692000,2017-01-10 05:01:21.468000
+NHL000699,Ian P. Raymond,Ian,P.,Raymond,,,False,nh,,,,,2013-01-04 00:08:28.705000,2015-01-06 18:49:41.221000
+NHL000707,Leon H. Rideout,Leon,H.,Rideout,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/lrideoutcoh7.jpg,2013-01-04 00:08:28.818000,2017-01-10 05:01:21.465000
+NHL000709,Timothy N. Robertson,Timothy,N.,Robertson,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/TRobertsonCH6.jpg,2013-01-04 00:08:28.843000,2017-01-10 05:01:21.528000
+NHL000711,Rose Marie Rogers,Rose Marie,,Rogers,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/RRogerSTH22.jpg,2013-01-04 00:08:28.871000,2015-01-06 18:49:41.588000
+NHL000712,Skip Rollins,Skip,,Rollins,,,False,nh,,,,,2013-01-04 00:08:28.895000,2015-01-06 18:49:41.618000
+NHL000713,Deanna S. Rollo,Deanna,S.,Rollo,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/DRolloSH18.jpg,2013-01-04 00:08:28.910000,2017-01-10 05:01:21.398000
+NHL000718,Emily C. Sandblade,Emily,C.,Sandblade,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/ESandbladeHH18.jpg,2013-01-04 00:08:28.974000,2015-01-06 18:49:41.300000
+NHL000721,Joe W Scarlotto,Joe,W,Scarlotto,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/jscarlottorh31.jpg,2013-01-04 00:08:29.012000,2015-01-06 18:49:41.535000
+NHL000722,Thomas C. Schamberg,Thomas,C.,Schamberg,,,False,nh,,,,,2013-01-04 00:08:29.024000,2015-01-06 18:49:41.492000
+NHL000724,Janice E. Schmidt,Janice,E.,Schmidt,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JSchmidtHH28.jpg,2013-01-04 00:08:29.063000,2015-01-06 18:49:41.350000
+NHL000731,Gilman C. Shattuck,Gilman,C.,Shattuck,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/GShattuckHH1.jpg,2013-01-04 00:08:29.151000,2017-01-10 05:01:21.421000
+NHL000733,Thomas M. Sherman,Thomas,M.,Sherman,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/TShermanRH24.jpg,2013-01-04 00:08:29.196000,2017-01-10 05:01:21.525000
+NHL000740,Timothy A. Soucy,Timothy,A.,Soucy,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/TSoucyHH34.jpg,2013-01-04 00:08:29.286000,2017-01-10 05:01:21.526000
+NHL000744,Stephen P Spratt,Stephen,P,Spratt,,,False,nh,,,,,2013-01-04 00:08:29.337000,2015-01-06 18:49:41.393000
+NHL000745,Kevin P St.James,Kevin,P,St.James,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377171.jpg,2013-01-04 00:08:29.350000,2015-01-06 18:49:41.513000
+NHL000746,Audrey M. Stevens,Audrey,M.,Stevens,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/astevenssth8.jpg,2013-01-04 00:08:29.363000,2017-01-10 05:01:21.368000
+NHL000747,Phillip N. Straight,Phillip,N.,Straight,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377173.jpg,2013-01-04 00:08:29.376000,2017-01-10 05:01:21.489000
+NHL000750,Cynthia P. Sweeney,Cynthia,P.,Sweeney,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/CSweeneySUH8.jpg,2013-01-04 00:08:29.428000,2015-01-06 18:49:41.620000
+NHL000751,Joe Sweeney,Joe,,Sweeney,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JSweeneyRH8.jpg,2013-01-04 00:08:29.441000,2017-01-10 05:01:21.440000
+NHL000752,Shawn P. Sweeney,Shawn,P.,Sweeney,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/SSweeneyHH23.jpg,2013-01-04 00:08:29.453000,2017-01-10 05:01:21.511000
+NHL000756,Charlene F. Takesian,Charlene,F.,Takesian,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377178.jpg,2013-01-04 00:08:29.864000,2017-01-10 05:01:21.380000
+NHL000763,David H Thompson,David,H,Thompson,,,False,nh,,,,,2013-01-04 00:08:29.986000,2015-01-06 18:49:41.549000
+NHL000764,Susan J. Ticehurst,Susan,J.,Ticehurst,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377181.jpg,2013-01-04 00:08:29.999000,2017-01-10 05:01:21.518000
+NHL000765,Mary L. Till,Mary,L.,Till,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377182.jpg,2013-01-04 00:08:30.012000,2015-01-06 18:49:41.544000
+NHL000767,Joy K Tilton,Joy,K,Tilton,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376633.jpg,2013-01-04 00:08:30.038000,2015-01-06 18:49:41.490000
+NHL000775,Suzanne M. Vail,Suzanne,M.,Vail,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/SMercierVailHH29.jpg,2013-01-04 00:08:30.146000,2015-01-06 18:49:41.371000
+NHL000776,James Verschueren,James,,Verschueren,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377186.jpg,2013-01-04 00:08:30.174000,2017-01-10 05:01:21.431000
+NHL000784,Kenneth J. Ward,Kenneth,J.,Ward,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/KWardSH21.jpg,2013-01-04 00:08:30.278000,2017-01-10 05:01:21.454000
+NHL000788,Brian Wazlaw,Brian,,Wazlaw,,,False,nh,,,,http://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20121017&Category=NEWS&ArtNo=210170378&Ref=AR&MaxW=570&MaxH=370&border=0,2013-01-04 00:08:30.355000,2015-01-06 18:49:41.532000
+NHL000790,Leigh A. Webb,Leigh,A.,Webb,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/LWebbMH3.jpg,2013-01-04 00:08:30.383000,2015-01-06 18:49:41.491000
+NHL000795,Syndi G. White,Syndi,G.,White,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/swhitecah2.jpg,2013-01-04 00:08:30.451000,2015-01-06 18:49:41.229000
+NHL000796,Lisa I Whittemore,Lisa,I,Whittemore,,,False,nh,,,,,2013-01-04 00:08:30.464000,2015-01-06 18:49:41.543000
+NHL000798,Carol A Williams,Carol,A,Williams,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/CWilliamsHH14.jpg,2013-01-04 00:08:30.491000,2015-01-06 18:49:41.294000
+NHL000800,Joel F Winters,Joel,F,Winters,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/JWintersHH18.jpg,2013-01-04 00:08:30.517000,2015-01-06 18:49:41.301000
+NHL000801,David Woodbury,David,,Woodbury,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/DWoodburyHH5.jpg,2013-01-04 00:08:30.531000,2017-01-10 05:01:21.397000
+NHL000803,Donald S. Wright,Donald,S.,Wright,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/dwrightcah8.jpg,2013-01-04 00:08:30.559000,2015-01-06 18:49:41.254000
+NHL000804,Harry L Young,Harry,L,Young,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/HYoungCH14.jpg,2013-01-04 00:08:30.572000,2015-01-06 18:49:41.258000
+NHL000806,Martha Fuller Clark,Martha,,Fuller Clark,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/21.jpg,2013-01-04 00:08:30.672000,2017-01-10 05:01:21.558000
+NHL000807,Peggy Gilmour,Peggy,,Gilmour,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/12.jpg,2013-01-04 00:08:30.686000,2015-01-06 18:49:41.623000
+NHL000808,Andrew J. Hosmer,Andrew,J.,Hosmer,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/07.jpg,2013-01-04 00:08:30.700000,2017-01-10 05:01:21.539000
+NHL000809,Bette R Lasky,Bette,R,Lasky,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/13.jpg,2013-01-04 00:08:30.742000,2017-01-10 05:01:21.541000
+NHL000813,Donna M. Soucy,Donna,M.,Soucy,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/18.jpg,2013-01-04 00:08:30.854000,2017-01-10 05:01:21.548000
+NHL000815,Jeff Woodburn,Jeff,,Woodburn,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/images/senators/01.jpg,2013-01-04 00:08:30.895000,2017-01-10 05:01:21.554000
+NHL000818,Pamela T. Brown,Pamela,T.,Brown,,,False,nh,,,,http://www.livefreeordiealliance.org/Portals/0/images_candidates/PBrownHH31.jpg,2013-03-26 01:56:38.890000,2017-01-10 05:01:21.482000
+NHL000821,Latha Mangipudi,Latha,,Mangipudi,,,False,nh,,,,,2014-01-10 20:34:01.371000,2015-01-06 18:49:41.381000
+NHL001064,Barry J. Palmer,Barry,J.,Palmer,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376997.jpg,2015-01-06 18:49:36.743000,2017-01-10 05:01:21.370000
+NHL001065,Alethea Lincoln Froburg,Alethea,Lincoln,Froburg,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377297.jpg,2015-01-06 18:49:36.750000,2017-01-10 05:01:21.362000
+NHL001073,Christopher R. Adams,Christopher,R.,Adams,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377202.jpg,2015-01-06 18:49:36.916000,2017-01-10 05:01:21.384000
+NHL001074,Susan C. DeLemus,Susan,C.,DeLemus,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376930.jpg,2015-01-06 18:49:36.923000,2017-01-10 05:01:21.516000
+NHL001076,Ken S. Peterson,Ken,S.,Peterson,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377312.jpg,2015-01-06 18:49:36.937000,2017-01-10 05:01:21.452000
+NHL001077,William J. Goulette,William,J.,Goulette,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377232.jpg,2015-01-06 18:49:36.944000,2017-01-10 05:01:21.534000
+NHL001078,Jason R. Parent,Jason,R.,Parent,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377254.jpg,2015-01-06 18:49:36.951000,2017-01-10 05:01:21.433000
+NHL001079,Larry Converse,Larry,,Converse,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376544.jpg,2015-01-06 18:49:36.966000,2017-01-10 05:01:21.457000
+NHL001082,Lisa E. Scontsas,Lisa,E.,Scontsas,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377022.jpg,2015-01-06 18:49:37.073000,2017-01-10 05:01:21.466000
+NHL001083,Deborah H. Wheeler,Deborah,H.,Wheeler,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376728.jpg,2015-01-06 18:49:37.124000,2017-01-10 05:01:21.400000
+NHL001088,David I. Wood,David I.,,Wood,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377276.jpg,2015-01-06 18:49:37.205000,2016-05-11 19:30:44.395000
+NHL001090,Laurence M. Rappaport,Laurence,M.,Rappaport,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376854.jpg,2015-01-06 18:49:37.249000,2017-01-10 05:01:21.461000
+NHL001091,Don E. Leeman,Don,E.,Leeman,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377246.jpg,2015-01-06 18:49:37.263000,2017-01-10 05:01:21.403000
+NHL001095,William M. Gannon,William,M.,Gannon,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377231.jpg,2015-01-06 18:49:37.340000,2017-01-10 05:01:21.536000
+NHL001099,George Hurt,George,,Hurt,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376008.jpg,2015-01-06 18:49:37.380000,2017-01-10 05:01:21.419000
+NHL001101,Robert Knowles,Robert,,Knowles,,,False,nh,,,,,2015-01-06 18:49:37.447000,2017-01-10 05:01:21.499000
+NHL001103,Ernest H. Bridge,Ernest,H.,Bridge,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377209.jpg,2015-01-06 18:49:37.507000,2017-01-10 05:01:21.413000
+NHL001111,Joanne A. Ward,Joanne,A.,Ward,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377048.jpg,2015-01-06 18:49:37.698000,2017-01-10 05:01:21.437000
+NHL001114,Debbie DiFranco,Debbie,,DiFranco,,,False,nh,,,,,2015-01-06 18:49:37.762000,2017-01-10 05:01:21.399000
+NHL001115,Anne K. Priestley,Anne,K.,Priestley,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376266.jpg,2015-01-06 18:49:37.807000,2017-01-10 05:01:21.367000
+NHL001117,Ted S. Wright,Ted,S.,Wright,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377194.jpg,2015-01-06 18:49:37.841000,2017-01-10 05:01:21.522000
+NHL001120,Harold F. French,Harold,F.,French,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377228.jpg,2015-01-06 18:49:37.923000,2017-01-10 05:01:21.423000
+NHL001122,Dennis B. Sweeney,Dennis,B.,Sweeney,,,False,nh,,,,,2015-01-06 18:49:37.946000,2015-09-08 18:44:55.956000
+NHL001124,William A. Pearson,William,A.,Pearson,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377311.jpg,2015-01-06 18:49:37.992000,2017-01-10 05:01:21.532000
+NHL001125,Eric R. Eastman,Eric,R.,Eastman,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377293.jpg,2015-01-06 18:49:37.999000,2017-01-10 05:01:21.412000
+NHL001131,Alexis Simpson,Alexis,,Simpson,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377314.jpg,2015-01-06 18:49:38.078000,2017-01-10 05:01:21.363000
+NHL001134,Catherine Cheney,Catherine,,Cheney,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377213.jpg,2015-01-06 18:49:38.100000,2017-01-10 05:01:21.378000
+NHL001140,John F. Martin,John,F.,Martin,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377248.jpg,2015-01-06 18:49:38.210000,2017-01-10 05:01:21.442000
+NHL001142,George L. Saunderson,George,L.,Saunderson,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377322.jpg,2015-01-06 18:49:38.236000,2017-01-10 05:01:21.420000
+NHL001145,Len DiSesa,Len,,DiSesa,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377291.jpg,2015-01-06 18:49:38.276000,2017-01-10 05:01:21.464000
+NHL001148,Joseph R. Lachance,Joseph,R.,Lachance,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377305.jpg,2015-01-06 18:49:38.299000,2017-01-10 05:01:21.448000
+NHL001149,Benjamin L. Tilton,Benjamin,L.,Tilton,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377317.jpg,2015-01-06 18:49:38.307000,2017-01-10 05:01:21.371000
+NHL001151,John E. Tholl,John,E.,Tholl,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376168.jpg,2015-01-06 18:49:38.435000,2017-01-10 05:01:21.441000
+NHL001152,Mark McLean,Mark,,McLean,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377251.jpg,2015-01-06 18:49:38.442000,2017-01-10 05:01:21.469000
+NHL001153,Paula E Bradley,Paula,E,Bradley,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/375817.jpg,2015-01-06 18:49:38.450000,2017-01-10 05:01:21.485000
+NHL001161,Peggy A. McCarthy,Peggy,A.,McCarthy,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377250.jpg,2015-01-06 18:49:38.579000,2017-01-10 05:01:21.487000
+NHL001162,Stephen B. Stepanek,Stephen,B.,Stepanek,,,False,nh,,,,,2015-01-06 18:49:38.587000,2017-01-10 05:01:21.514000
+NHL001164,Shem V. Kellogg,Shem,V.,Kellogg,,,False,nh,,,,,2015-01-06 18:49:38.608000,2017-01-10 05:01:21.513000
+NHL001166,Russell Dumais,Russell,,Dumais,,,False,nh,,,,,2015-01-06 18:49:38.641000,2017-01-10 05:01:21.501000
+NHL001168,John M. Potucek,John,M.,Potucek,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377257.jpg,2015-01-06 18:49:38.667000,2017-01-10 05:01:21.444000
+NHL001171,Steven J. Woitkun,Steven,J.,Woitkun,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377274.jpg,2015-01-06 18:49:38.713000,2017-01-10 05:01:21.515000
+NHL001175,Katherine Prudhomme-O'Brien,Katherine,,Prudhomme-O'Brien,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377258.jpg,2015-01-06 18:49:38.768000,2017-01-10 05:01:21.451000
+NHL001176,Martha Hennessey,Martha,,Hennessey,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377302.jpg,2015-01-06 18:49:38.792000,2017-01-10 05:01:21.470000
+NHL001177,Frank Edelblut,Frank,,Edelblut,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377222.jpg,2015-01-06 18:49:38.862000,2017-01-10 05:01:21.414000
+NHL001180,Carol A. Bush,Carol,A.,Bush,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377211.jpg,2015-01-06 18:49:38.933000,2017-01-10 05:01:21.377000
+NHL001181,Ted V. Rokas,Ted,V.,Rokas,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376857.jpg,2015-01-06 18:49:38.955000,2017-01-10 05:01:21.523000
+NHL001182,Brian F. Dobson,Brian,F.,Dobson,,,False,nh,,,,,2015-01-06 18:49:38.977000,2015-07-08 20:56:39.875000
+NHL001183,Rick G. Christie,Rick,G.,Christie,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377214.jpg,2015-01-06 18:49:39.004000,2017-01-10 05:01:21.492000
+NHL001184,Dan Feltes,Dan,,Feltes,,,False,nh,,,,http://www.gencourt.state.nh.us/Senate/members/webpages/Senator%20Feltes.jpg,2015-01-06 18:49:39.012000,2017-01-10 05:01:21.543000
+NHL001186,Ann Howe,Ann,,Howe,,,False,nh,,,,,2015-01-06 18:49:39.043000,2015-07-08 20:52:28.491000
+NHL001187,Max Abramson,Max,,Abramson,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377201.jpg,2015-01-06 18:49:39.057000,2017-01-10 05:01:21.479000
+NHL001189,G. Thomas Cardon,G. Thomas,,Cardon,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377286.jpg,2015-01-06 18:49:39.142000,2017-01-10 05:01:21.417000
+NHL001192,Brian S. Gallagher,Brian,S.,Gallagher,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377230.jpg,2015-01-06 18:49:39.191000,2017-01-10 05:01:21.373000
+NHL001197,C. Lee Guerette,C. Lee,,Guerette,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377300.jpg,2015-01-06 18:49:39.268000,2017-01-10 05:01:21.375000
+NHL001198,Kyle J. Tasker,Kyle J.,,Tasker,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377038.jpg,2015-01-06 18:49:39.284000,2017-01-10 05:01:21.456000
+NHL001199,John L. Balcom,John,L.,Balcom,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376302.jpg,2015-01-06 18:49:39.302000,2017-01-10 05:01:21.443000
+NHL001202,David H. Russell,David,H.,Russell,,,False,nh,,,,,2015-01-06 18:49:39.349000,2017-01-10 05:01:21.395000
+NHL001206,Paul C. Ingbretson,Paul,C.,Ingbretson,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376480.jpg,2015-01-06 18:49:39.394000,2017-01-10 05:01:21.484000
+NHL001209,Joshua D. Whitehouse,Joshua,D.,Whitehouse,,,False,nh,,,,,2015-01-06 18:49:39.486000,2017-01-10 05:01:21.449000
+NHL001211,Harold B. Parker,Harold,B.,Parker,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377255.jpg,2015-01-06 18:49:39.544000,2017-04-10 02:46:22.489000
+NHL001213,Helen M. Deloge,Helen,M.,Deloge,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376931.jpg,2015-01-06 18:49:39.589000,2017-01-10 05:01:21.424000
+NHL001221,Eric Johnson,Eric,,Johnson,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377240.jpg,2015-01-06 18:49:39.711000,2017-01-10 05:01:21.410000
+NHL001222,Gerald H. Little,Gerald,H.,Little,,,False,nh,,,,,2015-01-06 18:49:39.794000,2017-01-10 05:01:21.550000
+NHL001225,Andrew Christie,Andrew,,Christie,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/374900.jpg,2015-01-06 18:49:39.901000,2017-01-10 05:01:21.364000
+NHL001227,Shari L. LeBreche,Shari,L.,LeBreche,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377306.jpg,2015-01-06 18:49:39.917000,2017-01-10 05:01:21.502000
+NHL001232,Joseph A. Hannon,Joseph,A.,Hannon,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377234.jpg,2015-01-06 18:49:39.975000,2017-01-10 05:01:21.446000
+NHL001233,Eric P. Estevez,Eric,P.,Estevez,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377223.jpg,2015-01-06 18:49:39.984000,2017-01-10 05:01:21.411000
+NHL001238,Alan Cohen,Alan,,Cohen,,,False,nh,,,,,2015-01-06 18:49:40.098000,2017-01-10 05:01:21.361000
+NHL001240,Frederick C. Rice,Frederick,C.,Rice,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377011.jpg,2015-01-06 18:49:40.154000,2017-01-10 05:01:21.416000
+NHL001250,Chris Brown,Chris,,Brown,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377285.jpg,2015-01-06 18:49:40.404000,2017-01-10 05:01:21.382000
+NHL001252,Peter L. Silva,Peter,L.,Silva,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/376865.jpg,2015-01-06 18:49:40.492000,2017-01-10 05:01:21.488000
+NHL001274,Rio H. Tilton,Rio,H.,Tilton,,,False,nh,,,,http://www.gencourt.state.nh.us/house/images/memberpics/377323.jpg,2015-08-25 04:08:55.783000,2017-01-10 05:01:21.493000
+NHL001461,Andrew N. deTreville,Andrew,N.,deTreville,,,False,nh,,,,,2017-01-10 05:01:20.638000,2017-04-10 02:46:25.557000
+NHL000025,Patrick F Abrami,Patrick,F.,Abrami,,,True,nh,lower,Rockingham 19,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376897.jpg,2011-06-21 18:49:56.725000,2017-06-01 05:24:14.634000
+NHL000034,Gary S Azarian,Gary,S.,Azarian,,,True,nh,lower,Rockingham 8,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376901.jpg,2011-06-21 18:49:56.756000,2017-06-01 05:24:14.636000
+NHL000037,Alfred P Baldasaro,Alfred,P.,Baldasaro,,,True,nh,lower,Rockingham 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376740.jpg,2011-06-21 18:49:56.779000,2017-06-01 05:24:14.028000
+NHL000041,Richard W Barry,Richard,W.,Barry,,,True,nh,lower,Hillsborough 21,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376711.jpg,2011-06-21 18:49:56.788000,2017-06-01 05:24:14.462000
+NHL000042,David Bates,David,M.,Bates,,,True,nh,lower,Rockingham 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376794.jpg,2011-06-21 18:49:56.790000,2017-06-01 05:24:14.600000
+NHL000044,James P Belanger,James,P.,Belanger,,,True,nh,lower,Hillsborough 27,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376904.jpg,2011-06-21 18:49:56.794000,2017-06-01 05:24:14.152000
+NHL000045,Ronald J Belanger,Ronald,J.,Belanger,,,True,nh,lower,Rockingham 8,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/375963.jpg,2011-06-21 18:49:56.796000,2017-06-01 05:24:14.423000
+NHL000049,Roger R Berube,Roger,R.,Berube,,,True,nh,lower,Strafford 18,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/375965.jpg,2011-06-21 18:49:56.805000,2017-06-01 05:24:14.265000
+NHL000066,John A Burt,John,A.,Burt,,,True,nh,lower,Hillsborough 39,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376912.jpg,2011-06-21 18:49:56.944000,2017-06-01 05:24:14.246000
+NHL000070,Jacqueline A Cali-Pitts,Jacqueline,A.,Cali-Pitts,,,True,nh,lower,Rockingham 30,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376191.jpg,2011-06-21 18:49:56.952000,2017-06-01 05:24:14.487000
+NHL000078,Gene G Chandler,Gene,G.,Chandler,,,True,nh,lower,Carroll 1,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/370346.jpg,2011-06-21 18:49:56.969000,2017-06-01 05:24:14.706000
+NHL000081,Brian K Chirichiello,Brian,K.,Chirichiello,,,True,nh,lower,Rockingham 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376917.jpg,2011-06-21 18:49:56.975000,2017-06-01 05:24:14.115000
+NHL000084,John R Cloutier,John,R.,Cloutier,,,True,nh,lower,Sullivan 10,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/375829.jpg,2011-06-21 18:49:56.981000,2017-06-01 05:24:14.730000
+NHL000093,David E Cote,David,E.,Cote,,,True,nh,lower,Hillsborough 31,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/374413.jpg,2011-06-21 18:49:56.999000,2017-06-01 05:24:13.881000
+NHL000107,Debra L DeSimone,Debra,L.,DeSimone,,,True,nh,lower,Rockingham 14,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376807.jpg,2011-06-21 18:49:57.028000,2017-06-01 05:23:57.201000
+NHL000113,Daniel A Donovan,Daniel,A.,Donovan,,,True,nh,lower,Hillsborough 2,Republican,,2011-06-21 18:49:57.043000,2017-06-01 05:24:14.537000
+NHL000114,Patricia A Dowling,Patricia,A.,Dowling,,,True,nh,lower,Rockingham 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/375063.jpg,2011-06-21 18:49:57.045000,2017-06-01 05:24:14.040000
+NHL000119,Robert J Elliott,Robert,J.,Elliott,,,True,nh,lower,Rockingham 8,Republican,,2011-06-21 18:49:57.071000,2017-06-01 05:24:14.373000
+NHL000125,Dennis H Fields,Dennis,H.,Fields,,,True,nh,lower,Belknap 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/369207.jpg,2011-06-21 18:49:57.084000,2017-06-01 05:24:14.239000
+NHL000127,Donald H Flanders,Donald,H.,Flanders,,,True,nh,lower,Belknap 3,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376332.jpg,2011-06-21 18:49:57.088000,2017-06-01 05:24:14.421000
+NHL000132,Larry G Gagne,Larry,G.,Gagne,,,True,nh,lower,Hillsborough 13,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376814.jpg,2011-06-21 18:49:57.119000,2017-06-01 05:24:14.244000
+NHL000133,Raymond G Gagnon,Raymond,G.,Gagnon,,,True,nh,lower,Sullivan 5,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376781.jpg,2011-06-21 18:49:57.121000,2017-06-01 05:24:13.928000
+NHL000136,Carolyn M Gargasz,Carolyn,M.,Gargasz,,,True,nh,lower,Hillsborough 27,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376336.jpg,2011-06-21 18:49:57.128000,2017-06-01 05:24:14.250000
+NHL000139,Kenneth N Gidge,Kenneth,N.,Gidge,,,True,nh,lower,Hillsborough 33,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376816.jpg,2011-06-21 18:49:57.144000,2017-06-01 05:24:14.441000
+NHL000140,Mary Stuart Gile,Mary,Stuart,Gile,,,True,nh,lower,Merrimack 27,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376123.jpg,2011-06-21 18:49:57.146000,2017-06-01 05:24:14.324000
+NHL000145,Jeffrey P Goley,Jeffrey,P.,Goley,,,True,nh,lower,Hillsborough 8,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376227.jpg,2011-06-21 18:49:57.157000,2017-06-01 05:24:13.936000
+NHL000157,Joseph M Hagan,Joseph,M.,Hagan,,,True,nh,lower,Rockingham 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376819.jpg,2011-06-21 18:49:57.191000,2017-06-01 05:24:13.949000
+NHL000159,Peter T Hansen,Peter,T.,Hansen,,,True,nh,lower,Hillsborough 22,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376944.jpg,2011-06-21 18:49:57.195000,2017-06-01 05:24:13.909000
+NHL000162,William A Hatch,William,A.,Hatch,,,True,nh,lower,Coos 6,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376674.jpg,2011-06-21 18:49:57.201000,2017-06-01 05:24:14.621000
+NHL000168,Gregory Hill,Gregory,,Hill,,,True,nh,lower,Merrimack 3,Republican,,2011-06-21 18:49:57.226000,2017-06-01 05:24:13.866000
+NHL000169,Richard W Hinch,Richard,W.,Hinch,,,True,nh,lower,Hillsborough 21,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376823.jpg,2011-06-21 18:49:57.228000,2017-06-01 05:24:14.345000
+NHL000170,J.R. Hoell,J.R.,,Hoell,,,True,nh,lower,Merrimack 23,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376949.jpg,2011-06-21 18:49:57.230000,2017-06-01 05:24:13.916000
+NHL000171,Kathleen M Hoelzel,Kathleen,M.,Hoelzel,,,True,nh,lower,Rockingham 3,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/373860.jpg,2011-06-21 18:49:57.232000,2017-06-01 05:24:14.347000
+NHL000177,Gary S Hopper,Gary,S.,Hopper,,,True,nh,lower,Hillsborough 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376353.jpg,2011-06-21 18:49:57.249000,2017-06-01 05:24:13.954000
+NHL000178,Timothy O Horrigan,Timothy,O.,Horrigan,,,True,nh,lower,Strafford 6,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376826.jpg,2011-06-21 18:49:57.251000,2017-06-01 05:24:13.971000
+NHL000180,John B Hunt,John,B.,Hunt,,,True,nh,lower,Cheshire 11,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/372375.jpg,2011-06-21 18:49:57.255000,2017-06-01 05:24:14.415000
+NHL000186,Daniel C Itse,Daniel,C.,Itse,,,True,nh,lower,Rockingham 10,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376357.jpg,2011-06-21 18:49:57.282000,2017-06-01 05:24:14.311000
+NHL000187,Shawn N Jasper,Shawn,N.,Jasper,,,True,nh,lower,Hillsborough 37,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/373332.jpg,2011-06-21 18:49:57.284000,2017-06-01 05:24:14.339000
+NHL000188,Jean L Jeudy,Jean,L.,Jeudy,,,True,nh,lower,Hillsborough 10,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376657.jpg,2011-06-21 18:49:57.286000,2017-06-01 05:24:13.932000
+NHL000189,Gladys Johnsen,Gladys,,Johnsen,,,True,nh,lower,Cheshire 7,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376954.jpg,2011-06-21 18:49:57.288000,2017-06-01 05:24:14.137000
+NHL000196,Thomas Katsiantonis,Thomas,,Katsiantonis,,,True,nh,lower,Hillsborough 15,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376541.jpg,2011-06-21 18:49:57.315000,2017-06-01 05:24:14.051000
+NHL000198,Sandra B Keans,Sandra,B.,Keans,,,True,nh,lower,Strafford 23,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/332403.jpg,2011-06-21 18:49:57.320000,2017-06-01 05:24:13.952000
+NHL000202,Walter Kolodziej,Walter,,Kolodziej,,,True,nh,lower,Rockingham 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376829.jpg,2011-06-21 18:49:57.329000,2017-06-01 05:24:14.716000
+NHL000203,Frank R Kotowski,Frank,R.,Kotowski,,,True,nh,lower,Merrimack 24,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376831.jpg,2011-06-21 18:49:57.331000,2017-06-01 05:24:14.526000
+NHL000206,Neal M Kurk,Neal,M.,Kurk,,,True,nh,lower,Hillsborough 2,Republican,,2011-06-21 18:49:57.338000,2017-06-01 05:24:14.576000
+NHL000208,Rick M Ladd,Rick,M.,Ladd,,,True,nh,lower,Grafton 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376832.jpg,2011-06-21 18:49:57.342000,2017-06-01 05:24:14.361000
+NHL000213,Donald L LeBrun,Donald,L.,LeBrun,,,True,nh,lower,Hillsborough 32,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376966.jpg,2011-06-21 18:49:57.353000,2017-06-01 05:24:14.528000
+NHL000221,Patrick T Long,Patrick,T.,Long,,,True,nh,lower,Hillsborough 10,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376696.jpg,2011-06-21 18:49:57.371000,2017-06-01 05:24:14.565000
+NHL000222,Patricia T Lovejoy,Patricia,T.,Lovejoy,,,True,nh,lower,Rockingham 36,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376970.jpg,2011-06-21 18:49:57.373000,2017-06-01 05:24:14.627000
+NHL000224,David C Lundgren,David,C.,Lundgren,,,True,nh,lower,Rockingham 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376972.jpg,2011-06-21 18:49:57.378000,2017-06-01 05:24:14.032000
+NHL000226,James R MacKay,James,R.,MacKay,,,True,nh,lower,Merrimack 14,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376028.jpg,2011-06-21 18:49:57.382000,2017-06-01 05:24:14.553000
+NHL000228,Norman L Major,Norman,L.,Major,,,True,nh,lower,Rockingham 14,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376087.jpg,2011-06-21 18:49:57.386000,2017-06-01 05:24:14.632000
+NHL000237,Mark E McConkey,Mark,E.,McConkey,,,True,nh,lower,Carroll 3,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376495.jpg,2011-06-21 18:49:57.406000,2017-06-01 05:24:14.709000
+NHL000240,Carol M McGuire,Carol,M.,McGuire,,,True,nh,lower,Merrimack 29,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376841.jpg,2011-06-21 18:49:57.412000,2017-06-01 05:24:13.903000
+NHL000242,Betsy McKinney,Betsy,,McKinney,,,True,nh,lower,Rockingham 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/331314.jpg,2011-06-21 18:49:57.417000,2017-06-01 05:24:14.586000
+NHL000243,Charles E McMahon,Charles,E.,McMahon,,,True,nh,lower,Rockingham 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376498.jpg,2011-06-21 18:49:57.419000,2017-06-01 05:24:14.533000
+NHL000244,David R Meader,David,R.,Meader,,,True,nh,lower,Cheshire 6,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376151.jpg,2011-06-21 18:49:57.421000,2017-06-01 05:24:14.177000
+NHL000257,Keith Murphy,Keith,,Murphy,,,True,nh,lower,Hillsborough 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376990.jpg,2011-06-21 18:49:57.468000,2017-06-01 05:24:13.767000
+NHL000260,Sharon Nordgren,Sharon,,Nordgren,,,True,nh,lower,Grafton 12,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/373514.jpg,2011-06-21 18:49:57.475000,2017-06-01 05:24:14.609000
+NHL000262,Jeanine M Notter,Jeanine,M.,Notter,,,True,nh,lower,Hillsborough 21,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376991.jpg,2011-06-21 18:49:57.498000,2017-06-01 05:24:14.473000
+NHL000264,John T O'Connor,John,T.,O'Connor,,,True,nh,lower,Rockingham 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376993.jpg,2011-06-21 18:49:57.503000,2017-06-01 05:23:57.345000
+NHL000266,Lynne M Ober,Lynne,M.,Ober,,,True,nh,lower,Hillsborough 37,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376609.jpg,2011-06-21 18:49:57.507000,2017-06-01 05:24:14.578000
+NHL000267,Russell T Ober,Russell,T.,Ober,,,True,nh,lower,Hillsborough 37,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376506.jpg,2011-06-21 18:49:57.509000,2017-06-01 05:24:14.642000
+NHL000268,Bill Ohm,Bill,H.,Ohm,,,True,nh,lower,Hillsborough 36,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376994.jpg,2011-06-21 18:49:57.511000,2017-06-01 05:24:14.644000
+NHL000273,Sherman A Packard,Sherman,A.,Packard,,,True,nh,lower,Rockingham 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/375453.jpg,2011-06-21 18:49:57.522000,2017-06-01 05:24:14.343000
+NHL000278,Laura C Pantelakos,Laura,C.,Pantelakos,,,True,nh,lower,Rockingham 25,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/366385.jpg,2011-06-21 18:49:57.532000,2017-06-01 05:24:14.262000
+NHL000280,Henry A. L. Parkhurst,Henry,A. L.,Parkhurst,,,True,nh,lower,Cheshire 13,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376510.jpg,2011-06-21 18:49:57.536000,2017-06-01 05:24:14.781000
+NHL000284,Dick W Patten,Dick,W.,Patten,,,True,nh,lower,Merrimack 17,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377001.jpg,2011-06-21 18:49:57.545000,2017-06-01 05:24:14.139000
+NHL000296,Joseph A Pitre,Joseph,A.,Pitre,,,True,nh,lower,Strafford 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377005.jpg,2011-06-21 18:49:57.631000,2017-06-01 05:24:14.371000
+NHL000297,Marjorie A Porter,Marjorie,A.,Porter,,,True,nh,lower,Hillsborough 1,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377006.jpg,2011-06-21 18:49:57.643000,2017-06-01 05:24:13.896000
+NHL000315,Chip L Rice,Chip,L.,Rice,,,True,nh,lower,Merrimack 27,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376893.jpg,2011-06-21 18:49:57.693000,2017-06-01 05:24:13.788000
+NHL000326,Cindy Rosenwald,Cindy,,Rosenwald,,,True,nh,lower,Hillsborough 30,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376622.jpg,2011-06-21 18:49:57.727000,2017-06-01 05:24:14.615000
+NHL000330,Laurie J Sanborn,Laurie,J.,Sanborn,,,True,nh,lower,Hillsborough 41,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377016.jpg,2011-06-21 18:49:57.736000,2017-06-01 05:24:14.427000
+NHL000332,Frank V Sapareto,Frank,V.,Sapareto,,,True,nh,lower,Rockingham 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376188.jpg,2011-06-21 18:49:57.741000,2017-06-01 05:24:14.235000
+NHL000336,Andrew R Schmidt,Andrew,R.,Schmidt,,,True,nh,lower,Sullivan 1,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377018.jpg,2011-06-21 18:49:57.760000,2017-06-01 05:24:14.216000
+NHL000337,Peter B Schmidt,Peter,B.,Schmidt,,,True,nh,lower,Strafford 19,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376521.jpg,2011-06-21 18:49:57.762000,2017-06-01 05:24:13.930000
+NHL000343,Carl W Seidel,Carl,W.,Seidel,,,True,nh,lower,Hillsborough 28,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376864.jpg,2011-06-21 18:49:57.796000,2017-06-01 05:24:14.718000
+NHL000346,Barbara E Shaw,Barbara,E.,Shaw,,,True,nh,lower,Hillsborough 16,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376392.jpg,2011-06-21 18:49:57.802000,2017-06-01 05:24:14.365000
+NHL000349,Stephen J Shurtleff,Stephen,J.,Shurtleff,,,True,nh,lower,Merrimack 11,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376628.jpg,2011-06-21 18:49:57.809000,2017-06-01 05:24:14.351000
+NHL000356,Steven D Smith,Steven,D.,Smith,,,True,nh,lower,Sullivan 11,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377031.jpg,2011-06-21 18:49:57.842000,2017-06-01 05:24:14.110000
+NHL000357,Suzanne J Smith,Suzanne,J.,Smith,,,True,nh,lower,Grafton 8,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376866.jpg,2011-06-21 18:49:57.844000,2017-06-01 05:24:14.777000
+NHL000363,Kathleen F Souza,Kathleen,F.,Souza,,,True,nh,lower,Hillsborough 43,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376395.jpg,2011-06-21 18:49:57.867000,2017-06-01 05:24:13.864000
+NHL000366,Judith T Spang,Judith,T.,Spang,,,True,nh,lower,Strafford 6,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376278.jpg,2011-06-21 18:49:57.874000,2017-06-01 05:24:14.779000
+NHL000378,John Sytek,John,,Sytek,,,True,nh,lower,Rockingham 8,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/375692.jpg,2011-06-21 18:49:57.920000,2017-06-01 05:24:13.905000
+NHL000381,Bruce L Tatro,Bruce,L.,Tatro,,,True,nh,lower,Cheshire 15,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377039.jpg,2011-06-21 18:49:57.927000,2017-06-01 05:24:14.171000
+NHL000387,Yvonne D Thomas,Yvonne,D.,Thomas,,,True,nh,lower,Coos 3,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376676.jpg,2011-06-21 18:49:57.950000,2017-06-01 05:24:14.783000
+NHL000388,Franklin T Tilton,Franklin,T.,Tilton,,,True,nh,lower,Belknap 3,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376632.jpg,2011-06-21 18:49:57.952000,2017-06-01 05:23:57.267000
+NHL000396,Jordan G Ulery,Jordan,G.,Ulery,,,True,nh,lower,Hillsborough 37,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376635.jpg,2011-06-21 18:49:57.974000,2017-06-01 05:24:14.640000
+NHL000397,Karen C Umberger,Karen,C.,Umberger,,,True,nh,lower,Carroll 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376879.jpg,2011-06-21 18:49:57.977000,2017-06-01 05:24:14.584000
+NHL000403,Janet G Wall,Janet,G.,Wall,,,True,nh,lower,Strafford 6,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/372557.jpg,2011-06-21 18:49:57.993000,2017-06-01 05:24:13.969000
+NHL000404,Mary Jane Wallner,Mary Jane,,Wallner,,,True,nh,lower,Merrimack 10,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/368423.jpg,2011-06-21 18:49:57.995000,2017-06-01 05:24:14.607000
+NHL000410,James C Webb,James,C.,Webb,,,True,nh,lower,Rockingham 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377050.jpg,2011-06-21 18:49:58.023000,2017-06-01 05:24:14.187000
+NHL000411,Lucy M Weber,Lucy,M.,Weber,,,True,nh,lower,Cheshire 1,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376668.jpg,2011-06-21 18:49:58.025000,2017-06-01 05:24:14.558000
+NHL000415,Kenneth L Weyler,Kenneth,L.,Weyler,,,True,nh,lower,Rockingham 13,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/374470.jpg,2011-06-21 18:49:58.034000,2017-06-01 05:24:14.580000
+NHL000416,Andrew A White,Andrew,A.,White,,,True,nh,lower,Grafton 13,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376894.jpg,2011-06-21 18:49:58.036000,2017-06-01 05:24:13.894000
+NHL000425,Peter R. Leishman,Peter,R.,Leishman,,,True,nh,lower,Hillsborough 24,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376139.jpg,2011-10-25 01:00:42.545000,2017-06-01 05:24:14.617000
+NHL000430,Caroletta C. Alicea,Caroletta,C.,Alicea,,,True,nh,lower,Merrimack 8,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377060.jpg,2013-01-04 00:08:25.546000,2017-06-01 05:24:14.313000
+NHL000433,Richard Ames,Richard,,Ames,,,True,nh,lower,Cheshire 9,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377061.jpg,2013-01-04 00:08:25.575000,2017-06-01 05:24:14.659000
+NHL000439,Robert A. Backus,Robert,A.,Backus,,,True,nh,lower,Hillsborough 19,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377064.jpg,2013-01-04 00:08:25.633000,2017-06-01 05:24:14.485000
+NHL000440,Brad Bailey,Brad,,Bailey,,,True,nh,lower,Grafton 14,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377065.jpg,2013-01-04 00:08:25.643000,2017-06-01 05:24:14.287000
+NHL000443,Christy D. Bartlett,Christy,D.,Bartlett,,,True,nh,lower,Merrimack 19,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377066.jpg,2013-01-04 00:08:25.673000,2017-06-01 05:24:14.451000
+NHL000444,Steven P. Beaudoin,Steven,P.,Beaudoin,,,True,nh,lower,Strafford 9,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377067.jpg,2013-01-04 00:08:25.682000,2017-06-01 05:24:13.912000
+NHL000445,Jane E. Beaulieu,Jane,E.,Beaulieu,,,True,nh,lower,Hillsborough 45,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376550.jpg,2013-01-04 00:08:25.692000,2017-06-01 05:24:14.173000
+NHL000449,Paul S. Berch,Paul,S.,Berch,,,True,nh,lower,Cheshire 1,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377068.jpg,2013-01-04 00:08:25.729000,2017-06-01 05:24:13.974000
+NHL000455,Peter W. Bixby,Peter,W.,Bixby,,,True,nh,lower,Strafford 17,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377070.jpg,2013-01-04 00:08:25.786000,2017-06-01 05:24:13.986000
+NHL000464,Thomas L. Buco,Thomas,L.,Buco,,,True,nh,lower,Carroll 2,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376645.jpg,2013-01-04 00:08:25.873000,2017-06-01 05:24:14.619000
+NHL000469,Delmar D. Burridge,Delmar,D.,Burridge,,,True,nh,lower,Cheshire 16,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376669.jpg,2013-01-04 00:08:25.921000,2017-06-01 05:24:14.237000
+NHL000472,Edward A. Butler,Edward,A.,Butler,,,True,nh,lower,Carroll 7,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376662.jpg,2013-01-04 00:08:25.950000,2017-06-01 05:24:14.439000
+NHL000474,Frank A. Byron,Frank,A.,Byron,,,True,nh,lower,Hillsborough 20,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377078.jpg,2013-01-04 00:08:25.972000,2017-06-01 05:24:14.590000
+NHL000475,Michael D. Cahill,Michael,D.,Cahill,,,True,nh,lower,Rockingham 17,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377079.jpg,2013-01-04 00:08:25.982000,2017-06-01 05:24:13.790000
+NHL000494,Glenn Cordelli,Glenn,,Cordelli,,,True,nh,lower,Carroll 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377085.jpg,2013-01-04 00:08:26.190000,2017-06-01 05:24:14.367000
+NHL000498,Karel A. Crawford,Karel,A.,Crawford,,,True,nh,lower,Carroll 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377087.jpg,2013-01-04 00:08:26.229000,2017-06-01 05:24:14.118000
+NHL000503,David J. Danielson,David,J.,Danielson,,,True,nh,lower,Hillsborough 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377089.jpg,2013-01-04 00:08:26.279000,2017-06-01 05:24:14.592000
+NHL000508,Linda A. DiSilvestro,Linda,A.,DiSilvestro,,,True,nh,lower,Hillsborough 9,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377091.jpg,2013-01-04 00:08:26.330000,2017-06-01 05:24:13.792000
+NHL000514,Daniel A. Eaton,Daniel,A.,Eaton,,,True,nh,lower,Cheshire 3,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/364729.jpg,2013-01-04 00:08:26.392000,2017-06-01 05:24:14.611000
+NHL000516,Karen E. Ebel,Karen,E.,Ebel,,,True,nh,lower,Merrimack 5,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377093.jpg,2013-01-04 00:08:26.412000,2017-06-01 05:24:14.736000
+NHL000518,J. Tracy Emerick,J. Tracy,,Emerick,,,True,nh,lower,Rockingham 21,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377094.jpg,2013-01-04 00:08:26.433000,2017-06-01 05:24:14.594000
+NHL000534,William G. Friel,William,G.,Friel,,,True,nh,lower,Rockingham 14,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377099.jpg,2013-01-04 00:08:26.611000,2017-06-01 05:23:57.562000
+NHL000547,Richard E. Gordon,Richard,E.,Gordon,,,True,nh,lower,Rockingham 35,Republican,,2013-01-04 00:08:26.797000,2017-06-01 05:24:13.989000
+NHL000549,Suzanne H. Gottling,Suzanne,H.,Gottling,,,True,nh,lower,Sullivan 2,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376780.jpg,2013-01-04 00:08:26.818000,2017-06-01 05:24:14.786000
+NHL000556,James L. Grenier,James,L.,Grenier,,,True,nh,lower,Sullivan 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377108.jpg,2013-01-04 00:08:26.893000,2017-06-01 05:24:14.369000
+NHL000576,Paul J. Henle,Paul,J.,Henle,,,True,nh,lower,Merrimack 12,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377119.jpg,2013-01-04 00:08:27.111000,2017-06-01 05:24:14.661000
+NHL000578,Patricia C. Higgins,Patricia,C.,Higgins,,,True,nh,lower,Grafton 12,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377120.jpg,2013-01-04 00:08:27.133000,2017-06-01 05:24:14.739000
+NHL000596,Martin L. Jack,Martin,L.,Jack,,,True,nh,lower,Hillsborough 36,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377126.jpg,2013-01-04 00:08:27.352000,2017-06-01 05:24:14.741000
+NHL000608,Aboul B. Khan,Aboul,B.,Khan,,,True,nh,lower,Rockingham 20,Republican,,2013-01-04 00:08:27.510000,2017-06-01 05:24:13.991000
+NHL000625,Douglas A. Ley,Douglas,A.,Ley,,,True,nh,lower,Cheshire 9,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377135.jpg,2013-01-04 00:08:27.744000,2017-06-01 05:24:13.785000
+NHL000636,Jonathan F. Manley,Jonathan,F.,Manley,Sr.,,True,nh,lower,Hillsborough 3,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377139.jpg,2013-01-04 00:08:27.871000,2017-06-01 05:24:14.212000
+NHL000637,John E. Mann,John,E.,Mann,,,True,nh,lower,Cheshire 2,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377138.jpg,2013-01-04 00:08:27.883000,2017-06-01 05:24:14.492000
+NHL000648,Richard D. McNamara,Richard,D.,McNamara,,,True,nh,lower,Hillsborough 38,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377143.jpg,2013-01-04 00:08:28.021000,2017-06-01 05:24:14.214000
+NHL000653,David E. Milz,David,E.,Milz,,,True,nh,lower,Rockingham 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377147.jpg,2013-01-04 00:08:28.079000,2017-06-01 05:24:14.711000
+NHL000654,Howard M. Moffett,Howard,M.,Moffett,,,True,nh,lower,Merrimack 9,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377148.jpg,2013-01-04 00:08:28.090000,2017-06-01 05:24:14.494000
+NHL000656,Wayne T. Moynihan,Wayne,T.,Moynihan,,,True,nh,lower,Coos 2,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376088.jpg,2013-01-04 00:08:28.114000,2017-06-01 05:24:13.886000
+NHL000658,John A. Mullen,John,A.,Mullen,Jr.,,True,nh,lower,Strafford 1,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377149.jpg,2013-01-04 00:08:28.137000,2017-06-01 05:24:14.757000
+NHL000660,David K. Murotake,David,K.,Murotake,,,True,nh,lower,Hillsborough 32,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377151.jpg,2013-01-04 00:08:28.161000,2017-06-01 05:24:14.469000
+NHL000663,Mel Myler,Mel,,Myler,,,True,nh,lower,Merrimack 10,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377153.jpg,2013-01-04 00:08:28.197000,2017-06-01 05:24:14.384000
+NHL000664,Bill G. Nelson,Bill,G.,Nelson,,,True,nh,lower,Carroll 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377154.jpg,2013-01-04 00:08:28.208000,2017-06-01 05:24:14.530000
+NHL000666,Robert L. Nigrello,Robert,L.,Nigrello,,,True,nh,lower,Rockingham 16,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377155.jpg,2013-01-04 00:08:28.232000,2017-06-01 05:24:14.283000
+NHL000670,Michael B. O'Brien,Michael,B.,O'Brien,,,True,nh,lower,Hillsborough 36,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376720.jpg,2013-01-04 00:08:28.282000,2017-06-01 05:24:14.133000
+NHL000710,Katherine D. Rogers,Katherine,D.,Rogers,,,True,nh,lower,Merrimack 28,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/375919.jpg,2013-01-04 00:08:28.858000,2017-06-01 05:24:14.623000
+NHL000728,Dianne E. Schuett,Dianne,E.,Schuett,,,True,nh,lower,Merrimack 20,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376862.jpg,2013-01-04 00:08:29.113000,2017-06-01 05:24:14.297000
+NHL000732,Marjorie J. Shepardson,Marjorie,J.,Shepardson,,,True,nh,lower,Cheshire 10,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377168.jpg,2013-01-04 00:08:29.176000,2017-06-01 05:24:14.496000
+NHL000735,Marjorie K. Smith,Marjorie,K.,Smith,,,True,nh,lower,Strafford 6,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376166.jpg,2013-01-04 00:08:29.222000,2017-06-01 05:24:14.613000
+NHL000738,Timothy J. Smith,Timothy,J.,Smith,,,True,nh,lower,Hillsborough 17,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377170.jpg,2013-01-04 00:08:29.260000,2017-06-01 05:24:14.299000
+NHL000753,George E. Sykes,George,E.,Sykes,,,True,nh,lower,Grafton 13,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377176.jpg,2013-01-04 00:08:29.467000,2017-06-01 05:24:14.131000
+NHL000754,Michael J. Sylvia,Michael,J.,Sylvia,,,True,nh,lower,Belknap 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377177.jpg,2013-01-04 00:08:29.480000,2017-06-01 05:24:13.956000
+NHL000758,Linda L. Tanner,Linda,L.,Tanner,,,True,nh,lower,Sullivan 9,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377179.jpg,2013-01-04 00:08:29.890000,2017-06-01 05:24:14.393000
+NHL000771,Alan J. Turcotte,Alan,J.,Turcotte,,,True,nh,lower,Merrimack 22,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377183.jpg,2013-01-04 00:08:30.091000,2017-06-01 05:24:14.007000
+NHL000774,Herbert R. Vadney,Herbert,R.,Vadney,,,True,nh,lower,Belknap 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377184.jpg,2013-01-04 00:08:30.133000,2017-06-01 05:24:14.471000
+NHL000780,Robert M. Walsh,Robert,M.,Walsh,,,True,nh,lower,Hillsborough 11,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376882.jpg,2013-01-04 00:08:30.226000,2017-06-01 05:24:14.625000
+NHL000781,Thomas C. Walsh,Thomas,C.,Walsh,,,True,nh,lower,Merrimack 24,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377187.jpg,2013-01-04 00:08:30.239000,2017-06-01 05:24:14.112000
+NHL000782,Mary Beth Walz,Mary Beth,,Walz,,,True,nh,lower,Merrimack 23,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376638.jpg,2013-01-04 00:08:30.252000,2017-06-01 05:24:14.665000
+NHL000783,Gerald W.R. Ward,Gerald,W.R.,Ward,,,True,nh,lower,Rockingham 28,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377188.jpg,2013-01-04 00:08:30.265000,2017-06-01 05:24:13.884000
+NHL000799,Kermit R. Williams,Kermit,R.,Williams,,,True,nh,lower,Hillsborough 4,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377192.jpg,2013-01-04 00:08:30.504000,2017-06-01 05:24:14.443000
+NHL000819,William J. O'Neil,William,J.,O'Neil,,,True,nh,lower,Hillsborough 9,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377198.jpg,2013-05-24 02:38:38.506000,2017-06-01 05:24:13.794000
+NHL000823,Mary Heath,Mary,,Heath,,,True,nh,lower,Hillsborough 14,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377199.jpg,2014-01-10 20:34:02.260000,2017-06-01 05:24:14.386000
+NHL001063,David W. Pierce,David,W.,Pierce,,,True,nh,lower,Hillsborough 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377256.jpg,2015-01-06 18:49:36.477000,2017-06-01 05:24:14.720000
+NHL001067,Lino M. Avellani,Lino,M.,Avellani,,,True,nh,lower,Carroll 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377205.jpg,2015-01-06 18:49:36.821000,2017-06-01 05:24:13.769000
+NHL001068,Gregory G. Smith,Gregory,G.,Smith,,,True,nh,lower,Hillsborough 37,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377262.jpg,2015-01-06 18:49:36.850000,2017-06-01 05:24:14.483000
+NHL001069,Michael D. Abbott,Michael,D.,Abbott,,,True,nh,lower,Cheshire 1,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377279.jpg,2015-01-06 18:49:36.858000,2017-06-01 05:24:14.743000
+NHL001070,Herbert D. Richardson,Herbert,D.,Richardson,,,True,nh,lower,Coos 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376514.jpg,2015-01-06 18:49:36.881000,2017-06-01 05:24:14.464000
+NHL001071,Robert L. Theberge,Robert,L.,Theberge,,,True,nh,lower,Coos 3,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376532.jpg,2015-01-06 18:49:36.895000,2017-06-01 05:24:14.650000
+NHL001072,Thomas L. Kaczynski,Thomas,L.,Kaczynski,Jr.,,True,nh,lower,Strafford 22,Republican,,2015-01-06 18:49:36.902000,2017-06-01 05:24:13.918000
+NHL001075,Raymond Howard,Raymond,,Howard,,,True,nh,lower,Belknap 8,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377237.jpg,2015-01-06 18:49:36.930000,2017-06-01 05:24:14.203000
+NHL001081,Rebecca McBeath,Rebecca,,McBeath,,,True,nh,lower,Rockingham 26,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377309.jpg,2015-01-06 18:49:37.025000,2017-06-01 05:24:14.449000
+NHL001085,Skip A. Rollins,Skip,A.,Rollins,,,True,nh,lower,Sullivan 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377163.jpg,2015-01-06 18:49:37.145000,2017-06-01 05:24:14.038000
+NHL001086,Victoria L. Sullivan,Victoria,L.,Sullivan,,,True,nh,lower,Hillsborough 16,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377265.jpg,2015-01-06 18:49:37.152000,2017-06-01 05:24:14.377000
+NHL001087,Peter J. Spanos,Peter,J.,Spanos,,,True,nh,lower,Belknap 3,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377263.jpg,2015-01-06 18:49:37.159000,2017-06-01 05:24:14.596000
+NHL001089,Keith Ammon,Keith,,Ammon,,,True,nh,lower,Hillsborough 40,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377204.jpg,2015-01-06 18:49:37.227000,2017-06-01 05:24:14.479000
+NHL001092,Linda B. Kenison,Linda,B.,Kenison,,,True,nh,lower,Merrimack 15,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377304.jpg,2015-01-06 18:49:37.270000,2017-06-01 05:24:13.976000
+NHL001093,Dale R. Sprague,Dale,R.,Sprague,,,True,nh,lower,Strafford 18,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376769.jpg,2015-01-06 18:49:37.285000,2017-06-01 05:24:14.732000
+NHL001096,Mary C. Freitas,Mary,C.,Freitas,,,True,nh,lower,Hillsborough 14,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377296.jpg,2015-01-06 18:49:37.349000,2017-06-01 05:24:14.556000
+NHL001097,Douglas B. Long,Douglas,B.,Long,,,True,nh,lower,Merrimack 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377247.jpg,2015-01-06 18:49:37.357000,2017-06-01 05:24:14.191000
+NHL001098,Kimberly A. Rice,Kimberly,A.,Rice,,,True,nh,lower,Hillsborough 37,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377259.jpg,2015-01-06 18:49:37.364000,2017-06-01 05:24:14.309000
+NHL001100,Werner D. Horn,Werner,D.,Horn,,,True,nh,lower,Merrimack 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377236.jpg,2015-01-06 18:49:37.395000,2017-06-01 05:24:14.120000
+NHL001102,Francis G. Chase,Francis,G.,Chase,,,True,nh,lower,Rockingham 20,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377212.jpg,2015-01-06 18:49:37.455000,2017-06-01 05:24:14.160000
+NHL001105,Arthur E. Barnes,Arthur,E.,Barnes,,,True,nh,lower,Rockingham 8,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377206.jpg,2015-01-06 18:49:37.549000,2017-06-01 05:24:14.648000
+NHL001106,Timothy L. Twombly,Timothy,L.,Twombly,,,True,nh,lower,Hillsborough 34,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377045.jpg,2015-01-06 18:49:37.556000,2017-06-01 05:24:14.588000
+NHL001107,Robert M. Fesh,Robert,M.,Fesh,,,True,nh,lower,Rockingham 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/375842.jpg,2015-01-06 18:49:37.564000,2017-06-01 05:24:14.242000
+NHL001108,Thomas W. Laware,Thomas,W.,Laware,,,True,nh,lower,Sullivan 8,Republican,,2015-01-06 18:49:37.602000,2017-06-01 05:24:14.113000
+NHL001109,Clyde J. Carson,Clyde,J.,Carson,,,True,nh,lower,Merrimack 7,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377082.jpg,2015-01-06 18:49:37.617000,2017-06-01 05:24:14.169000
+NHL001110,David Doherty,David,,Doherty,,,True,nh,lower,Merrimack 20,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377292.jpg,2015-01-06 18:49:37.674000,2017-06-01 05:24:14.392000
+NHL001112,Suzanne Harvey,Suzanne,,Harvey,,,True,nh,lower,Hillsborough 29,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376584.jpg,2015-01-06 18:49:37.714000,2017-06-01 05:24:14.490000
+NHL001113,Frank H. McCarthy,Frank,H.,McCarthy,,,True,nh,lower,Carroll 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376980.jpg,2015-01-06 18:49:37.747000,2017-06-01 05:24:14.158000
+NHL001116,Duane R. Brown,Duane,R.,Brown,,,True,nh,lower,Grafton 16,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377210.jpg,2015-01-06 18:49:37.826000,2017-06-01 05:24:14.199000
+NHL001118,Travis Bennett,Travis,,Bennett,,,True,nh,lower,Grafton 8,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377280.jpg,2015-01-06 18:49:37.900000,2017-06-01 05:24:13.888000
+NHL001119,Jason M. Osborne,Jason,M.,Osborne,,,True,nh,lower,Rockingham 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377253.jpg,2015-01-06 18:49:37.908000,2017-06-01 05:24:14.431000
+NHL001121,Bart Fromuth,Bart,,Fromuth,,,True,nh,lower,Hillsborough 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377229.jpg,2015-01-06 18:49:37.931000,2017-06-01 05:24:14.425000
+NHL001123,Josh Moore,Josh,,Moore,,,True,nh,lower,Hillsborough 21,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377252.jpg,2015-01-06 18:49:37.969000,2017-06-01 05:24:14.375000
+NHL001126,Mark L. Proulx,Mark,L.,Proulx,,,True,nh,lower,Hillsborough 44,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377007.jpg,2015-01-06 18:49:38.006000,2017-06-01 05:24:13.914000
+NHL001127,Benjamin C. Baroody,Benjamin,C.,Baroody,,,True,nh,lower,Hillsborough 43,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/374801.jpg,2015-01-06 18:49:38.013000,2017-06-01 05:24:13.797000
+NHL001128,Franklin W. Sterling,Franklin,W.,Sterling,,,True,nh,lower,Cheshire 14,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376871.jpg,2015-01-06 18:49:38.021000,2017-06-01 05:24:14.154000
+NHL001129,Mary E. Griffin,Mary,E.,Griffin,,,True,nh,lower,Rockingham 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376126.jpg,2015-01-06 18:49:38.030000,2017-06-01 05:24:14.638000
+NHL001130,Joseph A. Guthrie,Joseph,A.,Guthrie,,,True,nh,lower,Rockingham 13,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376127.jpg,2015-01-06 18:49:38.063000,2017-06-01 05:24:14.535000
+NHL001132,Susan GS Treleaven,Susan,GS,Treleaven,,,True,nh,lower,Strafford 17,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377318.jpg,2015-01-06 18:49:38.085000,2017-06-01 05:24:14.175000
+NHL001133,Carolyn L. Matthews,Carolyn,L.,Matthews,,,True,nh,lower,Rockingham 3,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377249.jpg,2015-01-06 18:49:38.093000,2017-06-01 05:24:14.162000
+NHL001135,David A. Welch,David,A.,Welch,,,True,nh,lower,Rockingham 13,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/330795.jpg,2015-01-06 18:49:38.108000,2017-06-01 05:24:14.234000
+NHL001136,Richard Marple,Richard,,Marple,,,True,nh,lower,Merrimack 24,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376245.jpg,2015-01-06 18:49:38.125000,2017-06-01 05:24:14.034000
+NHL001137,Claire A. Rouillard,Claire,A.,Rouillard,,,True,nh,lower,Hillsborough 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377260.jpg,2015-01-06 18:49:38.140000,2017-06-01 05:24:13.950000
+NHL001138,Valerie Fraser,Valerie,,Fraser,,,True,nh,lower,Belknap 1,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377227.jpg,2015-01-06 18:49:38.171000,2017-06-01 05:24:14.419000
+NHL001141,Carol R. Roberts,Carol,R.,Roberts,,,True,nh,lower,Hillsborough 4,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377313.jpg,2015-01-06 18:49:38.222000,2017-06-01 05:24:13.938000
+NHL001146,Peter R. Varney,Peter,R.,Varney,,,True,nh,lower,Belknap 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377271.jpg,2015-01-06 18:49:38.284000,2017-06-01 05:23:57.460000
+NHL001147,Armand D. Forest,Armand,D.,Forest,,,True,nh,lower,Hillsborough 18,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376705.jpg,2015-01-06 18:49:38.291000,2017-06-01 05:24:14.301000
+NHL001150,Amanda Bouldin,Amanda,,Bouldin,,,True,nh,lower,Hillsborough 12,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377283.jpg,2015-01-06 18:49:38.315000,2017-06-01 05:24:14.055000
+NHL001154,Bill Kuch,Bill,,Kuch,,,True,nh,lower,Merrimack 23,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377244.jpg,2015-01-06 18:49:38.457000,2017-06-01 05:24:14.481000
+NHL001156,Elizabeth Ferreira,Elizabeth,,Ferreira,,,True,nh,lower,Hillsborough 28,Republican,,2015-01-06 18:49:38.487000,2017-06-01 05:24:14.429000
+NHL001157,Allen W. Cook,Allen,W.,Cook,,,True,nh,lower,Rockingham 11,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377216.jpg,2015-01-06 18:49:38.494000,2017-06-01 05:24:14.315000
+NHL001158,Stephen J. Schmidt,Stephen,J.,Schmidt,,,True,nh,lower,Carroll 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377019.jpg,2015-01-06 18:49:38.501000,2017-06-01 05:24:13.761000
+NHL001159,Barbara Biggie,Barbara,,Biggie,,,True,nh,lower,Hillsborough 23,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377207.jpg,2015-01-06 18:49:38.508000,2017-06-01 05:24:14.417000
+NHL001160,Fred Doucette,Fred,,Doucette,,,True,nh,lower,Rockingham 8,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377220.jpg,2015-01-06 18:49:38.562000,2017-06-01 05:24:13.771000
+NHL001163,Mary M. Allen,Mary,M.,Allen,,,True,nh,lower,Rockingham 15,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376426.jpg,2015-01-06 18:49:38.594000,2017-06-01 05:24:14.582000
+NHL001167,Linda Gould,Linda,,Gould,,,True,nh,lower,Hillsborough 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377299.jpg,2015-01-06 18:49:38.657000,2017-06-01 05:24:14.759000
+NHL001169,Richard M. Abel,Richard,M.,Abel,,,True,nh,lower,Grafton 13,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377321.jpg,2015-01-06 18:49:38.691000,2017-06-01 05:24:14.445000
+NHL001173,Glen C. Aldrich,Glen,C.,Aldrich,,,True,nh,lower,Belknap 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377203.jpg,2015-01-06 18:49:38.735000,2017-06-01 05:24:14.475000
+NHL001174,Michael Vose,Michael,,Vose,,,True,nh,lower,Rockingham 9,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377272.jpg,2015-01-06 18:49:38.751000,2017-06-01 05:24:14.477000
+NHL001178,James W. McConnell,James,W.,McConnell,,,True,nh,lower,Cheshire 12,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377287.jpg,2015-01-06 18:49:38.918000,2017-06-01 05:24:14.763000
+NHL001179,Christopher J. Herbert,Christopher,J.,Herbert,,,True,nh,lower,Hillsborough 43,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377303.jpg,2015-01-06 18:49:38.926000,2017-06-01 05:24:14.669000
+NHL001185,Brian Seaworth,Brian,,Seaworth,,,True,nh,lower,Merrimack 20,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377023.jpg,2015-01-06 18:49:39.028000,2017-06-01 05:24:13.765000
+NHL001188,Anthony J. Pellegrino,Anthony,J.,Pellegrino,,,True,nh,lower,Hillsborough 21,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376848.jpg,2015-01-06 18:49:39.090000,2017-06-01 05:24:13.763000
+NHL001190,Carolyn Halstead,Carolyn,,Halstead,,,True,nh,lower,Hillsborough 23,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377301.jpg,2015-01-06 18:49:39.150000,2017-06-01 05:24:14.379000
+NHL001191,Paula Francese,Paula,,Francese,,,True,nh,lower,Rockingham 18,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377295.jpg,2015-01-06 18:49:39.157000,2017-06-01 05:24:14.005000
+NHL001193,Ivy C. Vann,Ivy,C.,Vann,,,True,nh,lower,Hillsborough 24,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377319.jpg,2015-01-06 18:49:39.205000,2017-06-01 05:24:14.141000
+NHL001194,Ed Comeau,Ed,,Comeau,,,True,nh,lower,Carroll 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377215.jpg,2015-01-06 18:49:39.228000,2017-06-01 05:24:14.201000
+NHL001195,Skip Berrien,Skip,,Berrien,,,True,nh,lower,Rockingham 18,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377281.jpg,2015-01-06 18:49:39.235000,2017-06-01 05:24:14.326000
+NHL001196,Thomas L. Southworth,Thomas,L.,Southworth,,,True,nh,lower,Strafford 20,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377316.jpg,2015-01-06 18:49:39.251000,2017-06-01 05:24:14.667000
+NHL001200,Wayne M. Burton,Wayne,M.,Burton,,,True,nh,lower,Strafford 6,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/373142.jpg,2015-01-06 18:49:39.310000,2017-06-01 05:24:14.388000
+NHL001201,Barbara J. Griffin,Barbara,J.,Griffin,,,True,nh,lower,Hillsborough 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377233.jpg,2015-01-06 18:49:39.333000,2017-06-01 05:24:13.858000
+NHL001203,Kevin G. Maes,Kevin,G.,Maes,,,True,nh,lower,Grafton 6,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377308.jpg,2015-01-06 18:49:39.364000,2017-06-01 05:24:14.788000
+NHL001204,Erin T. Hennessey,Erin,T.,Hennessey,,,True,nh,lower,Grafton 1,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377235.jpg,2015-01-06 18:49:39.379000,2017-06-01 05:24:14.603000
+NHL001207,Phyllis M. Katsakiores,Phyllis,M.,Katsakiores,,,True,nh,lower,Rockingham 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/332247.jpg,2015-01-06 18:49:39.403000,2017-06-01 05:24:14.285000
+NHL001208,Pamela S. Gordon,Pamela,S.,Gordon,,,True,nh,lower,Rockingham 29,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377298.jpg,2015-01-06 18:49:39.420000,2017-06-01 05:24:14.560000
+NHL001212,Patricia Cornell,Patricia,,Cornell,,,True,nh,lower,Hillsborough 18,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377289.jpg,2015-01-06 18:49:39.574000,2017-06-01 05:24:14.390000
+NHL001214,James A. Spillane,James,A.,Spillane,,,True,nh,lower,Rockingham 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377264.jpg,2015-01-06 18:49:39.597000,2017-06-01 05:24:14.195000
+NHL001215,John J. Manning,John,J.,Manning,,,True,nh,lower,Rockingham 8,Republican,,2015-01-06 18:49:39.613000,2017-06-01 05:24:14.646000
+NHL001216,Stephen Darrow,Stephen,,Darrow,,,True,nh,lower,Grafton 17,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377217.jpg,2015-01-06 18:49:39.622000,2017-06-01 05:24:13.984000
+NHL001217,Jacalyn L. Cilley,Jacalyn,L.,Cilley,,,True,nh,lower,Strafford 4,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376564.jpg,2015-01-06 18:49:39.645000,2017-06-01 05:24:13.907000
+NHL001218,Leonard P. Turcotte,Leonard,P.,Turcotte,,,True,nh,lower,Strafford 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377269.jpg,2015-01-06 18:49:39.678000,2017-06-01 05:24:13.773000
+NHL001219,Latha D. Mangipudi,Latha,D.,Mangipudi,,,True,nh,lower,Hillsborough 35,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377200.jpg,2015-01-06 18:49:39.693000,2017-06-01 05:24:14.053000
+NHL001220,David Luneau,David,,Luneau,,,True,nh,lower,Merrimack 10,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377307.jpg,2015-01-06 18:49:39.703000,2017-06-01 05:24:14.447000
+NHL001223,Eric I. Schleien,Eric,I.,Schleien,,,True,nh,lower,Hillsborough 37,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377261.jpg,2015-01-06 18:49:39.878000,2017-06-01 05:24:14.767000
+NHL001224,Chris Christensen,Chris,,Christensen,,,True,nh,lower,Hillsborough 21,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376314.jpg,2015-01-06 18:49:39.887000,2017-06-01 05:24:14.755000
+NHL001228,Linda A. Massimilla,Linda,A.,Massimilla,,,True,nh,lower,Grafton 1,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377141.jpg,2015-01-06 18:49:39.933000,2017-06-01 05:24:14.049000
+NHL001229,Robert Z. Fisher,Robert,Z.,Fisher,,,True,nh,lower,Belknap 9,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377225.jpg,2015-01-06 18:49:39.941000,2017-06-01 05:23:57.495000
+NHL001230,Chris True,Chris,,True,,,True,nh,lower,Rockingham 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377268.jpg,2015-01-06 18:49:39.949000,2017-06-01 05:24:14.122000
+NHL001231,Kurt F. Wuelper,Kurt,F.,Wuelper,,,True,nh,lower,Strafford 3,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377277.jpg,2015-01-06 18:49:39.965000,2017-06-01 05:24:13.960000
+NHL001237,Elizabeth Edwards,Elizabeth,,Edwards,,,True,nh,lower,Hillsborough 11,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377294.jpg,2015-01-06 18:49:40.090000,2017-06-01 05:24:14.057000
+NHL001239,Lee Walker Oxenham,Lee,Walker,Oxenham,,,True,nh,lower,Sullivan 1,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377310.jpg,2015-01-06 18:49:40.139000,2017-06-01 05:24:14.498000
+NHL001241,John Fothergill,John,,Fothergill,,,True,nh,lower,Coos 1,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377226.jpg,2015-01-06 18:49:40.170000,2017-06-01 05:24:14.540000
+NHL001242,Nick Zaricki,Nick,,Zaricki,,,True,nh,lower,Hillsborough 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377278.jpg,2015-01-06 18:49:40.178000,2017-06-01 05:24:14.769000
+NHL001243,Robert Hull,Robert,,Hull,,,True,nh,lower,Grafton 9,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377239.jpg,2015-01-06 18:49:40.220000,2017-06-01 05:24:13.958000
+NHL001244,Kendall A. Snow,Kendall,A.,Snow,,,True,nh,lower,Hillsborough 42,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377315.jpg,2015-01-06 18:49:40.236000,2017-06-01 05:24:14.563000
+NHL001247,Susan W. Almy,Susan,W.,Almy,,,True,nh,lower,Grafton 13,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376095.jpg,2015-01-06 18:49:40.360000,2017-06-01 05:24:14.657000
+NHL001248,Terry M. Wolf,Terry,M.,Wolf,,,True,nh,lower,Hillsborough 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377275.jpg,2015-01-06 18:49:40.381000,2017-06-01 05:24:14.363000
+NHL001251,Douglas W. Thomas,Douglas,W.,Thomas,,,True,nh,lower,Rockingham 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377267.jpg,2015-01-06 18:49:40.468000,2017-06-01 05:24:14.467000
+NHL001253,Michael A. Brewster,Michael,A.,Brewster,,,True,nh,lower,Merrimack 21,Republican,,2015-01-06 18:49:40.516000,2017-06-01 05:24:13.922000
+NHL001254,John Bordenet,John,,Bordenet,,,True,nh,lower,Cheshire 5,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377282.jpg,2015-01-06 18:49:40.559000,2017-06-01 05:24:14.156000
+NHL001267,Dennis Green,Dennis,,Green,,,True,nh,lower,Rockingham 13,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377777.jpg,2015-05-06 23:21:48.600000,2017-06-01 05:24:14.248000
+NHL001272,Yvonne M. Dean-Bailey,Yvonne,M.,Dean-Bailey,,,True,nh,lower,Rockingham 32,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377284.jpg,2015-06-22 18:49:33.799000,2017-06-01 05:24:13.860000
+NHL001275,Robert V. Graham,Robert,V.,Graham,,,True,nh,lower,Strafford 1,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377324.jpg,2016-01-15 20:07:53.618000,2017-06-01 05:24:13.962000
+NHL001280,Michael A. Edgar,Michael,A.,Edgar,,,True,nh,lower,Rockingham 21,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377778.jpg,2016-05-10 04:04:15.924000,2017-06-01 05:24:14.745000
+NHL001309,Skylar Boutin,Skylar,,Boutin,,,True,nh,lower,Grafton 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408290.jpg,2017-01-10 05:01:18.147000,2017-06-01 05:24:14.293000
+NHL001311,Chuck Grassie,Chuck,,Grassie,,,True,nh,lower,Strafford 11,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408725.jpg,2017-01-10 05:01:18.217000,2017-06-01 05:24:14.790000
+NHL001312,Caleb Q. Dyer,Caleb,Q.,Dyer,,,True,nh,lower,Hillsborough 37,Libertarian,http://www.gencourt.state.nh.us/house/images/memberpics/408356.jpg,2017-01-10 05:01:18.229000,2017-06-01 05:24:14.021000
+NHL001313,Jason A. Janvrin,Jason,A.,Janvrin,,,True,nh,lower,Rockingham 20,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408422.jpg,2017-01-10 05:01:18.235000,2017-06-01 05:24:13.966000
+NHL001314,Mark Pearson,Mark,,Pearson,,,True,nh,lower,Rockingham 34,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408749.jpg,2017-01-10 05:01:18.247000,2017-06-01 05:24:14.551000
+NHL001315,Jess Edwards,Jess,,Edwards,,,True,nh,lower,Rockingham 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408392.jpg,2017-01-10 05:01:18.259000,2017-06-01 05:24:14.545000
+NHL001317,Martin N. Bove,Martin,N.,Bove,,,True,nh,lower,Rockingham 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/375816.jpg,2017-01-10 05:01:18.283000,2017-06-01 05:24:14.541000
+NHL001318,John E. O'Day,John,E.,O'Day,,,True,nh,lower,Cheshire 11,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408284.jpg,2017-01-10 05:01:18.295000,2017-06-01 05:24:13.783000
+NHL001319,John F. Klose,John,F.,Klose,,,True,nh,lower,Merrimack 21,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/374140.jpg,2017-01-10 05:01:18.301000,2017-06-01 05:24:14.722000
+NHL001320,Larry L. Laflamme,Larry,L.,Laflamme,,,True,nh,lower,Coos 3,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408488.jpg,2017-01-10 05:01:18.307000,2017-06-01 05:24:14.226000
+NHL001321,Michael Moffett,Michael,,Moffett,,,True,nh,lower,Merrimack 9,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/407144.jpg,2017-01-10 05:01:18.313000,2017-06-01 05:24:14.380000
+NHL001322,Isaac Epstein,Isaac,,Epstein,,,True,nh,lower,Strafford 13,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408628.jpg,2017-01-10 05:01:18.337000,2017-06-01 05:24:13.898000
+NHL001323,Timothy Fontneau,Timothy,,Fontneau,,,True,nh,lower,Strafford 7,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408625.jpg,2017-01-10 05:01:18.355000,2017-06-01 05:24:14.453000
+NHL001324,Charlie Burns,Charlie,,Burns,,,True,nh,lower,Hillsborough 23,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408340.jpg,2017-01-10 05:01:18.361000,2017-06-01 05:24:14.653000
+NHL001325,Scott Wallace,Scott,,Wallace,,,True,nh,lower,Rockingham 33,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408431.jpg,2017-01-10 05:01:18.367000,2017-06-01 05:24:14.258000
+NHL001326,Lisa M. Freeman,Lisa,M.,Freeman,,,True,nh,lower,Hillsborough 12,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408324.jpg,2017-01-10 05:01:18.373000,2017-06-01 05:24:13.873000
+NHL001327,Robert J. L'Heureux,Robert,J.,L'Heureux,,,True,nh,lower,Hillsborough 21,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/374561.jpg,2017-01-10 05:01:18.378000,2017-06-01 05:24:14.189000
+NHL001328,Richard O'Leary,Richard,,O'Leary,,,True,nh,lower,Hillsborough 13,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408514.jpg,2017-01-10 05:01:18.394000,2017-06-01 05:24:14.272000
+NHL001329,Timothy Josephson,Timothy,,Josephson,,,True,nh,lower,Grafton 11,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408500.jpg,2017-01-10 05:01:18.401000,2017-06-01 05:24:14.181000
+NHL001330,Steven J. Woitkun,Steven,J.,Woitkun,,,True,nh,lower,Rockingham 12,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377274.jpg,2017-01-10 05:01:18.408000,2017-06-01 05:24:13.920000
+NHL001331,Jesse J. Martineau,Jesse,J.,Martineau,,,True,nh,lower,Hillsborough 42,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376703.jpg,2017-01-10 05:01:18.413000,2017-06-01 05:24:14.218000
+NHL001332,Norman Silber,Norman,,Silber,,,True,nh,lower,Belknap 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408258.jpg,2017-01-10 05:01:18.482000,2017-06-01 05:24:13.877000
+NHL001334,John Joseph Carr,John,Joseph,Carr,,,True,nh,lower,Hillsborough 26,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408345.jpg,2017-01-10 05:01:18.513000,2017-06-01 05:24:14.207000
+NHL001335,James F. Horgan,James,F.,Horgan,,,True,nh,lower,Strafford 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408434.jpg,2017-01-10 05:01:18.525000,2017-06-01 05:24:14.771000
+NHL001336,Paul Somero,Paul,,Somero,,,True,nh,lower,Hillsborough 25,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408344.jpg,2017-01-10 05:01:18.556000,2017-06-01 05:24:14.729000
+NHL001337,William Polewarczyk,William,,Polewarczyk,,,True,nh,lower,Rockingham 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408393.jpg,2017-01-10 05:01:18.570000,2017-06-01 05:23:57.565000
+NHL001339,Anne Copp,Anne,,Copp,,,True,nh,lower,Merrimack 1,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408750.jpg,2017-01-10 05:01:18.654000,2017-06-01 05:24:13.997000
+NHL001340,Kevin Scully,Kevin,,Scully,,,True,nh,lower,Hillsborough 33,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408351.jpg,2017-01-10 05:01:18.666000,2017-06-01 05:24:14.319000
+NHL001341,Michael D. Harrington,Michael,D.,Harrington,,,True,nh,lower,Strafford 3,Republican,,2017-01-10 05:01:18.679000,2017-06-01 05:24:13.869000
+NHL001342,Amanda Gourgue,Amanda,,Gourgue,,,True,nh,lower,Strafford 25,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408635.jpg,2017-01-10 05:01:18.692000,2017-06-01 05:24:14.015000
+NHL001344,Bob Rimol,Bob,,Rimol,,,True,nh,lower,Rockingham 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408403.jpg,2017-01-10 05:01:18.703000,2017-06-01 05:24:14.775000
+NHL001345,Robert Renny Cushing,Robert Renny,,Cushing,,,True,nh,lower,Rockingham 21,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376111.jpg,2017-01-10 05:01:18.709000,2017-06-01 05:24:14.266000
+NHL001346,Steven Rand,Steven,,Rand,,,True,nh,lower,Grafton 8,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408723.jpg,2017-01-10 05:01:18.715000,2017-06-01 05:24:14.183000
+NHL001347,Barbara Comtois,Barbara,,Comtois,,,True,nh,lower,Belknap 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408274.jpg,2017-01-10 05:01:18.748000,2017-06-01 05:24:13.995000
+NHL001348,Brian J. Stone,Brian,J.,Stone,,,True,nh,lower,Rockingham 1,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408385.jpg,2017-01-10 05:01:18.754000,2017-06-01 05:24:14.165000
+NHL001349,Catherine Sofikitis,Catherine,,Sofikitis,,,True,nh,lower,Hillsborough 34,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408546.jpg,2017-01-10 05:01:18.760000,2017-06-01 05:24:14.019000
+NHL001350,Glen Dickey,Glen,,Dickey,,,True,nh,lower,Hillsborough 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408313.jpg,2017-01-10 05:01:18.766000,2017-06-01 05:24:14.124000
+NHL001353,Mary Jane Mulligan,Mary Jane,,Mulligan,,,True,nh,lower,Grafton 12,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408502.jpg,2017-01-10 05:01:18.803000,2017-06-01 05:24:13.979000
+NHL001354,Joelle Martin,Joelle,,Martin,,,True,nh,lower,Hillsborough 23,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408530.jpg,2017-01-10 05:01:18.809000,2017-06-01 05:24:14.672000
+NHL001355,Charlotte I. DiLorenzo,Charlotte,I.,DiLorenzo,,,True,nh,lower,Rockingham 17,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408612.jpg,2017-01-10 05:01:18.822000,2017-06-01 05:24:13.978000
+NHL001356,Howard Pearl,Howard,,Pearl,,,True,nh,lower,Merrimack 26,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408383.jpg,2017-01-10 05:01:18.834000,2017-06-01 05:24:14.001000
+NHL001357,Rick Christie,Rick,,Christie,,,True,nh,lower,Hillsborough 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377214.jpg,2017-01-10 05:01:18.852000,2017-06-01 05:24:14.765000
+NHL001359,Michael Costable,Michael,,Costable,,,True,nh,lower,Rockingham 3,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408389.jpg,2017-01-10 05:01:18.902000,2017-06-01 05:24:14.433000
+NHL001360,Polly Kent Campion,Polly,Kent,Campion,,,True,nh,lower,Grafton 12,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408501.jpg,2017-01-10 05:01:18.914000,2017-06-01 05:24:13.942000
+NHL001361,Bing Judd,Bing,,Judd,,,True,nh,lower,Coos 1,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/802595.jpg,2017-01-10 05:01:18.932000,2017-06-01 05:24:14.724000
+NHL001362,Rio H. Tilton,Rio,H.,Tilton,,,True,nh,lower,Rockingham 37,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377323.jpg,2017-01-10 05:01:18.951000,2017-06-01 05:24:14.197000
+NHL001363,John J. O'Connor,John,J.,O'Connor,,,True,nh,lower,Sullivan 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408726.jpg,2017-01-10 05:01:18.989000,2017-06-01 05:23:57.336000
+NHL001364,Brenda Willis,Brenda,,Willis,,,True,nh,lower,Rockingham 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408409.jpg,2017-01-10 05:01:19.032000,2017-06-01 05:24:14.322000
+NHL001365,Connie Van Houten,Connie,,Van Houten,,,True,nh,lower,Hillsborough 45,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408558.jpg,2017-01-10 05:01:19.076000,2017-06-01 05:24:14.455000
+NHL001366,Jerry Knirk,Jerry,,Knirk,,,True,nh,lower,Carroll 3,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408473.jpg,2017-01-10 05:01:19.088000,2017-06-01 05:24:14.567000
+NHL001368,Shannon E. Chandley,Shannon,E.,Chandley,,,True,nh,lower,Hillsborough 22,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376802.jpg,2017-01-10 05:01:19.118000,2017-06-01 05:24:14.260000
+NHL001369,Jessica Ayala,Jessica,,Ayala,,,True,nh,lower,Hillsborough 31,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/999999.jpg,2017-01-10 05:01:19.131000,2017-06-01 05:24:14.145000
+NHL001370,Andrew Renzullo,Andrew,,Renzullo,,,True,nh,lower,Hillsborough 37,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376618.jpg,2017-01-10 05:01:19.142000,2017-06-01 05:24:14.761000
+NHL001371,David Lisle,David,,Lisle,,,True,nh,lower,Hillsborough 35,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408548.jpg,2017-01-10 05:01:19.156000,2017-06-01 05:24:14.794000
+NHL001372,Kenneth S. Vincent,Kenneth,S.,Vincent,,,True,nh,lower,Strafford 17,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408632.jpg,2017-01-10 05:01:19.168000,2017-06-01 05:24:14.502000
+NHL001373,Steve Negron,Steve,,Negron,,,True,nh,lower,Hillsborough 32,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408350.jpg,2017-01-10 05:01:19.187000,2017-06-01 05:24:13.875000
+NHL001375,Francis Gauthier,Francis,,Gauthier,,,True,nh,lower,Sullivan 3,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408451.jpg,2017-01-10 05:01:19.242000,2017-06-01 05:24:14.163000
+NHL001376,Roger W. Dontonville,Roger,W.,Dontonville,,,True,nh,lower,Grafton 10,Democratic,,2017-01-10 05:01:19.254000,2017-06-01 05:24:14.220000
+NHL001377,Betty I. Gay,Betty,I.,Gay,,,True,nh,lower,Rockingham 8,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408411.jpg,2017-01-10 05:01:19.267000,2017-06-01 05:24:13.862000
+NHL001378,Dave Testerman,Dave,,Testerman,,,True,nh,lower,Merrimack 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408369.jpg,2017-01-10 05:01:19.286000,2017-06-01 05:24:14.256000
+NHL001379,William M. Marsh,William,M.,Marsh,,,True,nh,lower,Carroll 8,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408279.jpg,2017-01-10 05:01:19.292000,2017-06-01 05:24:14.549000
+NHL001380,Donovan Fenton,Donovan,,Fenton,,,True,nh,lower,Cheshire 8,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408482.jpg,2017-01-10 05:01:19.304000,2017-06-01 05:24:14.011000
+NHL001381,Jody L. McNally,Jody,L.,McNally,,,True,nh,lower,Strafford 10,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408441.jpg,2017-01-10 05:01:19.316000,2017-06-01 05:24:14.254000
+NHL001382,Matthew Spencer,Matthew,,Spencer,,,True,nh,lower,Strafford 18,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408445.jpg,2017-01-10 05:01:19.324000,2017-06-01 05:24:14.321000
+NHL001383,Skip Cleaver,Skip,,Cleaver,,,True,nh,lower,Hillsborough 35,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408547.jpg,2017-01-10 05:01:19.336000,2017-06-01 05:24:14.147000
+NHL001385,Steve Vaillancourt,Steve,,Vaillancourt,,,True,nh,lower,Hillsborough 15,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376171.jpg,2017-01-10 05:01:19.391000,2017-06-01 05:23:57.520000
+NHL001386,Sherry Frost,Sherry,,Frost,,,True,nh,lower,Strafford 16,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408631.jpg,2017-01-10 05:01:19.426000,2017-06-01 05:24:14.013000
+NHL001387,Kevin Verville,Kevin,,Verville,,,True,nh,lower,Rockingham 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408388.jpg,2017-01-10 05:01:19.433000,2017-06-01 05:24:14.003000
+NHL001389,Brandon Phinney,Brandon,,Phinney,,,True,nh,lower,Strafford 24,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408447.jpg,2017-01-10 05:01:19.458000,2017-06-01 05:24:14.045000
+NHL001391,Debra Altschiller,Debra,,Altschiller,,,True,nh,lower,Rockingham 19,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408616.jpg,2017-01-10 05:01:19.482000,2017-06-01 05:24:14.143000
+NHL001392,Gerald Griffin,Gerald,,Griffin,,,True,nh,lower,Hillsborough 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408314.jpg,2017-01-10 05:01:19.488000,2017-06-01 05:24:14.605000
+NHL001393,Richard P. Tripp,Richard,P.,Tripp,,,True,nh,lower,Rockingham 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408408.jpg,2017-01-10 05:01:19.500000,2017-06-01 05:24:14.167000
+NHL001394,John R. Plumer,John,R.,Plumer,,,True,nh,lower,Belknap 6,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408272.jpg,2017-01-10 05:01:19.531000,2017-06-01 05:24:14.435000
+NHL001395,Sean D. Morrison,Sean,D.,Morrison,,,True,nh,lower,Rockingham 9,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408415.jpg,2017-01-10 05:01:19.543000,2017-06-01 05:24:13.781000
+NHL001396,Steve D. Hellwig,Steve,D.,Hellwig,,,True,nh,lower,Hillsborough 37,Republican,,2017-01-10 05:01:19.549000,2017-06-01 05:24:13.871000
+NHL001397,Cathryn A. Harvey,Cathryn,A.,Harvey,,,True,nh,lower,Cheshire 1,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408479.jpg,2017-01-10 05:01:19.561000,2017-06-01 05:24:14.222000
+NHL001399,Edith Tucker,Edith,,Tucker,,,True,nh,lower,Coos 5,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408490.jpg,2017-01-10 05:01:19.573000,2017-06-01 05:24:14.674000
+NHL001400,Jeffrey C. Salloway,Jeffrey,C.,Salloway,,,True,nh,lower,Strafford 5,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408624.jpg,2017-01-10 05:01:19.579000,2017-06-01 05:24:14.571000
+NHL001401,Reed A. Panasiti,Reed,A.,Panasiti,,,True,nh,lower,Hillsborough 22,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/407523.jpg,2017-01-10 05:01:19.585000,2017-06-01 05:24:14.043000
+NHL001402,Beth Richards,Beth,,Richards,,,True,nh,lower,Merrimack 13,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408564.jpg,2017-01-10 05:01:19.603000,2017-06-01 05:24:14.017000
+NHL001403,John J. Valera,John,J.,Valera,,,True,nh,lower,Hillsborough 38,Republican,,2017-01-10 05:01:19.634000,2017-06-01 05:24:14.129000
+NHL001404,Vicki Schwaegler,Vicki,,Schwaegler,,,True,nh,lower,Grafton 3,Republican,,2017-01-10 05:01:19.640000,2017-06-01 05:24:14.437000
+NHL001406,Andrew Prout,Andrew,,Prout,,,True,nh,lower,Hillsborough 37,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408359.jpg,2017-01-10 05:01:19.677000,2017-06-01 05:23:57.112000
+NHL001407,John A. Leavitt,John,A.,Leavitt,,,True,nh,lower,Merrimack 24,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408381.jpg,2017-01-10 05:01:19.683000,2017-06-01 05:24:13.968000
+NHL001408,Donna Ellis,Donna,,Ellis,,,True,nh,lower,Strafford 8,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408626.jpg,2017-01-10 05:01:19.689000,2017-06-01 05:24:14.009000
+NHL001409,Tamara Le,Tamara,,Le,,,True,nh,lower,Rockingham 31,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/406804.jpg,2017-01-10 05:01:19.708000,2017-06-01 05:24:14.395000
+NHL001411,Virginia O'Brien Irwin,Virginia,O'Brien,Irwin,,,True,nh,lower,Sullivan 6,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377057.jpg,2017-01-10 05:01:19.732000,2017-06-01 05:24:14.734000
+NHL001413,Tiffany Johnson,Tiffany,,Johnson,,,True,nh,lower,Grafton 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408293.jpg,2017-01-10 05:01:19.751000,2017-06-01 05:24:14.773000
+NHL001414,Dan Wolf,Dan,,Wolf,,,True,nh,lower,Merrimack 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/802694.jpg,2017-01-10 05:01:19.818000,2017-06-01 05:24:14.382000
+NHL001415,Mark S. MacKenzie,Mark,S.,MacKenzie,,,True,nh,lower,Hillsborough 17,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408516.jpg,2017-01-10 05:01:19.830000,2017-06-01 05:24:13.803000
+NHL001416,John A. Graham,John,A.,Graham,,,True,nh,lower,Hillsborough 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376343.jpg,2017-01-10 05:01:19.836000,2017-06-01 05:24:14.713000
+NHL001417,John Janigian,John,,Janigian,,,True,nh,lower,Rockingham 8,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408412.jpg,2017-01-10 05:01:19.858000,2017-06-01 05:24:14.727000
+NHL001418,Michael J.. McCarthy,Michael,J..,McCarthy,,,True,nh,lower,Hillsborough 29,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/376839.jpg,2017-01-10 05:01:19.876000,2017-06-01 05:24:13.775000
+NHL001419,Jim Nasser,Jim,,Nasser,,,True,nh,lower,Rockingham 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408387.jpg,2017-01-10 05:01:19.891000,2017-06-01 05:24:14.209000
+NHL001421,Dan Hynes,Dan,,Hynes,,,True,nh,lower,Hillsborough 21,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408333.jpg,2017-01-10 05:01:19.922000,2017-06-01 05:24:13.964000
+NHL001422,Mark King,Mark,,King,,,True,nh,lower,Hillsborough 33,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408544.jpg,2017-01-10 05:01:19.928000,2017-06-01 05:24:14.224000
+NHL001424,Peter F. Somssich,Peter,F.,Somssich,,,True,nh,lower,Rockingham 27,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408620.jpg,2017-01-10 05:01:19.960000,2017-06-01 05:24:14.500000
+NHL001425,Patricia S. Klee,Patricia,S.,Klee,,,True,nh,lower,Hillsborough 30,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408539.jpg,2017-01-10 05:01:19.966000,2017-06-01 05:24:14.063000
+NHL001426,Ryan D. Smith,Ryan,D.,Smith,,,True,nh,lower,Merrimack 3,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408370.jpg,2017-01-10 05:01:19.972000,2017-06-01 05:24:13.926000
+NHL001427,David W. Binford,David,W.,Binford,,,True,nh,lower,Grafton 15,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408297.jpg,2017-01-10 05:01:19.985000,2017-06-01 05:24:14.206000
+NHL001428,Dennis J. Malloy,Dennis,J.,Malloy,,,True,nh,lower,Rockingham 23,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377137.jpg,2017-01-10 05:01:19.993000,2017-06-01 05:24:14.670000
+NHL001429,Betsey M. Farnham,Betsey,M.,Farnham,,,True,nh,lower,Rockingham 18,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408614.jpg,2017-01-10 05:01:20.011000,2017-06-01 05:24:14.792000
+NHL001431,Mindi F. Messmer,Mindi,F.,Messmer,,,True,nh,lower,Rockingham 24,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408618.jpg,2017-01-10 05:01:20.046000,2017-06-01 05:24:14.569000
+NHL001432,Barry Faulkner,Barry,,Faulkner,,,True,nh,lower,Cheshire 12,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/407628.jpg,2017-01-10 05:01:20.070000,2017-06-01 05:24:14.747000
+NHL001433,Joel Elber,Joel,,Elber,,,True,nh,lower,Hillsborough 19,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408519.jpg,2017-01-10 05:01:20.104000,2017-06-01 05:24:14.059000
+NHL001434,Natalie J. Wells,Natalie,J.,Wells,,,True,nh,lower,Merrimack 25,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408382.jpg,2017-01-10 05:01:20.140000,2017-06-01 05:24:13.879000
+NHL001435,Bonnie D. Ham,Bonnie,D.,Ham,,,True,nh,lower,Grafton 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/375853.jpg,2017-01-10 05:01:20.146000,2017-06-01 05:24:14.252000
+NHL001436,Amelia Keane,Amelia,,Keane,,,True,nh,lower,Hillsborough 31,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408541.jpg,2017-01-10 05:01:20.152000,2017-06-01 05:24:14.061000
+NHL001437,Richard W. Lascelles,Richard,W.,Lascelles,,,True,nh,lower,Hillsborough 20,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408331.jpg,2017-01-10 05:01:20.158000,2017-06-01 05:24:14.030000
+NHL001438,Hamilton R. Krans,Hamilton,R.,Krans,,,True,nh,lower,Strafford 14,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408629.jpg,2017-01-10 05:01:20.189000,2017-06-01 05:24:13.801000
+NHL001439,Timothy P. Lang,Timothy,P.,Lang,,,True,nh,lower,Belknap 4,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/407925.jpg,2017-01-10 05:01:20.202000,2017-06-01 05:24:14.655000
+NHL001440,Marc Abear,Marc,,Abear,,,True,nh,lower,Belknap 2,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408256.jpg,2017-01-10 05:01:20.208000,2017-06-01 05:24:14.651000
+NHL001443,David O. Huot,David,O.,Huot,,,True,nh,lower,Belknap 3,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377125.jpg,2017-01-10 05:01:20.275000,2017-06-01 05:24:13.892000
+NHL001444,John Lewicke,John,,Lewicke,,,True,nh,lower,Hillsborough 26,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408346.jpg,2017-01-10 05:01:20.287000,2017-06-01 05:24:14.317000
+NHL001445,Catt Sandler,Catt,,Sandler,,,True,nh,lower,Strafford 21,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408634.jpg,2017-01-10 05:01:20.300000,2017-06-01 05:24:14.304000
+NHL001446,Allison Nutting,Allison,,Nutting,,,True,nh,lower,Hillsborough 34,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/406681.jpg,2017-01-10 05:01:20.312000,2017-06-01 05:24:14.303000
+NHL001448,Beth Rodd,Beth,,Rodd,,,True,nh,lower,Merrimack 6,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376270.jpg,2017-01-10 05:01:20.361000,2017-06-01 05:24:14.268000
+NHL001449,Matthew Scruton,Matthew,,Scruton,,,True,nh,lower,Strafford 12,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408442.jpg,2017-01-10 05:01:20.380000,2017-06-01 05:24:13.993000
+NHL001450,Jim Fedolfi,Jim,,Fedolfi,,,True,nh,lower,Hillsborough 1,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408299.jpg,2017-01-10 05:01:20.398000,2017-06-01 05:24:14.547000
+NHL001451,Mariellen J. MacKay,Mariellen,J.,MacKay,,,True,nh,lower,Hillsborough 30,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/377136.jpg,2017-01-10 05:01:20.424000,2017-06-01 05:24:14.543000
+NHL001453,Janice E. Schmidt,Janice,E.,Schmidt,,,True,nh,lower,Hillsborough 28,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377167.jpg,2017-01-10 05:01:20.442000,2017-06-01 05:24:13.799000
+NHL001454,Timothy A. Soucy,Timothy,A.,Soucy,,,True,nh,lower,Merrimack 16,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376869.jpg,2017-01-10 05:01:20.448000,2017-06-01 05:24:14.135000
+NHL001455,Linn Opderbecke,Linn,,Opderbecke,,,True,nh,lower,Strafford 15,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408630.jpg,2017-01-10 05:01:20.454000,2017-06-01 05:24:14.274000
+NHL001456,Kate Murray,Kate,,Murray,,,True,nh,lower,Rockingham 24,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408619.jpg,2017-01-10 05:01:20.485000,2017-06-01 05:24:14.270000
+NHL001457,Ellen Read,Ellen,,Read,,,True,nh,lower,Rockingham 17,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408613.jpg,2017-01-10 05:01:20.511000,2017-06-01 05:24:14.228000
+NHL001458,Craig C. Moore,Craig,C.,Moore,,,True,nh,lower,Hillsborough 25,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408343.jpg,2017-01-10 05:01:20.585000,2017-06-01 05:24:14.126000
+NHL001459,Philip W. Bean,Philip,W.,Bean,,,True,nh,lower,Rockingham 21,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408423.jpg,2017-01-10 05:01:20.592000,2017-06-01 05:24:13.777000
+NHL001462,William A. Pearson,William,A.,Pearson,,,True,nh,lower,Cheshire 16,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/377311.jpg,2017-01-10 05:01:20.650000,2017-06-01 05:24:13.890000
+NHL001463,Julie D. Gilman,Julie,D.,Gilman,,,True,nh,lower,Rockingham 18,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408615.jpg,2017-01-10 05:01:20.663000,2017-06-01 05:24:14.179000
+NHL001464,Michael F. Maloney,Michael,F.,Maloney,,,True,nh,lower,Belknap 5,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408270.jpg,2017-01-10 05:01:20.669000,2017-06-01 05:24:13.999000
+NHL001465,Daniel J. Sullivan,Daniel,J.,Sullivan,,,True,nh,lower,Hillsborough 8,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/376692.jpg,2017-01-10 05:01:20.687000,2017-06-01 05:24:13.934000
+NHL001466,Henry A. Marsh,Henry,A.,Marsh,,,True,nh,lower,Rockingham 22,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408424.jpg,2017-01-10 05:01:20.693000,2017-06-01 05:24:13.924000
+NHL001468,Joseph Stallcop,Joseph,,Stallcop,,,True,nh,lower,Cheshire 4,Libertarian,http://www.gencourt.state.nh.us/house/images/memberpics/408480.jpg,2017-01-10 05:01:20.731000,2017-06-01 05:23:57.352000
+NHL001470,Peter E. Torosian,Peter,E.,Torosian,,,True,nh,lower,Rockingham 14,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408418.jpg,2017-01-10 05:01:20.790000,2017-06-01 05:24:14.128000
+NHL001472,David Woolpert,David,,Woolpert,,,True,nh,lower,Merrimack 6,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408563.jpg,2017-01-10 05:01:20.801000,2017-06-01 05:24:14.065000
+NHL001473,Sue Newman,Sue,,Newman,,,True,nh,lower,Hillsborough 29,Democratic,http://www.gencourt.state.nh.us/house/images/memberpics/408537.jpg,2017-01-10 05:01:20.808000,2017-06-01 05:24:14.749000
+NHL001474,Troy Merner,Troy,,Merner,,,True,nh,lower,Coos 7,Republican,http://www.gencourt.state.nh.us/house/images/memberpics/408060.jpg,2017-01-10 05:01:20.814000,2017-06-01 05:24:14.504000
+NHL000033,Kevin A Avard,Kevin,A.,Avard,,,True,nh,upper,12,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/12.jpg,2011-06-21 18:49:56.754000,2017-06-01 05:24:14.097000
+NHL000051,Regina M Birdsell,Regina,,Birdsell,,,True,nh,upper,19,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/19.jpg,2011-06-21 18:49:56.809000,2017-06-01 05:24:14.683000
+NHL001310,Jeb Bradley,Jeb,,Bradley,,,True,nh,upper,3,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/03.jpg,2017-01-10 05:01:18.199000,2017-06-01 05:24:14.099000
+NHL001316,Dan Feltes,Dan,,Feltes,,,True,nh,upper,15,Democratic,http://www.gencourt.state.nh.us/Senate/images/senators/15.jpg,2017-01-10 05:01:18.271000,2017-06-01 05:24:14.520000
+NHL001338,Scott McGilvray,Scott,,McGilvray,,,True,nh,upper,16,Democratic,http://www.gencourt.state.nh.us/Senate/images/senators/16.jpg,2017-01-10 05:01:18.648000,2017-06-01 05:23:57.588000
+NHL001343,Lou D'Allesandro,Lou,,D'Allesandro,,,True,nh,upper,20,Democratic,http://www.gencourt.state.nh.us/Senate/images/senators/20.jpg,2017-01-10 05:01:18.697000,2017-06-01 05:24:14.518000
+NHL001351,Donna M. Soucy,Donna,M.,Soucy,,,True,nh,upper,18,Democratic,http://www.gencourt.state.nh.us/Senate/images/senators/18.jpg,2017-01-10 05:01:18.778000,2017-06-01 05:24:14.699000
+NHL001352,Jeff Woodburn,Jeff,,Woodburn,,,True,nh,upper,1,Democratic,http://www.gencourt.state.nh.us/Senate/images/senators/01.jpg,2017-01-10 05:01:18.784000,2017-06-01 05:24:14.701000
+NHL001358,William Gannon,William,,Gannon,,,True,nh,upper,23,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/23.jpg,2017-01-10 05:01:18.883000,2017-06-01 05:24:14.697000
+NHL001367,Andy Sanborn,Andy,,Sanborn,,,True,nh,upper,9,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/09.jpg,2017-01-10 05:01:19.112000,2017-06-01 05:24:14.402000
+NHL001374,Gary L. Daniels,Gary,L.,Daniels,,,True,nh,upper,11,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/11.jpg,2017-01-10 05:01:19.229000,2017-06-01 05:24:14.510000
+NHL001388,Ruth Ward,Ruth,,Ward,,,True,nh,upper,8,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/08.jpg,2017-01-10 05:01:19.452000,2017-06-01 05:24:14.681000
+NHL001398,James P. Gray,James,P.,Gray,,,True,nh,upper,6,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/06.jpg,2017-01-10 05:01:19.567000,2017-06-01 05:24:14.679000
+NHL001410,Martha S. Hennessey,Martha,S.,Hennessey,,,True,nh,upper,5,Democratic,http://www.gencourt.state.nh.us/Senate/images/senators/05.jpg,2017-01-10 05:01:19.714000,2017-06-01 05:24:13.828000
+NHL001423,John Reagan,John,,Reagan,,,True,nh,upper,17,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/17.jpg,2017-01-10 05:01:19.954000,2017-06-01 05:24:14.695000
+NHL001441,Bob J. Giuda,Bob,J.,Giuda,,,True,nh,upper,2,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/02.jpg,2017-01-10 05:01:20.245000,2017-06-01 05:24:14.514000
+NHL001442,Harold F. French,Harold,F.,French,,,True,nh,upper,7,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/07.jpg,2017-01-10 05:01:20.269000,2017-06-01 05:24:14.400000
+NHL001447,Daniel E. Innis,Daniel,E.,Innis,,,True,nh,upper,24,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/24.jpg,2017-01-10 05:01:20.336000,2017-06-01 05:23:57.101000
+NHL001452,Bette R Lasky,Bette,R,Lasky,,,True,nh,upper,13,Democratic,http://www.gencourt.state.nh.us/Senate/images/senators/13.jpg,2017-01-10 05:01:20.430000,2017-06-01 05:24:14.688000
+NHL001460,Jay Kahn,Jay,,Kahn,,,True,nh,upper,10,Democratic,http://www.gencourt.state.nh.us/Senate/images/senators/10.jpg,2017-01-10 05:01:20.626000,2017-06-01 05:24:14.686000
+NHL001467,Sharon M Carson,Sharon,M,Carson,,,True,nh,upper,14,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/14.jpg,2017-01-10 05:01:20.719000,2017-06-01 05:24:14.693000
+NHL001471,David H Watters,David,H,Watters,,,True,nh,upper,4,Democratic,http://www.gencourt.state.nh.us/Senate/images/senators/04.jpg,2017-01-10 05:01:20.796000,2017-06-01 05:24:14.078000
+NHL001475,Martha Fuller Clark,Martha,,Fuller Clark,,,True,nh,upper,21,Democratic,http://www.gencourt.state.nh.us/Senate/images/senators/21.jpg,2017-01-10 05:01:20.827000,2017-06-01 05:24:14.105000
+NHL001477,Chuck W Morse,Chuck,W,Morse,,,True,nh,upper,22,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/22.jpg,2017-01-10 05:01:20.839000,2017-06-01 05:24:14.516000
+NHL001505,Daniel E. Innis,Daniel,E.,Innis,,,True,nh,upper,Rockingham 24,Republican,http://www.gencourt.state.nh.us/Senate/images/senators/24.jpg,2017-05-11 05:23:07.007000,2017-06-01 05:23:57.573000

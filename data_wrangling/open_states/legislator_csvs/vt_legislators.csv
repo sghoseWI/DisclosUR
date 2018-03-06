@@ -1,0 +1,324 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+VTL000003,Susan J Bartlett,Susan,J,Bartlett,,,False,vt,,,,,2010-11-19 23:19:39.040000,2011-01-07 21:07:29.847000
+VTL000004,Randy D Brock,Randy,D,Brock,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/brock.jpg,2010-11-19 23:19:39.042000,2013-01-05 00:02:21.872000
+VTL000005,John F Campbell,John F.,,Campbell,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/campbell.jpg,2010-11-19 23:19:39.043000,2017-01-05 05:04:10.835000
+VTL000006,William H Carris,William,H,Carris,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/carris.jpg,2010-11-19 23:19:39.045000,2013-01-24 15:05:09.116000
+VTL000007,Matthew A Choate,Matthew,A,Choate,,,False,vt,,,,,2010-11-19 23:19:39.046000,2011-01-07 21:07:29.846000
+VTL000009,Bill T Doyle,Bill,,Doyle,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/doyle.jpg,2010-11-19 23:19:39.050000,2017-01-05 05:04:10.832000
+VTL000010,Ed S Flanagan,Ed,S,Flanagan,,,False,vt,,,,,2010-11-19 23:19:39.051000,2011-01-07 21:07:29.846000
+VTL000012,Harold W Giard,Harold,W,Giard,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/giard.jpg,2010-11-19 23:19:39.055000,2013-01-05 00:02:21.873000
+VTL000013,Robert M Hartwell,Robert,M,Hartwell,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/hartwell.jpg,2010-11-19 23:19:39.076000,2015-01-12 22:13:28.676000
+VTL000014,Vincent Illuzzi,Vincent,,Illuzzi,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/illuzzi.jpg,2010-11-19 23:19:39.077000,2013-01-05 00:02:21.874000
+VTL000016,Sara B Kittell,Sara,B,Kittell,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/kittell.jpg,2010-11-19 23:19:39.081000,2013-01-05 00:02:21.875000
+VTL000021,Hinda Miller,Hinda,,Miller,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/millerh.jpg,2010-11-19 23:19:39.089000,2013-01-05 00:02:21.881000
+VTL000024,Douglas A Racine,Douglas,A,Racine,,,False,vt,,,,,2010-11-19 23:19:39.093000,2011-01-07 21:07:29.846000
+VTL000025,Phil B Scott,Phil,B,Scott,,,False,vt,,,,,2010-11-19 23:19:39.095000,2017-06-01 06:00:23.303000
+VTL000027,Peter E Shumlin,Peter,E,Shumlin,,,False,vt,,,,,2010-11-19 23:19:39.098000,2011-01-07 21:07:29.848000
+VTL000028,Diane B Snelling,Diane,,Snelling,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/snelling.jpg,2010-11-19 23:19:39.100000,2016-04-27 21:09:02.773000
+VTL000031,Joe N Acinapura,Joe,N,Acinapura,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/acinapura.jpg,2010-11-19 23:19:39.105000,2013-01-05 00:02:21.724000
+VTL000032,Steve C Adams,Steve,C,Adams,,,False,vt,,,,,2010-11-19 23:19:39.106000,2011-01-07 21:07:29.844000
+VTL000033,David M Ainsworth,David,M,Ainsworth,,,False,vt,,,,,2010-11-19 23:19:39.108000,2011-01-07 21:07:29.845000
+VTL000035,Margaret R Andrews,Margaret,R,Andrews,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/andrews.jpg,2010-11-19 23:19:39.111000,2013-01-05 00:02:21.726000
+VTL000036,William N Aswad,William,N,Aswad,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/aswad.jpg,2010-11-19 23:19:39.113000,2013-01-05 00:02:21.727000
+VTL000037,Kenneth W Atkins,Kenneth,W,Atkins,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/atkins.jpg,2010-11-19 23:19:39.115000,2013-01-05 00:02:21.728000
+VTL000038,Joseph A Baker,Joseph,A,Baker,,,False,vt,,,,,2010-11-19 23:19:39.117000,2011-01-07 21:07:29.841000
+VTL000040,Charles W Bohi,Charles,W,Bohi,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/bohic.jpg,2010-11-19 23:19:39.121000,2013-01-05 00:02:21.730000
+VTL000042,Carolyn Whitney Branagan,Carolyn,Whitney,Branagan,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/branagan.jpg,2010-11-19 23:19:39.124000,2017-06-01 06:00:23.301000
+VTL000048,Margaret R Cheney,Margaret,R,Cheney,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/cheney.jpg,2010-11-19 23:19:39.156000,2013-10-15 19:22:40.918000
+VTL000049,Gregory S Clark,Gregory,S,Clark,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/clarkg.jpg,2010-11-19 23:19:39.157000,2012-12-17 20:11:33.661000
+VTL000050,Alison H Clarkson,Alison H.,,Clarkson,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/clarkson.jpg,2010-11-19 23:19:39.159000,2017-01-05 05:04:10.789000
+VTL000051,John J Clerkin,John,J,Clerkin,,,False,vt,,,,,2010-11-19 23:19:39.161000,2011-01-07 21:07:29.845000
+VTL000054,Michel A Consejo,Michel,A,Consejo,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/consejo.jpg,2010-11-19 23:19:39.187000,2015-01-12 22:13:28.476000
+VTL000057,Gale P Courcelle,Gale,P,Courcelle,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/courcelle.jpg,2010-11-19 23:19:39.192000,2013-01-05 00:02:21.740000
+VTL000058,Howard T Crawford,Howard,T,Crawford,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/crawford.jpg,2010-11-19 23:19:39.193000,2013-01-05 00:02:21.741000
+VTL000059,Susan H Davis,Susan,,Davis,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/davis.jpg,2010-11-19 23:19:39.195000,2017-01-05 05:04:10.826000
+VTL000063,Andy P Donaghy,Andy,P,Donaghy,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/donaghy.jpg,2010-11-19 23:19:39.202000,2015-01-12 22:13:28.538000
+VTL000066,Sarah R Edwards,Sarah,R,Edwards,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/edwards.jpg,2010-11-19 23:19:39.207000,2013-01-05 00:02:21.758000
+VTL000068,Debbie G Evans,Debbie,,Evans,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/evans.jpg,2010-11-19 23:19:39.210000,2017-01-05 05:04:10.801000
+VTL000070,Michael Fisher,Michael,,Fisher,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/fisher.jpg,2010-11-19 23:19:39.214000,2015-01-12 22:13:28.352000
+VTL000071,Bill R Frank,William,,Frank,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/frank.jpg,2010-11-19 23:19:39.228000,2017-01-05 05:04:10.796000
+VTL000072,Eldred M French,Eldred,,French,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/frenche.jpg,2010-11-19 23:19:39.230000,2015-01-12 22:13:28.717000
+VTL000073,Patsy T French,Patsy,,French,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/frenchp.jpg,2010-11-19 23:19:39.231000,2017-01-05 05:04:10.818000
+VTL000074,Frank J Geier,Frank,J,Geier,,,False,vt,,,,,2010-11-19 23:19:39.233000,2011-01-07 21:07:29.839000
+VTL000075,Gary L Gilbert,Gary,L,Gilbert,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/gilbert.jpg,2010-11-19 23:19:39.235000,2013-01-05 00:02:21.766000
+VTL000080,Martha P Heath,Martha,P,Heath,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/heath.jpg,2010-11-19 23:19:39.243000,2015-01-12 22:13:28.453000
+VTL000084,Adam B Howard,Adam,B,Howard,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/howarda.jpg,2010-11-19 23:19:39.250000,2013-01-05 00:02:21.777000
+VTL000085,Steve J Howard,Steve,J,Howard,,,False,vt,,,,,2010-11-19 23:19:39.252000,2011-01-07 21:07:29.842000
+VTL000086,Richard J Howrigan,Richard,J,Howrigan,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/howrigan.jpg,2010-11-19 23:19:39.254000,2013-01-05 00:02:21.778000
+VTL000088,Tim Jerman,Timothy,,Jerman,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/jerman.jpg,2010-11-19 23:19:39.257000,2017-01-05 05:04:10.828000
+VTL000089,Willem W Jewett,Willem,,Jewett,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/jewett.jpg,2010-11-19 23:19:39.259000,2017-01-05 05:04:10.831000
+VTL000091,William F Johnson,William,F,Johnson,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/johnsonw.jpg,2010-11-19 23:19:39.263000,2015-01-12 22:13:28.464000
+VTL000093,Duncan F Kilmartin,Duncan,F,Kilmartin,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/kilmartin.jpg,2010-11-19 23:19:39.266000,2015-01-12 22:13:28.529000
+VTL000095,Tony W Klein,Anthony,,Klein,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/kleint.jpg,2010-11-19 23:19:39.270000,2017-01-05 05:04:10.829000
+VTL000096,Thomas F Koch,Thomas,F,Koch,,Tom,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/koch.jpg,2010-11-19 23:19:39.271000,2015-01-12 22:13:28.590000
+VTL000097,Patti C Komline,Patricia,,Komline,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/komline.jpg,2010-11-19 23:19:39.273000,2017-01-05 05:04:10.819000
+VTL000098,Joseph L Krawczyk,Joseph,L,Krawczyk,,,False,vt,,,,,2010-11-19 23:19:39.275000,2011-01-07 21:07:29.838000
+VTL000099,Bob C Krebs,Robert,,Krebs,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/krebs.jpg,2010-11-19 23:19:39.277000,2017-01-05 05:04:10.797000
+VTL000101,Leigh B Larocque,Leigh,B,Larocque,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/larocque.jpg,2010-11-19 23:19:39.280000,2015-01-12 22:13:28.376000
+VTL000102,Mark Larson,Mark,,Larson,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/larson.jpg,2010-11-19 23:19:39.282000,2012-06-06 15:10:11.456000
+VTL000104,Joan G Lenes,Joan G.,,Lenes,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/lenes.jpg,2010-11-19 23:19:39.285000,2017-01-05 05:04:10.805000
+VTL000105,Lucy R Leriche,Lucy,R,Leriche,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/h-cale2.htm#leriche,2010-11-19 23:19:39.287000,2013-01-05 00:02:21.798000
+VTL000106,Robert W Lewis,Robert,W,Lewis,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/lewis.jpg,2010-11-19 23:19:39.288000,2013-01-05 00:02:21.800000
+VTL000108,Jason P Lorber,Jason,P,Lorber,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/lorber.jpg,2010-11-19 23:19:39.292000,2013-01-05 00:02:21.802000
+VTL000110,Steven B Maier,Steven,B,Maier,,,False,vt,,,,,2010-11-19 23:19:39.295000,2011-01-07 21:07:29.837000
+VTL000111,John W Malcolm,John,W,Malcolm,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/malcolm.jpg,2010-11-19 23:19:39.309000,2015-01-12 22:13:28.562000
+VTL000112,Ann P Manwaring,Ann,,Manwaring,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/manwaring.jpg,2010-11-19 23:19:39.311000,2017-01-05 05:04:10.791000
+VTL000114,Richard J Marek,Richard,J,Marek,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/marek.jpg,2010-11-19 23:19:39.314000,2015-01-12 22:13:28.637000
+VTL000115,Cynthia T Martin,Cynthia,T,Martin,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/martinc.jpg,2010-11-19 23:19:39.316000,2015-01-12 22:13:28.655000
+VTL000116,Linda J Martin,Linda J.,,Martin,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/martinl.jpg,2010-11-19 23:19:39.317000,2017-01-05 05:04:10.812000
+VTL000118,Norm H McAllister,Norm,,McAllister,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/mcallister.jpg,2010-11-19 23:19:39.321000,2017-01-05 05:04:10.837000
+VTL000120,Pat A McDonald,Pat,A,McDonald,,,False,vt,,,,,2010-11-19 23:19:39.324000,2011-01-07 21:07:29.842000
+VTL000122,Jim L McNeil,Jim,L,McNeil,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/mcneil.jpg,2010-11-19 23:19:39.328000,2013-01-05 00:02:21.810000
+VTL000123,Virginia A Milkey,Virginia,A,Milkey,,Gini,False,vt,,,,,2010-11-19 23:19:39.339000,2011-01-07 21:07:29.844000
+VTL000125,Sue M Minter,Sue,M,Minter,,,False,vt,,,,,2010-11-19 23:19:39.343000,2011-01-07 21:07:29.843000
+VTL000126,Mark B Mitchell,Mark,B,Mitchell,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/mitchell.jpg,2010-11-19 23:19:39.344000,2012-06-06 15:23:56.575000
+VTL000127,Anne H Mook,Anne,H,Mook,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/mook.jpg,2010-11-19 23:19:39.346000,2015-01-12 22:13:28.366000
+VTL000128,John T Moran,John,T,Moran,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/moran.jpg,2010-11-19 23:19:39.348000,2015-01-12 22:13:28.641000
+VTL000129,John S Morley,John,S,Morley,,,False,vt,,,,,2010-11-19 23:19:39.349000,2011-01-07 21:07:29.840000
+VTL000133,Floyd W Nease,Floyd,W,Nease,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/nease.jpg,2010-11-19 23:19:39.356000,2012-02-22 22:08:24.032000
+VTL000134,Betty A Nuovo,Betty A.,,Nuovo,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/nuovo.jpg,2010-11-19 23:19:39.358000,2017-01-05 05:04:10.795000
+VTL000135,Anne Theresa T O'Brien,Anne Theresa,,O'Brien,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/obrien.jpg,2010-11-19 23:19:39.360000,2017-01-05 05:04:10.792000
+VTL000136,Patty A O'Donnell,Patty,A,O'Donnell,,,False,vt,,,,,2010-11-19 23:19:39.361000,2011-01-07 21:07:29.843000
+VTL000137,Michael J Obuchowski,Michael,J,Obuchowski,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/obuchowski.jpg,2010-11-19 23:19:39.363000,2012-02-22 22:09:12.765000
+VTL000139,Scott A Orr,Scott,A,Orr,,,False,vt,,,,,2010-11-19 23:19:39.366000,2011-01-07 21:07:29.838000
+VTL000142,Janice L Peaslee,Janice,L,Peaslee,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/peaslee.jpg,2010-11-19 23:19:39.382000,2013-01-05 00:02:21.823000
+VTL000143,Kathy D Pellett,Kathy,D,Pellett,,,False,vt,,,,,2010-11-19 23:19:39.383000,2011-01-07 21:07:29.844000
+VTL000144,Peter Peltz,Peter,,Peltz,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/peltz.jpg,2010-11-19 23:19:39.385000,2015-01-12 22:13:28.498000
+VTL000145,Peter E Perley,Peter,E,Perley,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/perley.jpg,2010-11-19 23:19:39.387000,2013-01-05 00:02:21.826000
+VTL000149,Kesha K Ram,Kesha K.,,Ram,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/ram.jpg,2010-11-19 23:19:39.416000,2017-01-05 05:04:10.808000
+VTL000150,Gary W Reis,Gary,W,Reis,,,False,vt,,,,,2010-11-19 23:19:39.418000,2013-01-05 00:02:21.831000
+VTL000154,Ernie W Shand,Ernie,W,Shand,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/shand.jpg,2010-11-19 23:19:39.425000,2013-01-05 00:02:21.833000
+VTL000157,Megan M Smith,Megan,M,Smith,,,False,vt,,,,,2010-11-19 23:19:39.430000,2011-01-07 21:07:29.842000
+VTL000158,Shap Smith,Shapleigh,,Smith,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/smiths.jpg,2010-11-19 23:19:39.432000,2017-01-05 05:04:10.823000
+VTL000159,Robert C South,Robert,C,South,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/south.jpg,2010-11-19 23:19:39.434000,2015-01-12 22:13:28.380000
+VTL000160,Kristy K Spengler,Kristy,K,Spengler,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/spengler.jpg,2010-11-19 23:19:39.436000,2015-01-12 22:13:28.461000
+VTL000162,Will C Stevens,Will,C,Stevens,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/stevensw.jpg,2010-11-19 23:19:39.439000,2015-01-12 22:13:28.358000
+VTL000163,Donna G Sweaney,Donna,,Sweaney,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/sweaneyd.jpg,2010-11-19 23:19:39.441000,2017-01-05 05:04:10.802000
+VTL000164,Tess M Taylor,Tess,M,Taylor,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/taylor.jpg,2010-11-19 23:19:39.442000,2014-04-10 19:42:26.569000
+VTL000167,Larry E Townsend,Larry,E,Townsend,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/townsend.jpg,2010-11-19 23:19:39.447000,2013-11-15 15:12:07.707000
+VTL000169,Linda J Waite-Simpson,Linda,J,Waite-Simpson,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/waite-simpson.jpg,2010-11-19 23:19:39.451000,2015-01-12 22:13:28.451000
+VTL000171,Rachel Weston,Rachel,,Weston,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/weston.jpg,2010-11-19 23:19:39.454000,2012-02-22 22:10:15.667000
+VTL000172,Scott A Wheeler,Scott,A,Wheeler,,,False,vt,,,,,2010-11-19 23:19:39.456000,2011-01-07 21:07:29.840000
+VTL000173,Jeff D Wilson,Jeff,D,Wilson,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/wilson.jpg,2010-11-19 23:19:39.458000,2015-01-12 22:13:28.372000
+VTL000174,Philip C Winters,Philip,C,Winters,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/wintersp.jpg,2010-11-19 23:19:39.459000,2015-01-12 22:13:28.515000
+VTL000175,Suzi L Wizowaty,Suzi,L,Wizowaty,,,False,vt,,,,http://vermont-elections.org/2009-2010BioBook/jpegs/wizowaty.jpg,2010-11-19 23:19:39.461000,2015-01-12 22:13:28.433000
+VTL000177,Jeff E Young,Jeff,E,Young,,,False,vt,,,,,2010-11-19 23:19:39.465000,2011-01-07 21:07:29.840000
+VTL000178,John J Zenie,John,J,Zenie,,,False,vt,,,,,2010-11-19 23:19:39.466000,2011-01-07 21:07:29.839000
+VTL000179,David E. Zuckerman,David,E.,Zuckerman,,,False,vt,,,,http://ballotpedia.org/wiki/images/5/50/Zuckerman.jpg,2010-11-19 23:19:39.468000,2017-01-05 05:04:10.833000
+VTL000182,Sally G Fox,Sally,G,Fox,,,False,vt,,,,http://ballotpedia.org/wiki/images/Sally_Fox.jpg,2011-01-14 22:24:08.250000,2014-02-11 21:06:29.464000
+VTL000183,Peter W Galbraith,Peter,W,Galbraith,,,False,vt,,,,http://ballotpedia.org/wiki/images/d/d7/Peter_Galbraith.jpg,2011-01-14 22:24:08.131000,2015-01-12 22:13:28.727000
+VTL000188,Bob A Bouchard,Bob,A,Bouchard,,,False,vt,,,,http://ballotpedia.org/wiki/images/8/8f/Bob_Bouchard.jpg,2011-01-14 22:24:08.255000,2015-01-12 22:13:28.457000
+VTL000190,Sarah E Buxton,Sarah E.,,Buxton,,,False,vt,,,,http://ballotpedia.org/wiki/images/e/eb/Sarah_Buxton.jpg,2011-01-14 22:24:08.348000,2017-01-05 05:04:10.822000
+VTL000193,Leigh J Dakin,Leigh,,Dakin,,,False,vt,,,,http://ballotpedia.org/wiki/images/f/f6/Leigh_Dakin.jpg,2011-01-14 22:24:08.261000,2017-01-05 05:04:10.811000
+VTL000195,Jim R Eckhardt,Jim,R,Eckhardt,,,False,vt,,,,,2011-01-14 22:24:08.259000,2013-01-05 00:02:21.852000
+VTL000196,Herb A Font-Russell,Herbert,,Russell,,,False,vt,,,,http://ballotpedia.org/wiki/images/3/3c/Herb_Font-Russell.jpg,2011-01-14 22:24:08.258000,2017-01-05 05:04:10.804000
+VTL000198,Michele Ferland F Kupersmith,Michele Ferland,F,Kupersmith,,,False,vt,,,,http://ballotpedia.org/wiki/images/0/06/Michele_Ferland_Kupersmith.jpg,2011-01-14 22:24:08.253000,2017-06-01 06:00:23.302000
+VTL000200,Bert L Munger,Bert,L,Munger,,,False,vt,,,,,2011-01-14 22:24:08.254000,2013-01-05 00:02:21.855000
+VTL000201,Christopher A Pearson,Christopher,,Pearson,,,False,vt,,,,http://ballotpedia.org/wiki/images/a/a0/Christopher_Pearson.jpg,2011-01-14 22:24:08.264000,2017-01-05 05:04:10.800000
+VTL000202,Paul D Ralston,Paul,D,Ralston,,,False,vt,,,,http://ballotpedia.org/wiki/images/0/07/Paul_Ralston.jpg,2011-01-14 22:24:08.251000,2015-01-12 22:13:28.345000
+VTL000208,Rebecca M. Ellis,Rebecca,M.,Ellis,,,False,vt,,,,http://ballotpedia.org/wiki/images/c/cb/Ellis.jpg,2011-01-28 00:16:15.254000,2015-12-11 22:34:09.833000
+VTL000210,Mark E Woodward,Mark,,Woodward,,,False,vt,,,,http://ballotpedia.org/wiki/images/4/42/Woodward.jpg,2011-01-28 00:16:15.480000,2017-01-05 05:04:10.816000
+VTL000211,Teo Zagar,Teo,,Zagar,,,False,vt,,,,http://ballotpedia.org/wiki/images/4/4b/Zagar.jpg,2011-09-10 02:11:12.119000,2017-01-05 05:04:10.827000
+VTL000217,Don E. Collins,Don,E,Collins,,,False,vt,,,,http://ballotpedia.org/wiki/images/8/8e/Don_Collins.jpg,2013-01-05 00:02:19.629000,2015-01-12 22:13:28.705000
+VTL000233,Joanna Cole,Joanna,,Cole,,,False,vt,,,,http://ballotpedia.org/wiki/images/c/c1/Joanna_Cole.jpg,2013-01-05 00:02:19.976000,2017-01-05 05:04:10.806000
+VTL000238,George C. Cross,George,C,Cross,,,False,vt,,,,http://votesmart.org/canphoto/25944.jpg,2013-01-05 00:02:20.024000,2015-01-12 22:13:28.437000
+VTL000250,Michelle B. Fay,Michelle,B,Fay,,,False,vt,,,,http://ballotpedia.org/wiki/images/4/46/Michelle_Fay.jpg,2013-01-05 00:02:20.122000,2015-01-12 22:13:28.382000
+VTL000255,Anne L. Gallivan,Anne,L,Gallivan,,,False,vt,,,,http://ballotpedia.org/wiki/images/9/98/Anne_Gallivan.jpg,2013-01-05 00:02:20.184000,2015-01-12 22:13:28.582000
+VTL000256,"Charles ""Tim"" M. Goodwin","Charles ""Tim""",M,Goodwin,,,False,vt,,,,,2013-01-05 00:02:20.191000,2015-01-12 22:13:28.643000
+VTL000266,Mark Huntley,Mark,,Huntley,,,False,vt,,,,http://ballotpedia.org/wiki/images/2/2a/Mark_Huntley.jpg,2013-01-05 00:02:20.468000,2017-01-05 05:04:10.817000
+VTL000284,Mike D. McCarthy,Mike,D,McCarthy,,,False,vt,,,,http://votesmart.org/canphoto/123564.jpg,2013-01-05 00:02:20.738000,2015-01-12 22:13:28.472000
+VTL000287,Kristina I. Michelsen,Kristina,I,Michelsen,,,False,vt,,,,http://votesmart.org/canphoto/141357.jpg,2013-01-05 00:02:20.835000,2015-01-12 22:13:28.378000
+VTL000288,John I. Mitchell,John,I,Mitchell,,,False,vt,,,,http://ballotpedia.org/wiki/images/d/dc/John_Mitchell.png,2013-01-05 00:02:20.877000,2015-01-12 22:13:28.468000
+VTL000305,Loren Shaw,Loren,,Shaw,,,False,vt,,,,http://votesmart.org/canphoto/55933.jpg,2013-01-05 00:02:21.130000,2017-01-05 05:04:10.813000
+VTL000322,Sheila J. Vowinkel,Sheila,J,Vowinkel,,,False,vt,,,,http://ballotpedia.org/wiki/images/b/b5/Sheila_Vowinkel.png,2013-01-05 00:02:21.315000,2015-01-12 22:13:28.661000
+VTL000324,Cindy A. Weed,Cindy,A,Weed,,,False,vt,,,,http://ballotpedia.org/wiki/images/c/c2/Cindy_Weed.jpg,2013-01-05 00:02:21.351000,2015-01-12 22:13:28.486000
+VTL000334,Kathleen C. Hoyt,Kathleen,C,Hoyt,,,False,vt,,,,,2013-10-15 03:54:35.695000,2015-01-12 22:13:28.668000
+VTL000335,Marjorie Ryerson,Marjorie,,Ryerson,,,False,vt,,,,http://m.c.lnkd.licdn.com/mpr/pub/image-M_Lu6HkTRTWhY9vhQq6kLakmn66WxlHtYy9kzDkTroHdwN4qM_Lkztybrerd9C3aA2Y/marjorie-ryerson.jpg,2013-11-15 02:22:05.433000,2017-01-05 05:04:10.814000
+VTL000344,Joey Purvis,Joey,,Purvis,,,False,vt,,,,http://legislature.vermont.gov/assets/Documents/Legislators/JPurvis.jpg,2015-01-12 22:13:25.912000,2017-01-05 05:04:10.807000
+VTL000412,Steven Berry,Steven,,Berry,,,False,vt,,,,http://legislature.vermont.gov/assets/Documents/Legislators/SBerry.jpg,2015-01-12 22:13:26.667000,2017-01-05 05:04:10.824000
+VTL000420,Larry Fiske,Larry,,Fiske,,,False,vt,,,,http://legislature.vermont.gov/assets/Documents/Legislators/LFiske.jpg,2015-01-12 22:13:26.747000,2017-01-05 05:04:10.810000
+VTL000446,Avram Patt,Avram,,Patt,,,False,vt,,,,http://legislature.vermont.gov/assets/Documents/Legislators/APatt.jpg,2015-01-12 22:13:27.091000,2017-01-05 05:04:10.794000
+VTL000457,Alyson Eastman,Alyson,,Eastman,,,False,vt,,,,http://legislature.vermont.gov/assets/Documents/Legislators/AEastman.jpg,2015-01-12 22:13:27.201000,2017-02-23 03:32:20.334000
+VTL000504,Paul Dame,Paul,,Dame,,,False,vt,,,,http://legislature.vermont.gov/assets/Documents/Legislators/PDame.jpg,2015-01-12 22:13:27.865000,2017-01-05 05:04:10.820000
+VTL000815,Helen Riehle,Helen,,Riehle,,,False,vt,,,,http://legislature.vermont.gov/mysite/images/profile.png,2016-04-04 21:01:07.601000,2017-01-05 05:04:10.834000
+VTL000034,Janet Ancel,Janet,,Ancel,,,True,vt,lower,Washington-6,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JAncel.jpg,2010-11-19 23:19:39.110000,2017-06-01 06:00:41.417000
+VTL000039,Clem J Bissonnette,Clement,,Bissonnette,,,True,vt,lower,Chittenden-6-7,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CBissonnette.jpg,2010-11-19 23:19:39.119000,2017-06-01 06:00:40.865000
+VTL000041,Bill G Botzow,William,,Botzow,,,True,vt,lower,Bennington-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/WBotzow.jpg,2010-11-19 23:19:39.122000,2017-06-01 06:00:23.319000
+VTL000044,Patrick M Brennan,Patrick,,Brennan,,,True,vt,lower,Chittenden-9-2,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/PBrennan.jpg,2010-11-19 23:19:39.128000,2017-06-01 06:00:40.843000
+VTL000045,Cynthia M Browning,Cynthia,,Browning,,,True,vt,lower,Bennington-4,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CBrowning.jpg,2010-11-19 23:19:39.130000,2017-06-01 06:00:41.357000
+VTL000046,Mollie S Burke,Mollie S.,,Burke,,,True,vt,lower,Windham-2-2,Progressive,http://legislature.vermont.gov/assets/Documents/Legislators/MBurke.jpg,2010-11-19 23:19:39.131000,2017-06-01 06:00:40.862000
+VTL000047,William P Canfield,William,,Canfield,,,True,vt,lower,Rutland-3,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/WCanfield.jpg,2010-11-19 23:19:39.133000,2017-06-01 06:00:41.343000
+VTL000052,Jim O Condon,James,,Condon,,,True,vt,lower,Chittenden-9-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JCondon.jpg,2010-11-19 23:19:39.163000,2017-06-01 06:00:41.361000
+VTL000053,Chip W Conquest,Charles,,Conquest,,,True,vt,lower,Orange-Caledonia,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CConquest.jpg,2010-11-19 23:19:39.164000,2017-06-01 06:00:40.754000
+VTL000055,Sarah L Copeland-Hanzas,Sarah,,Copeland-Hanzas,,,True,vt,lower,Orange-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/SCopelandhanzas.jpg,2010-11-19 23:19:39.188000,2017-06-01 06:00:40.874000
+VTL000056,Timothy R Corcoran,Timothy R.,,Corcoran,,,True,vt,lower,Bennington-2-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/TCorcoran.jpg,2010-11-19 23:19:39.190000,2017-06-01 06:00:23.478000
+VTL000060,David L Deen,David L.,,Deen,,,True,vt,lower,Windham-4,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/DDeen.jpg,2010-11-19 23:19:39.197000,2017-06-01 06:00:41.371000
+VTL000061,Dennis J Devereux,Dennis J.,,Devereux,,,True,vt,lower,Rutland-Windsor-2,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/DDevereux.jpg,2010-11-19 23:19:39.199000,2017-06-01 06:00:40.789000
+VTL000062,Eileen G Dickinson,Eileen,,Dickinson,,Lynn,True,vt,lower,Franklin-3-2,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/EDickinson.jpg,2010-11-19 23:19:39.200000,2017-06-01 06:00:40.691000
+VTL000064,Anne B Donahue,Anne B.,,Donahue,,,True,vt,lower,Washington-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/ADonahue.jpg,2010-11-19 23:19:39.204000,2017-06-01 06:00:41.051000
+VTL000065,Johannah Leddy Donovan,Johannah,Leddy,Donovan,,,True,vt,lower,Chittenden-6-5,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JDonovan.jpg,2010-11-19 23:19:39.205000,2017-06-01 06:00:41.393000
+VTL000067,Alice M Emmons,Alice M.,,Emmons,,,True,vt,lower,Windsor-3-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/AEmmons.jpg,2010-11-19 23:19:39.209000,2017-06-01 06:00:41.293000
+VTL000069,Peter J Fagan,Peter J.,,Fagan,,,True,vt,lower,Rutland-5-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/PFagan.jpg,2010-11-19 23:19:39.212000,2017-06-01 06:00:41.406000
+VTL000076,Maxine Jo Grad,Maxine,Jo,Grad,,,True,vt,lower,Washington-7,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MGrad.jpg,2010-11-19 23:19:39.236000,2017-06-01 06:00:41.288000
+VTL000077,Adam M Greshin,Adam,,Greshin,,,True,vt,lower,Washington-7,Independent,http://legislature.vermont.gov/assets/Documents/Legislators/AGreshin.jpg,2010-11-19 23:19:39.238000,2017-06-01 06:00:41.093000
+VTL000078,Sandy J Haas,Sandy,,Haas,,,True,vt,lower,Windsor-Rutland,Progressive,http://legislature.vermont.gov/assets/Documents/Legislators/SHaas.jpg,2010-11-19 23:19:39.240000,2017-06-01 06:00:41.376000
+VTL000079,Helen J Head,Helen,,Head,,,True,vt,lower,Chittenden-7-3,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/HHead.jpg,2010-11-19 23:19:39.242000,2017-06-01 06:00:40.954000
+VTL000081,Bob G Helm,Robert,,Helm,,,True,vt,lower,Rutland-3,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/BHelm.jpg,2010-11-19 23:19:39.245000,2017-06-01 06:00:41.019000
+VTL000082,Mark A Higley,Mark,,Higley,,,True,vt,lower,Orleans-Lamoille,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/MHigley.jpg,2010-11-19 23:19:39.247000,2017-06-01 06:00:41.277000
+VTL000083,Mary S Hooper,Mary S.,,Hooper,,,True,vt,lower,Washington-4,Democratic,http://legislature.vermont.gov/mysite/images/profile.png,2010-11-19 23:19:39.249000,2017-06-01 06:00:41.297000
+VTL000087,Ronald E Hubert,Ronald E.,,Hubert,,,True,vt,lower,Chittenden-10,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/RHubert.jpg,2010-11-19 23:19:39.256000,2017-06-01 06:00:41.328000
+VTL000090,Mitzi Johnson,Mitzi,,Johnson,,,True,vt,lower,Grand Isle-Chittenden,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MJohnson.jpg,2010-11-19 23:19:39.261000,2017-06-01 06:00:40.731000
+VTL000092,Kathleen C Keenan,Kathleen C.,,Keenan,,,True,vt,lower,Franklin-3-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/KKeenan.jpg,2010-11-19 23:19:39.264000,2017-06-01 06:00:41.103000
+VTL000094,Warren F Kitzmiller,Warren F.,,Kitzmiller,,,True,vt,lower,Washington-4,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/WKitzmiller.jpg,2010-11-19 23:19:39.268000,2017-06-01 06:00:40.797000
+VTL000100,Diane M Lanpher,Diane,,Lanpher,,,True,vt,lower,Addison-3,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/DLanpher.jpg,2010-11-19 23:19:39.278000,2017-06-01 06:00:41.006000
+VTL000103,Richard H Lawrence,Richard,,Lawrence,,,True,vt,lower,Caledonia-4,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/RLawrence.jpg,2010-11-19 23:19:39.283000,2017-06-01 06:00:41.264000
+VTL000107,William J Lippert,William J.,,Lippert,,,True,vt,lower,Chittenden-4-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/WLippert.jpg,2010-11-19 23:19:39.290000,2017-06-01 06:00:23.488000
+VTL000109,Terry D Macaig,Terence,,Macaig,,,True,vt,lower,Chittenden-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/TMacaig.jpg,2010-11-19 23:19:39.293000,2017-06-01 06:00:41.252000
+VTL000113,Michael J Marcotte,Michael,,Marcotte,,,True,vt,lower,Orleans-2,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/MMarcotte.jpg,2010-11-19 23:19:39.312000,2017-06-01 06:00:40.978000
+VTL000117,Jim W Masland,James,,Masland,,,True,vt,lower,Windsor-Orange-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JMasland.jpg,2010-11-19 23:19:39.319000,2017-06-01 06:00:41.354000
+VTL000119,Jim M McCullough,James,,McCullough,,,True,vt,lower,Chittenden-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JMccullough.jpg,2010-11-19 23:19:39.323000,2017-06-01 06:00:40.896000
+VTL000121,Francis M McFaun,Francis,,McFaun,,Topper,True,vt,lower,Washington-2,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/FMcfaun.jpg,2010-11-19 23:19:39.326000,2017-06-01 06:00:40.676000
+VTL000124,Alice Miller,Alice,,Miller,,,True,vt,lower,Bennington-3,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/AMiller.jpg,2010-11-19 23:19:39.341000,2017-06-01 06:00:41.078000
+VTL000130,Mary A Morrissey,Mary A.,,Morrissey,,,True,vt,lower,Bennington-2-2,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/MMorrissey.jpg,2010-11-19 23:19:39.351000,2017-06-01 06:00:41.243000
+VTL000131,Michael Mrowicki,Michael,,Mrowicki,,,True,vt,lower,Windham-4,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MMrowicki.jpg,2010-11-19 23:19:39.353000,2017-06-01 06:00:40.668000
+VTL000132,Linda K Myers,Linda K.,,Myers,,,True,vt,lower,Chittenden-8-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/LMyers.jpg,2010-11-19 23:19:39.354000,2017-06-01 06:00:41.483000
+VTL000138,Oliver K Olsen,Oliver,,Olsen,,,True,vt,lower,Windham-Bennington-Windsor,Independent,http://legislature.vermont.gov/assets/Documents/Legislators/OOlsen.jpg,2010-11-19 23:19:39.365000,2017-06-01 06:00:40.661000
+VTL000140,Carolyn W Partridge,Carolyn W.,,Partridge,,,True,vt,lower,Windham-3,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CPartridge.jpg,2010-11-19 23:19:39.378000,2017-06-01 06:00:41.266000
+VTL000141,Albert E Pearce,Albert,,Pearce,,Chuck,True,vt,lower,Franklin-5,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/APearce.jpg,2010-11-19 23:19:39.380000,2017-06-01 06:00:41.089000
+VTL000146,Paul N Poirier,Paul N.,,Poirier,,,True,vt,lower,Washington-3,Independent,http://legislature.vermont.gov/assets/Documents/Legislators/PPoirier.jpg,2010-11-19 23:19:39.411000,2017-06-01 06:00:40.964000
+VTL000147,Dave E Potter,David,,Potter,,,True,vt,lower,Rutland-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/DPotter.jpg,2010-11-19 23:19:39.413000,2017-06-01 06:00:40.860000
+VTL000148,Ann D Pugh,Ann,,Pugh,,,True,vt,lower,Chittenden-7-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/APugh.jpg,2010-11-19 23:19:39.415000,2017-06-01 06:00:41.039000
+VTL000152,Brian K Savage,Brian K.,,Savage,,,True,vt,lower,Franklin-4,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/BSavage.jpg,2010-11-19 23:19:39.422000,2017-06-01 06:00:41.049000
+VTL000153,Heidi E Scheuermann,Heidi E.,,Scheuermann,,,True,vt,lower,Lamoille-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/HScheuermann.jpg,2010-11-19 23:19:39.423000,2017-06-01 06:00:40.938000
+VTL000155,Dave D Sharpe,David,,Sharpe,,,True,vt,lower,Addison-4,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/DSharpe.jpg,2010-11-19 23:19:39.427000,2017-06-01 06:00:41.075000
+VTL000156,Charles H Shaw,Charles,,Shaw,,Butch,True,vt,lower,Rutland-6,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/CShaw.jpg,2010-11-19 23:19:39.429000,2017-06-01 06:00:41.290000
+VTL000161,Tom S Stevens,Thomas,,Stevens,,,True,vt,lower,Washington-Chittenden,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/TStevens.jpg,2010-11-19 23:19:39.437000,2017-06-01 06:00:40.936000
+VTL000165,George W Till,George W.,,Till,,,True,vt,lower,Chittenden-3,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/GTill.jpg,2010-11-19 23:19:39.444000,2017-06-01 06:00:41.338000
+VTL000166,Kitty Beattie Toll,Kitty,Beattie,Toll,,,True,vt,lower,Caledonia-Washington,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CToll.jpg,2010-11-19 23:19:39.446000,2017-06-01 06:00:41.412000
+VTL000168,Don H Turner,Donald,,Turner,,,True,vt,lower,Chittenden-10,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/DTurner.jpg,2010-11-19 23:19:39.449000,2017-06-01 06:00:23.366000
+VTL000170,Kate L Webb,Kathryn,,Webb,,,True,vt,lower,Chittenden-5-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/KWebb.jpg,2010-11-19 23:19:39.453000,2017-06-01 06:00:41.087000
+VTL000176,Kurt Wright,Kurt,,Wright,,,True,vt,lower,Chittenden-6-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/KWright.jpg,2010-11-19 23:19:39.463000,2017-06-01 06:00:41.345000
+VTL000186,John L Bartholomew,John L.,,Bartholomew,,,True,vt,lower,Windsor-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JBartholomew.jpg,2011-01-14 22:24:08.262000,2017-06-01 06:00:41.275000
+VTL000187,Lynn D Batchelor,Lynn,,Batchelor,,,True,vt,lower,Orleans-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/LBatchelor.jpg,2011-01-14 22:24:08.256000,2017-06-01 06:00:41.250000
+VTL000189,Tom B Burditt,Thomas,,Burditt,,,True,vt,lower,Rutland-2,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/TBurditt.jpg,2011-01-14 22:24:08.257000,2017-06-01 06:00:40.695000
+VTL000192,Kevin B Christie,Kevin,,Christie,,Coach,True,vt,lower,Windsor-4-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/KChristie.jpg,2011-01-14 22:24:08.262000,2017-06-01 06:00:41.506000
+VTL000197,Michael J Hebert,Michael,,Hebert,,,True,vt,lower,Windham-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/MHebert.jpg,2011-01-14 22:24:08.260000,2017-06-01 06:00:40.878000
+VTL000199,Patti J Lewis,Patti J.,,Lewis,,,True,vt,lower,Washington-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/PLewis.jpg,2011-01-14 22:24:08.259000,2017-06-01 06:00:40.778000
+VTL000203,Harvey T Smith,Harvey,,Smith,,,True,vt,lower,Addison-5,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/HSmith.jpg,2011-01-14 22:24:08.251000,2017-06-01 06:00:41.268000
+VTL000204,Vicki M Strong,Vicki,,Strong,,,True,vt,lower,Orleans-Caledonia,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/VStrong.jpg,2011-01-14 22:24:08.257000,2017-06-01 06:00:40.956000
+VTL000205,Valerie A Stuart,Valerie A.,,Stuart,,,True,vt,lower,Windham-2-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/VStuart.jpg,2011-01-14 22:24:08.260000,2017-06-01 06:00:40.976000
+VTL000206,Mike I Yantachka,Michael,,Yantachka,,,True,vt,lower,Chittenden-4-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MYantachka.jpg,2011-01-14 22:24:08.253000,2017-06-01 06:00:41.490000
+VTL000207,Sam R Young,Samuel,,Young,,,True,vt,lower,Orleans-Caledonia,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/SYoung.jpg,2011-01-14 22:24:08.256000,2017-06-01 06:00:41.350000
+VTL000209,Matthew A Trieber,Matthew,,Trieber,,,True,vt,lower,Windham-3,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MTrieber.jpg,2011-01-28 00:16:15.466000,2017-06-01 06:00:41.001000
+VTL000213,Jean O'Sullivan,Jean,,O'Sullivan,,,True,vt,lower,Chittenden-6-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JOsullivan.jpg,2011-12-15 02:45:14.820000,2017-06-01 06:00:40.973000
+VTL000214,Jill Krowinski,Jill,,Krowinski,,,True,vt,lower,Chittenden-6-3,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JKrowinski.jpg,2012-02-17 01:36:19.719000,2017-06-01 06:00:41.056000
+VTL000223,Steve Beyor,Steve,,Beyor,,,True,vt,lower,Franklin-5,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/SBeyor.jpg,2013-01-05 00:02:19.856000,2017-06-01 06:00:40.899000
+VTL000231,Stephen Carr,Stephen,,Carr,,,True,vt,lower,Rutland-6,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/SCarr.jpg,2013-01-05 00:02:19.939000,2017-06-01 06:00:41.177000
+VTL000235,Daniel Connor,Daniel,,Connor,,,True,vt,lower,Franklin-6,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/DConnor.jpg,2013-01-05 00:02:19.990000,2017-06-01 06:00:41.240000
+VTL000239,Lawrence Cupoli,Lawrence,,Cupoli,,,True,vt,lower,Rutland-5-2,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/LCupoli.jpg,2013-01-05 00:02:20.031000,2017-06-01 06:00:41.378000
+VTL000251,Martha Feltus,Martha,,Feltus,,,True,vt,lower,Caledonia-4,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/MFeltus.jpg,2013-01-05 00:02:20.129000,2017-06-01 06:00:41.118000
+VTL000254,Douglas Gage,Douglas,,Gage,,,True,vt,lower,Rutland-5-4,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/DGage.jpg,2013-01-05 00:02:20.177000,2017-06-01 06:00:40.891000
+VTL000269,Bernard Juskiewicz,Bernard,,Juskiewicz,,,True,vt,lower,Lamoille-3,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/BJuskiewicz.jpg,2013-01-05 00:02:20.524000,2017-06-01 06:00:40.999000
+VTL000285,Curtis McCormack,Curtis,,McCormack,,,True,vt,lower,Chittenden-6-3,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CMccormack.jpg,2013-01-05 00:02:20.754000,2017-06-01 06:00:41.180000
+VTL000301,Constance Quimby,Constance,,Quimby,,,True,vt,lower,Essex-Caledonia,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/CQuimby.jpg,2013-01-05 00:02:21.050000,2017-06-01 06:00:40.846000
+VTL000302,Barbara Rachelson,Barbara,,Rachelson,,,True,vt,lower,Chittenden-6-6,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/BRachelson.jpg,2013-01-05 00:02:21.058000,2017-06-01 06:00:40.745000
+VTL000314,Thomas Terenzini,Thomas,,Terenzini,,,True,vt,lower,Rutland-4,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/TTerenzini.jpg,2013-01-05 00:02:21.243000,2017-06-01 06:00:40.908000
+VTL000316,Tristan Toleno,Tristan,,Toleno,,,True,vt,lower,Windham-2-3,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/TToleno.jpg,2013-01-05 00:02:21.261000,2017-06-01 06:00:41.058000
+VTL000319,Maida Townsend,Maida,,Townsend,,,True,vt,lower,Chittenden-7-4,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MTownsend.jpg,2013-01-05 00:02:21.288000,2017-06-01 06:00:40.800000
+VTL000333,Warren Van Wyck,Warren,,Van Wyck,,,True,vt,lower,Addison-3,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/WVanWyck.jpg,2013-02-13 01:31:27.360000,2017-06-01 06:00:41.182000
+VTL000339,Tommy Walz,Tommy,,Walz,,,True,vt,lower,Washington-3,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/TWalz.jpg,2014-04-08 23:46:06.375000,2017-06-01 06:00:40.943000
+VTL000343,Paul Lefebvre,Paul,,Lefebvre,,,True,vt,lower,Essex-Caledonia-Orleans,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/PLefebvre.jpg,2015-01-12 22:13:25.903000,2017-06-01 06:00:41.124000
+VTL000346,Scott Beck,Scott,,Beck,,,True,vt,lower,Caledonia-3,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/SBeck.jpg,2015-01-12 22:13:25.932000,2017-06-01 06:00:41.091000
+VTL000347,Maureen Dakin,Maureen,,Dakin,,,True,vt,lower,Chittenden-9-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MDakin.jpg,2015-01-12 22:13:25.942000,2017-06-01 06:00:41.111000
+VTL000358,Rodney Graham,Rodney,,Graham,,,True,vt,lower,Orange-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/RGraham.jpg,2015-01-12 22:13:26.050000,2017-06-01 06:00:41.261000
+VTL000367,Job Tate,Job,,Tate,,,True,vt,lower,Rutland-Windsor-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/JTate.jpg,2015-01-12 22:13:26.152000,2017-06-01 06:00:23.304000
+VTL000369,Corey Parent,Corey,,Parent,,,True,vt,lower,Franklin-3-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/CParent.jpg,2015-01-12 22:13:26.172000,2017-06-01 06:00:41.184000
+VTL000370,Rachael Fields,Rachael,,Fields,,,True,vt,lower,Bennington-2-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/RFields.jpg,2015-01-12 22:13:26.182000,2017-06-01 06:00:40.934000
+VTL000376,Marianna Gamache,Marianna,,Gamache,,,True,vt,lower,Franklin-4,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/MGamache.jpg,2015-01-12 22:13:26.243000,2017-06-01 06:00:40.656000
+VTL000380,Robert Forguites,Robert,,Forguites,,,True,vt,lower,Windsor-3-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/RForguites.jpg,2015-01-12 22:13:26.282000,2017-06-01 06:00:41.193000
+VTL000381,Patricia McCoy,Patricia,,McCoy,,,True,vt,lower,Rutland-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/PMccoy.jpg,2015-01-12 22:13:26.292000,2017-06-01 06:00:41.034000
+VTL000398,Laura Sibilia,Laura,,Sibilia,,,True,vt,lower,Windham-Bennington,Independent,http://legislature.vermont.gov/assets/Documents/Legislators/LSibilia.jpg,2015-01-12 22:13:26.505000,2017-06-01 06:00:41.373000
+VTL000401,Martin LaLonde,Martin,,LaLonde,,,True,vt,lower,Chittenden-7-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MLaLonde.jpg,2015-01-12 22:13:26.535000,2017-06-01 06:00:40.699000
+VTL000422,Amy Sheldon,Amy,,Sheldon,,,True,vt,lower,Addison-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/ASheldon.jpg,2015-01-12 22:13:26.767000,2017-06-01 06:00:41.481000
+VTL000423,Robert LaClair,Robert,,LaClair,,,True,vt,lower,Washington-2,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/RLaClair.jpg,2015-01-12 22:13:26.777000,2017-06-01 06:00:40.786000
+VTL000430,Ruqaiyah Morris,Ruqaiyah,,Morris,,,True,vt,lower,Bennington-2-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/KMorris.jpg,2015-01-12 22:13:26.857000,2017-06-01 06:00:40.685000
+VTL000435,Robert Bancroft,Robert,,Bancroft,,,True,vt,lower,Chittenden-8-3,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/RBancroft.jpg,2015-01-12 22:13:26.982000,2017-06-01 06:00:40.855000
+VTL000438,Fred Baser,Fred,,Baser,,,True,vt,lower,Addison-4,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/FBaser.jpg,2015-01-12 22:13:27.011000,2017-06-01 06:00:41.352000
+VTL000442,Timothy Briglin,Timothy,,Briglin,,,True,vt,lower,Windsor-Orange-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/TBriglin.jpg,2015-01-12 22:13:27.051000,2017-06-01 06:00:40.887000
+VTL000450,Diana Gonzalez,Diana,,Gonzalez,,,True,vt,lower,Chittenden-6-7,Progressive,http://legislature.vermont.gov/assets/Documents/Legislators/DGonzalez.jpg,2015-01-12 22:13:27.131000,2017-06-01 06:00:40.949000
+VTL000459,Gabrielle Lucke,Gabrielle,,Lucke,,,True,vt,lower,Windsor-4-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/GLucke.jpg,2015-01-12 22:13:27.221000,2017-06-01 06:00:41.348000
+VTL000462,Marcia Martel,Marcia,,Martel,,,True,vt,lower,Caledonia-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/MMartel.jpg,2015-01-12 22:13:27.395000,2017-06-01 06:00:41.236000
+VTL000465,Gary Viens,Gary,,Viens,,,True,vt,lower,Orleans-2,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/GViens.jpg,2015-01-12 22:13:27.427000,2017-06-01 06:00:40.751000
+VTL000469,Barbara Murphy,Barbara,,Murphy,,,True,vt,lower,Franklin-2,Independent,http://legislature.vermont.gov/assets/Documents/Legislators/BMurphy.jpg,2015-01-12 22:13:27.478000,2017-06-01 06:00:40.851000
+VTL000481,"Joseph ""Chip"" Troiano","Joseph ""Chip""",,Troiano,,,True,vt,lower,Caledonia-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CTroiano.jpg,2015-01-12 22:13:27.605000,2017-06-01 06:00:40.749000
+VTL000488,Robin Chesnut-Tangerman,Robin,,Chesnut-Tangerman,,,True,vt,lower,Rutland-Bennington,Progressive,http://legislature.vermont.gov/assets/Documents/Legislators/RChesnutangerman.jpg,2015-01-12 22:13:27.686000,2017-06-01 06:00:41.497000
+VTL000491,Mary Sullivan,Mary,,Sullivan,,,True,vt,lower,Chittenden-6-5,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MSullivan.jpg,2015-01-12 22:13:27.717000,2017-06-01 06:00:40.905000
+VTL000499,Janssen Willhoit,Janssen,,Willhoit,,,True,vt,lower,Caledonia-3,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/JWillhoit.jpg,2015-01-12 22:13:27.809000,2017-06-01 06:00:40.687000
+VTL000505,Emily Long,Emily,,Long,,,True,vt,lower,Windham-5,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/ELong.jpg,2015-01-12 22:13:27.876000,2017-06-01 06:00:41.080000
+VTL000814,Theresa Wood,Theresa,,Wood,,,True,vt,lower,Washington-Chittenden,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/TWood.jpg,2015-11-19 07:57:46.669000,2017-06-01 06:00:40.773000
+VTL000816,Daniel Noyes,Daniel,,Noyes,,,True,vt,lower,Lamoille-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/DNoyes.jpg,2017-01-05 05:04:09.407000,2017-06-01 06:00:40.654000
+VTL000819,John Gannon,John,,Gannon,,,True,vt,lower,Windham-6,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JGannon.jpg,2017-01-05 05:04:09.497000,2017-06-01 06:00:41.369000
+VTL000821,Mary E. Howard,Mary E.,,Howard,,,True,vt,lower,Rutland-5-3,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MHoward.jpg,2017-01-05 05:04:09.602000,2017-06-01 06:00:40.940000
+VTL000822,Matthew Hill,Matthew,,Hill,,,True,vt,lower,Lamoille-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MHill.jpg,2017-01-05 05:04:09.620000,2017-06-01 06:00:40.980000
+VTL000823,Kimberly Jessup,Kimberly,,Jessup,,,True,vt,lower,Washington-5,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/KJessup.jpg,2017-01-05 05:04:09.632000,2017-06-01 06:00:40.693000
+VTL000824,Annmarie Christensen,Annmarie,,Christensen,,,True,vt,lower,Windsor-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/AChristensen.jpg,2017-01-05 05:04:09.639000,2017-06-01 06:00:40.876000
+VTL000826,Marcia Gardner,Marcia,,Gardner,,,True,vt,lower,Chittenden-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MGardner.jpg,2017-01-05 05:04:09.711000,2017-06-01 06:00:40.784000
+VTL000828,Brian Smith,Brian,,Smith,,,True,vt,lower,Orleans-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/BSmith.jpg,2017-01-05 05:04:09.805000,2017-06-01 06:00:40.945000
+VTL000829,David Yacovone,David,,Yacovone,,,True,vt,lower,Lamoille-Washington,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/DYacovone.jpg,2017-01-05 05:04:09.830000,2017-06-01 06:00:41.008000
+VTL000830,Robert Frenier,Robert,,Frenier,,,True,vt,lower,Orange-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/RFrenier.jpg,2017-01-05 05:04:09.873000,2017-06-01 06:00:40.983000
+VTL000831,"Elizabeth ""Betsy"" Dunn","Elizabeth ""Betsy""",,Dunn,,,True,vt,lower,Chittenden-8-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/BDunn.jpg,2017-01-05 05:04:09.893000,2017-06-01 06:00:40.885000
+VTL000832,David Ainsworth,David,,Ainsworth,,,True,vt,lower,Windsor-Orange-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/DAinsworth.jpg,2017-01-05 05:04:09.899000,2017-06-01 06:00:40.901000
+VTL000833,Carl Rosenquist,Carl,,Rosenquist,,,True,vt,lower,Franklin-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/CRosenquist.jpg,2017-01-05 05:04:09.937000,2017-06-01 06:00:40.665000
+VTL000834,Cynthia Weed,Cynthia,,Weed,,,True,vt,lower,Franklin-7,Progressive/Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CWeed.jpg,2017-01-05 05:04:10.029000,2017-06-01 06:00:40.791000
+VTL000835,Dylan Giambatista,Dylan,,Giambatista,,,True,vt,lower,Chittenden-8-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/DGiambatista.jpg,2017-01-05 05:04:10.036000,2017-06-01 06:00:41.085000
+VTL000836,Paul Belaski,Paul,,Belaski,,,True,vt,lower,Windsor-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/PBelaski.jpg,2017-01-05 05:04:10.073000,2017-06-01 06:00:41.234000
+VTL000837,Susan Buckholz,Susan,,Buckholz,,,True,vt,lower,Windsor-4-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/SBuckholz.jpg,2017-01-05 05:04:10.133000,2017-06-01 06:00:41.282000
+VTL000838,Lori Houghton,Lori,,Houghton,,,True,vt,lower,Chittenden-8-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/LHoughton.jpg,2017-01-05 05:04:10.146000,2017-06-01 06:00:40.889000
+VTL000839,Linda Joy Sullivan,Linda Joy,,Sullivan,,,True,vt,lower,Bennington-Rutland,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/LSullivan.jpg,2017-01-05 05:04:10.157000,2017-06-01 06:00:40.962000
+VTL000840,Robin Scheu,Robin,,Scheu,,,True,vt,lower,Addison-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/RScheu.jpg,2017-01-05 05:04:10.169000,2017-06-01 06:00:41.238000
+VTL000841,Gary Nolan,Gary,,Nolan,,,True,vt,lower,Lamoille-Washington,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/GNolan.jpg,2017-01-05 05:04:10.175000,2017-06-01 06:00:40.853000
+VTL000842,Jessica Brumsted,Jessica,,Brumsted,,,True,vt,lower,Chittenden-5-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JBrumsted.jpg,2017-01-05 05:04:10.230000,2017-06-01 06:00:40.782000
+VTL000843,Benjamin Jickling,Benjamin,,Jickling,,,True,vt,lower,Orange-Washington-Addison,Independent,http://legislature.vermont.gov/assets/Documents/Legislators/BJickling.jpg,2017-01-05 05:04:10.241000,2017-06-01 06:00:40.872000
+VTL000844,Ben W. Joseph,Ben W.,,Joseph,,,True,vt,lower,Grand Isle-Chittenden,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/BJospeh.jpg,2017-01-05 05:04:10.259000,2017-06-01 06:00:41.082000
+VTL000845,Thomas Bock,Thomas,,Bock,,,True,vt,lower,Windsor-3-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/TBock.jpg,2017-01-05 05:04:10.265000,2017-06-01 06:00:41.259000
+VTL000846,Curt Taylor,Curt,,Taylor,,,True,vt,lower,Chittenden-9-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CTaylor.jpg,2017-01-05 05:04:10.289000,2017-06-01 06:00:41.245000
+VTL000847,Trevor Squirrell,Trevor,,Squirrell,,,True,vt,lower,Chittenden-3,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/TSquirrell.jpg,2017-01-05 05:04:10.356000,2017-06-01 06:00:41.115000
+VTL000848,Brian Cina,Brian,,Cina,,,True,vt,lower,Chittenden-6-4,Progressive,http://legislature.vermont.gov/assets/Documents/Legislators/BCina.jpg,2017-01-05 05:04:10.361000,2017-06-01 06:00:40.883000
+VTL000849,Carol Ode,Carol,,Ode,,,True,vt,lower,Chittenden-6-1,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/COde.jpg,2017-01-05 05:04:10.386000,2017-06-01 06:00:40.914000
+VTL000850,Peter Conlon,Peter,,Conlon,,,True,vt,lower,Addison-2,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/PConlon.jpg,2017-01-05 05:04:10.415000,2017-06-01 06:00:41.095000
+VTL000851,Brian Keefe,Brian,,Keefe,,,True,vt,lower,Bennington-4,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/BKeefe.jpg,2017-01-05 05:04:10.439000,2017-06-01 06:00:40.658000
+VTL000852,Charles Kimbell,Charles,,Kimbell,,,True,vt,lower,Windsor-5,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CKimbell.jpg,2017-01-05 05:04:10.499000,2017-06-01 06:00:40.967000
+VTL000853,Selene Colburn,Selene,,Colburn,,,True,vt,lower,Chittenden-6-4,Progressive/Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/SColburn.jpg,2017-01-05 05:04:10.505000,2017-06-01 06:00:40.683000
+VTL000854,Philip Jay Hooper,Philip Jay,,Hooper,,,True,vt,lower,Orange-Washington-Addison,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JHooper.jpg,2017-01-05 05:04:10.510000,2017-06-01 06:00:41.271000
+VTL000869,Terry Norris,Terry,,Norris,,,True,vt,lower,Addison-Rutland,Independent,http://legislature.vermont.gov/assets/Documents/Legislators/TNorris.jpg,2017-02-15 05:28:42.415000,2017-06-01 06:00:41.273000
+VTL000873,James Harrison,James,,Harrison,,,True,vt,lower,Rutland-Windsor-1,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/JHarrison.jpg,2017-04-12 06:00:07.991000,2017-06-01 06:00:40.952000
+VTL000001,Tim R Ashe,Tim,,Ashe,,,True,vt,upper,Chittenden,Democratic/Progressive,http://legislature.vermont.gov/assets/Documents/Legislators/TAshe.jpg,2010-11-19 23:19:39.036000,2017-06-01 06:00:41.215000
+VTL000002,Claire D Ayer,Claire,,Ayer,,,True,vt,upper,Addison,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CAyer.jpg,2010-11-19 23:19:39.038000,2017-06-01 06:00:41.422000
+VTL000008,Ann E Cummings,Ann,,Cummings,,,True,vt,upper,Washington,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/ACummings.jpg,2010-11-19 23:19:39.048000,2017-06-01 06:00:41.414000
+VTL000011,Peg K Flory,Peg,,Flory,,,True,vt,upper,Rutland,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/MFlory.jpg,2010-11-19 23:19:39.053000,2017-06-01 06:00:41.455000
+VTL000015,Jane Kitchel,Jane,,Kitchel,,,True,vt,upper,Caledonia,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MKitchel.jpg,2010-11-19 23:19:39.079000,2017-06-01 06:00:41.419000
+VTL000017,Virginia V Lyons,Virginia,,Lyons,,Ginny,True,vt,upper,Chittenden,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/VLyons.jpg,2010-11-19 23:19:39.082000,2017-06-01 06:00:41.492000
+VTL000018,Mark A MacDonald,Mark A.,,MacDonald,,,True,vt,upper,Orange,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MMacdonald.jpg,2010-11-19 23:19:39.084000,2017-06-01 06:00:41.495000
+VTL000019,Dick T Mazza,Dick,,Mazza,,,True,vt,upper,Chittenden-Grand Isle,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/RMazza.jpg,2010-11-19 23:19:39.085000,2017-06-01 06:00:41.453000
+VTL000020,Dick J McCormack,Dick,,McCormack,,,True,vt,upper,Windsor,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/RMccormack.jpg,2010-11-19 23:19:39.087000,2017-06-01 06:00:41.219000
+VTL000022,Kevin J Mullin,Kevin,,Mullin,,,True,vt,upper,Rutland,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/KMullin.jpg,2010-11-19 23:19:39.090000,2017-06-01 06:00:41.167000
+VTL000023,Alice W Nitka,Alice W.,,Nitka,,,True,vt,upper,Windsor,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/ANitka.jpg,2010-11-19 23:19:39.092000,2017-06-01 06:00:41.217000
+VTL000026,Dick Sears Jr.,Dick,,Sears,Jr.,,True,vt,upper,Bennington,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/RSears.jpg,2010-11-19 23:19:39.097000,2017-06-01 06:00:41.401000
+VTL000029,Robert A Starr,Robert,,Starr,,,True,vt,upper,Essex-Orleans,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/RStarr.jpg,2010-11-19 23:19:39.102000,2017-06-01 06:00:41.222000
+VTL000030,Jeanette K White,Jeanette K.,,White,,,True,vt,upper,Windham,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JWhite.jpg,2010-11-19 23:19:39.103000,2017-06-01 06:00:41.331000
+VTL000043,Christopher A Bray,Christopher,,Bray,,,True,vt,upper,Addison,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CBray.jpg,2010-11-19 23:19:39.126000,2017-06-01 06:00:41.134000
+VTL000151,John S Rodgers,John,,Rodgers,,,True,vt,upper,Essex-Orleans,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/JRodgers.jpg,2010-11-19 23:19:39.420000,2017-06-01 06:00:41.468000
+VTL000180,Philip E Baruth,Philip,,Baruth,,,True,vt,upper,Chittenden,Democratic/Progressive,http://legislature.vermont.gov/assets/Documents/Legislators/PBaruth.jpg,2011-01-14 22:24:08.249000,2017-06-01 06:00:41.503000
+VTL000181,Joe C Benning,Joe,,Benning,,,True,vt,upper,Caledonia,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/JBenning.jpg,2011-01-14 22:24:08.249000,2017-06-01 06:00:41.488000
+VTL000184,Anthony Pollina,Anthony,,Pollina,,,True,vt,upper,Washington,Progressive/Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/APollina.jpg,2011-01-14 22:24:08.263000,2017-06-01 06:00:41.303000
+VTL000185,Richard A Westman,Richard,,Westman,,,True,vt,upper,Lamoille,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/RWestman.jpg,2011-01-14 22:24:08.263000,2017-06-01 06:00:41.464000
+VTL000191,Brian A Campion,Brian,,Campion,,,True,vt,upper,Bennington,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/BCampion.jpg,2011-01-14 22:24:08.252000,2017-06-01 06:00:41.466000
+VTL000194,Dustin A Degree,Dustin,,Degree,,,True,vt,upper,Franklin,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/DDegree.jpg,2011-01-14 22:24:08.255000,2017-06-01 06:00:41.315000
+VTL000336,Michael Sirotkin,Michael,,Sirotkin,,,True,vt,upper,Chittenden,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/MSirotkin.jpg,2014-02-11 19:09:11.522000,2017-06-01 06:00:41.485000
+VTL000443,Brian Collamore,Brian,,Collamore,,,True,vt,upper,Rutland,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/BCollamore.jpg,2015-01-12 22:13:27.061000,2017-06-01 06:00:40.812000
+VTL000511,Becca Balint,Becca,,Balint,,,True,vt,upper,Windham,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/BBalint.jpg,2015-01-12 22:13:27.937000,2017-06-01 06:00:41.208000
+VTL000817,Christopher A. Pearson,Christopher A.,,Pearson,,,True,vt,upper,Chittenden,Progressive/Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/CPearson.jpg,2017-01-05 05:04:09.461000,2017-06-01 06:00:41.461000
+VTL000818,Carolyn Whitney Branagan,Carolyn Whitney,,Branagan,,,True,vt,upper,Franklin,Republican,http://legislature.vermont.gov/assets/Documents/Legislators/CBranagan.jpg,2017-01-05 05:04:09.467000,2017-06-01 06:00:41.451000
+VTL000820,Debbie Ingram,Debbie,,Ingram,,,True,vt,upper,Chittenden,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/DIngram.jpg,2017-01-05 05:04:09.529000,2017-06-01 06:00:40.592000
+VTL000825,Alison Clarkson,Alison,,Clarkson,,,True,vt,upper,Windsor,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/AClarkson.jpg,2017-01-05 05:04:09.692000,2017-06-01 06:00:41.172000
+VTL000827,Francis K. Brooks,Francis K.,,Brooks,,,True,vt,upper,Washington,Democratic,http://legislature.vermont.gov/assets/Documents/Legislators/FBrooks.jpg,2017-01-05 05:04:09.732000,2017-06-01 06:00:41.449000

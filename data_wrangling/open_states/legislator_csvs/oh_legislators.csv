@@ -1,0 +1,244 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+OHL000002,Mark Wagoner,Mark,,Wagoner,,,False,oh,,,,http://www.ohiosenate.gov/senateImages/129/headshots/s02.jpg,2011-02-22 21:25:58.175000,2013-01-07 20:11:11.647000
+OHL000004,Gary Cates,Gary,,Cates,,,False,oh,,,,http://www.ohiosenate.gov/senateImages/129/headshots/s04.jpg,2011-02-22 21:25:58.190000,2012-06-05 20:02:06.516000
+OHL000007,Shannon Jones,Shannon,,Jones,,,False,oh,,,,http://www.ohiosenate.gov/senate/Assets/Headshots/Small/7.jpg,2011-02-22 21:25:58.207000,2017-01-04 05:04:12.478000
+OHL000009,Eric Kearney,Eric H.,,Kearney,,,False,oh,,,,http://www.ohiosenate.gov/senate/Assets/Headshots/Small/9.jpg,2011-02-22 21:25:58.211000,2015-01-07 22:20:22.167000
+OHL000010,Chris Widener,Chris,,Widener,,,False,oh,,,,http://www.ohiosenate.gov/senate/Assets/Headshots/Small/10.jpg,2011-02-22 21:25:58.213000,2016-03-17 20:57:05.193000
+OHL000012,Keith Faber,Keith,,Faber,,,False,oh,,,,http://www.ohiosenate.gov/senate/Assets/Headshots/Small/12.jpg,2011-02-22 21:25:58.228000,2017-01-04 05:04:12.474000
+OHL000014,Thomas E Niehaus,Thomas,E,Niehaus,,,False,oh,,,,http://www.ohiosenate.gov/senateImages/129/headshots/s14.jpg,2011-02-22 21:25:58.232000,2013-01-07 20:11:11.646000
+OHL000016,Jim Hughes,Jim,,Hughes,,,False,oh,,,,http://www.ohiosenate.gov/senate/Assets/Headshots/Small/16.jpg,2011-02-22 21:25:58.235000,2017-01-04 05:04:12.471000
+OHL000017,David T Daniels,David,T,Daniels,,,False,oh,,,,http://www.ohiosenate.gov/senateImages/129/headshots/s17.jpg,2011-02-22 21:25:58.237000,2012-06-05 20:06:46.381000
+OHL000018,Tim Grendell,Tim,,Grendell,,,False,oh,,,,http://www.ohiosenate.gov/senateImages/129/headshots/s18.jpg,2011-02-22 21:25:58.239000,2012-02-22 22:25:43.522000
+OHL000020,Jimmy Stewart,Jimmy,,Stewart,,,False,oh,,,,http://www.ohiosenate.gov/senateImages/129/headshots/s20.jpg,2011-02-22 21:25:58.263000,2012-06-05 20:08:23.653000
+OHL000021,Shirley A Smith,Shirley,A,Smith,,,False,oh,,,,http://www.ohiosenate.gov/senate/Assets/Headshots/Small/21.jpg,2011-02-22 21:25:58.265000,2015-01-07 22:20:22.160000
+OHL000024,Tom Patton,Tom,,Patton,,,False,oh,,,,http://www.ohiosenate.gov/senate/Assets/Headshots/Small/24.jpg,2011-02-22 21:25:58.282000,2017-01-04 05:04:12.480000
+OHL000025,Nina Turner,Nina,,Turner,,,False,oh,,,,http://www.ohiosenate.gov/senate/Assets/Headshots/Small/25.jpg,2011-02-22 21:25:58.284000,2015-01-07 22:20:22.163000
+OHL000026,Karen Gillmor,Karen,,Gillmor,,,False,oh,,,,http://www.ohiosenate.gov/senateImages/129/headshots/s26.jpg,2011-02-22 21:25:58.285000,2012-06-05 20:09:44.059000
+OHL000028,Tom Sawyer,Tom,,Sawyer,,,False,oh,,,,http://www.ohiosenate.gov/senate/Assets/Headshots/Small/28.jpg,2011-02-22 21:25:58.289000,2017-01-04 05:04:12.481000
+OHL000030,Jason Wilson,Jason,,Wilson,,,False,oh,,,,http://www.ohiosenate.gov/senateImages/129/headshots/s30.jpg,2011-02-22 21:25:58.293000,2012-02-22 22:25:09.486000
+OHL000032,Capri S Cafaro,Capri,S,Cafaro,,,False,oh,,,,http://www.ohiosenate.gov/senate/Assets/Headshots/Small/32.jpg,2011-02-22 21:25:58.296000,2017-01-04 05:04:12.470000
+OHL000033,Joe Schiavoni,Joe,,Schiavoni,,,False,oh,,,,http://www.ohiosenate.gov/senate/Assets/Headshots/Small/33.jpg,2011-02-22 21:25:58.298000,2017-01-04 05:04:12.473000
+OHL000036,Ron Amstutz,Ron,,Amstutz,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/1.jpg,2011-02-22 21:25:58.321000,2017-01-04 05:04:12.450000
+OHL000037,Matt Huffman,Matt,,Huffman,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/4.jpg,2011-02-22 21:25:58.322000,2015-01-07 22:20:22.103000
+OHL000038,Gerald L Stebelton,Gerald,L,Stebelton,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/77.jpg,2011-02-22 21:25:58.324000,2015-01-07 22:20:22.141000
+OHL000041,Armond Budish,Armond,,Budish,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/8.jpg,2011-02-22 21:25:58.329000,2015-01-07 22:20:22.146000
+OHL000042,Barbara Boyd,Barbara,,Boyd,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/9.jpg,2011-02-22 21:25:58.331000,2015-01-07 22:20:22.158000
+OHL000044,Sandra Williams,Sandra,,Williams,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/11.jpg,2011-02-22 21:25:58.335000,2015-01-07 22:20:22.084000
+OHL000047,Mike Foley,Mike,,Foley,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/14.jpg,2011-02-22 21:25:58.350000,2015-01-07 22:20:22.087000
+OHL000048,Timothy J DeGeeter,Timothy,J,DeGeeter,,,False,oh,,,,http://www.house.state.oh.us/houseImages/129/headshots/h15.jpg,2011-02-22 21:25:58.352000,2012-02-22 22:26:18.176000
+OHL000049,Nan A Baker,Nan,A,Baker,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/16.jpg,2011-02-22 21:25:58.353000,2017-01-04 05:04:12.447000
+OHL000051,Mike Dovilla,Mike,,Dovilla,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/7.jpg,2011-02-22 21:25:58.357000,2017-01-04 05:04:12.446000
+OHL000055,John Patrick Carney,John Patrick,,Carney,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/22.jpg,2011-02-22 21:25:58.365000,2015-01-07 22:20:22.089000
+OHL000056,Cheryl L Grossman,Cheryl,L,Grossman,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/23.jpg,2011-02-22 21:25:58.367000,2017-01-04 05:04:12.420000
+OHL000058,Michael Stinziano,Michael,,Stinziano,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/18.jpg,2011-02-22 21:25:58.371000,2016-02-05 02:30:53.919000
+OHL000059,Tracy Maxwell Heard,Tracy,Maxwell,Heard,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/26.jpg,2011-02-22 21:25:58.373000,2015-01-07 22:20:22.091000
+OHL000060,W. Carlton Weddington,W. Carlton,,Weddington,,,False,oh,,,,http://www.house.state.oh.us/houseImages/129/headshots/h27.jpg,2011-02-22 21:25:58.385000,2012-06-05 20:15:56.750000
+OHL000061,Connie Pillich,Connie,,Pillich,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/28.jpg,2011-02-22 21:25:58.387000,2015-01-07 22:20:22.095000
+OHL000063,Robert P Mecklenborg,Robert,P,Mecklenborg,,,False,oh,,,,http://www.house.state.oh.us/houseImages/129/headshots/h30.jpg,2011-02-22 21:25:58.391000,2012-02-22 22:26:58.874000
+OHL000064,Denise Driehaus,Denise,,Driehaus,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/31.jpg,2011-02-22 21:25:58.392000,2017-01-04 05:04:12.426000
+OHL000065,Dale Mallory,Dale,,Mallory,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/32.jpg,2011-02-22 21:25:58.394000,2015-01-07 22:20:22.097000
+OHL000067,Peter Stautberg,Peter,,Stautberg,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/27.jpg,2011-02-22 21:25:58.398000,2015-01-07 22:20:22.093000
+OHL000068,Ron Maag,Ron,,Maag,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/62.jpg,2011-02-22 21:25:58.399000,2017-01-04 05:04:12.451000
+OHL000071,Terry Blair,Terry,,Blair,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/42.jpg,2011-02-22 21:25:58.405000,2015-01-07 22:20:22.107000
+OHL000073,Roland Winburn,Roland,,Winburn,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/43.jpg,2011-02-22 21:25:58.408000,2015-01-07 22:20:22.123000
+OHL000074,Lynn Slaby,Lynn,,Slaby,,,False,oh,,,,http://www.house.state.oh.us/houseImages/129/headshots/h41.jpg,2011-02-22 21:25:58.410000,2012-06-05 20:19:22.755000
+OHL000076,Todd McKenney,Todd,,McKenney,,,False,oh,,,,http://www.house.state.oh.us/houseImages/129/headshots/h43.jpg,2011-02-22 21:25:58.413000,2012-02-22 22:27:23.068000
+OHL000077,Vernon Sykes,Vernon,,Sykes,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/34.jpg,2011-02-22 21:25:58.415000,2015-01-07 22:20:22.099000
+OHL000078,Zack Milkovich,Zack,,Milkovich,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/35.jpg,2011-02-22 21:25:58.427000,2015-01-07 22:20:22.101000
+OHL000079,Barbara R Sears,Barbara,R,Sears,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/47.jpg,2011-02-22 21:25:58.429000,2016-08-30 18:37:50.907000
+OHL000081,Mike Ashford,Mike,,Ashford,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/44.jpg,2011-02-22 21:25:58.442000,2017-01-04 05:04:12.444000
+OHL000082,Matt Szollosi,Matt,,Szollosi,,,False,oh,,,,http://www.house.state.oh.us/houseImages/129/headshots/h49.jpg,2011-02-22 21:25:58.444000,2013-07-01 14:26:14.814000
+OHL000083,Todd A Snitchler,Todd,A,Snitchler,,,False,oh,,,,,2011-02-22 21:25:58.446000,2012-02-22 22:28:02.338000
+OHL000085,Stephen Slesnick,Stephen,,Slesnick,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/49.jpg,2011-02-22 21:25:58.457000,2017-01-04 05:04:12.458000
+OHL000086,Timothy Derickson,Timothy,,Derickson,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/53.jpg,2011-02-22 21:25:58.458000,2017-01-04 05:04:12.463000
+OHL000088,Bill Coley,William,P,Coley,,,False,oh,,,,http://www.ohiosenate.gov/senate/Assets/Headshots/Small/4.jpg,2011-02-22 21:25:58.463000,2017-01-04 05:04:12.467000
+OHL000089,Dan Ramos,Dan,,Ramos,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/56.jpg,2011-02-22 21:25:58.465000,2017-01-04 05:04:12.422000
+OHL000090,Matt Lundy,Matt,,Lundy,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/55.jpg,2011-02-22 21:25:58.467000,2015-01-07 22:20:22.129000
+OHL000091,Terry Boose,Terry,,Boose,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/57.jpg,2011-02-22 21:25:58.469000,2017-01-04 05:04:12.461000
+OHL000092,Ronald V Gerberry,Ronald,V,Gerberry,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/59.jpg,2011-02-22 21:25:58.470000,2016-02-05 02:25:56.814000
+OHL000093,Robert F Hagan,Robert,F,Hagan,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/58.jpg,2011-02-22 21:25:58.473000,2015-01-07 22:20:22.131000
+OHL000097,Tom Letson,Tom,,Letson,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/64.jpg,2011-02-22 21:25:58.480000,2015-01-07 22:20:22.133000
+OHL000098,Sean O'Brien,Sean,,O'Brien,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/63.jpg,2011-02-22 21:25:58.481000,2017-01-04 05:04:12.453000
+OHL000100,Peter Beck,Peter,,Beck,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/54.jpg,2011-02-22 21:25:58.485000,2015-01-07 22:20:22.127000
+OHL000102,William G Batchelder,William,G,Batchelder,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/69.jpg,2011-02-22 21:25:58.488000,2015-01-07 22:20:22.135000
+OHL000105,Ross W McGregor,Ross,W,McGregor,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/79.jpg,2011-02-22 21:25:58.494000,2015-01-07 22:20:22.144000
+OHL000108,Lynn R Wachtmann,Lynn,R,Wachtmann,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/81.jpg,2011-02-22 21:25:58.499000,2015-01-07 22:20:22.150000
+OHL000109,Robert Sprague,Robert,,Sprague,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/83.jpg,2011-02-22 21:25:58.501000,2017-01-04 05:04:12.448000
+OHL000110,Jim Buchy,Jim,,Buchy,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/84.jpg,2011-02-22 21:25:58.503000,2017-01-04 05:04:12.435000
+OHL000111,John Adams,John,,Adams,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/85.jpg,2011-02-22 21:25:58.504000,2015-01-07 22:20:22.152000
+OHL000112,Richard N Adams,Richard,N,Adams,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/80.jpg,2011-02-22 21:25:58.506000,2015-01-07 22:20:22.148000
+OHL000114,Rex Damschroder,Rex,,Damschroder,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/88.jpg,2011-02-22 21:25:58.510000,2015-01-07 22:20:22.154000
+OHL000115,Jeffrey A McClain,Jeffrey,A,McClain,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/87.jpg,2011-02-22 21:25:58.522000,2017-01-04 05:04:12.433000
+OHL000120,John Carey,John,,Carey,,,False,oh,,,,http://www.house.state.oh.us/houseImages/129/headshots/h87.jpg,2011-02-22 21:25:58.533000,2012-06-05 20:25:10.466000
+OHL000123,Margaret Ann Ruhl,Margaret Ann,,Ruhl,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/68.jpg,2011-02-22 21:25:58.538000,2017-01-04 05:04:12.442000
+OHL000124,Bill Hayes,Bill,,Hayes,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/72.jpg,2011-02-22 21:25:58.540000,2017-01-04 05:04:12.418000
+OHL000125,Debbie Phillips,Debbie,,Phillips,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/94.jpg,2011-02-22 21:25:58.542000,2017-01-04 05:04:12.425000
+OHL000128,Lou Gentile,Lou,,Gentile,,,False,oh,,,,http://www.ohiosenate.gov/Assets/Headshots/Small/30.jpg,2011-02-22 21:25:58.548000,2017-01-04 05:04:12.475000
+OHL000130,David Hall,David,,Hall,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/70.jpg,2011-02-22 21:25:58.552000,2017-01-04 05:04:12.424000
+OHL000131,Richard Hollington,Richard,,Hollington,,,False,oh,,,,http://www.house.state.oh.us/houseImages/129/headshots/h98.jpg,2011-02-22 21:25:58.554000,2012-06-05 20:28:20.731000
+OHL000145,Louis Terhar,Louis,,Terhar,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/30.jpg,2011-09-15 01:43:53.262000,2017-01-04 05:04:12.440000
+OHL000157,Philip H. Rose ,Philip H.,,Rose,,,False,oh,,,,,2012-02-03 00:53:54.350000,2012-06-05 20:25:55.843000
+OHL000158,Mary Brigid Matheney ,Mary Brigid,,Matheney,,,False,oh,,,,,2012-02-17 01:06:24.844000,2012-06-05 20:30:49
+OHL000161,Matt Lynch,Matt,,Lynch,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/76.jpg,2012-04-20 00:58:21.482000,2015-01-07 22:20:22.139000
+OHL000164,Kevin Boyce,Kevin,,Boyce,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/25.jpg,2012-05-11 01:40:29.914000,2017-01-04 05:04:12.437000
+OHL000172,Tim W. Brown,Tim W.,,Brown,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/3.jpg,2013-01-08 22:53:56.406000,2016-08-30 18:30:57.473000
+OHL000174,Nick Barborak,Nick,,Barborak,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/5.jpg,2013-01-08 22:53:56.417000,2015-01-07 22:20:22.125000
+OHL000186,Michael F. Curtin,Michael F.,,Curtin,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/17.jpg,2013-01-08 22:53:56.484000,2017-01-04 05:04:12.443000
+OHL000193,Stephanie Kunze,Stephanie,,Kunze,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/24.jpg,2013-01-08 22:53:56.525000,2017-01-04 05:04:12.456000
+OHL000251,Tony Burkley,Tony,,Burkley,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/82.jpg,2013-01-08 22:53:56.895000,2017-01-04 05:04:12.466000
+OHL000258,Chris Redfern,Chris,,Redfern,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/89.jpg,2013-01-08 22:53:56.941000,2015-01-07 22:20:22.156000
+OHL000272,Niraj Antani,Niraj,,Antani,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/42.jpg,2014-12-07 01:26:58.309000,2015-01-07 22:20:22.105000
+OHL000274,Steven W. Kraus,Steven W.,,Kraus,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/89.jpg,2015-01-07 22:20:20.250000,2016-02-05 02:27:42.442000
+OHL000275,Kyle Koehler,Kyle,,Koehler,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/79.jpg,2015-01-07 22:20:20.281000,2017-01-04 05:04:12.439000
+OHL000282,Sandra R. Williams,Sandra R.,,Williams,,,False,oh,,,,http://www.ohiosenate.gov/Assets/Headshots/Small/21.jpg,2015-01-07 22:20:20.459000,2017-01-04 05:04:12.477000
+OHL000292,Christie Bryant Kuhns,Christie Bryant,,Kuhns,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/32.jpg,2015-01-07 22:20:21.154000,2017-01-04 05:04:12.421000
+OHL000307,Steven Arndt,Steven,,Arndt,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/89.jpg,2015-10-01 13:14:27.892000,2017-01-04 05:04:12.460000
+OHL000308,John Boccieri,John,,Boccieri,,,False,oh,,,,http://www.ohiohouse.gov/Assets/Headshots/Small/59.jpg,2015-10-01 13:14:28.004000,2017-01-04 05:04:12.436000
+OHL000034,Craig Newbold,Craig,,Newbold,,,False,oh,lower,1,Republican,http://www.house.state.oh.us/houseImages/129/headshots/h01.jpg,2011-02-22 21:25:58.300000,2013-01-07 20:11:11.522000
+OHL000053,Nancy J Garland,Nancy,J,Garland,,,False,oh,lower,20,Democratic,http://www.house.state.oh.us/houseImages/129/headshots/h20.jpg,2011-02-22 21:25:58.361000,2013-01-07 20:11:11.499000
+OHL000057,Ted Celeste,Ted,,Celeste,,,False,oh,lower,24,Democratic,http://www.house.state.oh.us/houseImages/129/headshots/h24.jpg,2011-02-22 21:25:58.369000,2013-01-07 20:11:11.549000
+OHL000062,Louis W Blessing Jr.,Louis,W,Blessing,Jr.,,False,oh,lower,29,Republican,http://www.house.state.oh.us/houseImages/129/headshots/h29.jpg,2011-02-22 21:25:58.389000,2013-01-07 20:11:11.502000
+OHL000072,Clayton R Luckie,Clayton,R,Luckie,,,False,oh,lower,39,Democratic,http://www.house.state.oh.us/houseImages/129/headshots/h39.jpg,2011-02-22 21:25:58.406000,2013-01-07 20:11:11.612000
+OHL000087,Courtney Combs,Courtney,,Combs,,,False,oh,lower,54,Republican,http://www.house.state.oh.us/houseImages/129/headshots/h54.jpg,2011-02-22 21:25:58.460000,2013-01-07 20:11:11.540000
+OHL000094,Mark D Okey,Mark,D,Okey,,,False,oh,lower,61,Democratic,http://www.house.state.oh.us/houseImages/129/headshots/h61.jpg,2011-02-22 21:25:58.474000,2013-01-07 20:11:11.584000
+OHL000095,Lorraine M Fende,Lorraine,M,Fende,,,False,oh,lower,62,Democratic,http://www.house.state.oh.us/houseImages/129/headshots/h62.jpg,2011-02-22 21:25:58.476000,2013-01-07 20:11:11.576000
+OHL000103,Jarrod B Martin,Jarrod,B,Martin,,,False,oh,lower,70,Republican,http://www.house.state.oh.us/houseImages/129/headshots/h70.jpg,2011-02-22 21:25:58.490000,2013-01-07 20:11:11.558000
+OHL000106,Jay P Goyal,Jay,P,Goyal,,,False,oh,lower,73,Democratic,http://www.house.state.oh.us/houseImages/129/headshots/h73.jpg,2011-02-22 21:25:58.496000,2013-01-07 20:11:11.495000
+OHL000107,Bruce W Goodwin,Bruce,W,Goodwin,,,False,oh,lower,74,Republican,http://www.house.state.oh.us/houseImages/129/headshots/h74.jpg,2011-02-22 21:25:58.497000,2013-01-07 20:11:11.611000
+OHL000113,Dennis E Murray,Dennis,E,Murray,,,False,oh,lower,80,Democratic,http://www.house.state.oh.us/houseImages/129/headshots/h80.jpg,2011-02-22 21:25:58.508000,2013-01-07 20:11:11.552000
+OHL000121,Danny R Bubp,Danny,R,Bubp,,,False,oh,lower,88,Republican,http://www.house.state.oh.us/houseImages/129/headshots/h88.jpg,2011-02-22 21:25:58.534000,2013-01-07 20:11:11.545000
+OHL000132,Casey Kozlowski,Casey,,Kozlowski,,,False,oh,lower,99,Republican,http://www.house.state.oh.us/houseImages/129/headshots/h99.jpg,2011-02-22 21:25:58.556000,2013-01-07 20:11:11.530000
+OHL000008,Bill Seitz,Bill,,Seitz,,,True,oh,lower,30,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/30.jpg,2011-02-22 21:25:58.209000,2017-06-01 06:18:30.761000
+OHL000031,Tim Schaffer,Timothy O.,,Schaffer,,,True,oh,lower,77,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/77.jpg,2011-02-22 21:25:58.294000,2017-06-01 06:18:46.495000
+OHL000035,Andrew Brenner,Andrew,,Brenner,,,True,oh,lower,67,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/67.jpg,2011-02-22 21:25:58.319000,2017-06-01 06:18:46.418000
+OHL000043,Bill Patmon,Bill,,Patmon,,,True,oh,lower,10,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/10.jpg,2011-02-22 21:25:58.333000,2017-06-01 06:18:30.759000
+OHL000045,John Barnes Jr.,John,,Barnes,Jr.,,True,oh,lower,12,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/12.jpg,2011-02-22 21:25:58.336000,2017-06-01 06:18:30.795000
+OHL000046,Nickie J. Antonio,Nickie J.,,Antonio,,,True,oh,lower,13,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/13.jpg,2011-02-22 21:25:58.348000,2017-06-01 06:18:30.826000
+OHL000050,Marlene Anielski,Marlene,,Anielski,,,True,oh,lower,6,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/6.jpg,2011-02-22 21:25:58.355000,2017-06-01 06:18:30.814000
+OHL000052,Anne Gonzales,Anne,,Gonzales,,,True,oh,lower,19,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/19.jpg,2011-02-22 21:25:58.359000,2017-06-01 06:18:30.754000
+OHL000054,Mike Duffey,Mike,,Duffey,,,True,oh,lower,21,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/21.jpg,2011-02-22 21:25:58.362000,2017-06-01 06:18:30.822000
+OHL000066,Alicia Reece,Alicia,,Reece,,,True,oh,lower,33,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/33.jpg,2011-02-22 21:25:58.396000,2017-06-01 06:18:30.751000
+OHL000069,Michael Henne,Michael,,Henne,,,True,oh,lower,40,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/40.jpg,2011-02-22 21:25:58.401000,2017-06-01 06:18:30.817000
+OHL000070,Jim Butler,Jim,,Butler,,,True,oh,lower,41,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/41.jpg,2011-02-22 21:25:58.403000,2017-06-01 06:18:30.791000
+OHL000075,Kristina Roegner,Kristina,,Roegner,,,True,oh,lower,37,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/37.jpg,2011-02-22 21:25:58.412000,2017-06-01 06:18:30.806000
+OHL000080,Teresa Fedor,Teresa,,Fedor,,,True,oh,lower,45,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/45.jpg,2011-02-22 21:25:58.440000,2017-06-01 06:18:30.848000
+OHL000084,Kirk Schuring,Kirk,,Schuring,,,True,oh,lower,48,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/48.jpg,2011-02-22 21:25:58.455000,2017-06-01 06:18:30.804000
+OHL000096,Ron Young,Ron,,Young,,,True,oh,lower,61,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/61.jpg,2011-02-22 21:25:58.478000,2017-06-01 06:18:30.837000
+OHL000101,Kathleen Clyde,Kathleen,,Clyde,,,True,oh,lower,75,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/75.jpg,2011-02-22 21:25:58.487000,2017-06-01 06:18:30.800000
+OHL000119,Cliff Rosenberger,Clifford A.,,Rosenberger,,,True,oh,lower,91,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/91.jpg,2011-02-22 21:25:58.531000,2017-06-01 06:18:30.768000
+OHL000122,Terry Johnson,Terry,,Johnson,,,True,oh,lower,90,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/90.jpg,2011-02-22 21:25:58.536000,2017-06-01 06:18:30.849000
+OHL000126,Andy Thompson,Andy,,Thompson,,,True,oh,lower,95,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/95.jpg,2011-02-22 21:25:58.544000,2017-06-01 06:18:30.753000
+OHL000129,Al Landis,Al,,Landis,,,True,oh,lower,98,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/98.jpg,2011-02-22 21:25:58.551000,2017-06-01 06:18:46.469000
+OHL000134,Christina Hagan,Christina,,Hagan,,,True,oh,lower,50,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/50.jpg,2011-03-03 00:17:22.796000,2017-06-01 06:18:30.766000
+OHL000137,Margaret Conditt,Margaret,,Conditt,,,True,oh,lower,52,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/52.jpg,2011-06-10 02:52:59.579000,2017-06-01 06:18:30.810000
+OHL000142,Dorothy Pelanda,Dorothy,,Pelanda,,,True,oh,lower,86,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/86.jpg,2011-07-29 02:58:58.085000,2017-06-01 06:18:30.776000
+OHL000143,Brian Hill,Brian,,Hill,,,True,oh,lower,97,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/97.jpg,2011-07-29 02:58:58.116000,2017-06-01 06:18:30.762000
+OHL000151,Anthony DeVitis,Anthony,,DeVitis,,,True,oh,lower,36,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/36.jpg,2011-12-16 01:54:13.137000,2017-06-01 06:18:30.756000
+OHL000152,Jack Cera,Jack,,Cera,,,True,oh,lower,96,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/96.jpg,2011-12-16 01:54:13.596000,2017-06-01 06:18:46.526000
+OHL000156,Nicholas Celebrezze,Nicholas,,Celebrezze,,,True,oh,lower,15,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/15.jpg,2012-01-27 00:52:01.059000,2017-06-01 06:18:30.825000
+OHL000160,Ryan Smith,Ryan,,Smith,,,True,oh,lower,93,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/93.jpg,2012-04-20 00:58:21.320000,2017-06-01 06:18:30.838000
+OHL000162,Marilyn Slaby,Marilyn,,Slaby,,,True,oh,lower,38,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/38.jpg,2012-04-27 01:38:26.298000,2017-06-01 06:18:30.811000
+OHL000163,Gary Scherer,Gary,,Scherer,,,True,oh,lower,92,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/92.jpg,2012-04-27 01:38:26.635000,2017-06-01 06:18:30.781000
+OHL000171,Mark J. Romanchuk,Mark J.,,Romanchuk,,,True,oh,lower,2,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/2.jpg,2013-01-08 22:53:56.401000,2017-06-01 06:18:30.812000
+OHL000189,Heather Bishoff,Heather,,Bishoff,,,True,oh,lower,20,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/20.jpg,2013-01-08 22:53:56.502000,2017-06-01 06:18:30.785000
+OHL000198,Louis W. Blessing III,Louis W.,,Blessing,III,,True,oh,lower,29,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/29.jpg,2013-01-08 22:53:56.554000,2017-06-01 06:18:30.809000
+OHL000208,Fred Strahorn,Fred,,Strahorn,,,True,oh,lower,39,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/39.jpg,2013-01-08 22:53:56.632000,2017-06-01 06:18:30.780000
+OHL000220,Wes Retherford,Wes,,Retherford,,,True,oh,lower,51,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/51.jpg,2013-01-08 22:53:56.701000,2017-06-01 06:18:30.859000
+OHL000229,John M. Rogers,John M.,,Rogers,,,True,oh,lower,60,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/60.jpg,2013-01-08 22:53:56.754000,2017-06-01 06:18:30.797000
+OHL000234,John Becker,John,,Becker,,,True,oh,lower,65,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/65.jpg,2013-01-08 22:53:56.785000,2017-06-01 06:18:30.796000
+OHL000235,Doug Green,Doug,,Green,,,True,oh,lower,66,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/66.jpg,2013-01-08 22:53:56.791000,2017-06-01 06:18:30.778000
+OHL000242,Rick Perales,Rick,,Perales,,,True,oh,lower,73,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/73.jpg,2013-01-08 22:53:56.835000,2017-06-01 06:18:30.831000
+OHL000247,Ron Hood,Ron,,Hood,,,True,oh,lower,78,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/78.jpg,2013-01-08 22:53:56.870000,2017-06-01 06:18:46.443000
+OHL000268,John Patterson,John,,Patterson,,,True,oh,lower,99,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/99.jpg,2013-01-08 22:53:57.005000,2017-06-01 06:18:46.438000
+OHL000271,Michael Sheehy,Michael,,Sheehy,,,True,oh,lower,46,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/46.jpg,2013-06-29 02:31:04.016000,2017-06-01 06:18:30.820000
+OHL000273,Niraj J. Antani,Niraj J.,,Antani,,,True,oh,lower,42,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/42.jpg,2014-12-09 01:27:51.416000,2017-06-01 06:18:46.402000
+OHL000276,Bill Reineke,Bill,,Reineke,,,True,oh,lower,88,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/88.jpg,2015-01-07 22:20:20.290000,2017-06-01 06:18:30.760000
+OHL000277,Stephen A. Huffman,Stephen A.,,Huffman,,,True,oh,lower,80,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/80.jpg,2015-01-07 22:20:20.341000,2017-06-01 06:18:30.843000
+OHL000278,Robert McColley,Robert,,McColley,,,True,oh,lower,81,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/81.jpg,2015-01-07 22:20:20.361000,2017-06-01 06:18:46.327000
+OHL000280,Stephen D. Hambley,Stephen D.,,Hambley,,,True,oh,lower,69,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/69.jpg,2015-01-07 22:20:20.421000,2017-06-01 06:18:30.845000
+OHL000281,Timothy E. Ginter,Timothy E.,,Ginter,,,True,oh,lower,5,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/5.jpg,2015-01-07 22:20:20.449000,2017-06-01 06:18:30.856000
+OHL000283,Janine R. Boyd,Janine R.,,Boyd,,,True,oh,lower,9,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/9.jpg,2015-01-07 22:20:20.469000,2017-06-01 06:18:30.788000
+OHL000284,A. Nino Vitale,A. Nino,,Vitale,,,True,oh,lower,85,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/85.jpg,2015-01-07 22:20:20.693000,2017-06-01 06:18:46.356000
+OHL000285,Michele Lepore-Hagan,Michele,,Lepore-Hagan,,,True,oh,lower,58,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/58.jpg,2015-01-07 22:20:20.824000,2017-06-01 06:18:30.821000
+OHL000286,Nathan H. Manning,Nathan H.,,Manning,,,True,oh,lower,55,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/55.jpg,2015-01-07 22:20:20.864000,2017-06-01 06:18:46.474000
+OHL000287,Stephanie D. Howse,Stephanie D.,,Howse,,,True,oh,lower,11,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/11.jpg,2015-01-07 22:20:20.894000,2017-06-01 06:18:30.842000
+OHL000288,Robert R. Cupp,Robert R.,,Cupp,,,True,oh,lower,4,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/4.jpg,2015-01-07 22:20:20.904000,2017-06-01 06:18:30.835000
+OHL000289,Michael J. O'Brien,Michael J.,,O'Brien,,,True,oh,lower,64,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/64.jpg,2015-01-07 22:20:21.034000,2017-06-01 06:18:30.819000
+OHL000290,Jonathan Dever,Jonathan,,Dever,,,True,oh,lower,28,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/28.jpg,2015-01-07 22:20:21.066000,2017-06-01 06:18:46.453000
+OHL000291,Greta Johnson,Greta,,Johnson,,,True,oh,lower,35,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/35.jpg,2015-01-07 22:20:21.144000,2017-06-01 06:18:30.746000
+OHL000293,Paul Zeltwanger,Paul,,Zeltwanger,,,True,oh,lower,54,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/54.jpg,2015-01-07 22:20:21.165000,2017-06-01 06:18:30.829000
+OHL000294,Emilia Strong Sykes,Emilia Strong,,Sykes,,,True,oh,lower,34,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/34.jpg,2015-01-07 22:20:21.175000,2017-06-01 06:18:46.458000
+OHL000296,Hearcel F. Craig,Hearcel F.,,Craig,,,True,oh,lower,26,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/26.jpg,2015-01-07 22:20:21.220000,2017-06-01 06:18:30.784000
+OHL000297,David Leland,David,,Leland,,,True,oh,lower,22,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/22.jpg,2015-01-07 22:20:21.295000,2017-06-01 06:18:30.773000
+OHL000298,Kent Smith,Kent,,Smith,,,True,oh,lower,8,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/8.jpg,2015-01-07 22:20:21.377000,2017-06-01 06:18:30.802000
+OHL000299,Martin J. Sweeney,Martin J.,,Sweeney,,,True,oh,lower,14,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/14.jpg,2015-01-07 22:20:21.410000,2017-06-01 06:18:30.815000
+OHL000300,Jeffery S. Rezabek,Jeffery S.,,Rezabek,,,True,oh,lower,43,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/43.jpg,2015-01-07 22:20:21.575000,2017-06-01 06:18:30.790000
+OHL000302,Sarah LaTourette,Sarah,,LaTourette,,,True,oh,lower,76,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/76.jpg,2015-01-07 22:20:21.655000,2017-06-01 06:18:30.839000
+OHL000304,"Tom Brinkman, Jr.",Tom,,Brinkman,Jr.,,True,oh,lower,27,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/27.jpg,2015-01-07 22:20:21.701000,2017-06-01 06:18:30.857000
+OHL000305,Scott Ryan,Scott,,Ryan,,,True,oh,lower,71,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/71.jpg,2015-01-07 22:20:21.731000,2017-06-01 06:18:46.407000
+OHL000309,Kristin Boggs,Kristin,,Boggs,,,True,oh,lower,18,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/18.jpg,2016-01-29 07:16:43.803000,2017-06-01 06:18:46.423000
+OHL000311,Bill Dean,Bill,,Dean,,,True,oh,lower,74,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/74.jpg,2016-04-14 23:42:19.531000,2017-06-01 06:18:30.758000
+OHL000312,Theresa Gavarone,Theresa,,Gavarone,,,True,oh,lower,3,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/3.jpg,2016-08-03 07:24:06.367000,2017-06-01 06:18:30.850000
+OHL000313,Derek Merrin,Derek,,Merrin,,,True,oh,lower,47,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/47.jpg,2016-08-03 07:24:06.435000,2017-06-01 06:18:30.774000
+OHL000315,P. Scott Lipps,P. Scott,,Lipps,,,True,oh,lower,62,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/62.jpg,2017-01-04 05:04:11.458000,2017-06-01 06:18:30.828000
+OHL000317,Candice Keller,Candice,,Keller,,,True,oh,lower,53,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/53.jpg,2017-01-04 05:04:11.486000,2017-06-01 06:18:46.368000
+OHL000318,Larry Householder,Larry,,Householder,,,True,oh,lower,72,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/72.jpg,2017-01-04 05:04:11.492000,2017-06-01 06:18:30.807000
+OHL000319,Keith Faber,Keith,,Faber,,,True,oh,lower,84,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/84.jpg,2017-01-04 05:04:11.498000,2017-06-01 06:18:30.801000
+OHL000321,Jay Edwards,Jay,,Edwards,,,True,oh,lower,94,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/94.jpg,2017-01-04 05:04:11.515000,2017-06-01 06:18:30.789000
+OHL000322,Craig S. Riedel,Craig S.,,Riedel,,,True,oh,lower,82,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/82.jpg,2017-01-04 05:04:11.532000,2017-06-01 06:18:30.769000
+OHL000324,Darrell Kick,Darrell,,Kick,,,True,oh,lower,70,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/70.jpg,2017-01-04 05:04:11.548000,2017-06-01 06:18:30.771000
+OHL000325,Wesley A. Goodman,Wesley A.,,Goodman,,,True,oh,lower,87,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/87.jpg,2017-01-04 05:04:11.588000,2017-06-01 06:18:46.531000
+OHL000329,Michael Ashford,Michael,,Ashford,,,True,oh,lower,44,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/44.jpg,2017-01-04 05:04:11.639000,2017-06-01 06:18:46.350000
+OHL000330,Rick Carfagna,Rick,,Carfagna,,,True,oh,lower,68,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/68.jpg,2017-01-04 05:04:11.645000,2017-06-01 06:18:30.830000
+OHL000331,Robert Cole Sprague,Robert Cole,,Sprague,,,True,oh,lower,83,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/83.jpg,2017-01-04 05:04:11.651000,2017-06-01 06:18:30.832000
+OHL000332,Daniel Ramos,Daniel,,Ramos,,,True,oh,lower,56,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/56.jpg,2017-01-04 05:04:11.656000,2017-06-01 06:18:46.505000
+OHL000333,Scott Wiggam,Scott,,Wiggam,,,True,oh,lower,1,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/1.jpg,2017-01-04 05:04:11.662000,2017-06-01 06:18:30.841000
+OHL000334,Jim Hughes,Jim,,Hughes,,,True,oh,lower,24,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/24.jpg,2017-01-04 05:04:11.673000,2017-06-01 06:18:30.793000
+OHL000335,Bernadine Kennedy Kent,Bernadine Kennedy,,Kent,,,True,oh,lower,25,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/25.jpg,2017-01-04 05:04:11.697000,2017-06-01 06:18:46.391000
+OHL000338,J. Kyle Koehler,J. Kyle,,Koehler,,,True,oh,lower,79,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/79.jpg,2017-01-04 05:04:11.755000,2017-06-01 06:18:46.386000
+OHL000339,Glenn W. Holmes,Glenn W.,,Holmes,,,True,oh,lower,63,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/63.jpg,2017-01-04 05:04:11.805000,2017-06-01 06:18:30.782000
+OHL000341,Dick Stein,Dick,,Stein,,,True,oh,lower,57,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/57.jpg,2017-01-04 05:04:11.873000,2017-06-01 06:18:46.375000
+OHL000344,John A. Boccieri,John A.,,Boccieri,,,True,oh,lower,59,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/59.jpg,2017-01-04 05:04:11.973000,2017-06-01 06:18:30.794000
+OHL000345,Dave Greenspan,Dave,,Greenspan,,,True,oh,lower,16,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/16.jpg,2017-01-04 05:04:11.992000,2017-06-01 06:18:46.448000
+OHL000347,Thomas West,Thomas,,West,,,True,oh,lower,49,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/49.jpg,2017-01-04 05:04:12.003000,2017-06-01 06:18:30.853000
+OHL000350,Laura Lanese,Laura,,Lanese,,,True,oh,lower,23,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/23.jpg,2017-01-04 05:04:12.044000,2017-06-01 06:18:30.808000
+OHL000351,Thomas F. Patton,Thomas F.,,Patton,,,True,oh,lower,7,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/7.jpg,2017-01-04 05:04:12.061000,2017-06-01 06:18:30.852000
+OHL000352,Catherine D. Ingram,Catherine D.,,Ingram,,,True,oh,lower,32,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/32.jpg,2017-01-04 05:04:12.120000,2017-06-01 06:18:46.516000
+OHL000355,Adam C. Miller,Adam C.,,Miller,,,True,oh,lower,17,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/17.jpg,2017-01-04 05:04:12.137000,2017-06-01 06:18:30.748000
+OHL000358,Brigid Kelly,Brigid,,Kelly,,,True,oh,lower,31,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/31.jpg,2017-01-04 05:04:12.190000,2017-06-01 06:18:30.763000
+OHL000360,Steven M. Arndt,Steven M.,,Arndt,,,True,oh,lower,89,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/89.jpg,2017-01-04 05:04:12.224000,2017-06-01 06:18:30.846000
+OHL000376,"Thomas E. Brinkman, Jr.",Thomas E.,,Brinkman,Jr.,,True,oh,lower,27,Republican,http://www.ohiohouse.gov/Assets/Headshots/Small/27.jpg,2017-04-11 05:54:46.159000,2017-06-01 06:18:30.851000
+OHL000377,Tavia Galonski,Tavia,,Galonski,,,True,oh,lower,35,Democratic,http://www.ohiohouse.gov/Assets/Headshots/Small/35.jpg,2017-05-11 06:14:08.869000,2017-06-01 06:18:30.847000
+OHL000001,Cliff Hite,Cliff,,Hite,,,True,oh,upper,1,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/1.jpg,2011-02-22 21:25:58.173000,2017-06-01 06:18:30.872000
+OHL000003,Kevin Bacon,Kevin,,Bacon,,,True,oh,upper,3,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/3.jpg,2011-02-22 21:25:58.188000,2017-06-01 06:18:46.381000
+OHL000005,Bill Beagle,Bill,,Beagle,,,True,oh,upper,5,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/5.jpg,2011-02-22 21:25:58.203000,2017-06-01 06:18:46.521000
+OHL000006,Peggy Lehner,Peggy,,Lehner,,,True,oh,upper,6,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/6.jpg,2011-02-22 21:25:58.205000,2017-06-01 06:18:30.897000
+OHL000011,Edna Brown,Edna,,Brown,,,True,oh,upper,11,Democratic,http://www.ohiosenate.gov/Assets/Headshots/Small/11.jpg,2011-02-22 21:25:58.214000,2017-06-01 06:18:46.332000
+OHL000013,Gayle Manning,Gayle,,Manning,,,True,oh,upper,13,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/13.jpg,2011-02-22 21:25:58.230000,2017-06-01 06:18:30.879000
+OHL000015,Charleta B Tavares,Charleta,B,Tavares,,,True,oh,upper,15,Democratic,http://www.ohiosenate.gov/Assets/Headshots/Small/15.jpg,2011-02-22 21:25:58.234000,2017-06-01 06:18:46.338000
+OHL000019,Kris Jordan,Kris,,Jordan,,,True,oh,upper,19,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/19.jpg,2011-02-22 21:25:58.261000,2017-06-01 06:18:30.889000
+OHL000022,Larry Obhof,Larry,,Obhof,,,True,oh,upper,22,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/22.jpg,2011-02-22 21:25:58.267000,2017-06-01 06:18:30.890000
+OHL000023,Michael J Skindell,Michael,J,Skindell,,,True,oh,upper,23,Democratic,http://www.ohiosenate.gov/Assets/Headshots/Small/23.jpg,2011-02-22 21:25:58.277000,2017-06-01 06:18:30.895000
+OHL000027,Frank LaRose,Frank,,LaRose,,,True,oh,upper,27,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/27.jpg,2011-02-22 21:25:58.287000,2017-06-01 06:18:46.484000
+OHL000029,Scott Oelslager,Scott,,Oelslager,,,True,oh,upper,29,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/29.jpg,2011-02-22 21:25:58.291000,2017-06-01 06:18:46.510000
+OHL000039,Randy Gardner,Randy,,Gardner,,,True,oh,upper,2,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/2.jpg,2011-02-22 21:25:58.326000,2017-06-01 06:18:30.898000
+OHL000040,Kenny Yuko,Kenny,,Yuko,,,True,oh,upper,25,Democratic,http://www.ohiosenate.gov/Assets/Headshots/Small/25.jpg,2011-02-22 21:25:58.328000,2017-06-01 06:18:46.344000
+OHL000099,Joseph W Uecker,Joseph,W,Uecker,,,True,oh,upper,14,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/14.jpg,2011-02-22 21:25:58.483000,2017-06-01 06:18:30.884000
+OHL000104,Jay Hottinger,Jay,,Hottinger,,,True,oh,upper,31,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/31.jpg,2011-02-22 21:25:58.492000,2017-06-01 06:18:30.880000
+OHL000116,Dave Burke,David,E,Burke,,,True,oh,upper,26,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/26.jpg,2011-02-22 21:25:58.524000,2017-06-01 06:18:30.874000
+OHL000117,Bob D. Hackett,Bob,D.,Hackett,,,True,oh,upper,10,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/10.jpg,2011-02-22 21:25:58.527000,2017-06-01 06:18:30.867000
+OHL000118,Bob Peterson,Bob,,Peterson,,,True,oh,upper,17,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/17.jpg,2011-02-22 21:25:58.529000,2017-06-01 06:18:30.869000
+OHL000127,Troy Balderson,Troy,,Balderson,,,True,oh,upper,20,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/20.jpg,2011-02-22 21:25:58.546000,2017-06-01 06:18:30.905000
+OHL000147,John Eklund,John,,Eklund,,,True,oh,upper,18,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/18.jpg,2011-11-10 01:52:17.978000,2017-06-01 06:18:30.881000
+OHL000295,Cecil Thomas,Cecil,,Thomas,,,True,oh,upper,9,Democratic,http://www.ohiosenate.gov/Assets/Headshots/Small/9.jpg,2015-01-07 22:20:21.186000,2017-06-01 06:18:30.870000
+OHL000316,Sean O'Brien,Sean,,O'Brien,,,True,oh,upper,32,Democratic,http://www.ohiosenate.gov/Assets/Headshots/Small/32.jpg,2017-01-04 05:04:11.481000,2017-06-01 06:18:30.902000
+OHL000320,Matt Dolan,Matt,,Dolan,,,True,oh,upper,24,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/24.jpg,2017-01-04 05:04:11.510000,2017-06-01 06:18:30.893000
+OHL000323,Lou Terhar,Lou,,Terhar,,,True,oh,upper,8,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/8.jpg,2017-01-04 05:04:11.537000,2017-06-01 06:18:46.479000
+OHL000327,Stephanie Kunze,Stephanie,,Kunze,,,True,oh,upper,16,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/16.jpg,2017-01-04 05:04:11.617000,2017-06-01 06:18:30.903000
+OHL000342,Matt Huffman,Matt,,Huffman,,,True,oh,upper,12,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/12.jpg,2017-01-04 05:04:11.896000,2017-06-01 06:18:46.362000
+OHL000343,Sandra Williams,Sandra,,Williams,,,True,oh,upper,21,Democratic,http://www.ohiosenate.gov/Assets/Headshots/Small/21.jpg,2017-01-04 05:04:11.943000,2017-06-01 06:18:30.899000
+OHL000346,Joseph Schiavoni,Joseph,,Schiavoni,,,True,oh,upper,33,Democratic,http://www.ohiosenate.gov/Assets/Headshots/Small/33.jpg,2017-01-04 05:04:11.998000,2017-06-01 06:18:46.433000
+OHL000348,Vernon Sykes,Vernon,,Sykes,,,True,oh,upper,28,Democratic,http://www.ohiosenate.gov/Assets/Headshots/Small/28.jpg,2017-01-04 05:04:12.009000,2017-06-01 06:18:46.489000
+OHL000354,Frank Hoagland,Frank,,Hoagland,,,True,oh,upper,30,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/30.jpg,2017-01-04 05:04:12.132000,2017-06-01 06:18:30.877000
+OHL000356,"William P. Coley, II",William P.,,Coley,II,,True,oh,upper,4,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/4.jpg,2017-01-04 05:04:12.154000,2017-06-01 06:18:30.908000
+OHL000364,Steve Wilson,Steve,,Wilson,,,True,oh,upper,7,Republican,http://www.ohiosenate.gov/Assets/Headshots/Small/7.jpg,2017-01-26 05:05:49.097000,2017-06-01 06:18:30.904000

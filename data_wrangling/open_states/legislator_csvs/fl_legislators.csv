@@ -1,0 +1,369 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+FLL000001,JD Alexander,JD,,Alexander,,,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s017.jpg,2011-03-02 21:41:52.047000,2012-12-05 20:07:55.892000
+FLL000002,Thad Altman,Thad,,Altman,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s16_4770.jpg,2011-03-02 21:41:52.084000,2017-02-24 03:13:56.712000
+FLL000003,Lizbeth Benacquisto,Lizbeth,,Benacquisto,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s30_5047.jpg,2011-03-02 21:41:52.086000,2017-02-24 03:13:56.702000
+FLL000004,Michael S Bennett,Michael,S,Bennett,,Mike,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s021.jpg,2011-03-02 21:41:52.089000,2012-12-05 20:07:55.896000
+FLL000005,Ellyn Setnor Bogdanoff,Ellyn,Setnor,Bogdanoff,,,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s025.jpg,2011-03-02 21:41:52.100000,2014-12-09 00:17:42.728000
+FLL000006,Oscar Braynon II,Oscar,,Braynon,II,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s36_5007.jpg,2011-03-02 21:41:52.102000,2017-02-24 03:13:56.708000
+FLL000007,Larcenia J Bullard,Larcenia,J,Bullard,,,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s039.jpg,2011-03-02 21:41:52.104000,2012-12-05 20:07:55.898000
+FLL000008,Charles S Dean Sr.,Charles,S,Dean,Sr.,Charlie,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2012-2014/Photos/s05_4756.jpg,2011-03-02 21:41:52.106000,2016-05-12 06:17:49.802000
+FLL000009,Nancy C Detert,Nancy,C,Detert,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s28_4621.jpg,2011-03-02 21:41:52.107000,2017-02-24 03:13:56.706000
+FLL000010,Miguel Diaz de la Portilla,Miguel,,Diaz de la Portilla,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s40_5044.jpg,2011-03-02 21:41:52.110000,2017-02-24 03:13:56.705000
+FLL000011,Paula Dockery,Paula,,Dockery,,,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s015.jpg,2011-03-02 21:41:52.112000,2012-12-05 20:07:55.672000
+FLL000012,Greg Evers,Greg,,Evers,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s02_4728.jpg,2011-03-02 21:41:52.113000,2017-02-24 03:13:56.685000
+FLL000013,Mike Fasano,Mike,,Fasano,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4058.jpg,2011-03-02 21:41:52.115000,2014-12-09 00:17:42.800000
+FLL000014,Anitere Flores,Anitere,,Flores,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s37_4783.jpg,2011-03-02 21:41:52.117000,2017-02-24 03:13:56.664000
+FLL000015,Don Gaetz,Don,,Gaetz,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s01_4804.jpg,2011-03-02 21:41:52.139000,2017-02-24 03:13:56.676000
+FLL000016,Rene Garcia,Rene,,Garcia,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s38_4717.jpg,2011-03-02 21:41:52.141000,2017-02-24 03:13:56.709000
+FLL000017,Andy Gardiner,Andy,,Gardiner,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s13_4684.jpg,2011-03-02 21:41:52.146000,2017-02-24 03:13:56.662000
+FLL000018,Mike Haridopolos,Mike,,Haridopolos,,,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s026.jpg,2011-03-02 21:41:52.148000,2012-12-05 20:07:55.927000
+FLL000019,Alan Hays,Alan,,Hays,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s11_4787.jpg,2011-03-02 21:41:52.150000,2017-02-24 03:13:56.661000
+FLL000020,Anthony C Hill Sr.,Anthony,C,Hill,Sr.,Tony,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s001.jpg,2011-03-02 21:41:52.151000,2012-06-06 17:17:17.744000
+FLL000021,Dennis L Jones,Dennis,L,Jones,,D.C.,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s013.jpg,2011-03-02 21:41:52.153000,2012-12-05 20:07:55.910000
+FLL000022,Arthenia L Joyner,Arthenia,L,Joyner,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s19_4697.jpg,2011-03-02 21:41:52.155000,2017-02-24 03:13:56.665000
+FLL000023,Jack Latvala,Jack,,Latvala,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s20_4514.jpg,2011-03-02 21:41:52.157000,2017-02-24 03:13:56.687000
+FLL000024,Evelyn J Lynn,Evelyn,J,Lynn,,,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s007.jpg,2011-03-02 21:41:52.158000,2012-12-05 20:07:55.681000
+FLL000025,Gwen Margolis,Gwen,,Margolis,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s35_4128.jpg,2011-03-02 21:41:52.160000,2017-02-24 03:13:56.686000
+FLL000027,Joe Negron,Joe,,Negron,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s32_4688.jpg,2011-03-02 21:41:52.164000,2017-02-24 03:13:56.693000
+FLL000028,Jim Norman,Jim,,Norman,,,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s012.jpg,2011-03-02 21:41:52.166000,2012-12-05 20:07:55.686000
+FLL000029,Steve Oelrich,Steve,,Oelrich,,,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s014.jpg,2011-03-02 21:41:52.167000,2012-12-05 20:07:55.915000
+FLL000030,Nan H Rich,Nan,H,Rich,,,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s034.jpg,2011-03-02 21:41:52.169000,2012-12-05 20:07:55.916000
+FLL000031,Garrett Richter,Garrett,,Richter,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s23_4882.jpg,2011-03-02 21:41:52.171000,2017-02-24 03:13:56.682000
+FLL000032,Jeremy Ring,Jeremy,,Ring,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s29_4806.jpg,2011-03-02 21:41:52.173000,2017-02-24 03:13:56.691000
+FLL000033,Maria Lorts Sachs,Maria,Lorts,Sachs,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s34_4892.jpg,2011-03-02 21:41:52.174000,2017-02-24 03:13:56.703000
+FLL000034,David Simmons,David,,Simmons,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s10_4682.jpg,2011-03-02 21:41:52.176000,2017-02-24 03:13:56.673000
+FLL000035,Gary Siplin,Gary,,Siplin,,,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s019.jpg,2011-03-02 21:41:52.178000,2012-12-05 20:07:55.920000
+FLL000036,Christopher L Smith,Christopher,L,Smith,,Chris,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s31_4634.jpg,2011-03-02 21:41:52.180000,2017-02-24 03:13:56.671000
+FLL000037,Eleanor Sobel,Eleanor,,Sobel,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s33_4608.jpg,2011-03-02 21:41:52.182000,2017-02-24 03:13:56.681000
+FLL000038,Ronda Storms,Ronda,,Storms,,,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s010.jpg,2011-03-02 21:41:52.183000,2012-12-05 20:07:55.692000
+FLL000039,John Thrasher,John,,Thrasher,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2012-2014/Photos/s06_4436.jpg,2011-03-02 21:41:52.185000,2015-02-06 00:01:27.028000
+FLL000040,Stephen R Wise,Stephen,R,Wise,,,False,fl,,,,http://www.flsenate.gov/userContent/Senators/2010-2012/photos/s005.jpg,2011-03-02 21:41:52.187000,2014-12-09 00:17:42.744000
+FLL000041,Joseph Abruzzo,Joseph,,Abruzzo,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s25_5107.jpg,2011-03-02 21:41:52.189000,2017-02-24 03:13:56.699000
+FLL000042,Janet H Adkins,Janet,H,Adkins,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4439.jpg,2011-03-02 21:41:52.190000,2017-02-24 03:13:56.596000
+FLL000045,Frank Artiles,Frank,,Artiles,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4529.jpg,2011-03-02 21:41:52.216000,2017-02-24 03:13:56.578000
+FLL000046,Gary Aubuchon,Gary,,Aubuchon,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4363.jpg,2011-03-02 21:41:52.217000,2012-12-05 20:07:55.739000
+FLL000047,Dennis K Baxley,Dennis,K,Baxley,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4200.jpg,2011-03-02 21:41:52.219000,2017-02-24 03:13:56.571000
+FLL000048,Leonard L Bembry,Leonard,L,Bembry,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4438.jpg,2011-03-02 21:41:52.221000,2012-12-05 20:07:55.741000
+FLL000050,Mack Bernard,Mack,,Bernard,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4422.jpg,2011-03-02 21:41:52.225000,2012-12-05 20:07:55.744000
+FLL000052,Esteban Bovo Jr.,Esteban,,Bovo,Jr.,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4460.jpg,2011-03-02 21:41:52.228000,2012-06-06 17:26:12.064000
+FLL000054,Jeffrey Brandes,Jeffrey,,Brandes,,Jeff,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s22_5095.jpg,2011-03-02 21:41:52.232000,2017-06-01 10:06:56.007000
+FLL000056,Douglas Vaughn Broxson,Douglas,Vaughn,Broxson,,Doug,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4491.jpg,2011-03-02 21:41:52.236000,2016-05-12 06:17:49.801000
+FLL000057,Dwight M Bullard,Dwight,M,Bullard,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s39_5096.jpg,2011-03-02 21:41:52.239000,2017-02-24 03:13:56.679000
+FLL000058,Rachel V Burgin,Rachel,V,Burgin,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4451.jpg,2011-03-02 21:41:52.240000,2012-12-05 20:07:55.754000
+FLL000059,Matthew H Caldwell,Matthew,H,Caldwell,,Matt,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4513.jpg,2011-03-02 21:41:52.242000,2015-02-06 00:01:26.983000
+FLL000060,Daphne D Campbell,Daphne,D,Campbell,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4522.jpg,2011-03-02 21:41:52.246000,2017-02-24 03:13:56.566000
+FLL000061,Dean Cannon,Dean,,Cannon,,Geri,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4340.jpg,2011-03-02 21:41:52.247000,2012-12-05 20:07:55.926000
+FLL000062,Charles S Chestnut IV,Charles,S,Chestnut,IV,Chuck,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4374.jpg,2011-03-02 21:41:52.251000,2012-12-05 20:07:55.701000
+FLL000063,Gwyndolen Clarke-Reed,Gwyndolen,,Clarke-Reed,,Gwyn,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4432.jpg,2011-03-02 21:41:52.253000,2017-02-24 03:13:56.579000
+FLL000064,Jeff Clemens,Jeff,,Clemens,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s27_5097.jpg,2011-03-02 21:41:52.255000,2017-02-24 03:13:56.689000
+FLL000065,Marti Coley,Marti,,Coley,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4361.jpg,2011-03-02 21:41:52.257000,2015-02-06 00:01:26.974000
+FLL000067,Fredrick W Costello,Fredrick,W,Costello,,Fred,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4499.jpg,2011-03-02 21:41:52.260000,2012-12-05 20:07:55.761000
+FLL000068,Steve Crisafulli,Steve,,Crisafulli,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4448.jpg,2011-03-02 21:41:52.262000,2017-02-24 03:13:56.651000
+FLL000070,Daniel Davis,Daniel,,Davis,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4495.jpg,2011-03-02 21:41:52.266000,2015-02-06 00:01:26.960000
+FLL000072,Chris Dorworth,Chris,,Dorworth,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4419.jpg,2011-03-02 21:41:52.269000,2012-12-05 20:07:55.774000
+FLL000074,Clay Ford,Clay,,Ford,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4409.jpg,2011-03-02 21:41:52.273000,2014-12-09 00:17:42.825000
+FLL000076,Erik Fresen,Erik,,Fresen,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4461.jpg,2011-03-02 21:41:52.293000,2017-02-24 03:13:56.577000
+FLL000077,James C Frishe,James,C,Frishe,,Jim,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4395.jpg,2011-03-02 21:41:52.295000,2012-12-05 20:07:55.781000
+FLL000078,Reggie Fullwood,Reggie,,Fullwood,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4496.jpg,2011-03-02 21:41:52.297000,2017-02-24 03:13:56.639000
+FLL000079,Matt Gaetz,Matt,,Gaetz,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4478.jpg,2011-03-02 21:41:52.298000,2017-02-24 03:13:56.621000
+FLL000080,Luis R Garcia,Luis,R,Garcia,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4387.jpg,2011-03-02 21:41:52.300000,2012-12-05 20:07:55.784000
+FLL000081,Joseph A Gibbons,Joseph,A,Gibbons,,Joe,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4400.jpg,2011-03-02 21:41:52.303000,2015-02-06 00:01:26.951000
+FLL000082,Richard Glorioso,Richard,,Glorioso,,Rich,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4343.jpg,2011-03-02 21:41:52.304000,2012-12-05 20:07:55.785000
+FLL000083,Eduardo Gonzalez,Eduardo,,Gonzalez,,Eddy,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4385.jpg,2011-03-02 21:41:52.306000,2015-02-06 00:01:26.953000
+FLL000084,Tom Goodson,Tom,,Goodson,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4500.jpg,2011-03-02 21:41:52.308000,2017-02-24 03:13:56.654000
+FLL000085,James W Grant,James,W,Grant,,J.W.,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4504.jpg,2011-03-02 21:41:52.310000,2017-02-24 03:13:56.593000
+FLL000086,Denise Grimsley,Denise,,Grimsley,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s21_5099.jpg,2011-03-02 21:41:52.312000,2017-02-24 03:13:56.675000
+FLL000090,Doug Holder,Doug,,Holder,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4372.jpg,2011-03-02 21:41:52.319000,2015-02-06 00:01:26.981000
+FLL000091,Ed Hooper,Ed,,Hooper,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4390.jpg,2011-03-02 21:41:52.320000,2015-02-06 00:01:26.980000
+FLL000092,Mike Horner,Mike,,Horner,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4455.jpg,2011-03-02 21:41:52.322000,2012-12-05 20:07:55.712000
+FLL000093,Matt Hudson,Matt,,Hudson,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4420.jpg,2011-03-02 21:41:52.340000,2017-02-24 03:13:56.625000
+FLL000094,Dorothy L Hukill,Dorothy,L,Hukill,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s08_5102.jpg,2011-03-02 21:41:52.342000,2017-02-24 03:13:56.678000
+FLL000097,Mia L Jones,Mia,L,Jones,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4440.jpg,2011-03-02 21:41:52.353000,2017-02-24 03:13:56.628000
+FLL000098,John Patrick Julien,John,Patrick,Julien,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4521.jpg,2011-03-02 21:41:52.354000,2012-12-05 20:07:55.801000
+FLL000099,Martin David Kiar,Martin,David,Kiar,,Marty,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4382.jpg,2011-03-02 21:41:52.366000,2012-12-05 20:07:55.802000
+FLL000100,Paige Kreegel,Paige,,Kreegel,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4348.jpg,2011-03-02 21:41:52.368000,2012-12-05 20:07:55.804000
+FLL000101,Rick Kriseman,Rick,,Kriseman,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4393.jpg,2011-03-02 21:41:52.370000,2012-12-05 20:07:55.805000
+FLL000102,John Legg,John,,Legg,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s17_5103.jpg,2011-03-02 21:41:52.371000,2017-02-24 03:13:56.694000
+FLL000103,Ana Rivas Logan,Ana,Rivas,Logan,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4525.jpg,2011-03-02 21:41:52.373000,2012-12-05 20:07:55.808000
+FLL000104,Carlos Lopez-Cantera,Carlos,,Lopez-Cantera,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4357.jpg,2011-03-02 21:41:52.375000,2012-12-05 20:07:55.925000
+FLL000105,Debbie Mayfield,Debbie,,Mayfield,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4456.jpg,2011-03-02 21:41:52.377000,2017-02-24 03:13:56.570000
+FLL000106,Charles McBurney,Charles,,McBurney,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4418.jpg,2011-03-02 21:41:52.378000,2017-02-24 03:13:56.557000
+FLL000107,Seth McKeel,Seth,,McKeel,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4368.jpg,2011-03-02 21:41:52.380000,2015-02-06 00:01:26.970000
+FLL000110,Peter Nehr,Peter,,Nehr,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4389.jpg,2011-03-02 21:41:52.389000,2012-12-05 20:07:55.718000
+FLL000111,Bryan Nelson,Bryan,,Nelson,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4362.jpg,2011-03-02 21:41:52.391000,2015-02-06 00:01:26.965000
+FLL000113,H. Marlene O'Toole,H. Marlene,,O'Toole,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4462.jpg,2011-03-02 21:41:52.394000,2017-02-24 03:13:56.589000
+FLL000114,Mark S Pafford,Mark,S,Pafford,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4435.jpg,2011-03-02 21:41:52.396000,2017-02-24 03:13:56.619000
+FLL000115,Kathleen C Passidomo,Kathleen,C,Passidomo,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4514.jpg,2011-03-02 21:41:52.398000,2017-02-24 03:13:56.611000
+FLL000116,Jimmy Patronis,Jimmy,,Patronis,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4369.jpg,2011-03-02 21:41:52.399000,2015-02-06 00:01:26.975000
+FLL000117,Steven M Perman,Steven,M,Perman,,Steve,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4515.jpg,2011-03-02 21:41:52.401000,2012-12-05 20:07:55.818000
+FLL000118,W. Keith Perry,W. Keith,,Perry,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4497.jpg,2011-03-02 21:41:52.403000,2017-02-24 03:13:56.658000
+FLL000119,Ray Pilon,Ray,,Pilon,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4512.jpg,2011-03-02 21:41:52.405000,2017-02-24 03:13:56.637000
+FLL000122,Ari Abraham Porth,Ari,Abraham,Porth,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4352.jpg,2011-03-02 21:41:52.411000,2012-12-05 20:07:55.843000
+FLL000123,Stephen L Precourt,Stephen,L,Precourt,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4384.jpg,2011-03-02 21:41:52.412000,2014-04-29 16:03:43.018000
+FLL000124,William L Proctor,William,L,Proctor,,Bill,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4353.jpg,2011-03-02 21:41:52.414000,2012-12-05 20:07:55.845000
+FLL000125,Scott Randolph,Scott,,Randolph,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4378.jpg,2011-03-02 21:41:52.436000,2012-12-05 20:07:55.847000
+FLL000126,Lake Ray,Lake,,Ray,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4441.jpg,2011-03-02 21:41:52.438000,2017-02-24 03:13:56.616000
+FLL000127,Betty Reed,Betty,,Reed,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4398.jpg,2011-03-02 21:41:52.440000,2015-02-06 00:01:26.976000
+FLL000128,Michelle Rehwinkel Vasilinda,Michelle,,Rehwinkel Vasilinda,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4464.jpg,2011-03-02 21:41:52.441000,2017-02-24 03:13:56.630000
+FLL000129,"Renuart, Ronald ""Doc""","Ronald ""Doc""",,Renuart,,Doc,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4442.jpg,2011-03-02 21:41:52.443000,2015-05-28 23:21:46.003000
+FLL000130,Kenneth L Roberson,Kenneth,L,Roberson,,Ken,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4454.jpg,2011-03-02 21:41:52.445000,2017-02-24 03:13:56.613000
+FLL000131,Hazelle P Rogers,Hazelle,P,Rogers,,Hazel,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4434.jpg,2011-03-02 21:41:52.447000,2017-02-24 03:13:56.590000
+FLL000132,Patrick Rooney Jr.,Patrick,,Rooney,Jr.,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4516.jpg,2011-03-02 21:41:52.449000,2015-02-06 00:01:26.984000
+FLL000133,Darryl Ervin Rouson,Darryl,Ervin,Rouson,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4428.jpg,2011-03-02 21:41:52.450000,2017-02-24 03:13:56.567000
+FLL000134,Franklin Sands,Franklin,,Sands,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4354.jpg,2011-03-02 21:41:52.452000,2012-12-05 20:07:55.854000
+FLL000135,Ron Saunders,Ron,,Saunders,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/3041.jpg,2011-03-02 21:41:52.454000,2012-12-05 20:07:55.855000
+FLL000136,Robert C Schenck,Robert,C,Schenck,,Rob,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4386.jpg,2011-03-02 21:41:52.456000,2015-02-06 00:01:26.966000
+FLL000137,Elaine J Schwartz,Elaine,J,Schwartz,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4383.jpg,2011-03-02 21:41:52.457000,2015-02-06 00:01:26.987000
+FLL000138,Irving Slosberg,Irving,,Slosberg,,Irv,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4232.jpg,2011-03-02 21:41:52.459000,2017-02-24 03:13:56.592000
+FLL000139,Jimmie T Smith,Jimmie,T,Smith,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4502.jpg,2011-03-02 21:41:52.461000,2017-02-24 03:13:56.597000
+FLL000140,William D Snyder,William,D,Snyder,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4376.jpg,2011-03-02 21:41:52.463000,2012-12-05 20:07:55.861000
+FLL000141,Darren Soto,Darren,,Soto,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s14_5108.jpg,2011-03-02 21:41:52.465000,2017-02-24 03:13:56.672000
+FLL000143,Kelli Stargel,Kelli,,Stargel,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s15_5105.jpg,2011-03-02 21:41:52.493000,2017-02-24 03:13:56.700000
+FLL000144,Richard L Steinberg,Richard,L,Steinberg,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4459.jpg,2011-03-02 21:41:52.494000,2012-06-06 17:23:15.893000
+FLL000145,W. Gregory Steube,W. Gregory,,Steube,,Greg,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4509.jpg,2011-03-02 21:41:52.496000,2017-02-24 03:13:56.657000
+FLL000146,Dwayne L Taylor,Dwayne,L,Taylor,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4445.jpg,2011-03-02 21:41:52.498000,2017-02-24 03:13:56.573000
+FLL000147,Geraldine F Thompson,Geraldine,F,Thompson,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s12_5106.jpg,2011-03-02 21:41:52.500000,2017-02-24 03:13:56.683000
+FLL000148,Perry E Thurston Jr.,Perry,E,Thurston,Jr.,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4396.jpg,2011-03-02 21:41:52.501000,2015-02-06 00:01:26.985000
+FLL000149,John Tobia,John,,Tobia,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4447.jpg,2011-03-02 21:41:52.503000,2017-02-24 03:13:56.607000
+FLL000151,Charles E Van Zant,Charles,E,Van Zant,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4444.jpg,2011-03-02 21:41:52.507000,2017-02-24 03:13:56.555000
+FLL000152,James W Waldman,James,W,Waldman,,Jim,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4367.jpg,2011-03-02 21:41:52.509000,2015-02-06 00:01:26.986000
+FLL000154,Will W Weatherford,Will,W,Weatherford,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4399.jpg,2011-03-02 21:41:52.512000,2015-02-06 00:01:26.970000
+FLL000155,Michael B Weinstein,Michael,B,Weinstein,,Mike,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4443.jpg,2011-03-02 21:41:52.514000,2012-12-05 20:07:55.883000
+FLL000156,Alan B Williams,Alan,B,Williams,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4437.jpg,2011-03-02 21:41:52.516000,2017-02-24 03:13:56.547000
+FLL000157,Trudi K Williams,Trudi,K,Williams,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4338.jpg,2011-03-02 21:41:52.517000,2012-12-05 20:07:55.885000
+FLL000158,John Wood,John,,Wood,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4453.jpg,2011-03-02 21:41:52.519000,2017-02-24 03:13:56.609000
+FLL000159,Ritch Workman,Ritch,,Workman,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4446.jpg,2011-03-02 21:41:52.521000,2017-02-24 03:13:56.640000
+FLL000160,Dana D Young,Dana,D,Young,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4507.jpg,2011-03-02 21:41:52.523000,2017-02-24 03:13:56.564000
+FLL000164,Audrey Gibson,Audrey,,Gibson,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s09_4765.jpg,2011-10-20 01:23:01.926000,2017-02-24 03:13:56.666000
+FLL000170,Rob Bradley,Rob,,Bradley,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s07_5101.jpg,2013-01-03 00:11:42.659000,2017-02-24 03:13:56.710000
+FLL000181,Bill Galvano,Bill,,Galvano,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s26_5098.jpg,2013-01-03 00:11:42.718000,2017-02-24 03:13:56.668000
+FLL000190,Tom Lee,Tom,,Lee,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s24_5100.jpg,2013-01-03 00:11:42.764000,2017-02-24 03:13:56.714000
+FLL000199,Wilton Simpson,Wilton,,Simpson,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s18_5104.jpg,2013-01-03 00:11:42.869000,2017-02-24 03:13:56.716000
+FLL000216,Randolph Bracy,Randolph,,Bracy,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4548.jpg,2013-01-03 00:11:42.962000,2017-02-24 03:13:56.636000
+FLL000221,Karen Castor Dentel,Karen,,Castor Dentel,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4545.jpg,2013-01-03 00:11:42.992000,2015-02-06 00:01:26.964000
+FLL000223,"Michael ""Mike"" Philip Clelland","Michael ""Mike""",Philip,Clelland,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4594.jpg,2013-01-03 00:11:43.003000,2015-02-06 00:01:26.962000
+FLL000230,Mark Danish,Mark,,Danish,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4569.jpg,2013-01-03 00:11:43.053000,2015-02-06 00:01:26.977000
+FLL000234,Dwight Richard Dudley,Dwight,Richard,Dudley,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4570.jpg,2013-01-03 00:11:43.075000,2017-02-24 03:13:56.575000
+FLL000238,Heather Dawes Fitzenhagen,Heather,Dawes,Fitzenhagen,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4574.jpg,2013-01-03 00:11:43.097000,2015-02-06 00:01:26.982000
+FLL000250,"Charles David ""Dave"" Hood, Jr.",Charles,David,Hood,Jr.,Dave,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4543.jpg,2013-01-03 00:11:43.226000,2015-02-06 00:01:26.961000
+FLL000253,Travis Hutson,Travis,,Hutson,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s06_5186.jpg,2013-01-03 00:11:43.244000,2017-02-24 03:13:56.715000
+FLL000257,Dave Kerner,Dave,,Kerner,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4577.jpg,2013-01-03 00:11:43.267000,2017-02-24 03:13:56.569000
+FLL000280,Bobby Powell,Bobby,,Powell,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4578.jpg,2013-01-03 00:11:43.481000,2017-02-24 03:13:56.551000
+FLL000284,Kevin Rader,Kevin,,Rader,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4431.jpg,2013-01-03 00:11:43.506000,2017-02-24 03:13:56.614000
+FLL000285,Ricardo Rangel,Ricardo,,Rangel,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4547.jpg,2013-01-03 00:11:43.512000,2015-02-06 00:01:26.971000
+FLL000286,Holly Merrill Raschein,Holly,Merrill,Raschein,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4562.jpg,2013-01-03 00:11:43.518000,2015-02-06 00:01:26.955000
+FLL000295,José Javier Rodríguez,José,Javier,Rodríguez,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4563.jpg,2013-01-03 00:11:43.577000,2017-02-24 03:13:56.610000
+FLL000300,Joe Saunders,Joe,,Saunders,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4550.jpg,2013-01-03 00:11:43.668000,2015-02-06 00:01:26.973000
+FLL000309,Linda Stewart,Linda,,Stewart,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4549.jpg,2013-01-03 00:11:43.732000,2015-02-06 00:01:26.972000
+FLL000314,"Victor Manuel Torres, Jr.",Victor,Manuel,Torres,Jr.,Vic,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4538.jpg,2013-01-03 00:11:43.770000,2017-02-24 03:13:56.656000
+FLL000319,"Clovis Watson, Jr.",Clovis,,Watson,Jr.,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4541.jpg,2013-01-03 00:11:43.862000,2017-02-24 03:13:56.558000
+FLL000325,Carl F. Zimmermann,Carl,F.,Zimmermann,,Z,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4554.jpg,2013-01-03 00:11:43.904000,2015-02-06 00:01:26.979000
+FLL000332,"Walter Bryan ""Mike"" Hill","Walter Bryan ""Mike""",,Hill,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4595.jpg,2013-08-15 00:08:56.154000,2017-02-24 03:13:56.660000
+FLL000333,Amanda Hickman Murphy,Amanda Hickman,,Murphy,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4596.jpg,2013-10-29 00:24:44.592000,2015-02-06 00:01:26.968000
+FLL000337,Soto,,,Soto,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s14_5108.jpg,2014-11-21 00:16:10.519000,2015-02-06 00:01:26.992000
+FLL000338,Simmons,,,Simmons,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s10_4682.jpg,2014-11-21 00:16:10.536000,2015-02-06 00:01:26.989000
+FLL000339,Grimsley,,,Grimsley,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s21_5099.jpg,2014-11-21 00:16:10.543000,2015-02-06 00:01:26.998000
+FLL000340,Bullard,,,Bullard,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s39_5096.jpg,2014-11-21 00:16:10.551000,2015-02-06 00:01:27.023000
+FLL000341,Bradley,,,Bradley,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s07_5101.jpg,2014-11-21 00:16:10.559000,2015-02-06 00:01:27.029000
+FLL000342,Joyner,,,Joyner,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s19_4697.jpg,2014-11-21 00:16:10.567000,2015-02-06 00:01:26.996000
+FLL000343,Montford,,,Montford,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s03_5045.jpg,2014-11-21 00:16:10.574000,2015-02-06 00:01:27.015000
+FLL000344,Dean,,,Dean,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s05_4756.jpg,2014-11-21 00:16:10.583000,2015-02-06 00:01:27.025000
+FLL000345,Diaz de la Portilla,Diaz,,de la Portilla,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s40_5044.jpg,2014-11-21 00:16:10.590000,2015-02-06 00:01:27.025000
+FLL000346,Smith,,,Smith,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s31_4634.jpg,2014-11-21 00:16:10.597000,2015-02-06 00:01:27.016000
+FLL000347,Garcia,,,Garcia,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s38_4717.jpg,2014-11-21 00:16:10.604000,2015-02-06 00:01:27.022000
+FLL000348,Simpson,,,Simpson,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s18_5104.jpg,2014-11-21 00:16:10.611000,2015-02-06 00:01:26.995000
+FLL000349,Flores,,,Flores,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s37_4783.jpg,2014-11-21 00:16:10.618000,2015-02-06 00:01:27.022000
+FLL000350,Gardiner,,,Gardiner,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s13_4684.jpg,2014-11-21 00:16:10.625000,2015-02-06 00:01:26.991000
+FLL000351,Braynon,,,Braynon,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s36_5007.jpg,2014-11-21 00:16:10.635000,2015-02-06 00:01:27.021000
+FLL000352,Clemens,,,Clemens,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s27_5097.jpg,2014-11-21 00:16:10.642000,2015-02-06 00:01:27.005000
+FLL000353,Sachs,,,Sachs,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s34_4892.jpg,2014-11-21 00:16:10.649000,2015-02-06 00:01:27.018000
+FLL000354,Hays,,,Hays,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s11_4787.jpg,2014-11-21 00:16:10.656000,2015-02-06 00:01:26.990000
+FLL000355,Richter,,,Richter,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s23_4882.jpg,2014-11-21 00:16:10.663000,2015-02-06 00:01:26.999000
+FLL000356,Margolis,,,Margolis,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s35_4128.jpg,2014-11-21 00:16:10.670000,2015-02-06 00:01:27.019000
+FLL000357,Bean,,,Bean,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s04_5094.jpg,2014-11-21 00:16:10.677000,2015-02-06 00:01:27.024000
+FLL000358,Detert,,,Detert,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s28_4621.jpg,2014-11-21 00:16:10.683000,2015-02-06 00:01:27.006000
+FLL000359,Latvala,,,Latvala,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s20_4514.jpg,2014-11-21 00:16:10.690000,2015-02-06 00:01:26.997000
+FLL000360,Abruzzo,,,Abruzzo,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s25_5107.jpg,2014-11-21 00:16:10.697000,2015-02-06 00:01:27.002000
+FLL000361,Stargel,,,Stargel,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s15_5105.jpg,2014-11-21 00:16:10.704000,2015-02-06 00:01:26.993000
+FLL000362,Galvano,,,Galvano,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s26_5098.jpg,2014-11-21 00:16:10.711000,2015-02-06 00:01:27.002000
+FLL000363,Sobel,,,Sobel,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s33_4608.jpg,2014-11-21 00:16:10.718000,2015-02-06 00:01:27.018000
+FLL000364,Gibson,,,Gibson,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s09_4765.jpg,2014-11-21 00:16:10.726000,2015-02-06 00:01:27.030000
+FLL000365,Thompson,,,Thompson,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s12_5106.jpg,2014-11-21 00:16:10.732000,2015-02-06 00:01:26.990000
+FLL000366,Gaetz,,,Gaetz,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s01_4804.jpg,2014-11-21 00:16:10.741000,2015-02-06 00:01:26.988000
+FLL000367,Brandes,,,Brandes,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s22_5095.jpg,2014-11-21 00:16:10.748000,2015-02-06 00:01:26.999000
+FLL000368,Evers,,,Evers,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s02_4728.jpg,2014-11-21 00:16:10.756000,2015-02-06 00:01:26.997000
+FLL000369,Lee,,,Lee,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s24_5100.jpg,2014-11-21 00:16:10.764000,2015-02-06 00:01:27.001000
+FLL000370,Legg,,,Legg,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s17_5103.jpg,2014-11-21 00:16:10.771000,2015-02-06 00:01:26.994000
+FLL000371,Ring,,,Ring,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s29_4806.jpg,2014-11-21 00:16:10.778000,2015-02-06 00:01:27.014000
+FLL000372,Altman,,,Altman,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s16_4770.jpg,2014-11-21 00:16:10.785000,2015-02-06 00:01:26.994000
+FLL000373,Benacquisto,,,Benacquisto,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s30_5047.jpg,2014-11-21 00:16:10.792000,2015-02-06 00:01:27.015000
+FLL000374,Hukill,,,Hukill,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s08_5102.jpg,2014-11-21 00:16:10.799000,2015-02-06 00:01:27.030000
+FLL000375,Negron,,,Negron,,,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s32_4688.jpg,2014-11-21 00:16:10.806000,2015-02-06 00:01:27.017000
+FLL000376,"Rooney, Jr., Patrick Joseph","Jr., Patrick Joseph",,Rooney,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4516.jpg,2015-02-06 00:01:25.588000,2017-02-24 03:13:56.649000
+FLL000378,"Sullivan, Jennifer",Jennifer,,Sullivan,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4602.jpg,2015-02-06 00:01:25.618000,2017-02-24 03:13:56.653000
+FLL000379,"Narain, Edwin",Edwin,,Narain,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4608.jpg,2015-02-06 00:01:25.666000,2017-02-24 03:13:56.633000
+FLL000380,"Costello, Fred",Fred,,Costello,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4499.jpg,2015-02-06 00:01:25.691000,2017-02-24 03:13:56.560000
+FLL000383,"Murphy, Amanda",Amanda,,Murphy,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4596.jpg,2015-02-06 00:01:25.758000,2017-02-24 03:13:56.631000
+FLL000385,"Plasencia, Rene ""Coach P""","Rene ""Coach P""",,Plasencia,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4607.jpg,2015-02-06 00:01:25.864000,2017-02-24 03:13:56.634000
+FLL000395,"Charles S. Dean, Sr.",Charles,S.,Dean,Sr.,Charlie,False,fl,,,,http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s05_4756.jpg,2015-02-06 00:01:26.425000,2017-02-24 03:13:56.670000
+FLL000402,"Broxson, Doug",Doug,,Broxson,,,False,fl,,,,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4491.jpg,2015-02-06 00:01:26.623000,2017-02-24 03:13:56.554000
+FLL000043,Larry Ahern,Larry,,Ahern,,,True,fl,lower,66,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4505.jpg,2011-03-02 21:41:52.192000,2017-06-01 10:07:45.660000
+FLL000044,Ben Albritton,Ben,,Albritton,,,True,fl,lower,56,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4508.jpg,2011-03-02 21:41:52.194000,2017-06-01 10:07:45.655000
+FLL000049,Lori Berman,Lori,,Berman,,,True,fl,lower,90,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4517.jpg,2011-03-02 21:41:52.223000,2017-06-01 10:07:45.634000
+FLL000051,Michael Bileca,Michael,,Bileca,,,True,fl,lower,115,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4528.jpg,2011-03-02 21:41:52.226000,2017-06-01 10:07:45.624000
+FLL000053,Jim Boyd,Jim,,Boyd,,,True,fl,lower,71,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4511.jpg,2011-03-02 21:41:52.230000,2017-06-01 10:07:45.182000
+FLL000055,Jason T Brodeur,Jason,T,Brodeur,,,True,fl,lower,28,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4501.jpg,2011-03-02 21:41:52.235000,2017-06-01 10:07:45.626000
+FLL000066,Richard Corcoran,Richard,,Corcoran,,,True,fl,lower,37,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4503.jpg,2011-03-02 21:41:52.258000,2017-06-01 10:06:56.110000
+FLL000069,Janet Cruz,Janet,,Cruz,,,True,fl,lower,62,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4477.jpg,2011-03-02 21:41:52.264000,2017-06-01 10:07:45.607000
+FLL000071,Jose Felix Diaz,Jose Felix,,Diaz,,,True,fl,lower,116,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4526.jpg,2011-03-02 21:41:52.267000,2017-06-01 10:07:45.622000
+FLL000073,Brad Drake,Brad,,Drake,,,True,fl,lower,5,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4436.jpg,2011-03-02 21:41:52.271000,2017-06-01 10:07:45.397000
+FLL000075,Eric Eisnaugle,Eric,,Eisnaugle,,,True,fl,lower,44,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4449.jpg,2011-03-02 21:41:52.274000,2017-06-01 10:06:56.004000
+FLL000087,Bill Hager,Bill,,Hager,,,True,fl,lower,89,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4518.jpg,2011-03-02 21:41:52.313000,2017-06-01 10:07:45.664000
+FLL000088,Gayle B Harrell,Gayle,B,Harrell,,,True,fl,lower,83,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4211.jpg,2011-03-02 21:41:52.315000,2017-06-01 10:07:45.137000
+FLL000089,Shawn Harrison,Shawn,,Harrison,,,True,fl,lower,63,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4510.jpg,2011-03-02 21:41:52.317000,2017-06-01 10:07:45.524000
+FLL000095,Clay Ingram,Clay,,Ingram,,,True,fl,lower,1,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4493.jpg,2011-03-02 21:41:52.349000,2017-06-01 10:07:45.672000
+FLL000096,Evan Jenne,Evan,,Jenne,,,True,fl,lower,99,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4365.jpg,2011-03-02 21:41:52.351000,2017-06-01 10:07:45.178000
+FLL000108,Larry Metz,Larry,,Metz,,,True,fl,lower,32,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4498.jpg,2011-03-02 21:41:52.384000,2017-06-01 10:07:45.662000
+FLL000109,George R Moraitis Jr.,George,R,Moraitis,Jr.,,True,fl,lower,93,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4520.jpg,2011-03-02 21:41:52.387000,2017-06-01 10:07:45.646000
+FLL000112,Jeanette M Nuñez,Jeanette,M,Nuñez,,,True,fl,lower,119,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4524.jpg,2011-03-02 21:41:52.392000,2017-06-01 10:07:45.614000
+FLL000120,Scott Plakon,Scott,,Plakon,,,True,fl,lower,29,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4430.jpg,2011-03-02 21:41:52.407000,2017-06-01 10:07:45.353000
+FLL000121,Elizabeth W Porter,Elizabeth,W,Porter,,,True,fl,lower,10,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4494.jpg,2011-03-02 21:41:52.409000,2017-06-01 10:07:45.643000
+FLL000142,Cynthia A Stafford,Cynthia,A,Stafford,,,True,fl,lower,109,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4523.jpg,2011-03-02 21:41:52.491000,2017-06-01 10:07:45.629000
+FLL000150,Carlos Trujillo,Carlos,,Trujillo,,,True,fl,lower,105,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4527.jpg,2011-03-02 21:41:52.505000,2017-06-01 10:07:45.651000
+FLL000153,Barbara Watson,Barbara,,Watson,,,True,fl,lower,107,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4532.jpg,2011-03-02 21:41:52.510000,2017-06-01 10:07:45.237000
+FLL000161,Jose R. Oliva,Jose,R.,Oliva,,,True,fl,lower,110,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4534.jpg,2011-07-08 01:04:40.463000,2017-06-01 10:07:45.636000
+FLL000209,Bruce Antone,Bruce,,Antone,,,True,fl,lower,46,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4269.jpg,2013-01-03 00:11:42.924000,2017-06-01 10:07:45.546000
+FLL000213,Halsey Beshears,Halsey,,Beshears,,,True,fl,lower,7,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4539.jpg,2013-01-03 00:11:42.946000,2017-06-01 10:07:45.512000
+FLL000225,Neil Combee,Neil,,Combee,,,True,fl,lower,39,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4567.jpg,2013-01-03 00:11:43.014000,2017-06-01 10:07:45.552000
+FLL000229,W. Travis Cummings,W.,Travis,Cummings,,,True,fl,lower,18,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4540.jpg,2013-01-03 00:11:43.047000,2017-06-01 10:07:45.669000
+FLL000233,"Manny Diaz, Jr.",Manny,,Diaz,Jr.,,True,fl,lower,103,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4558.jpg,2013-01-03 00:11:43.069000,2017-06-01 10:07:45.648000
+FLL000235,Dane Eagle,Dane,,Eagle,,,True,fl,lower,77,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4573.jpg,2013-01-03 00:11:43.080000,2017-06-01 10:07:45.548000
+FLL000236,Katie A. Edwards,Katie,A.,Edwards,,,True,fl,lower,98,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4566.jpg,2013-01-03 00:11:43.086000,2017-06-01 10:07:45.667000
+FLL000256,Shevrin D. Jones,Shevrin,D.,Jones,,Shev,True,fl,lower,101,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4559.jpg,2013-01-03 00:11:43.261000,2017-06-01 10:07:45.674000
+FLL000258,Mike La Rosa,Mike,,La Rosa,,,True,fl,lower,42,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4546.jpg,2013-01-03 00:11:43.273000,2017-06-01 10:07:45.517000
+FLL000259,"Larry Lee, Jr.",Larry,,Lee,Jr.,,True,fl,lower,84,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4576.jpg,2013-01-03 00:11:43.279000,2017-06-01 10:07:45.591000
+FLL000260,MaryLynn Magar,MaryLynn,,Magar,,ML,True,fl,lower,82,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4575.jpg,2013-01-03 00:11:43.285000,2017-06-01 10:07:45.131000
+FLL000263,Kionne L. McGhee,Kionne,L.,McGhee,,,True,fl,lower,117,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4555.jpg,2013-01-03 00:11:43.302000,2017-06-01 10:07:45.612000
+FLL000267,Jared Evan Moskowitz,Jared,Evan,Moskowitz,,,True,fl,lower,97,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4560.jpg,2013-01-03 00:11:43.387000,2017-06-01 10:07:45.609000
+FLL000276,Kathleen M. Peters,Kathleen,M.,Peters,,,True,fl,lower,69,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4571.jpg,2013-01-03 00:11:43.457000,2017-06-01 10:07:45.557000
+FLL000277,Cary Pigman,Cary,,Pigman,,,True,fl,lower,55,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4551.jpg,2013-01-03 00:11:43.463000,2017-06-01 10:07:45.225000
+FLL000282,Sharon Pritchett,Sharon,,Pritchett,,,True,fl,lower,102,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4561.jpg,2013-01-03 00:11:43.493000,2017-06-01 10:07:45.427000
+FLL000283,Jake Raburn,Jake,,Raburn,,,True,fl,lower,57,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4552.jpg,2013-01-03 00:11:43.500000,2017-06-01 10:07:45.410000
+FLL000287,Daniel D. Raulerson,Daniel,D.,Raulerson,,Dan,True,fl,lower,58,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4553.jpg,2013-01-03 00:11:43.525000,2017-06-01 10:07:45.537000
+FLL000292,David Richardson,David,,Richardson,,,True,fl,lower,113,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4556.jpg,2013-01-03 00:11:43.557000,2017-06-01 10:07:45.639000
+FLL000294,Ray Wesley Rodrigues,Ray,Wesley,Rodrigues,,,True,fl,lower,76,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4572.jpg,2013-01-03 00:11:43.570000,2017-06-01 10:07:45.641000
+FLL000299,David Santiago,David,,Santiago,,,True,fl,lower,27,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4544.jpg,2013-01-03 00:11:43.662000,2017-06-01 10:07:45.148000
+FLL000305,Ross Spano,Ross,,Spano,,,True,fl,lower,59,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4568.jpg,2013-01-03 00:11:43.701000,2017-06-01 10:07:45.374000
+FLL000307,Richard Stark,Richard,,Stark,,,True,fl,lower,104,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4557.jpg,2013-01-03 00:11:43.714000,2017-06-01 10:07:45.617000
+FLL000310,Charlie Stone,Charlie,,Stone,,,True,fl,lower,22,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4537.jpg,2013-01-03 00:11:43.739000,2017-06-01 10:07:45.619000
+FLL000377,"Burton, Colleen",Colleen,,Burton,,,True,fl,lower,40,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4616.jpg,2015-02-06 00:01:25.593000,2017-06-01 10:07:45.173000
+FLL000381,"Caldwell, Matt",Matt,,Caldwell,,,True,fl,lower,79,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4513.jpg,2015-02-06 00:01:25.717000,2017-06-01 10:07:45.160000
+FLL000384,"Raschein, Holly",Holly,,Raschein,,,True,fl,lower,120,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4562.jpg,2015-02-06 00:01:25.802000,2017-06-01 10:07:45.658000
+FLL000386,"Gonzalez, Julio",Julio,,Gonzalez,,,True,fl,lower,74,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4611.jpg,2015-02-06 00:01:25.875000,2017-06-01 10:07:45.581000
+FLL000387,"Avila, Bryan",Bryan,,Avila,,,True,fl,lower,111,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4615.jpg,2015-02-06 00:01:25.909000,2017-06-01 10:07:45.563000
+FLL000388,"Latvala, Chris",Chris,,Latvala,,,True,fl,lower,67,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4610.jpg,2015-02-06 00:01:25.913000,2017-06-01 10:07:44.823000
+FLL000389,"Fant, Jay",Jay,,Fant,,,True,fl,lower,15,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4601.jpg,2015-02-06 00:01:26.043000,2017-06-01 10:07:45.184000
+FLL000391,"Jacobs, Kristin Diane",Kristin Diane,,Jacobs,,,True,fl,lower,96,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4613.jpg,2015-02-06 00:01:26.243000,2017-06-01 10:07:45.443000
+FLL000393,"Cortes, Robert ""Bob""","Robert ""Bob""",,Cortes,,,True,fl,lower,30,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4598.jpg,2015-02-06 00:01:26.291000,2017-06-01 10:07:45.579000
+FLL000394,"Geller, Joseph",Joseph,,Geller,,,True,fl,lower,100,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4614.jpg,2015-02-06 00:01:26.376000,2017-06-01 10:07:45.186000
+FLL000396,"Miller, Mike",Mike,,Miller,,,True,fl,lower,47,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4606.jpg,2015-02-06 00:01:26.473000,2017-06-01 10:07:45.369000
+FLL000397,"Trumbull, Jay",Jay,,Trumbull,,,True,fl,lower,6,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4600.jpg,2015-02-06 00:01:26.499000,2017-06-01 10:07:45.522000
+FLL000400,"DuBose, Bobby B.",Bobby B.,,DuBose,,,True,fl,lower,94,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4612.jpg,2015-02-06 00:01:26.587000,2017-06-01 10:07:45.653000
+FLL000401,"Ingoglia, Blaise",Blaise,,Ingoglia,,,True,fl,lower,35,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4603.jpg,2015-02-06 00:01:26.591000,2017-06-01 10:07:45.605000
+FLL000403,"Cortes, John",John,,Cortes,,,True,fl,lower,43,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4605.jpg,2015-02-06 00:01:26.644000,2017-06-01 10:07:45.554000
+FLL000404,"Fitzenhagen, Heather",Heather,,Fitzenhagen,,,True,fl,lower,78,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4574.jpg,2015-02-06 00:01:26.655000,2017-06-01 10:07:45.349000
+FLL000405,"Sprowls, Chris",Chris,,Sprowls,,,True,fl,lower,65,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4609.jpg,2015-02-06 00:01:26.679000,2017-06-01 10:07:45.631000
+FLL000406,"Burgess, Jr., Daniel Wright ""Danny""","Jr., Daniel Wright ""Danny""",,Burgess,,,True,fl,lower,38,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4604.jpg,2015-02-06 00:01:26.707000,2017-06-01 10:07:44.917000
+FLL000411,"Stevenson, Cyndi",Cyndi,,Stevenson,,,True,fl,lower,17,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4620.jpg,2015-04-29 01:16:18.572000,2017-06-01 10:07:45.464000
+FLL000412,"Renner, Paul",Paul,,Renner,,,True,fl,lower,24,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4619.jpg,2015-04-29 01:16:18.873000,2017-06-01 10:07:45.527000
+FLL000413,"Ponder, Mel",Mel,,Ponder,,,True,fl,lower,4,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4641.jpg,2017-02-24 03:13:55.369000,2017-06-01 10:07:45.571000
+FLL000415,"Williamson, Jayer",Jayer,,Williamson,,,True,fl,lower,3,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4622.jpg,2017-02-24 03:13:55.387000,2017-06-01 10:07:45.445000
+FLL000416,"Yarborough, Clay",Clay,,Yarborough,,,True,fl,lower,12,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4633.jpg,2017-02-24 03:13:55.393000,2017-06-01 10:07:45.406000
+FLL000419,"Davis, Tracie",Tracie,,Davis,,,True,fl,lower,13,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4651.jpg,2017-02-24 03:13:55.431000,2017-06-01 10:07:45.541000
+FLL000420,"Fischer, Jason",Jason,,Fischer,,,True,fl,lower,16,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4639.jpg,2017-02-24 03:13:55.448000,2017-06-01 10:07:45.412000
+FLL000421,"Watson Jr., Clovis",Clovis,,Watson,Jr.,,True,fl,lower,20,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4541.jpg,2017-02-24 03:13:55.454000,2017-06-01 10:07:45.449000
+FLL000422,"Alexander, Ramon",Ramon,,Alexander,,,True,fl,lower,8,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4640.jpg,2017-02-24 03:13:55.459000,2017-06-01 10:07:45.597000
+FLL000424,"Baez, Daisy J.",Daisy J.,,Baez,,,True,fl,lower,114,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4654.jpg,2017-02-24 03:13:55.470000,2017-06-01 10:07:45.217000
+FLL000425,"Brown, Kamia L.",Kamia L.,,Brown,,,True,fl,lower,45,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4625.jpg,2017-02-24 03:13:55.476000,2017-06-01 10:07:44.734000
+FLL000428,"Goodson, Tom",Tom,,Goodson,,,True,fl,lower,51,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4500.jpg,2017-02-24 03:13:55.492000,2017-06-01 10:07:45.469000
+FLL000432,"Donalds, Byron",Byron,,Donalds,,,True,fl,lower,80,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4636.jpg,2017-02-24 03:13:55.549000,2017-06-01 10:07:44.740000
+FLL000435,"Mariano, Amber",Amber,,Mariano,,,True,fl,lower,36,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4684.jpg,2017-02-24 03:13:55.611000,2017-06-01 10:07:45.572000
+FLL000438,"Daniels, Kimberly",Kimberly,,Daniels,,,True,fl,lower,14,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4652.jpg,2017-02-24 03:13:55.652000,2017-06-01 10:07:45.402000
+FLL000439,"Altman, Thad",Thad,,Altman,,,True,fl,lower,52,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4329.jpg,2017-02-24 03:13:55.669000,2017-06-01 10:07:45.561000
+FLL000443,"Newton, Wengay ""Newt""","Wengay ""Newt""",,Newton,,,True,fl,lower,70,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4659.jpg,2017-02-24 03:13:55.698000,2017-06-01 10:07:45.261000
+FLL000444,"Ausley, Loranne",Loranne,,Ausley,,,True,fl,lower,9,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4190.jpg,2017-02-24 03:13:55.703000,2017-06-01 10:07:45.498000
+FLL000445,"Toledo, Jackie",Jackie,,Toledo,,,True,fl,lower,60,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4647.jpg,2017-02-24 03:13:55.709000,2017-06-01 10:07:45.263000
+FLL000447,"McClain, Stan",Stan,,McClain,,,True,fl,lower,23,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4658.jpg,2017-02-24 03:13:55.720000,2017-06-01 10:07:45.190000
+FLL000449,"Duran, Nicholas X.",Nicholas X.,,Duran,,,True,fl,lower,112,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4650.jpg,2017-02-24 03:13:55.750000,2017-06-01 10:07:44.632000
+FLL000450,"Silvers, David",David,,Silvers,,,True,fl,lower,87,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4627.jpg,2017-02-24 03:13:55.786000,2017-06-01 10:07:45.599000
+FLL000451,"Shaw, Sean",Sean,,Shaw,,,True,fl,lower,61,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4626.jpg,2017-02-24 03:13:55.798000,2017-06-01 10:07:45.532000
+FLL000453,"Payne, Bobby",Bobby,,Payne,,,True,fl,lower,19,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4653.jpg,2017-02-24 03:13:55.809000,2017-06-01 10:07:45.248000
+FLL000456,"Henry, Patrick",Patrick,,Henry,,,True,fl,lower,26,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4663.jpg,2017-02-24 03:13:55.825000,2017-06-01 10:07:45.454000
+FLL000459,"White, Frank",Frank,,White,,,True,fl,lower,2,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4645.jpg,2017-02-24 03:13:55.854000,2017-06-01 10:07:45.395000
+FLL000461,"Miller, Alexandra C. ""Alex""","Alexandra C. ""Alex""",,Miller,,,True,fl,lower,72,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4660.jpg,2017-02-24 03:13:55.871000,2017-06-01 10:07:45.593000
+FLL000463,"Rommel, Bob",Bob,,Rommel,,,True,fl,lower,106,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4634.jpg,2017-02-24 03:13:55.882000,2017-06-01 10:07:45.223000
+FLL000464,"Abruzzo, Joseph",Joseph,,Abruzzo,,,True,fl,lower,81,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4458.jpg,2017-02-24 03:13:55.888000,2017-06-01 10:07:45.376000
+FLL000465,"Byrd, Cord",Cord,,Byrd,,,True,fl,lower,11,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4632.jpg,2017-02-24 03:13:55.900000,2017-06-01 10:07:45.414000
+FLL000468,"Willhite, Matt",Matt,,Willhite,,,True,fl,lower,86,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4649.jpg,2017-02-24 03:13:55.934000,2017-06-01 10:07:45.259000
+FLL000471,"Sullivan, Jennifer Mae",Jennifer Mae,,Sullivan,,,True,fl,lower,31,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4602.jpg,2017-02-24 03:13:55.982000,2017-06-01 10:07:45.431000
+FLL000472,"Jacquet, Al",Al,,Jacquet,,,True,fl,lower,88,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4628.jpg,2017-02-24 03:13:55.988000,2017-06-01 10:07:45.506000
+FLL000473,"Leek, Thomas J. ""Tom""","Thomas J. ""Tom""",,Leek,,,True,fl,lower,25,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4662.jpg,2017-02-24 03:13:56.023000,2017-06-01 10:07:45.595000
+FLL000474,"Roth, Rick",Rick,,Roth,,,True,fl,lower,85,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4648.jpg,2017-02-24 03:13:56.049000,2017-06-01 10:07:45.462000
+FLL000475,"Grant, Michael",Michael,,Grant,,,True,fl,lower,75,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4349.jpg,2017-02-24 03:13:56.060000,2017-06-01 10:07:45.252000
+FLL000477,"Asencio, Robert",Robert,,Asencio,,,True,fl,lower,118,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4656.jpg,2017-02-24 03:13:56.077000,2017-06-01 10:07:45.365000
+FLL000479,"Massullo, MD, Ralph E.","MD, Ralph E.",,Massullo,,,True,fl,lower,34,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4624.jpg,2017-02-24 03:13:56.099000,2017-06-01 10:07:45.250000
+FLL000480,"Clemons, Sr., Charles Wesley ""Chuck""","Charles Wesley ""Chuck""",,Clemons,,,True,fl,lower,21,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4655.jpg,2017-02-24 03:13:56.105000,2017-06-01 10:07:45.451000
+FLL000483,"Williams, Patricia H.",Patricia H.,,Williams,,,True,fl,lower,92,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4629.jpg,2017-02-24 03:13:56.121000,2017-06-01 10:07:45.358000
+FLL000484,"Plasencia, Rene ""Coach P""","Rene ""Coach P""",,Plasencia,,,True,fl,lower,50,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4607.jpg,2017-02-24 03:13:56.132000,2017-06-01 10:07:45.550000
+FLL000486,"Fine, Randy",Randy,,Fine,,,True,fl,lower,53,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4646.jpg,2017-02-24 03:13:56.171000,2017-06-01 10:07:45.500000
+FLL000487,"Grant, James ""J.W.""","James ""J.W.""",,Grant,,,True,fl,lower,64,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4504.jpg,2017-02-24 03:13:56.177000,2017-06-01 10:07:45.586000
+FLL000489,"Grall, Erin",Erin,,Grall,,,True,fl,lower,54,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4637.jpg,2017-02-24 03:13:56.193000,2017-06-01 10:07:44.924000
+FLL000490,"Diamond, Ben",Ben,,Diamond,,,True,fl,lower,68,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4657.jpg,2017-02-24 03:13:56.199000,2017-06-01 10:07:45.460000
+FLL000492,"Gruters, Joe",Joe,,Gruters,,,True,fl,lower,73,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4661.jpg,2017-02-24 03:13:56.216000,2017-06-01 10:07:45.496000
+FLL000493,"Mercado, Amy",Amy,,Mercado,,,True,fl,lower,48,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4638.jpg,2017-02-24 03:13:56.222000,2017-06-01 10:07:45.416000
+FLL000495,"Slosberg, Emily",Emily,,Slosberg,,,True,fl,lower,91,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4635.jpg,2017-02-24 03:13:56.239000,2017-06-01 10:07:45.423000
+FLL000496,"Hahnfeldt, Don",Don,,Hahnfeldt,,,True,fl,lower,33,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4623.jpg,2017-02-24 03:13:56.245000,2017-06-01 10:07:45.559000
+FLL000497,"Hardemon, Roy",Roy,,Hardemon,,,True,fl,lower,108,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4631.jpg,2017-02-24 03:13:56.250000,2017-06-01 10:07:45.520000
+FLL000498,"Killebrew, Sam H.",Sam H.,,Killebrew,,,True,fl,lower,41,Republican,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4644.jpg,2017-02-24 03:13:56.262000,2017-06-01 10:07:45.014000
+FLL000499,"Russell, Barrington A. ""Barry""","Barrington A. ""Barry""",,Russell,,,True,fl,lower,95,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4630.jpg,2017-02-24 03:13:56.273000,2017-06-01 10:07:45.007000
+FLL000501,"Smith, Carlos Guillermo",Carlos Guillermo,,Smith,,,True,fl,lower,49,Democratic,http://www.flhouse.gov/FileStores/Web/Imaging/Member/4642.jpg,2017-02-24 03:13:56.291000,2017-06-01 10:07:45.569000
+FLL000026,Bill Montford,Bill,,Montford,,,True,fl,upper,3,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s03_5045.jpg,2011-03-02 21:41:52.162000,2017-06-01 10:07:45.334000
+FLL000168,Aaron Bean,Aaron,,Bean,,,True,fl,upper,4,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s04_5094.jpg,2013-01-03 00:11:42.649000,2017-06-01 10:07:45.481000
+FLL000414,"Brandes, Jeff",Jeff,,Brandes,,,True,fl,upper,24,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s24_5095.jpg,2017-02-24 03:13:55.382000,2017-06-01 10:06:56.153000
+FLL000417,"Gibson, Audrey",Audrey,,Gibson,,,True,fl,upper,6,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s06_4765.jpg,2017-02-24 03:13:55.414000,2017-06-01 10:07:45.103000
+FLL000418,"Lee, Tom",Tom,,Lee,,,True,fl,upper,20,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s20_5100.jpg,2017-02-24 03:13:55.426000,2017-06-01 10:07:45.319000
+FLL000423,"Latvala, Jack",Jack,,Latvala,,,True,fl,upper,16,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s16_4514.jpg,2017-02-24 03:13:55.465000,2017-06-01 10:07:45.321000
+FLL000426,"Negron, Joe",Joe,,Negron,,,True,fl,upper,25,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s25_4688.jpg,2017-02-24 03:13:55.481000,2017-06-01 10:06:56.170000
+FLL000427,"Galvano, Bill",Bill,,Galvano,,,True,fl,upper,21,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s21_5098.jpg,2017-02-24 03:13:55.487000,2017-06-01 10:07:45.326000
+FLL000429,"Hutson, Travis",Travis,,Hutson,,,True,fl,upper,7,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s07_5186.jpg,2017-02-24 03:13:55.498000,2017-06-01 10:07:45.300000
+FLL000430,"Steube, Greg",Greg,,Steube,,,True,fl,upper,23,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s23_5204.jpg,2017-02-24 03:13:55.533000,2017-06-01 10:07:45.070000
+FLL000431,"Young, Dana D.",Dana D.,,Young,,,True,fl,upper,18,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s18_5207.jpg,2017-02-24 03:13:55.544000,2017-06-01 10:06:56.183000
+FLL000433,"Bradley, Rob",Rob,,Bradley,,,True,fl,upper,5,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s05_5101.jpg,2017-02-24 03:13:55.555000,2017-06-01 10:07:45.336000
+FLL000434,"Mayfield, Debbie",Debbie,,Mayfield,,,True,fl,upper,17,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s17_5199.jpg,2017-02-24 03:13:55.566000,2017-06-01 10:07:45.488000
+FLL000436,"Simmons, David",David,,Simmons,,,True,fl,upper,9,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s09_4682.jpg,2017-02-24 03:13:55.623000,2017-06-01 10:07:45.095000
+FLL000437,"Rader, Kevin J.",Kevin J.,,Rader,,,True,fl,upper,29,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s29_5032.jpg,2017-02-24 03:13:55.647000,2017-06-01 10:06:56.174000
+FLL000440,"Rouson, Darryl Ervin",Darryl Ervin,,Rouson,,,True,fl,upper,19,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s19_5203.jpg,2017-02-24 03:13:55.675000,2017-06-01 10:06:56.176000
+FLL000441,"Flores, Anitere",Anitere,,Flores,,,True,fl,upper,39,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s39_4783.jpg,2017-02-24 03:13:55.686000,2017-06-01 10:07:45.329000
+FLL000442,"Benacquisto, Lizbeth",Lizbeth,,Benacquisto,,,True,fl,upper,27,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s27_5047.jpg,2017-02-24 03:13:55.692000,2017-06-01 10:07:45.331000
+FLL000446,"Baxley, Dennis",Dennis,,Baxley,,,True,fl,upper,12,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s12_5192.jpg,2017-02-24 03:13:55.714000,2017-06-01 10:07:45.289000
+FLL000448,"Gainer, George B.",George B.,,Gainer,,,True,fl,upper,2,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s02_5190.jpg,2017-02-24 03:13:55.744000,2017-06-01 10:06:56.160000
+FLL000452,"Stargel, Kelli",Kelli,,Stargel,,,True,fl,upper,22,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s22_5105.jpg,2017-02-24 03:13:55.803000,2017-06-01 10:07:44.970000
+FLL000454,"Campbell, Daphne",Daphne,,Campbell,,,True,fl,upper,38,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s38_5195.jpg,2017-02-24 03:13:55.814000,2017-06-01 10:07:45.486000
+FLL000455,"Book, Lauren",Lauren,,Book,,,True,fl,upper,32,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s32_5189.jpg,2017-02-24 03:13:55.820000,2017-06-01 10:07:45.323000
+FLL000457,"Passidomo, Kathleen",Kathleen,,Passidomo,,,True,fl,upper,28,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s28_5196.jpg,2017-02-24 03:13:55.837000,2017-06-01 10:07:45.303000
+FLL000458,"Powell, Bobby",Bobby,,Powell,,,True,fl,upper,30,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s30_5201.jpg,2017-02-24 03:13:55.843000,2017-06-01 10:07:45.309000
+FLL000460,"Artiles, Frank",Frank,,Artiles,,,True,fl,upper,40,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s40_5197.jpg,2017-02-24 03:13:55.859000,2017-06-01 10:06:56.006000
+FLL000462,"Rodriguez, Jose Javier",Jose Javier,,Rodriguez,,,True,fl,upper,37,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s37_5202.jpg,2017-02-24 03:13:55.877000,2017-06-01 10:06:56.175000
+FLL000466,"Hukill, Dorothy L.",Dorothy L.,,Hukill,,,True,fl,upper,14,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s14_5102.jpg,2017-02-24 03:13:55.917000,2017-06-01 10:06:56.165000
+FLL000467,"Grimsley, Denise",Denise,,Grimsley,,,True,fl,upper,26,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s26_5099.jpg,2017-02-24 03:13:55.923000,2017-06-01 10:07:45.479000
+FLL000469,"Braynon, Oscar II",Oscar,,Braynon,II,,True,fl,upper,35,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s35_5007.jpg,2017-02-24 03:13:55.945000,2017-06-01 10:06:56.154000
+FLL000470,"Bracy, Randolph",Randolph,,Bracy,,,True,fl,upper,11,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s11_5193.jpg,2017-02-24 03:13:55.964000,2017-06-01 10:07:45.287000
+FLL000476,"Stewart, Linda",Linda,,Stewart,,,True,fl,upper,13,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s13_5205.jpg,2017-02-24 03:13:56.071000,2017-06-01 10:07:45.278000
+FLL000478,"Thurston, Perry E., Jr.",Perry E,,Thurston,Jr.,,True,fl,upper,33,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s33_5191.jpg,2017-02-24 03:13:56.094000,2017-06-01 10:06:56.182000
+FLL000481,"Farmer, Gary M., Jr.",Gary M,,Farmer,Jr.,,True,fl,upper,34,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s34_5198.jpg,2017-02-24 03:13:56.110000,2017-06-01 10:06:56.158000
+FLL000482,"Garcia, Rene",Rene,,Garcia,,,True,fl,upper,36,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s36_4717.jpg,2017-02-24 03:13:56.115000,2017-06-01 10:07:45.484000
+FLL000485,"Broxson, Doug",Doug,,Broxson,,,True,fl,upper,1,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s01_5194.jpg,2017-02-24 03:13:56.154000,2017-06-01 10:07:45.490000
+FLL000488,"Torres, Victor M., Jr.",Victor M,,Torres,Jr.,,True,fl,upper,15,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s15_5206.jpg,2017-02-24 03:13:56.182000,2017-06-01 10:06:56.183000
+FLL000491,"Perry, Keith",Keith,,Perry,,,True,fl,upper,8,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s08_5200.jpg,2017-02-24 03:13:56.205000,2017-06-01 10:07:45.089000
+FLL000494,"Simpson, Wilton",Wilton,,Simpson,,,True,fl,upper,10,Republican,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s10_5104.jpg,2017-02-24 03:13:56.233000,2017-06-01 10:07:45.317000
+FLL000500,"Clemens, Jeff",Jeff,,Clemens,,,True,fl,upper,31,Democratic,http://www.flsenate.gov/PublishedContent/Senators/2016-2018/Photos/s31_5097.jpg,2017-02-24 03:13:56.279000,2017-06-01 10:07:45.285000

@@ -1,0 +1,393 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+MNL000001,Ellen R Anderson,Ellen,R,Anderson,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/66Anderson.jpg,2010-12-17 08:18:51,2012-06-05 21:41:57
+MNL000003,Linda Berglin,Linda,,Berglin,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/61Berglin.jpg,2010-12-17 08:18:51,2012-06-28 19:55:08
+MNL000004,Don Betzold,Don,,Betzold,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000005,Terri E Bonoff,Terri,E,Bonoff,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/44Bonoff.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.243000
+MNL000007,Satveer S Chaudhary,Satveer,S,Chaudhary,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000008,Tarryl L Clark,Tarryl,L,Clark,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000010,Kevin L Dahle,Kevin,L,Dahle,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/20Dahle.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.234000
+MNL000012,Steve Dille,Steve,,Dille,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000013,John P Doll,John,P,Doll,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000014,Sharon L Erickson Ropes,Sharon,L,Erickson Ropes,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000016,Lisa A Fobbe,Lisa,A,Fobbe,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000017,Leo T Foley,Leo,T,Foley,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000018,Dennis R Frederickson,Dennis,R,Frederickson,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000019,Chris Gerlach,Chris,,Gerlach,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/37Gerlach.jpg,2010-12-17 08:18:51,2013-01-11 16:53:09.781000
+MNL000020,Joe Gimse,Joe,,Gimse,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/13Gimse.jpg,2010-12-17 08:18:51,2013-01-11 16:40:54.662000
+MNL000021,David W Hann,David,W,Hann,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/48Hann.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.225000
+MNL000022,Linda Higgins,Linda,,Higgins,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/58Higgins.jpg,2010-12-17 08:18:51,2013-01-11 16:57:57.187000
+MNL000024,Debbie J Johnson,Debbie,J,Johnson,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000025,Michael J Jungbauer,Michael,J,Jungbauer,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/48Jungbauer.jpg,2010-12-17 08:18:51,2013-01-11 16:58:19.134000
+MNL000026,Kenneth S Kelash,Kenneth,S,Kelash,,Ken,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/63Kelash.jpg,2010-12-17 08:18:51,2013-01-11 16:57:50.991000
+MNL000027,Amy T Koch,Amy,T,Koch,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/19Koch.jpg,2010-12-17 08:18:51,2013-01-11 16:42:28.054000
+MNL000028,Paul E Koering,Paul,E,Koering,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000029,Gary W Kubly,Gary,W,Kubly,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/20Kubly.jpg,2010-12-17 08:18:51,2012-06-05 21:32:29
+MNL000030,Keith Langseth,Keith,,Langseth,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/09Langseth.jpg,2010-12-17 08:18:51,2013-01-11 16:36:23.878000
+MNL000034,Ann Lynch,Ann,,Lynch,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000036,James P Metzen,James,P,Metzen,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/52Metzen.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.226000
+MNL000037,Geoff Michel,Geoff,,Michel,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/41Michel.jpg,2010-12-17 08:18:51,2013-01-11 16:57:33.327000
+MNL000038,Mee Moua,Mee,,Moua,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000039,Steve Murphy,Steve,,Murphy,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000040,Rick E Olseen,Rick,E,Olseen,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000041,Gen Olson,Gen,,Olson,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/33Olson.jpg,2010-12-17 08:18:51,2013-01-11 16:53:30.804000
+MNL000042,Mary A Olson,Mary,A,Olson,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000043,Julianne E Ortman,Julianne,E,Ortman,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/47Ortman.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.229000
+MNL000045,Pat Pariseau,Pat,,Pariseau,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000046,Mike Parry,Mike,,Parry,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/26Parry.jpg,2010-12-17 08:18:51,2013-01-11 16:45:33.481000
+MNL000047,Lawrence J Pogemiller,Lawrence,J,Pogemiller,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/59Pogemiller.jpg,2010-12-17 08:18:51,2012-06-05 21:37:26
+MNL000048,Yvonne Prettner Solon,Yvonne,,Prettner Solon,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000050,Claire A Robling,Claire,A,Robling,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/35Robling.jpg,2010-12-17 08:18:51,2013-01-11 16:52:42.419000
+MNL000052,Sandy Rummel,Sandy,,Rummel,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000053,Kathy L Saltzman,Kathy,L,Saltzman,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000054,Tom Saxhaug,Tom,,Saxhaug,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/05Saxhaug.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.244000
+MNL000055,Linda Scheid,Linda,,Scheid,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/46Scheid.jpg,2010-12-17 08:18:51,2012-06-05 21:35:09
+MNL000057,Kathy Sheran,Kathy,,Sheran,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/19Sheran.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.231000
+MNL000058,Katie Sieben,Katie,,Sieben,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/54Sieben.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.232000
+MNL000059,Rod Skoe,Rod,,Skoe,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/02Skoe.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.239000
+MNL000060,Dan Skogen,Dan,,Skogen,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000062,LeRoy A Stumpf,LeRoy,A,Stumpf,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/01Stumpf.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.235000
+MNL000065,Ray Vandeveer,Ray,,Vandeveer,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/52Vandeveer.jpg,2010-12-17 08:18:51,2013-01-11 16:58:09.539000
+MNL000066,Jim Vickerman,Jim,,Vickerman,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000068,David Olin,David,,Olin,,Dave,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000069,Bernard Lieder,Bernard,,Lieder,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000071,Brita Sailer,Brita,,Sailer,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000072,Tom Anzelc,Tom,,Anzelc,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_05B.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.215000
+MNL000073,Loren Solberg,Loren,,Solberg,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000074,John Persell,John,,Persell,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_05A.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.204000
+MNL000075,Larry Howes,Larry,,Howes,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/04B.GIF,2010-12-17 08:18:51,2013-01-04 19:43:30.724000
+MNL000076,Tom Rukavina,Tom,,Rukavina,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/05A.GIF,2010-12-17 08:18:51,2013-01-04 18:50:26.003000
+MNL000077,Anthony Sertich,Anthony,,Sertich,,Tony,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/05B.GIF,2010-12-17 08:18:51,2012-07-10 21:32:39
+MNL000078,David Dill,David,,Dill,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_03A.jpg,2010-12-17 08:18:51,2015-12-14 16:23:27.379000
+MNL000080,Thomas Huntley,Thomas,,Huntley,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/07A.jpg,2010-12-17 08:18:51,2015-02-04 17:17:10.820000
+MNL000081,Roger J Reinert,Roger,J,Reinert,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/07Reinert.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.240000
+MNL000082,Bill Hilty,Bill,,Hilty,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/08A.GIF,2010-12-17 08:18:51,2013-01-04 19:43:17.518000
+MNL000083,Tim Faust,Tim,,Faust,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/11B.jpg,2010-12-17 08:18:51,2015-02-04 17:18:33.320000
+MNL000084,Morrie Lanning,Morrie,,Lanning,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/09A.GIF,2010-12-17 08:18:51,2013-01-04 19:43:19.168000
+MNL000087,Mark Murdock,Mark,,Murdock,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/10B.GIF,2010-12-17 08:18:51,2013-01-04 18:52:44.723000
+MNL000088,Torrey Westrom,Torrey,,Westrom,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/11A.GIF,2010-12-17 08:18:51,2013-01-04 18:52:47.418000
+MNL000089,Mary Ellen Otremba,Mary Ellen,,Otremba,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000090,John Ward,John,,Ward,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/10A.jpg,2010-12-17 08:18:51,2015-02-04 17:17:34.013000
+MNL000091,Al Doty,Al,,Doty,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000093,Al Juhnke,Al,,Juhnke,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000094,Dan Severson,Dan,,Severson,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000095,Larry Hosch,Larry,,Hosch,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/14B.GIF,2010-12-17 08:18:51,2013-01-04 18:52:53.230000
+MNL000096,Steve Gottwalt,Steve,,Gottwalt,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/14A.jpg,2010-12-17 08:18:51,2013-02-19 16:01:39.189000
+MNL000097,Larry Haws,Larry,,Haws,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000098,Gail Kulick Jackson,Gail,Kulick,Jackson,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000100,Rob Eastlund,Rob,,Eastlund,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000101,Jeremy Kalin,Jeremy,,Kalin,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000102,Ron Shimanski,Ron,,Shimanski,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/18A.GIF,2010-12-17 08:18:51,2013-01-04 18:53:00.061000
+MNL000105,Tom Emmer,Tom,,Emmer,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000106,Andrew Falk,Andrew,,Falk,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/17A.jpg,2010-12-17 08:18:51,2015-02-04 17:23:31.203000
+MNL000107,Lyle Koenen,Lyle,,Koenen,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/17Koenen.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.236000
+MNL000108,Marty Seifert,Marty,,Seifert,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000110,Doug Magnus,Doug,,Magnus,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/22Magnus.jpg,2010-12-17 08:18:51,2013-01-11 16:44:02.625000
+MNL000112,Terry Morrow,Terry,,Morrow,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/19A.jpg,2010-12-17 08:18:51,2013-02-19 16:01:26.493000
+MNL000113,Kathy Brynaert,Kathy,,Brynaert,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/19B.jpg,2010-12-17 08:18:51,2015-02-04 17:26:03.059000
+MNL000116,Laura Brod,Laura,,Brod,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000118,Kory Kath,Kory,,Kath,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/26A.GIF,2010-12-17 08:18:51,2013-01-04 19:37:54.935000
+MNL000119,Patti Fritz,Patti,,Fritz,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/24B.jpg,2010-12-17 08:18:51,2015-02-04 17:31:54.175000
+MNL000120,Robin Brown,Robin,,Brown,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000122,Tim Kelly,Tim,,Kelly,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_21A.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.213000
+MNL000124,Randy Demmer,Randy,,Demmer,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000125,Kim Norton,Kim,,Norton,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_25B.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.205000
+MNL000127,Andy Welti,Andy,,Welti,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000131,Kurt Zellers,Kurt,,Zellers,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/34B.jpg,2010-12-17 08:18:51,2015-02-04 17:43:36.713000
+MNL000132,Steve Smith,Steve,,Smith,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/33A.GIF,2010-12-17 08:18:51,2013-01-04 19:38:48.074000
+MNL000133,Connie Doepke,Connie,,Doepke,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/33B.GIF,2010-12-17 08:18:51,2013-01-04 19:38:56.750000
+MNL000134,Paul Kohls,Paul,,Kohls,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000136,Michael Beard,Michael,,Beard,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/55A.jpg,2010-12-17 08:18:51,2015-02-04 19:50:26.648000
+MNL000137,Mark Buesgens,Mark,,Buesgens,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/35B.GIF,2010-12-17 08:18:51,2013-01-04 19:39:01.964000
+MNL000138,Mary Liz Holberg,Mary Liz,,Holberg,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/58A.jpg,2010-12-17 08:18:51,2015-02-04 19:39:23.757000
+MNL000140,Tara Mack,Tara,,Mack,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_57A.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.210000
+MNL000141,Phillip Sterner,Phillip,,Sterner,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000143,Mike Obermueller,Mike,,Obermueller,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000145,Joe Atkins,Joe,,Atkins,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_52B.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.201000
+MNL000146,Will Morgan,Will,,Morgan,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/56B.jpg,2010-12-17 08:18:51,2015-02-04 19:37:46.615000
+MNL000147,Ann Lenczewski,Ann,,Lenczewski,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_50B.jpg,2010-12-17 08:18:51,2016-03-17 21:52:54.843000
+MNL000148,Keith Downey,Keith,,Downey,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/41A.GIF,2010-12-17 08:18:51,2013-01-04 18:50:15.669000
+MNL000150,Maria Ruud,Maria,,Ruud,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000153,John Benson,John,,Benson,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/44B.jpg,2010-12-17 08:18:51,2015-02-04 19:16:33.126000
+MNL000154,Steve Simon,Steve,,Simon,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/46B.jpg,2010-12-17 08:18:51,2015-02-04 19:20:12.515000
+MNL000155,Ryan Winkler,Ryan,,Winkler,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/46A.jpg,2010-12-17 08:18:51,2015-12-14 16:30:04.315000
+MNL000156,Sandra Peterson,Sandra,,Peterson,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/45A.GIF,2010-12-17 08:18:51,2013-01-04 19:43:22.716000
+MNL000160,Denise Dittrich,Denise,,Dittrich,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/47A.GIF,2010-12-17 08:18:51,2013-01-04 19:43:24.481000
+MNL000162,Tom Hackbarth,Tom,,Hackbarth,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_31B.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.216000
+MNL000163,Jim Abeler,Jim,,Abeler,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/35A.jpg,2010-12-17 08:18:51,2015-02-04 17:44:06.960000
+MNL000165,Jerry Newton,Jerry,,Newton,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_37A.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.200000
+MNL000166,Carolyn Laine,Carolyn,,Laine,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_41B.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.191000
+MNL000167,Kate Knuth,Kate,,Knuth,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/50B.GIF,2010-12-17 08:18:51,2013-01-04 19:43:20.977000
+MNL000168,Tim Sanders,Tim,,Sanders,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_37B.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.214000
+MNL000169,Tom Tillberry,Tom,,Tillberry,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/51B.GIF,2010-12-17 08:18:51,2013-01-04 19:43:08.465000
+MNL000172,Paul Gardner,Paul,,Gardner,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000173,Carol McFarlane,Carol,,McFarlane,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/53B.GIF,2010-12-17 08:18:51,2013-01-04 19:43:28.745000
+MNL000174,Mindy Greiling,Mindy,,Greiling,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/54A.GIF,2010-12-17 08:18:51,2013-01-04 18:50:30.224000
+MNL000175,Bev Scalze,Bev,,Scalze,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/42Scalze.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.221000
+MNL000177,Nora Slawik,Nora,,Slawik,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/55B.GIF,2010-12-17 08:18:51,2013-01-04 18:50:45.578000
+MNL000178,Julie Bunn,Julie,,Bunn,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000179,Marsha Swails,Marsha,,Swails,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000180,Karla Bigham,Karla,,Bigham,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000181,Denny McNamara,Denny,,McNamara,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_54B.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.196000
+MNL000182,Joe Mullery,Joe,,Mullery,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_59A.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.203000
+MNL000185,Phyllis Kahn,Phyllis,,Kahn,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_60B.jpg,2010-12-17 08:18:51,2017-01-02 07:01:04.208000
+MNL000186,Margaret Anderson Kelliher,Margaret,Anderson,Kelliher,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:36
+MNL000195,Michael Paymar,Michael,,Paymar,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/64B.jpg,2010-12-17 08:18:51,2015-02-04 19:46:26.403000
+MNL000196,Cy Thao,Cy,,Thao,,,False,mn,,,,,2010-12-17 08:18:51,2011-01-12 21:46:37
+MNL000203,David M Brown,David,M,Brown,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/15Brown.jpg,2011-01-15 03:24:08,2017-01-02 07:01:04.224000
+MNL000204,John Carlson,John,,Carlson,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/04Carlson.jpg,2011-01-15 03:24:08,2013-01-11 16:36:05.664000
+MNL000207,Theodore J Daley,Theodore,J,Daley,,Ted,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/38Daley.jpg,2011-01-15 03:24:08,2013-01-11 16:52:11.334000
+MNL000208,Al DeKruif,Al,,DeKruif,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/25Dekruif.jpg,2011-01-15 03:24:08,2013-01-11 16:47:55.378000
+MNL000210,Barb Goodwin,Barb,J,Goodwin,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/41Goodwin.jpg,2011-01-15 03:24:08,2017-01-02 07:01:04.220000
+MNL000212,John M Harrington,John,M,Harrington,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/67Harrington.jpg,2011-01-15 03:24:08,2013-01-11 16:57:25.970000
+MNL000213,Gretchen M Hoffman,Gretchen,M,Hoffman,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/10Hoffman.jpg,2011-01-15 03:24:08,2013-01-11 16:38:39.547000
+MNL000214,John Sterling Howe,John,,Howe,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/28Howe.jpg,2011-01-15 03:24:08,2013-01-11 16:54:10.625000
+MNL000215,Benjamin A Kruse,Benjamin,A,Kruse,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/47Kruse.jpg,2011-01-15 03:24:08,2013-01-11 16:57:42.668000
+MNL000216,Ted H Lillie,Ted,H,Lillie,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/56Lillie.jpg,2011-01-15 03:24:08,2013-01-11 16:58:02.781000
+MNL000221,Sean R Nienow,Sean,R,Nienow,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/32Nienow.jpg,2011-01-15 03:24:08,2017-01-02 07:01:04.241000
+MNL000222,John C Pederson,John,C,Pederson,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/14Pederson.jpg,2011-01-15 03:24:08,2017-01-02 07:01:04.228000
+MNL000224,Dave Thompson,Dave,,Thompson,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/58Thompson.jpg,2011-01-15 03:24:08,2017-01-02 07:01:04.222000
+MNL000225,Pam Wolf,Pam,,Wolf,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/51Wolf.jpg,2011-01-15 03:24:08,2013-01-11 16:58:14.222000
+MNL000228,Diane Anderson,Diane,,Anderson,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/38A.GIF,2011-01-15 03:24:08,2013-01-04 19:39:07.422000
+MNL000233,King Banaian,King,,Banaian,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/15B.GIF,2011-01-15 03:24:08,2013-01-04 18:52:55.288000
+MNL000234,Bob Barrett,Bob,,Barrett,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_32B.jpg,2011-01-15 03:24:08,2017-01-02 07:01:04.188000
+MNL000237,Mike Benson,Mike,,Benson,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/26B.jpg,2011-01-15 03:24:08,2015-02-04 17:34:09.251000
+MNL000238,Kurt Bills,Kurt,,Bills,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/37B.GIF,2011-01-15 03:24:08,2013-01-04 18:50:23.760000
+MNL000245,Roger Crawford,Roger,,Crawford,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/08B.GIF,2011-01-15 03:24:08,2013-01-04 19:43:15.455000
+MNL000263,Kerry Gauthier,Kerry,,Gauthier,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/07B.GIF,2011-01-15 03:24:08,2013-01-04 19:43:26.784000
+MNL000265,Marion Greene,Marion,,Greene,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/60A.GIF,2011-01-15 03:24:08,2013-01-04 18:50:27.936000
+MNL000271,David Hancock,Dave,,Hancock,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_02A.jpg,2011-01-15 03:24:08,2017-01-02 07:01:04.195000
+MNL000288,Andrea Kieffer,Andrea,,Kieffer,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/53B.jpg,2011-01-15 03:24:08,2015-02-04 19:27:59.449000
+MNL000293,John Kriesel,John,,Kriesel,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/57A.GIF,2011-01-15 03:24:08,2013-01-04 19:43:13.635000
+MNL000296,Ernie Leidiger,Ernie,,Leidiger,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/47A.jpg,2011-01-15 03:24:08,2015-02-04 19:20:34.873000
+MNL000297,Mike LeMieur,Mike,,LeMieur,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/12B.GIF,2011-01-15 03:24:08,2013-01-04 19:37:43.421000
+MNL000309,Pat Mazorol,Pat,,Mazorol,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/41B.GIF,2011-01-15 03:24:08,2013-01-04 18:50:21.711000
+MNL000311,Carolyn McElfatrick,Carolyn,,McElfatrick,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/03B.GIF,2011-01-15 03:24:08,2013-01-04 19:39:16.978000
+MNL000320,Rich Murray,Rich,,Murray,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/27A.GIF,2011-01-15 03:24:08,2013-01-04 19:38:18.677000
+MNL000321,Pam Myhra,Pam,,Myhra,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/56A.jpg,2011-01-15 03:24:08,2015-02-04 19:37:08.709000
+MNL000330,Branden Petersen,Branden,,Petersen,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/35Petersen.jpg,2011-01-15 03:24:08,2016-03-17 21:50:26.975000
+MNL000346,Kirk Stensrud,Kirk,,Stensrud,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/42A.GIF,2011-01-15 03:24:08,2013-01-04 19:43:11.996000
+MNL000352,Bruce Vogel,Bruce,,Vogel,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/13B.GIF,2011-01-15 03:24:08,2013-01-04 18:52:50.963000
+MNL000355,Doug Wardlow,Doug,,Wardlow,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls87/38B.GIF,2011-01-15 03:24:08,2013-01-04 19:39:12.116000
+MNL000358,Kelby Woodard,Kelby,,Woodard,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/20A.jpg,2011-01-15 03:24:08,2015-02-04 17:26:28.158000
+MNL000361,Carly Melin,Carly,,Melin,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_06A.jpg,2011-02-25 05:52:19,2017-01-02 07:01:04.189000
+MNL000363,Mary Jo McGuire,Mary Jo,,McGuire,,,False,mn,,,,http://www.senate.leg.state.mn.us//graphics/66McGuire.jpg,2011-04-19 12:52:33,2013-01-11 16:57:19.714000
+MNL000373,Mark Anderson,Mark,,Anderson,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_09A.jpg,2013-01-04 16:38:35.015000,2017-01-02 07:01:04.206000
+MNL000395,Zachary Dorholt,Zachary,,Dorholt,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/14B.jpg,2013-01-04 16:38:35.190000,2015-02-04 17:19:11.329000
+MNL000397,Ron Erhardt,Ron,,Erhardt,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_49A.jpg,2013-01-04 16:38:35.206000,2017-01-02 07:01:04.209000
+MNL000398,Roger Erickson,Roger,,Erickson,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/02A.jpg,2013-01-04 16:38:35.214000,2015-02-04 19:54:47.115000
+MNL000403,David FitzSimmons,David,,FitzSimmons,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/30B.jpg,2013-01-04 16:38:35.263000,2015-02-04 17:38:17.345000
+MNL000423,Jason Isaacson,Jason,,Isaacson,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_42B.jpg,2013-01-04 16:38:35.433000,2017-01-02 07:01:04.199000
+MNL000443,Jay McNamar,Jay,,McNamar,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/12A.jpg,2013-01-04 16:38:35.619000,2015-02-04 17:18:55.416000
+MNL000465,Joe Radinovich,Joe,,Radinovich,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/10B.jpg,2013-01-04 16:38:35.819000,2015-02-04 17:18:12.731000
+MNL000469,Shannon Savick,Shannon,,Savick,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/27A.jpg,2013-01-04 16:38:35.853000,2015-02-04 17:34:37.356000
+MNL000470,Mary Sawatzky,Mary,,Sawatzky,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls88/17B.jpg,2013-01-04 16:38:35.862000,2015-02-04 17:24:02.632000
+MNL000471,Dan Schoen,Dan,,Schoen,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_54A.jpg,2013-01-04 16:38:35.870000,2017-01-02 07:01:04.194000
+MNL000473,Yvonne Selcer,Yvonne,,Selcer,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_48A.jpg,2013-01-04 16:38:35.895000,2017-01-02 07:01:04.218000
+MNL000475,Erik Simonson,Erik,,Simonson,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_07B.jpg,2013-01-04 16:38:35.913000,2017-01-02 07:01:04.198000
+MNL000489,Barb Yarusso,Barb,,Yarusso,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_42A.jpg,2013-01-04 16:38:36.044000,2017-01-02 07:01:04.183000
+MNL000519,Vicki Jensen,Vicki,,Jensen,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/24Jensen.jpg,2013-01-10 21:50:35.136000,2017-01-02 07:01:04.245000
+MNL000520,Alice M. Johnson,Alice M.,,Johnson,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/37Johnson.jpg,2013-01-10 21:50:35.145000,2017-01-02 07:01:04.219000
+MNL000545,Matt Schmit,Matt,,Schmit,,,False,mn,,,,http://www.senate.mn/graphics/member_thumbnails/21Schmit.jpg,2013-01-10 21:50:35.392000,2017-01-02 07:01:04.237000
+MNL000728,Chad Anderson,Chad,,Anderson,,,False,mn,,,,http://www.house.leg.state.mn.us/hinfo/memberimgls89/tn_50B.jpg,2016-02-18 06:05:12.409000,2017-01-02 07:01:04.192000
+MNL000079,Mary Murphy,Mary,,Murphy,,,True,mn,lower,3B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_03B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.064000
+MNL000085,Paul Marquart,Paul,,Marquart,,,True,mn,lower,4B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_04B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.031000
+MNL000086,Bud Nornes,Bud,,Nornes,,,True,mn,lower,8A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_08A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.003000
+MNL000092,Paul Anderson,Paul,,Anderson,,,True,mn,lower,12B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_12B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.265000
+MNL000103,Dean Urdahl,Dean,,Urdahl,,,True,mn,lower,18A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_18A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.008000
+MNL000109,Paul Torkelson,Paul,,Torkelson,,,True,mn,lower,16B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_16B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.994000
+MNL000111,Rod Hamilton,Rod,,Hamilton,,,True,mn,lower,22B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_22B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.017000
+MNL000114,Bob Gunther,Bob,,Gunther,,,True,mn,lower,23A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_23A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.048000
+MNL000115,Tony Cornish,Tony,,Cornish,,,True,mn,lower,23B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_23B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.006000
+MNL000117,David Bly,David,,Bly,,,True,mn,lower,20B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_20B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.273000
+MNL000121,Jeanne Poppe,Jeanne,,Poppe,,,True,mn,lower,27B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_27B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.033000
+MNL000123,Steve Drazkowski,Steve,,Drazkowski,,,True,mn,lower,21B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_21B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.029000
+MNL000126,Tina Liebling,Tina,,Liebling,,,True,mn,lower,26A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_26A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.024000
+MNL000128,Gene Pelowski Jr.,Gene,,Pelowski,Jr.,,True,mn,lower,28A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_28A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.026000
+MNL000129,Greg Davids,Greg,,Davids,,,True,mn,lower,28B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_28B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.989000
+MNL000130,Joyce Peppin,Joyce,,Peppin,,,True,mn,lower,34A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_34A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.830000
+MNL000135,Joe Hoppe,Joe,,Hoppe,,,True,mn,lower,47B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_47B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.384000
+MNL000139,Pat Garofalo,Pat,,Garofalo,,,True,mn,lower,58B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_58B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.996000
+MNL000142,Sandra Masin,Sandra,,Masin,,,True,mn,lower,51A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_51A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.964000
+MNL000144,Rick Hansen,Rick,,Hansen,,,True,mn,lower,52A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_52A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.345000
+MNL000149,Paul Rosenthal,Paul,,Rosenthal,,,True,mn,lower,49B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_49B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.945000
+MNL000151,Jenifer Loon,Jenifer,,Loon,,,True,mn,lower,48B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_48B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.036000
+MNL000152,Sarah Anderson,Sarah,,Anderson,,,True,mn,lower,44A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_44A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.013000
+MNL000157,Lyndon Carlson Sr.,Lyndon,,Carlson,Sr.,,True,mn,lower,45A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_45A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.038000
+MNL000158,Michael V Nelson,Michael,V,Nelson,,,True,mn,lower,40A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_40A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.956000
+MNL000159,Debra Hilstrom,Debra,,Hilstrom,,,True,mn,lower,40B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_40B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01
+MNL000161,Melissa Hortman,Melissa,,Hortman,,,True,mn,lower,36B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_36B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.855000
+MNL000164,Peggy Scott,Peggy,,Scott,,,True,mn,lower,35B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_35B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.539000
+MNL000170,Bob Dettmer,Bob,,Dettmer,,,True,mn,lower,39A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_39A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.044000
+MNL000171,Matt Dean,Matt,,Dean,,,True,mn,lower,38B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_38B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.011000
+MNL000176,Leon Lillie,Leon,,Lillie,,,True,mn,lower,43B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_43B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.735000
+MNL000184,Diane Loeffler,Diane,,Loeffler,,,True,mn,lower,60A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_60A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:33:59.886000
+MNL000187,Frank Hornstein,Frank,,Hornstein,,,True,mn,lower,61A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_61A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.998000
+MNL000188,Karen Clark,Karen,,Clark,,,True,mn,lower,62A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_62A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.352000
+MNL000190,Jim Davnie,Jim,,Davnie,,,True,mn,lower,63A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_63A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.141000
+MNL000191,Jean Wagenius,Jean,,Wagenius,,,True,mn,lower,63B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_63B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.022000
+MNL000192,Paul Thissen,Paul,,Thissen,,,True,mn,lower,61B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_61B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.103000
+MNL000193,Linda Slocum,Linda,,Slocum,,,True,mn,lower,50A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_50A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.069000
+MNL000194,Erin Murphy,Erin,,Murphy,,,True,mn,lower,64A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_64A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.991000
+MNL000197,Carlos Mariani,Carlos,,Mariani,,,True,mn,lower,65B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_65B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.282000
+MNL000198,John Lesch,John,,Lesch,,,True,mn,lower,66B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_66B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.853000
+MNL000199,Alice Hausman,Alice,,Hausman,,,True,mn,lower,66A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_66A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:01.015000
+MNL000200,Tim Mahoney,Tim,,Mahoney,,,True,mn,lower,67A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_67A.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.271000
+MNL000201,Sheldon Johnson,Sheldon,,Johnson,,,True,mn,lower,67B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_67B.jpg?v=2017,2010-12-17 08:18:51,2017-05-22 10:34:00.731000
+MNL000246,Kurt Daudt,Kurt,,Daudt,,,True,mn,lower,31A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_31A.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:32:45.064000
+MNL000257,Sondra Erickson,Sondra,,Erickson,,,True,mn,lower,15A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_15A.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:00.066000
+MNL000258,Dan Fabian,Dan,,Fabian,,,True,mn,lower,1A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_01A.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:01.041000
+MNL000260,Mary Franson,Mary,,Franson,,,True,mn,lower,8B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_08B.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:00.882000
+MNL000267,Glenn Gruenhagen,Glenn,,Gruenhagen,,,True,mn,lower,18B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_18B.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:00.871000
+MNL000289,Debra Kiel,Debra,,Kiel,,,True,mn,lower,1B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_01B.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:00.934000
+MNL000303,Kathy Lohmer,Kathy,,Lohmer,,,True,mn,lower,39B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_39B.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:00.864000
+MNL000310,Joe McDonald,Joe,,McDonald,,,True,mn,lower,29A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_29A.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:00.866000
+MNL000314,Rena Moran,Rena,,Moran,,,True,mn,lower,65A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_65A.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:00.899000
+MNL000325,Tim O'Driscoll,Tim,,O'Driscoll,,,True,mn,lower,13B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_13B.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:00.820000
+MNL000333,Duane Quam,Duane,,Quam,,,True,mn,lower,25A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_25A.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:00.869000
+MNL000335,Linda Runbeck,Linda,,Runbeck,,,True,mn,lower,38A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_38A.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:00.968000
+MNL000338,Joe Schomacker,Joe,,Schomacker,,,True,mn,lower,22A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_22A.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:00.891000
+MNL000347,Chris Swedzinski,Chris,,Swedzinski,,,True,mn,lower,16A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_16A.jpg?v=2017,2011-01-15 03:24:08,2017-05-22 10:34:00.822000
+MNL000367,Susan Allen,Susan,,Allen,,,True,mn,lower,62B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_62B.jpg?v=2017,2012-01-20 07:40:47,2017-05-22 10:34:00.901000
+MNL000371,Tony Albright,Tony,,Albright,,,True,mn,lower,55B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_55B.jpg?v=2017,2013-01-04 16:38:34.999000,2017-05-22 10:34:00.884000
+MNL000382,Connie Bernardy,Connie,,Bernardy,,,True,mn,lower,41A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_41A.jpg?v=2017,2013-01-04 16:38:35.087000,2017-05-22 10:34:00.952000
+MNL000392,Raymond Dehn,Raymond,,Dehn,,,True,mn,lower,59B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_59B.jpg?v=2017,2013-01-04 16:38:35.167000,2017-05-22 10:34:00.535000
+MNL000402,Peter Fischer,Peter,,Fischer,,,True,mn,lower,43A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_43A.jpg?v=2017,2013-01-04 16:38:35.255000,2017-05-22 10:34:00.388000
+MNL000405,Mike Freiberg,Mike,,Freiberg,,,True,mn,lower,45B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_45B.jpg?v=2017,2013-01-04 16:38:35.280000,2017-05-22 10:34:00.886000
+MNL000409,Steve Green,Steve,,Green,,,True,mn,lower,2B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_02B.jpg?v=2017,2013-01-04 16:38:35.312000,2017-05-22 10:34:00.716000
+MNL000413,Laurie  Halverson,Laurie,,Halverson,,,True,mn,lower,51B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_51B.jpg?v=2017,2013-01-04 16:38:35.344000,2017-05-22 10:34:00.772000
+MNL000416,Jerry Hertaus,Jerry,,Hertaus,,,True,mn,lower,33A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_33A.jpg?v=2017,2013-01-04 16:38:35.372000,2017-05-22 10:33:59.823000
+MNL000422,Jeff Howe,Jeff,,Howe,,,True,mn,lower,13A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_13A.jpg?v=2017,2013-01-04 16:38:35.421000,2017-05-22 10:34:00.973000
+MNL000424,Brian Johnson,Brian,,Johnson,,,True,mn,lower,32A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_32A.jpg?v=2017,2013-01-04 16:38:35.441000,2017-05-22 10:34:00.365000
+MNL000428,Ron Kresha,Ron,,Kresha,,,True,mn,lower,9B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_09B.jpg?v=2017,2013-01-04 16:38:35.488000,2017-05-22 10:34:00.880000
+MNL000434,Ben Lien,Ben,,Lien,,,True,mn,lower,4A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_04A.jpg?v=2017,2013-01-04 16:38:35.537000,2017-05-22 10:34:00.599000
+MNL000446,Jason Metsa,Jason,,Metsa,,,True,mn,lower,6B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_06B.jpg?v=2017,2013-01-04 16:38:35.644000,2017-05-22 10:34:00.379000
+MNL000453,Jim Newberger,Jim,,Newberger,,,True,mn,lower,15B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_15B.jpg?v=2017,2013-01-04 16:38:35.710000,2017-05-22 10:34:00.390000
+MNL000458,Marion O'Neill,Marion,,O'Neill,,,True,mn,lower,29B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_29B.jpg?v=2017,2013-01-04 16:38:35.752000,2017-05-22 10:34:00.846000
+MNL000462,John Petersburg,John,,Petersburg,,,True,mn,lower,24A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_24A.jpg?v=2017,2013-01-04 16:38:35.791000,2017-05-22 10:34:00.966000
+MNL000463,Cindy Pugh,Cindy,,Pugh,,,True,mn,lower,33B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_33B.jpg?v=2017,2013-01-04 16:38:35.802000,2017-05-22 10:34:00.841000
+MNL000477,Mike Sundin,Mike,,Sundin,,,True,mn,lower,11A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_11A.jpg?v=2017,2013-01-04 16:38:35.930000,2017-05-22 10:34:00.947000
+MNL000481,Mark Uglem,Mark,,Uglem,,,True,mn,lower,36A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_36A.jpg?v=2017,2013-01-04 16:38:35.965000,2017-05-22 10:34:00.728000
+MNL000484,JoAnn Ward,JoAnn,,Ward,,,True,mn,lower,53A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_53A.jpg?v=2017,2013-01-04 16:38:35.991000,2017-05-22 10:34:00.733000
+MNL000486,Anna Wills,Anna,,Wills,,,True,mn,lower,57B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_57B.jpg?v=2017,2013-01-04 16:38:36.008000,2017-05-22 10:33:59.982000
+MNL000491,Nick Zerwas,Nick,,Zerwas,,,True,mn,lower,30A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_30A.jpg?v=2017,2013-01-04 16:38:36.061000,2017-05-22 10:34:00.618000
+MNL000565,Clark Johnson,Clark,,Johnson,,,True,mn,lower,19A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_19A.jpg?v=2017,2013-02-16 00:53:55.100000,2017-05-22 10:34:00.950000
+MNL000566,Tama Theis,Tama,,Theis,,,True,mn,lower,14A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_14A.jpg?v=2017,2013-02-16 00:53:55.510000,2017-05-22 10:34:00.906000
+MNL000567,Dennis Smith,Dennis,,Smith,,,True,mn,lower,34B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_34B.jpg?v=2017,2015-01-14 21:45:47.541000,2017-05-22 10:34:00.851000
+MNL000574,Jeff Backer,Jeff,,Backer,,,True,mn,lower,12A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_12A.jpg?v=2017,2015-01-14 21:45:47.621000,2017-05-22 10:34:00.361000
+MNL000576,Drew Christensen,Drew,,Christensen,,,True,mn,lower,56A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_56A.jpg?v=2017,2015-01-14 21:45:47.645000,2017-05-22 10:34:00.628000
+MNL000582,Jason Rarick,Jason,,Rarick,,,True,mn,lower,11B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_11B.jpg?v=2017,2015-01-14 21:45:47.721000,2017-05-22 10:34:00.971000
+MNL000585,Jon Applebaum,Jon,,Applebaum,,,True,mn,lower,44B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_44B.jpg?v=2017,2015-01-14 21:45:47.762000,2017-05-22 10:34:00.834000
+MNL000588,Abigail Whelan,Abigail,,Whelan,,,True,mn,lower,35A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_35A.jpg?v=2017,2015-01-14 21:45:47.799000,2017-05-22 10:34:00.620000
+MNL000589,"John Jack Considine, Jr.",John,Jack,Considine,Jr.,,True,mn,lower,19B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_19B.jpg?v=2017,2015-01-14 21:45:47.809000,2017-05-22 10:32:45.050000
+MNL000590,Bob Vogel,Bob,,Vogel,,,True,mn,lower,20A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_20A.jpg?v=2017,2015-01-14 21:45:47.822000,2017-05-22 10:34:01.020000
+MNL000594,Jon Koznick,Jon,,Koznick,,,True,mn,lower,58A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_58A.jpg?v=2017,2015-01-14 21:45:47.870000,2017-05-22 10:34:00.980000
+MNL000597,Dale Lueck,Dale,,Lueck,,,True,mn,lower,10B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_10B.jpg?v=2017,2015-01-14 21:45:47.912000,2017-05-22 10:34:00.381000
+MNL000606,Eric Lucero,Eric,,Lucero,,,True,mn,lower,30B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_30B.jpg?v=2017,2015-01-14 21:45:48.028000,2017-05-22 10:34:00.975000
+MNL000612,Nels Pierson,Nels,,Pierson,,,True,mn,lower,26B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_26B.jpg?v=2017,2015-01-14 21:45:48.102000,2017-05-22 10:34:00.269000
+MNL000620,Kelly Fenton,Kelly,,Fenton,,,True,mn,lower,53B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_53B.jpg?v=2017,2015-01-14 21:45:48.195000,2017-05-22 10:34:00.826000
+MNL000642,Brian Daniels,Brian,,Daniels,,,True,mn,lower,24B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_24B.jpg?v=2017,2015-01-14 21:45:48.443000,2017-05-22 10:34:00.937000
+MNL000651,Cheryl Youakim,Cheryl,,Youakim,,,True,mn,lower,46B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_46B.jpg?v=2017,2015-01-14 21:45:48.552000,2017-05-22 10:34:00.777000
+MNL000663,Roz Peterson,Roz,,Peterson,,,True,mn,lower,56B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_56B.jpg?v=2017,2015-01-14 21:45:48.693000,2017-05-22 10:34:00.893000
+MNL000668,Dave Pinto,Dave,,Pinto,,,True,mn,lower,64B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_64B.jpg?v=2017,2015-01-14 21:45:48.752000,2017-05-22 10:34:00.303000
+MNL000672,Jim Knoblach,Jim,,Knoblach,,,True,mn,lower,14B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_14B.jpg?v=2017,2015-01-14 21:45:48.810000,2017-05-22 10:34:01.046000
+MNL000673,Jennifer Schultz,Jennifer,,Schultz,,,True,mn,lower,7A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_07A.jpg?v=2017,2015-01-14 21:45:48.821000,2017-05-22 10:34:00.611000
+MNL000682,Peggy Bennett,Peggy,,Bennett,,,True,mn,lower,27A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_27A.jpg?v=2017,2015-01-14 21:45:48.933000,2017-05-22 10:34:00.298000
+MNL000683,Dave Baker,Dave,,Baker,,,True,mn,lower,17B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_17B.jpg?v=2017,2015-01-14 21:45:48.946000,2017-05-22 10:34:00.987000
+MNL000685,Bob Loonan,Bob,,Loonan,,,True,mn,lower,55A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_55A.jpg?v=2017,2015-01-14 21:45:48.977000,2017-05-22 10:34:00.562000
+MNL000695,Josh Heintzeman,Josh,,Heintzeman,,,True,mn,lower,10A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_10A.jpg?v=2017,2015-01-14 21:45:49.092000,2017-05-22 10:34:00.597000
+MNL000697,Tim Miller,Tim,,Miller,,,True,mn,lower,17A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_17A.jpg?v=2017,2015-01-14 21:45:49.116000,2017-05-22 10:34:00.939000
+MNL000700,Jim Nash,Jim,,Nash,,,True,mn,lower,47A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_47A.jpg?v=2017,2015-01-14 21:45:49.151000,2017-05-22 10:34:00.828000
+MNL000706,Peggy Flanagan,Peggy,,Flanagan,,,True,mn,lower,46A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_46A.jpg?v=2017,2015-11-18 06:05:18.159000,2017-05-22 10:34:00.904000
+MNL000725,Rob Ecklund,Rob,,Ecklund,,,True,mn,lower,3A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_03A.jpg?v=2017,2015-12-10 06:04:23.942000,2017-05-22 10:34:00.377000
+MNL000731,John Poston,John,,Poston,,,True,mn,lower,9A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_09A.jpg?v=2017,2017-01-02 07:01:02.639000,2017-05-22 10:34:00.280000
+MNL000733,Matt Bliss,Matt,,Bliss,,,True,mn,lower,5A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_05A.jpg?v=2017,2017-01-02 07:01:02.726000,2017-05-22 10:34:00.766000
+MNL000734,Erin Koegel,Erin,,Koegel,,,True,mn,lower,37A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_37A.jpg?v=2017,2017-01-02 07:01:02.739000,2017-05-22 10:34:00.888000
+MNL000736,Erin Maye Quade,Erin Maye,,Quade,,,True,mn,lower,57A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_57A.jpg?v=2017,2017-01-02 07:01:02.796000,2017-05-22 10:34:00.150000
+MNL000737,Dario Anselmo,Dario,,Anselmo,,,True,mn,lower,49A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_49A.jpg?v=2017,2017-01-02 07:01:02.848000,2017-05-22 10:34:00.616000
+MNL000738,Sandy Layman,Sandy,,Layman,,,True,mn,lower,5B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_05B.jpg?v=2017,2017-01-02 07:01:02.854000,2017-05-22 10:34:00.347000
+MNL000740,Laurie Pryor,Laurie,,Pryor,,,True,mn,lower,48A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_48A.jpg?v=2017,2017-01-02 07:01:02.885000,2017-05-22 10:34:00.603000
+MNL000743,Regina Barr,Regina,,Barr,,,True,mn,lower,52B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_52B.jpg?v=2017,2017-01-02 07:01:02.959000,2017-05-22 10:34:00.982000
+MNL000747,Nolan West,Nolan,,West,,,True,mn,lower,37B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_37B.jpg?v=2017,2017-01-02 07:01:03.104000,2017-05-22 10:34:00.760000
+MNL000751,Randy Jessup,Randy,,Jessup,,,True,mn,lower,42A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_42A.jpg?v=2017,2017-01-02 07:01:03.184000,2017-05-22 10:34:00.758000
+MNL000754,Fue Lee,Fue,,Lee,,,True,mn,lower,59A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_59A.jpg?v=2017,2017-01-02 07:01:03.284000,2017-05-22 10:34:00.751000
+MNL000755,Tony Jurgens,Tony,,Jurgens,,,True,mn,lower,54B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_54B.jpg?v=2017,2017-01-02 07:01:03.311000,2017-05-22 10:34:00.235000
+MNL000756,Andrew Carlson,Andrew,,Carlson,,,True,mn,lower,50B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_50B.jpg?v=2017,2017-01-02 07:01:03.316000,2017-05-22 10:34:00.541000
+MNL000757,Duane Sauke,Duane,,Sauke,,,True,mn,lower,25B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_25B.jpg?v=2017,2017-01-02 07:01:03.368000,2017-05-22 10:34:00.958000
+MNL000758,Barb Haley,Barb,,Haley,,,True,mn,lower,21A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_21A.jpg?v=2017,2017-01-02 07:01:03.373000,2017-05-22 10:34:00.601000
+MNL000760,Keith Franke,Keith,,Franke,,,True,mn,lower,54A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_54A.jpg?v=2017,2017-01-02 07:01:03.452000,2017-05-22 10:34:00.309000
+MNL000764,Liz Olson,Liz,,Olson,,,True,mn,lower,7B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_07B.jpg?v=2017,2017-01-02 07:01:03.599000,2017-05-22 10:34:00.862000
+MNL000766,Mary Kunesh-Podein,Mary,,Kunesh-Podein,,,True,mn,lower,41B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_41B.jpg?v=2017,2017-01-02 07:01:03.630000,2017-05-22 10:34:00.724000
+MNL000769,Ilhan Omar,Ilhan,,Omar,,,True,mn,lower,60B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_60B.jpg?v=2017,2017-01-02 07:01:03.715000,2017-05-22 10:34:00.743000
+MNL000770,Matt Grossell,Matt,,Grossell,,,True,mn,lower,2A,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_02A.jpg?v=2017,2017-01-02 07:01:03.727000,2017-05-22 10:34:00.307000
+MNL000771,Julie Sandstede,Julie,,Sandstede,,,True,mn,lower,6A,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_06A.jpg?v=2017,2017-01-02 07:01:03.809000,2017-05-22 10:34:00.897000
+MNL000772,Cal Bahr,Cal,,Bahr,,,True,mn,lower,31B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_31B.jpg?v=2017,2017-01-02 07:01:03.835000,2017-05-22 10:34:00.127000
+MNL000773,Jamie Becker-Finn,Jamie,,Becker-Finn,,,True,mn,lower,42B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_42B.jpg?v=2017,2017-01-02 07:01:03.861000,2017-05-22 10:34:00.368000
+MNL000781,Anne Neu,Anne,,Neu,,,True,mn,lower,32B,Republican,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_32B.jpg?v=2017,2017-02-22 09:05:22.202000,2017-05-22 10:34:00.109000
+MNL000782,John (Jack) Considine Jr.,John (Jack),,Considine,Jr.,,True,mn,lower,19B,Democratic-Farmer-Labor,http://www.house.leg.state.mn.us/hinfo/memberimgls90/tn_19B.jpg?v=2017,2017-04-15 18:00:46.317000,2017-05-22 10:32:45.049000
+MNL000002,Thomas M Bakk,Thomas,M,Bakk,,,True,mn,upper,3,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/03Bakk.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.640000
+MNL000006,Jim Carlson,Jim,,Carlson,,,True,mn,upper,51,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/51Carlson.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.497000
+MNL000009,Richard J Cohen,Richard,J,Cohen,,,True,mn,upper,64,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/64Cohen.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.571000
+MNL000011,David Scott Dibble,David,Scott,Dibble,,,True,mn,upper,61,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/61Dibble.jpg,2010-12-17 08:18:51,2017-05-22 10:34:01.111000
+MNL000015,Michelle L Fischbach,Michelle,L,Fischbach,,,True,mn,upper,13,Republican,http://www.senate.mn/graphics/member_thumbnails/13Fischbach.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.575000
+MNL000023,Bill Ingebrigtsen,Bill,G,Ingebrigtsen,,,True,mn,upper,8,Republican,http://www.senate.mn/graphics/member_thumbnails/08Ingebrigtsen.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.646000
+MNL000031,Ron Latz,Ron,,Latz,,,True,mn,upper,46,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/46Latz.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.801000
+MNL000032,Warren Limmer,Warren,,Limmer,,,True,mn,upper,34,Republican,http://www.senate.mn/graphics/member_thumbnails/34Limmer.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.808000
+MNL000033,Tony Lourey,Tony,,Lourey,,,True,mn,upper,11,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/11LoureyT.jpg,2010-12-17 08:18:51,2017-05-22 10:34:01.095000
+MNL000035,John Marty,John,,Marty,,,True,mn,upper,66,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/66Marty.jpg,2010-12-17 08:18:51,2017-05-22 10:34:01.125000
+MNL000044,Sandra L Pappas,Sandra,L,Pappas,,,True,mn,upper,65,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/65Pappas.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.580000
+MNL000049,Ann H Rest,Ann,H,Rest,,,True,mn,upper,45,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/45Rest.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.578000
+MNL000051,Julie A Rosen,Julie,A,Rosen,,,True,mn,upper,23,Republican,http://www.senate.mn/graphics/member_thumbnails/23Rosen.jpg,2010-12-17 08:18:51,2017-05-22 10:34:01.109000
+MNL000056,David H Senjem,David,H,Senjem,,,True,mn,upper,25,Republican,http://www.senate.mn/graphics/member_thumbnails/25Senjem.jpg,2010-12-17 08:18:51,2017-05-22 10:34:01.118000
+MNL000061,Dan Sparks,Dan,,Sparks,,,True,mn,upper,27,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/27Sparks.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.790000
+MNL000063,David J Tomassoni,David,J,Tomassoni,,,True,mn,upper,6,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/06Tomassoni.jpg,2010-12-17 08:18:51,2017-05-22 10:34:01.058000
+MNL000064,Patricia Torres Ray,Patricia Torres,,Ray,,,True,mn,upper,63,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/63TorresRay.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.682000
+MNL000067,Charles W Wiger,Charles,W,Wiger,,,True,mn,upper,43,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/43Wiger.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.680000
+MNL000070,Kent Eken,Kent,,Eken,,,True,mn,upper,4,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/04Eken.jpg,2010-12-17 08:18:51,2017-05-22 10:34:01.074000
+MNL000099,Mary Kiffmeyer,Mary,,Kiffmeyer,,,True,mn,upper,30,Republican,http://www.senate.mn/graphics/member_thumbnails/30Kiffmeyer.jpg,2010-12-17 08:18:51,2017-05-22 10:34:01.104000
+MNL000104,Bruce Anderson,Bruce D.,,Anderson,,,True,mn,upper,29,Republican,http://www.senate.mn/graphics/member_thumbnails/29Anderson.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.487000
+MNL000183,Bobby Joe Champion,Bobby Joe,,Champion,,,True,mn,upper,59,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/59Champion.jpg,2010-12-17 08:18:51,2017-05-22 10:34:00.799000
+MNL000189,Jeff Hayden,Jeff,,Hayden,,,True,mn,upper,62,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/62Hayden.jpg,2010-12-17 08:18:51,2017-05-22 10:34:01.090000
+MNL000202,Michelle R Benson,Michelle,R,Benson,,,True,mn,upper,31,Republican,http://www.senate.mn/graphics/member_thumbnails/31Benson.jpg,2011-01-15 03:24:08,2017-05-22 10:34:01.099000
+MNL000205,Roger C Chamberlain,Roger,C,Chamberlain,,,True,mn,upper,38,Republican,http://www.senate.mn/graphics/member_thumbnails/38Chamberlain.jpg,2011-01-15 03:24:08,2017-05-22 10:34:00.804000
+MNL000206,Gary H Dahms,Gary,H,Dahms,,,True,mn,upper,16,Republican,http://www.senate.mn/graphics/member_thumbnails/16Dahms.jpg,2011-01-15 03:24:08,2017-05-22 10:34:00.793000
+MNL000209,Paul E Gazelka,Paul,E,Gazelka,,,True,mn,upper,9,Republican,http://www.senate.mn/graphics/member_thumbnails/09Gazelka.jpg,2011-01-15 03:24:08,2017-05-22 10:34:00.587000
+MNL000211,Dan D Hall,Dan,D,Hall,,,True,mn,upper,56,Republican,http://www.senate.mn/graphics/member_thumbnails/56Hall.jpg,2011-01-15 03:24:08,2017-05-22 10:34:00.482000
+MNL000218,Jeremy R Miller,Jeremy,R,Miller,,,True,mn,upper,28,Republican,http://www.senate.mn/graphics/member_thumbnails/28Miller.jpg,2011-01-15 03:24:08,2017-05-22 10:34:00.524000
+MNL000219,Carla J Nelson,Carla,J,Nelson,,,True,mn,upper,26,Republican,http://www.senate.mn/graphics/member_thumbnails/26Nelson.jpg,2011-01-15 03:24:08,2017-05-22 10:34:00.678000
+MNL000220,Scott J Newman,Scott,J,Newman,,,True,mn,upper,18,Republican,http://www.senate.mn/graphics/member_thumbnails/18Newman.jpg,2011-01-15 03:24:08,2017-05-22 10:34:00.568000
+MNL000365,Chris A. Eaton,Chris A.,,Eaton,,,True,mn,upper,40,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/40Eaton.jpg,2011-10-29 07:25:48,2017-05-22 10:34:00.183000
+MNL000368,Kari Dziedzic,Kari,,Dziedzic,,,True,mn,upper,60,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/60Dziedzic.jpg,2012-01-21 07:40:50,2017-05-22 10:34:00.699000
+MNL000500,Greg D. Clausen,Greg D.,,Clausen,,,True,mn,upper,57,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/57Clausen.jpg,2013-01-10 21:50:34.963000,2017-05-22 10:34:00.415000
+MNL000509,Melisa Franzen,Melisa,,Franzen,,,True,mn,upper,49,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/49Franzen.jpg,2013-01-10 21:50:35.043000,2017-05-22 10:34:00.489000
+MNL000514,Foung Hawj,Foung,,Hawj,,,True,mn,upper,67,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/67Hawj.jpg,2013-01-10 21:50:35.091000,2017-05-22 10:34:01.067000
+MNL000516,John A. Hoffman,John A.,,Hoffman,,,True,mn,upper,36,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/36Hoffman.jpg,2013-01-10 21:50:35.109000,2017-05-22 10:34:01.127000
+MNL000517,Karin Housley,Karin,,Housley,,,True,mn,upper,39,Republican,http://www.senate.mn/graphics/member_thumbnails/39Housley.jpg,2013-01-10 21:50:35.118000,2017-05-22 10:34:00.921000
+MNL000521,Susan Kent,Susan,,Kent,,,True,mn,upper,53,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/53Kent.jpg,2013-01-10 21:50:35.153000,2017-05-22 10:34:00.500000
+MNL000534,David J. Osmek,David J.,,Osmek,,,True,mn,upper,33,Republican,http://www.senate.mn/graphics/member_thumbnails/33Osmek.jpg,2013-01-10 21:50:35.281000,2017-05-22 10:34:01.122000
+MNL000538,Eric R. Pratt,Eric R.,,Pratt,,,True,mn,upper,55,Republican,http://www.senate.mn/graphics/member_thumbnails/55Pratt.jpg,2013-01-10 21:50:35.317000,2017-05-22 10:34:01.113000
+MNL000542,Carrie Ruud,Carrie,,Ruud,,,True,mn,upper,10,Republican,http://www.senate.mn/graphics/member_thumbnails/10Ruud.jpg,2013-01-10 21:50:35.359000,2017-05-22 10:34:00.919000
+MNL000555,Bill Weber,Bill,,Weber,,,True,mn,upper,22,Republican,http://www.senate.mn/graphics/member_thumbnails/22Weber.jpg,2013-01-10 21:50:35.493000,2017-05-22 10:34:01.072000
+MNL000556,Torrey N. Westrom,Torrey N.,,Westrom,,,True,mn,upper,12,Republican,http://www.senate.mn/graphics/member_thumbnails/12Westrom.jpg,2013-01-10 21:50:35.502000,2017-05-22 10:34:01.069000
+MNL000558,Melissa H. Wiklund,Melissa H.,,Wiklund,,,True,mn,upper,50,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/50Wiklund.jpg,2013-01-10 21:50:35.522000,2017-05-22 10:34:00.675000
+MNL000729,Jim Abeler,Jim,,Abeler,,,True,mn,upper,35,Republican,http://www.senate.mn/graphics/member_thumbnails/35Abeler.jpg,2016-02-23 06:06:02.920000,2017-05-22 10:34:01.101000
+MNL000730,Matt Little,Matt,,Little,,,True,mn,upper,58,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/58Little.jpg,2017-01-02 07:01:02.633000,2017-05-22 10:34:00.518000
+MNL000732,Dan Schoen,Dan,,Schoen,,,True,mn,upper,54,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/54Schoen.jpg,2017-01-02 07:01:02.720000,2017-05-22 10:34:00.455000
+MNL000735,Carolyn Laine,Carolyn,,Laine,,,True,mn,upper,41,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/41Laine.jpg,2017-01-02 07:01:02.744000,2017-05-22 10:34:00.080000
+MNL000739,Rich Draheim,Rich,,Draheim,,,True,mn,upper,20,Republican,http://www.senate.mn/graphics/member_thumbnails/20Draheim.jpg,2017-01-02 07:01:02.879000,2017-05-22 10:34:01.065000
+MNL000741,Paul J. Utke,Paul J.,,Utke,,,True,mn,upper,2,Republican,http://www.senate.mn/graphics/member_thumbnails/02Utke.jpg,2017-01-02 07:01:02.921000,2017-05-22 10:34:01.086000
+MNL000742,Jerry Relph,Jerry,,Relph,,,True,mn,upper,14,Republican,http://www.senate.mn/graphics/member_thumbnails/14Relph.jpg,2017-01-02 07:01:02.941000,2017-05-22 10:34:01.079000
+MNL000744,John R. Jasinski,John R.,,Jasinski,,,True,mn,upper,24,Republican,http://www.senate.mn/graphics/member_thumbnails/24Jasinski.jpg,2017-01-02 07:01:02.965000,2017-05-22 10:34:00.493000
+MNL000745,Andrew Mathews,Andrew,,Mathews,,,True,mn,upper,15,Republican,http://www.senate.mn/graphics/member_thumbnails/15Mathews.jpg,2017-01-02 07:01:03.008000,2017-05-22 10:34:01.129000
+MNL000746,Scott M. Jensen,Scott M.,,Jensen,,,True,mn,upper,47,Republican,http://www.senate.mn/graphics/member_thumbnails/47Jensen.jpg,2017-01-02 07:01:03.038000,2017-05-22 10:34:01.097000
+MNL000748,Jerry Newton,Jerry,,Newton,,,True,mn,upper,37,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/37Newton.jpg,2017-01-02 07:01:03.135000,2017-05-22 10:34:00.917000
+MNL000749,Andrew R. Lang,Andrew R.,,Lang,,,True,mn,upper,17,Republican,http://www.senate.mn/graphics/member_thumbnails/17Lang.jpg,2017-01-02 07:01:03.140000,2017-05-22 10:34:01.056000
+MNL000750,Erik Simonson,Erik,,Simonson,,,True,mn,upper,7,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/07Simonson.jpg,2017-01-02 07:01:03.178000,2017-05-22 10:34:01.120000
+MNL000752,Paul T. Anderson,Paul T.,,Anderson,,,True,mn,upper,44,Republican,http://www.senate.mn/graphics/member_thumbnails/44Anderson.jpg,2017-01-02 07:01:03.222000,2017-05-22 10:34:00.662000
+MNL000753,Mark W. Koran,Mark W.,,Koran,,,True,mn,upper,32,Republican,http://www.senate.mn/graphics/member_thumbnails/32Koran.jpg,2017-01-02 07:01:03.264000,2017-05-22 10:34:00.913000
+MNL000759,Steve A. Cwodzinski,Steve A.,,Cwodzinski,,,True,mn,upper,48,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/48Cwodzinski.jpg,2017-01-02 07:01:03.380000,2017-05-22 10:34:00.463000
+MNL000761,Michael P. Goggin,Michael P.,,Goggin,,,True,mn,upper,21,Republican,http://www.senate.mn/graphics/member_thumbnails/21Goggin.jpg,2017-01-02 07:01:03.492000,2017-05-22 10:34:01.116000
+MNL000762,Justin D. Eichorn,Justin D.,,Eichorn,,,True,mn,upper,5,Republican,http://www.senate.mn/graphics/member_thumbnails/05Eichorn.jpg,2017-01-02 07:01:03.530000,2017-05-22 10:34:00.664000
+MNL000763,Matt D. Klein,Matt D.,,Klein,,,True,mn,upper,52,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/52Klein.jpg,2017-01-02 07:01:03.556000,2017-05-22 10:34:01.081000
+MNL000765,Nick A. Frentz,Nick A.,,Frentz,,,True,mn,upper,19,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/19Frentz.jpg,2017-01-02 07:01:03.605000,2017-05-22 10:34:00.925000
+MNL000767,Mark Johnson,Mark,,Johnson,,,True,mn,upper,1,Republican,http://www.senate.mn/graphics/member_thumbnails/01Johnson.jpg,2017-01-02 07:01:03.673000,2017-05-22 10:34:01.063000
+MNL000768,Jason Isaacson,Jason,,Isaacson,,,True,mn,upper,42,Democratic-Farmer-Labor,http://www.senate.mn/graphics/member_thumbnails/42Isaacson.jpg,2017-01-02 07:01:03.679000,2017-05-22 10:34:01.088000

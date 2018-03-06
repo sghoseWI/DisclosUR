@@ -1,0 +1,148 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+NVL000001,Mark E Amodei,Mark,E,Amodei,,,False,nv,,,,http://www.leg.state.nv.us/73rd/Legislators/senators/Images/Amodei.jpg,2010-09-01 16:27:46.961000,2011-01-10 23:44:48.987000
+NVL000002,Shirley A Breeden,Shirley,A,Breeden,,,False,nv,,,,http://www.leg.state.nv.us/Senate/Current/Senators/Images/Breeden.jpg,2010-09-01 16:27:46.963000,2013-01-09 22:29:27.948000
+NVL000003,Terry Care,Terry,,Care,,,False,nv,,,,http://www.leg.state.nv.us/73rd/Legislators/senators/Images/Care.jpg,2010-09-01 16:27:46.965000,2011-01-10 23:44:48.989000
+NVL000005,Barbara K Cegavske,Barbara K.,K,Cegavske,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Senators/Images/Cegavske.jpg,2010-09-01 16:27:46.968000,2015-01-22 21:46:44.869000
+NVL000006,Bob Coffin,Bob,,Coffin,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/Senators/Images/Coffin.jpg,2010-09-01 16:27:46.970000,2011-01-10 23:44:48.987000
+NVL000007,Allison Copening,Allison,,Copening,,,False,nv,,,,http://www.leg.state.nv.us/Senate/Current/Senators/Images/Copening.jpg,2010-09-01 16:27:46.971000,2013-01-09 22:29:27.950000
+NVL000008,Warren B Hardy II,Warren,B,Hardy II,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/senators/Images/Hardy.jpg,2010-09-01 16:27:46.973000,2011-01-10 23:44:48.987000
+NVL000009,Steven A Horsford,Steven,A,Horsford,,,False,nv,,,,http://www.leg.state.nv.us/Senate/Current/Senators/Images/Horsford.jpg,2010-09-01 16:27:46.974000,2013-01-09 22:29:27.951000
+NVL000010,John J Lee,John,J,Lee,,,False,nv,,,,http://www.leg.state.nv.us/Senate/Current/Senators/Images/Lee.jpg,2010-09-01 16:27:46.976000,2013-01-09 22:29:27.952000
+NVL000011,Bernice Mathews,Bernice,,Mathews,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/Senators/Images/Mathews.jpg,2010-09-01 16:27:46.990000,2011-01-10 23:44:48.989000
+NVL000012,Mike McGinness,Mike,,McGinness,,,False,nv,,,,http://www.leg.state.nv.us/Senate/Current/Senators/Images/McGinness.jpg,2010-09-01 16:27:46.991000,2013-01-09 22:29:27.953000
+NVL000013,Dennis Nolan,Dennis,,Nolan,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/senators/Images/Nolan.jpg,2010-09-01 16:27:46.993000,2011-01-10 23:44:48.989000
+NVL000015,William J Raggio,William,J,Raggio,,,False,nv,,,,http://www.leg.state.nv.us/71st/legislators/Senators/Raggio_files/image002.jpg,2010-09-01 16:27:47.007000,2012-06-05 17:19:57.054000
+NVL000016,Dean A Rhoads,Dean,A,Rhoads,,,False,nv,,,,http://www.leg.state.nv.us/Senate/Current/Senators/Images/Rhoads.jpg,2010-09-01 16:27:47.008000,2013-01-09 22:29:27.955000
+NVL000017,Michael A Schneider,Michael,A,Schneider,,,False,nv,,,,http://www.leg.state.nv.us/Senate/Current/Senators/Images/Schneider.jpg,2010-09-01 16:27:47.010000,2013-01-09 22:29:27.957000
+NVL000018,Randolph Townsend,Randolph,,Townsend,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/senators/Images/Townsend.jpg,2010-09-01 16:27:47.012000,2011-01-10 23:44:48.990000
+NVL000019,Maurice E Washington,Maurice,E,Washington,,,False,nv,,,,http://www.leg.state.nv.us/73rd/Legislators/senators/Images/Washington.jpg,2010-09-01 16:27:47.014000,2011-01-10 23:44:48.990000
+NVL000020,Valerie Wiener,Valerie,,Wiener,,,False,nv,,,,http://www.leg.state.nv.us/Senate/Current/Senators/Images/Wiener.jpg,2010-09-01 16:27:47.015000,2013-01-09 22:29:27.958000
+NVL000064,Paul Aizley,Paul,,Aizley,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Aizley.jpg,2010-12-02 20:06:27.482000,2015-01-22 21:46:44.855000
+NVL000065,Bernard Anderson,Bernard,,Anderson,,Bernie,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/assembly/Images/Anderson.jpg,2010-12-02 20:06:27.484000,2011-01-10 23:44:48.983000
+NVL000066,Morse Arberry Jr.,Morse,,Arberry,Jr.,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/Assembly/Images/ArberryJr.jpg,2010-12-02 20:06:27.486000,2011-01-10 23:44:48.986000
+NVL000068,David Bobzien,David P.,,Bobzien,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Bobzien.jpg,2010-12-02 20:06:27.490000,2015-01-22 21:46:44.830000
+NVL000069,Barbara Buckley,Barbara,,Buckley,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/assembly/Images/Buckley.jpg,2010-12-02 20:06:27.492000,2011-01-10 23:44:48.986000
+NVL000070,John C Carpenter,John,C,Carpenter,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/assembly/Images/Carpenter.jpg,2010-12-02 20:06:27.494000,2011-01-10 23:44:48.984000
+NVL000071,Chad Christensen,Chad,,Christensen,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/assembly/Images/Christensen.jpg,2010-12-02 20:06:27.496000,2011-01-10 23:44:48.969000
+NVL000072,Jerry D Claborn,Jerry,D,Claborn,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/assembly/Images/Claborn.jpg,2010-12-02 20:06:27.498000,2011-01-10 23:44:48.970000
+NVL000073,Ty Cobb,Ty,,Cobb,,,False,nv,,,,,2010-12-02 20:06:27.500000,2011-01-10 23:44:48.982000
+NVL000074,Marcus Conklin,Marcus,,Conklin,,,False,nv,,,,http://www.leg.state.nv.us/Assembly/Current/Assembly/Images/Conklin.jpg,2010-12-02 20:06:27.501000,2013-01-09 22:29:27.908000
+NVL000076,Marilyn Dondero Loop,Marilyn,,Dondero Loop,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/DonderoLoop.jpg,2010-12-02 20:06:27.505000,2015-01-22 21:46:44.857000
+NVL000077,Heidi S Gansert,Heidi,S,Gansert,,,False,nv,,,,http://www.leg.state.nv.us/Session/74th2007/Legislators/Assembly/Images/Gansert.gif,2010-12-02 20:06:27.507000,2011-01-10 23:44:48.982000
+NVL000078,Ed Goedhart,Ed,,Goedhart,,,False,nv,,,,http://www.leg.state.nv.us/Assembly/Current/Assembly/Images/Goedhart.jpg,2010-12-02 20:06:27.509000,2013-01-09 22:29:27.910000
+NVL000080,Tom Grady,Tom,,Grady,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Grady.jpg,2010-12-02 20:06:27.528000,2015-01-22 21:46:44.851000
+NVL000084,Joseph M Hogan,Joseph M.,M,Hogan,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Hogan.jpg,2010-12-02 20:06:27.535000,2015-01-22 21:46:44.822000
+NVL000085,William Horne,William C.,,Horne,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Horne.jpg,2010-12-02 20:06:27.537000,2015-01-22 21:46:44.844000
+NVL000086,Ruben Kihuen,Ruben J.,,Kihuen,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Senators/Images/Kihuen.jpg,2010-12-02 20:06:27.539000,2016-12-29 17:10:43.826000
+NVL000087,Marilyn Kirkpatrick,Marilyn,,Kirkpatrick,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Kirkpatrick.jpg,2010-12-02 20:06:27.541000,2016-12-29 17:10:43.805000
+NVL000088,Ellen M Koivisto,Ellen,M,Koivisto,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/assembly/Images/Koivisto.jpg,2010-12-02 20:06:27.543000,2011-01-10 23:44:48.969000
+NVL000089,Sheila Leslie,Sheila,,Leslie,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/assembly/Images/Leslie.jpg,2010-12-02 20:06:27.545000,2013-01-09 22:29:27.960000
+NVL000091,April Mastroluca,April,,Mastroluca,,,False,nv,,,,http://www.leg.state.nv.us/Assembly/Current/Assembly/Images/Mastroluca.jpg,2010-12-02 20:06:27.548000,2013-01-09 22:29:27.918000
+NVL000092,Richard McArthur,Richard,,McArthur,,,False,nv,,,,http://www.leg.state.nv.us/Assembly/Current/Assembly/Images/McArthur.jpg,2010-12-02 20:06:27.550000,2013-01-09 22:29:27.919000
+NVL000093,Kathy McClain,Kathy,,McClain,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/assembly/Images/McClain.jpg,2010-12-02 20:06:27.552000,2011-01-10 23:44:48.969000
+NVL000094,Harry Mortenson,Harry,,Mortenson,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/assembly/Images/Mortenson.jpg,2010-12-02 20:06:27.554000,2011-01-10 23:44:48.985000
+NVL000095,Harvey J Munford,Harvey J.,J,Munford,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Munford.jpg,2010-12-02 20:06:27.556000,2016-12-29 17:10:43.794000
+NVL000096,John Oceguera,John,,Oceguera,,,False,nv,,,,http://www.leg.state.nv.us/Assembly/Current/Assembly/Images/Oceguera.jpg,2010-12-02 20:06:27.558000,2013-01-09 22:29:27.921000
+NVL000098,Bonnie Parnell,Bonnie,,Parnell,,,False,nv,,,,http://www.leg.state.nv.us/73rd/legislators/Assembly/Images/Parnell.jpg,2010-12-02 20:06:27.562000,2011-01-10 23:44:48.985000
+NVL000099,Peggy Pierce,Peggy,,Pierce,,,False,nv,,,,http://www.leg.state.nv.us/Assembly/Current/Assembly/Images/Pierce.jpg,2010-12-02 20:06:27.564000,2014-12-09 00:13:15.482000
+NVL000102,Debbie Smith,Debbie,,Smith,,,False,nv,,,,"http://leg.state.nv.us/Session/77th2013/legislators/Senators/Images/Smith,D.jpg",2010-12-02 20:06:27.570000,2016-12-29 17:10:43.822000
+NVL000103,Ellen B Spiegel,Ellen,B,Spiegel,,,False,nv,,,,"http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Spiegel,E.jpg",2010-12-02 20:06:27.571000,2015-01-22 21:46:44.826000
+NVL000104,Lynn D Stewart,Lynn D.,D,Stewart,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Stewart.jpg,2010-12-02 20:06:27.573000,2016-12-29 17:10:43.803000
+NVL000108,Elizabeth Nicole Halseth,Elizabeth,Nicole,Halseth,,,False,nv,,,,http://www.leg.state.nv.us/Senate/Current/Senators/Images/Halseth.jpg,2011-01-14 22:24:08.278000,2012-12-17 19:07:07.348000
+NVL000118,Steven Brooks,Steven J.,,Brooks,,,False,nv,,,,http://www.leg.state.nv.us/Assembly/Current/Assembly/Images/Brooks.jpg,2011-01-14 22:24:08.355000,2013-04-03 14:00:50.635000
+NVL000125,Lucy Flores,Lucy,,Flores,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Flores.jpg,2011-01-14 22:24:08.137000,2015-01-22 21:46:44.832000
+NVL000126,Jason Frierson,Jason,,Frierson,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Frierson.jpg,2011-01-14 22:24:08.282000,2015-01-22 21:46:44.859000
+NVL000129,Cresent Hardy,Cresent,,Hardy,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Hardy.jpg,2011-01-14 22:24:08.284000,2015-01-22 21:46:44.824000
+NVL000130,Pat Hickey,Pat,,Hickey,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Hickey.jpg,2011-01-14 22:24:08.137000,2016-12-29 17:10:43.808000
+NVL000131,Randy Kirner,Randy,,Kirner,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Kirner.jpg,2011-01-14 22:24:08.285000,2016-12-29 17:10:43.814000
+NVL000132,Kelly Kite,Kelly,,Kite,,,False,nv,,,,http://www.leg.state.nv.us/Assembly/Current/Assembly/Images/Kite.jpg,2011-01-14 22:24:08.285000,2013-01-09 22:29:27.943000
+NVL000133,Pete Livermore,Peter,,Livermore,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Livermore.jpg,2011-01-14 22:24:08.357000,2015-01-22 21:46:44.853000
+NVL000135,Mark Sherwood,Mark,,Sherwood,,,False,nv,,,,http://www.leg.state.nv.us/Assembly/Current/Assembly/Images/Sherwood.jpg,2011-01-14 22:24:08.138000,2013-01-09 22:29:27.947000
+NVL000136,Richard Daly,Skip,,Daly,,Skip,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Daly.jpg,2011-01-14 22:24:08.194000,2015-01-22 21:46:44.839000
+NVL000137,Greg Brower,Greg,,Brower,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Senators/Images/Brower.jpg,2011-01-20 00:04:21.106000,2016-12-29 17:10:43.824000
+NVL000218,Mark Hutchison,Mark,,Hutchison,,,False,nv,,,,"http://leg.state.nv.us/Session/77th2013/legislators/Senators/Images/Hutchison,M.jpg",2013-01-09 22:29:27.557000,2015-01-22 21:46:44.868000
+NVL000219,Justin C. Jones,Justin,C.,Jones,,,False,nv,,,,"http://leg.state.nv.us/Session/77th2013/legislators/Senators/Images/Jones,J.jpg",2013-01-09 22:29:27.562000,2015-01-22 21:46:44.871000
+NVL000252,Michele Fiore,Michele,,Fiore,,,False,nv,,,,"http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Fiore,M.jpg",2013-01-09 22:29:27.756000,2016-12-29 17:10:43.806000
+NVL000256,Andy Eisen,Andy,,Eisen,,,False,nv,,,,"http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Eisen,A.jpg",2013-01-09 22:29:27.780000,2015-01-22 21:46:44.828000
+NVL000258,James Healey,James,,Healey,,,False,nv,,,,"http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Healey,J.jpg",2013-01-09 22:29:27.792000,2015-01-22 21:46:44.846000
+NVL000260,Wesley Duncan,Wesley,,Duncan,,,False,nv,,,,"http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Duncan,W.jpg",2013-01-09 22:29:27.805000,2015-01-22 21:46:44.849000
+NVL000262,Andrew Martin,Andrew,,Martin,,,False,nv,,,,"http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Martin,A.jpg",2013-01-09 22:29:27.817000,2015-01-22 21:46:44.861000
+NVL000263,Lesley E. Cohen,Lesley,E.,Cohen,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/Cohen.jpg,2013-01-09 22:29:27.823000,2015-01-22 21:46:44.834000
+NVL000265,District No. 17,District No.,,17,,,False,nv,,,,http://leg.state.nv.us/Session/77th2013/legislators/Assembly/Images/VacantSeat.jpg,2013-04-03 02:29:16.343000,2013-04-04 19:58:47.766000
+NVL000267,Vacant,,,Vacant,,,False,nv,,,,http://leg.state.nv.us/Session/28th2014/legislators/Assembly/Images/VacantSeat.jpg,2014-09-22 20:04:40.561000,2015-01-22 21:46:44.836000
+NVL000268,Glenn E. Trowbridge,Glenn E.,,Trowbridge,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Assembly/Images/Trowbridge.jpg,2015-01-22 21:46:44.057000,2016-12-29 17:10:43.790000
+NVL000270,Erven T. Nelson,Erven T.,,Nelson,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Assembly/Images/Nelson.jpg,2015-01-22 21:46:44.117000,2016-12-29 17:10:43.786000
+NVL000272,Jill Dickman,Jill,,Dickman,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Assembly/Images/Dickman.jpg,2015-01-22 21:46:44.167000,2016-12-29 17:10:43.800000
+NVL000273,Victoria A. Dooling,Victoria A.,,Dooling,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Assembly/Images/Dooling.jpg,2015-01-22 21:46:44.206000,2016-12-29 17:10:43.817000
+NVL000276,Shelly M. Shelton,Shelly M.,,Shelton,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Assembly/Images/Shelton.jpg,2015-01-22 21:46:44.254000,2016-12-29 17:10:43.815000
+NVL000279,Victoria Seaman,Victoria,,Seaman,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Assembly/Images/Seaman.jpg,2015-01-22 21:46:44.370000,2016-12-29 17:10:43.821000
+NVL000280,Mark Lipparelli,Mark,,Lipparelli,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Senators/Images/Lipparelli.jpg,2015-01-22 21:46:44.390000,2016-12-29 17:10:43.825000
+NVL000284,Stephen H. Silberkraus,Stephen H.,,Silberkraus,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Assembly/Images/Silberkraus.jpg,2015-01-22 21:46:44.512000,2016-12-29 17:10:43.816000
+NVL000286,John Moore,John,,Moore,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Assembly/Images/moore.jpg,2015-01-22 21:46:44.541000,2016-12-29 17:10:43.802000
+NVL000288,Brent A. Jones,Brent A.,,Jones,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Assembly/Images/Jones.jpg,2015-01-22 21:46:44.571000,2016-12-29 17:10:43.775000
+NVL000290,David M. Gardner,David M.,,Gardner,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Assembly/Images/Gardner.jpg,2015-01-22 21:46:44.642000,2016-12-29 17:10:43.779000
+NVL000291,Philip P.K. O'Neill,Philip,P.K.,O'Neill,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Assembly/Images/Oneill.jpg,2015-01-22 21:46:44.652000,2016-12-29 17:10:43.813000
+NVL000292,Derek Armstrong,Derek,,Armstrong,,,False,nv,,,,http://leg.state.nv.us/Session/29th2015Special/legislators/Assembly/Images/Armstrong.jpg,2015-01-22 21:46:44.661000,2016-12-29 17:10:43.782000
+NVL000004,Maggie Carlton,Maggie,,Carlton,,,True,nv,lower,14,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Carlton.jpg,2010-09-01 16:27:46.966000,2017-06-01 08:42:17.040000
+NVL000082,John Hambrick,John,,Hambrick,,,True,nv,lower,2,Republican,"http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Hambrick,S.jpg",2010-12-02 20:06:27.532000,2017-06-01 08:42:16.878000
+NVL000097,James Ohrenschall,James,,Ohrenschall,,,True,nv,lower,12,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Ohrenschall.jpg,2010-12-02 20:06:27.560000,2017-06-01 08:42:17.044000
+NVL000105,Melissa Woodbury,Melissa,,Woodbury,,,True,nv,lower,23,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Woodbury.jpg,2010-12-02 20:06:27.575000,2017-06-01 08:42:16.976000
+NVL000116,Elliot T Anderson,Elliot T.,T,Anderson,,,True,nv,lower,15,Democratic,"http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Anderson,E.jpg",2011-01-14 22:24:08.280000,2017-06-01 08:42:16.984000
+NVL000117,Teresa Benitez-Thompson,Teresa,,Benitez-Thompson,,,True,nv,lower,27,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Benitez-Thompson.jpg,2011-01-14 22:24:08.281000,2017-06-01 08:42:16.897000
+NVL000119,Irene Bustamante Adams,Irene,,Bustamante Adams,,,True,nv,lower,42,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/BustamanteAdams.jpg,2011-01-14 22:24:08.281000,2017-06-01 08:42:17.053000
+NVL000121,Richard Carrillo,Richard,,Carrillo,,,True,nv,lower,18,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Carrillo.jpg,2011-01-14 22:24:08.136000,2017-06-01 08:42:16.654000
+NVL000123,Olivia Diaz,Olivia,,Diaz,,,True,nv,lower,11,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Diaz.jpg,2011-01-14 22:24:08.356000,2017-06-01 08:42:16.980000
+NVL000124,John Ellison,John C.,,Ellison,,,True,nv,lower,33,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Ellison.jpg,2011-01-14 22:24:08.574000,2017-06-01 08:42:16.837000
+NVL000128,Ira Hansen,Ira,,Hansen,,,True,nv,lower,32,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Hansen.jpg,2011-01-14 22:24:08.283000,2017-06-01 08:42:17.034000
+NVL000134,Dina Neal,Dina,,Neal,,,True,nv,lower,7,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Neal.jpg,2011-01-14 22:24:08.286000,2017-06-01 08:42:17.049000
+NVL000253,Paul Anderson,Paul,,Anderson,,,True,nv,lower,13,Republican,"http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Anderson,P.jpg",2013-01-09 22:29:27.762000,2017-06-01 08:42:17.046000
+NVL000254,Heidi Swank,Heidi,,Swank,,,True,nv,lower,16,Democratic,"http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Swank,H.jpg",2013-01-09 22:29:27.768000,2017-06-01 08:42:17.007000
+NVL000257,Michael Sprinkle,Michael C.,,Sprinkle,,,True,nv,lower,30,Democratic,"http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Sprinkle,M.jpg",2013-01-09 22:29:27.786000,2017-06-01 08:42:16.870000
+NVL000259,James Oscarson,James,,Oscarson,,,True,nv,lower,36,Republican,"http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Oscarson,J.jpg",2013-01-09 22:29:27.799000,2017-06-01 08:42:16.892000
+NVL000261,Jim Wheeler,Jim,,Wheeler,,,True,nv,lower,39,Republican,"http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Wheeler,J.jpg",2013-01-09 22:29:27.811000,2017-06-01 08:42:16.956000
+NVL000266,Tyrone Thompson,Tyrone,,Thompson,,,True,nv,lower,17,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Thompson.jpg,2013-04-20 02:40:41.249000,2017-06-01 08:42:16.974000
+NVL000277,Amber Joiner,Amber,,Joiner,,,True,nv,lower,24,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Joiner.jpg,2015-01-22 21:46:44.312000,2017-06-01 08:42:16.982000
+NVL000278,Robin L. Titus,Robin L.,,Titus,,,True,nv,lower,38,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Titus.jpg,2015-01-22 21:46:44.351000,2017-06-01 08:42:16.899000
+NVL000282,Nelson Araujo,Nelson,,Araujo,,,True,nv,lower,3,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Araujo.jpg,2015-01-22 21:46:44.472000,2017-06-01 08:42:17.036000
+NVL000283,Edgar Flores,Edgar,,Flores,,,True,nv,lower,28,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Flores.jpg,2015-01-22 21:46:44.482000,2017-06-01 08:42:16.998000
+NVL000285,Ellen B. Spiegel,Ellen B.,,Spiegel,,,True,nv,lower,20,Democratic,"http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Spiegel,E.jpg",2015-01-22 21:46:44.532000,2017-06-01 08:42:16.868000
+NVL000287,Chris Edwards,Chris,,Edwards,,,True,nv,lower,19,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Edwards.jpg,2015-01-22 21:46:44.551000,2017-06-01 08:42:16.978000
+NVL000360,Justin Watkins,Justin,,Watkins,,,True,nv,lower,35,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Watkins.jpg,2016-12-29 17:10:43.180000,2017-06-01 08:42:16.952000
+NVL000361,Al Kramer,Al,,Kramer,,,True,nv,lower,40,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Kramer.jpg,2016-12-29 17:10:43.250000,2017-06-01 08:42:17.038000
+NVL000362,Jason Frierson,Jason,,Frierson,,,True,nv,lower,8,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Frierson.jpg,2016-12-29 17:10:43.287000,2017-06-01 08:42:17.059000
+NVL000365,Brittney Miller,Brittney,,Miller,,,True,nv,lower,5,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Miller.jpg,2016-12-29 17:10:43.329000,2017-06-01 08:42:16.972000
+NVL000366,Chris Brooks,Chris,,Brooks,,,True,nv,lower,10,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Brooks.jpg,2016-12-29 17:10:43.351000,2017-06-01 08:42:17.055000
+NVL000367,Jill Tolles,Jill,,Tolles,,,True,nv,lower,25,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Tolles.jpg,2016-12-29 17:10:43.361000,2017-06-01 08:42:17.057000
+NVL000368,Sandra Jauregui,Sandra,,Jauregui,,,True,nv,lower,41,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Jauregui.jpg,2016-12-29 17:10:43.399000,2017-06-01 08:42:17.042000
+NVL000369,William McCurdy II,William,,McCurdy,II,,True,nv,lower,6,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/McCurdy.jpg,2016-12-29 17:10:43.409000,2017-06-01 08:42:16.987000
+NVL000370,Keith Pickard,Keith,,Pickard,,,True,nv,lower,22,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Pickard.jpg,2016-12-29 17:10:43.431000,2017-06-01 08:42:17.005000
+NVL000371,Skip Daly,Skip,,Daly,,,True,nv,lower,31,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Daly.jpg,2016-12-29 17:10:43.436000,2017-06-01 08:42:17.032000
+NVL000372,Jim Marchant,Jim,,Marchant,,,True,nv,lower,37,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Marchant.jpg,2016-12-29 17:10:43.468000,2017-06-01 08:42:17.051000
+NVL000374,Richard McArthur,Richard,,McArthur,,,True,nv,lower,4,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/McArthur.jpg,2016-12-29 17:10:43.491000,2017-06-01 08:42:16.808000
+NVL000375,Daniele Monroe-Moreno,Daniele,,Monroe-Moreno,,,True,nv,lower,1,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Monroe-Moreno.jpg,2016-12-29 17:10:43.560000,2017-06-01 08:42:16.804000
+NVL000376,Shannon Bilbray-Axelrod,Shannon,,Bilbray-Axelrod,,,True,nv,lower,34,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Bilbray-Axelrod.jpg,2016-12-29 17:10:43.571000,2017-06-01 08:42:16.806000
+NVL000378,Ozzie Fumo,Ozzie,,Fumo,,,True,nv,lower,21,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Fumo.jpg,2016-12-29 17:10:43.599000,2017-06-01 08:42:17.003000
+NVL000379,Lesley E. Cohen,Lesley E.,,Cohen,,,True,nv,lower,29,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Cohen.jpg,2016-12-29 17:10:43.627000,2017-06-01 08:42:16.958000
+NVL000380,Lisa Krasner,Lisa,,Krasner,,,True,nv,lower,26,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Krasner.jpg,2016-12-29 17:10:43.632000,2017-06-01 08:42:16.991000
+NVL000381,Steve Yeager,Steve,,Yeager,,,True,nv,lower,9,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Assembly/Images/Yeager.jpg,2016-12-29 17:10:43.665000,2017-06-01 08:42:16.946000
+NVL000014,David R Parks,David R.,R,Parks,,,True,nv,upper,7,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Parks.jpg,2010-09-01 16:27:46.995000,2017-06-01 08:42:17.027000
+NVL000021,Joyce Woodhouse,Joyce,,Woodhouse,,,True,nv,upper,5,Democratic,"http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Woodhouse,J.jpg",2010-09-01 16:27:47.017000,2017-06-01 08:42:16.828000
+NVL000067,Kelvin Atkinson,Kelvin,,Atkinson,,,True,nv,upper,4,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Atkinson.jpg,2010-12-02 20:06:27.488000,2017-06-01 08:42:16.746000
+NVL000075,Mo Denis,Moises (Mo),,Denis,,,True,nv,upper,2,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Denis.jpg,2010-12-02 20:06:27.503000,2017-06-01 08:41:54.882000
+NVL000079,Pete Goicoechea,Pete,,Goicoechea,,,True,nv,upper,19,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Goicoechea.jpg,2010-12-02 20:06:27.511000,2017-06-01 08:42:16.819000
+NVL000081,Don Gustavson,Donald (Don) G.,,Gustavson,,,True,nv,upper,14,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Gustavson.jpg,2010-12-02 20:06:27.530000,2017-06-01 08:42:16.770000
+NVL000083,Joe Hardy,Joseph (Joe) P.,,Hardy,,,True,nv,upper,12,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Hardy.jpg,2010-12-02 20:06:27.533000,2017-06-01 08:41:54.876000
+NVL000090,Mark A Manendo,Mark A.,A,Manendo,,,True,nv,upper,21,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Manendo.jpg,2010-12-02 20:06:27.547000,2017-06-01 08:42:16.760000
+NVL000100,Tick Segerblom,Tick,,Segerblom,,,True,nv,upper,3,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Segerblom.jpg,2010-12-02 20:06:27.566000,2017-06-01 08:42:16.768000
+NVL000101,James A. Settelmeyer,James A.,,Settelmeyer,,,True,nv,upper,17,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Settelmeyer.jpg,2010-12-02 20:06:27.567000,2017-06-01 08:42:16.758000
+NVL000110,Ben Kieckhefer,Ben,,Kieckhefer,,,True,nv,upper,16,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Kieckhefer.jpg,2011-01-14 22:24:08.354000,2017-06-01 08:42:17.021000
+NVL000114,Michael Roberson,Michael,,Roberson,,,True,nv,upper,20,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Roberson.jpg,2011-01-14 22:24:08.279000,2017-06-01 08:42:17.019000
+NVL000127,Scott Hammond,Scott,,Hammond,,,True,nv,upper,18,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Hammond.jpg,2011-01-14 22:24:08.283000,2017-06-01 08:42:16.783000
+NVL000217,Pat Spearman,Pat,,Spearman,,,True,nv,upper,1,Democratic,"http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Spearman,P.jpg",2013-01-09 22:29:27.499000,2017-06-01 08:42:16.785000
+NVL000220,Aaron D. Ford,Aaron,D.,Ford,,,True,nv,upper,11,Democratic,"http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Ford,A.jpg",2013-01-09 22:29:27.568000,2017-06-01 08:42:17.015000
+NVL000281,Patricia Farley,Patricia,,Farley,,,True,nv,upper,8,Nonpartisan,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Farley.jpg,2015-01-22 21:46:44.463000,2017-06-01 08:42:17.023000
+NVL000289,Becky Harris,Becky,,Harris,,,True,nv,upper,9,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Harris.jpg,2015-01-22 21:46:44.581000,2017-06-01 08:42:16.830000
+NVL000363,Yvanna D. Cancela,Yvanna D.,,Cancela,,,True,nv,upper,10,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Cancela.jpg,2016-12-29 17:10:43.314000,2017-06-01 08:42:16.756000
+NVL000364,Heidi S. Gansert,Heidi S.,,Gansert,,,True,nv,upper,15,Republican,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Gansert.jpg,2016-12-29 17:10:43.319000,2017-06-01 08:42:17.025000
+NVL000373,Julia Ratti,Julia,,Ratti,,,True,nv,upper,13,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Ratti.jpg,2016-12-29 17:10:43.478000,2017-06-01 08:42:17.017000
+NVL000377,Nicole J. Cannizzaro,Nicole J.,,Cannizzaro,,,True,nv,upper,6,Democratic,http://leg.state.nv.us/Session/79th2017/legislators/Senators/Images/Cannizzaro.jpg,2016-12-29 17:10:43.576000,2017-06-01 08:42:16.772000

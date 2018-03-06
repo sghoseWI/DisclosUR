@@ -1,0 +1,354 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+NCL000001,Charles W Albertson,Charles,W,Albertson,,,False,nc,,,,,2010-08-03 17:14:46.452000,2011-01-11 21:12:17.709000
+NCL000002,Austin M Allran,Austin,M,Allran,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/2.jpg,2010-08-03 17:14:46.474000,2015-01-14 17:25:29.914000
+NCL000003,Tom Apodaca,Tom,,Apodaca,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/83.jpg,2010-08-03 17:14:46.481000,2017-01-04 18:50:14.514000
+NCL000004,Bob Atwater,Bob,,Atwater,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/143.jpg,2010-08-03 17:14:46.488000,2013-01-03 19:15:16.078000
+NCL000005,Marc Basnight,Marc,,Basnight,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/38.jpg,2010-08-03 17:14:46.495000,2012-06-05 19:45:11.085000
+NCL000006,Doug Berger,Doug,,Berger,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/145.jpg,2010-08-03 17:14:46.502000,2013-01-03 19:15:16.080000
+NCL000008,Stan Bingham,Stan,,Bingham,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/63.jpg,2010-08-03 17:14:46.517000,2017-01-04 18:50:14.512000
+NCL000009,Harris Blake,Harris,,Blake,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/118.jpg,2010-08-03 17:14:46.524000,2013-01-03 19:15:16.081000
+NCL000011,Julia Boseman,Julia,,Boseman,,,False,nc,,,,,2010-08-03 17:14:46.538000,2011-01-11 21:12:17.717000
+NCL000014,Peter S Brunstetter,Peter,S,Brunstetter,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/223.jpg,2010-08-03 17:14:46.569000,2014-01-14 14:44:35.105000
+NCL000015,Debbie A Clary,Debbie,A,Clary,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/244.jpg,2010-08-03 17:14:46.576000,2012-06-05 19:50:31.314000
+NCL000016,Daniel G Clodfelter,Daniel,G,Clodfelter,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/54.jpg,2010-08-03 17:14:46.583000,2014-05-13 13:21:51.230000
+NCL000017,Charlie Smith Dannelly,Charlie,Smith,Dannelly,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/10.jpg,2010-08-03 17:14:46.590000,2013-01-03 19:15:16.082000
+NCL000019,Margaret Highsmith Dickson,Margaret,Highsmith,Dickson,,,False,nc,,,,,2010-08-03 17:14:46.604000,2011-01-11 21:12:17.711000
+NCL000020,Katie G Dorsett,Katie,G,Dorsett,,,False,nc,,,,,2010-08-03 17:14:46.629000,2011-01-11 21:12:17.712000
+NCL000021,Don East,Don,,East,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/129.jpg,2010-08-03 17:14:46.636000,2013-01-03 19:15:16.083000
+NCL000022,Tony Foriest,Tony,,Foriest,,,False,nc,,,,,2010-08-03 17:14:46.643000,2011-01-11 21:12:17.712000
+NCL000023,James Forrester,James,,Forrester,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/28.jpg,2010-08-03 17:14:46.650000,2012-06-05 19:50:53.230000
+NCL000024,Linda Garrou,Linda,,Garrou,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/56.jpg,2010-08-03 17:14:46.658000,2013-01-03 19:15:16.087000
+NCL000025,W. Edward Goodall,W. Edward,,Goodall,,Eddie,False,nc,,,,,2010-08-03 17:14:46.665000,2011-01-11 21:12:17.713000
+NCL000026,Steve Goss,Steve,,Goss,,,False,nc,,,,,2010-08-03 17:14:46.673000,2011-01-11 21:12:17.714000
+NCL000027,Malcolm Graham,Malcolm,,Graham,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/192.jpg,2010-08-03 17:14:46.680000,2015-01-14 17:25:29.911000
+NCL000028,Fletcher L Hartsell Jr.,Fletcher,L,Hartsell,Jr.,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/20.jpg,2010-08-03 17:14:46.687000,2017-01-04 18:50:14.510000
+NCL000029,David W Hoyle,David,W,Hoyle,,,False,nc,,,,,2010-08-03 17:14:46.694000,2011-01-11 21:12:17.713000
+NCL000030,Neal Hunt,Neal,,Hunt,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/200.jpg,2010-08-03 17:14:46.701000,2015-01-14 17:25:29.905000
+NCL000031,Jim Jacumin,Jim,,Jacumin,,,False,nc,,,,,2010-08-03 17:14:46.708000,2011-01-11 21:12:17.714000
+NCL000032,Clark Jenkins,Clark,,Jenkins,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/71.jpg,2010-08-03 17:14:46.715000,2015-01-14 17:25:29.909000
+NCL000033,Ed Jones,Ed,,Jones,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/227.jpg,2010-08-03 17:14:46.722000,2013-01-03 19:15:16.088000
+NCL000034,Eleanor Kinnaird,Eleanor,,Kinnaird,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/8.jpg,2010-08-03 17:14:46.729000,2013-09-20 15:20:44.144000
+NCL000035,Vernon Malone,Vernon,,Malone,,,False,nc,,,,,2010-08-03 17:14:46.736000,2011-01-11 21:12:17.710000
+NCL000037,Martin L Nesbitt Jr.,Martin,L,Nesbitt,Jr.,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/119.jpg,2010-08-03 17:14:46.768000,2014-05-06 14:36:00.169000
+NCL000038,Jean Preston,Jean,,Preston,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/202.jpg,2010-08-03 17:14:46.775000,2013-01-03 19:15:16.089000
+NCL000039,William R. Purcell,William R.,,Purcell,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/51.jpg,2010-08-03 17:14:46.782000,2013-01-03 19:15:16.091000
+NCL000040,Joe Sam Queen,Joe Sam,,Queen,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/669.jpg,2010-08-03 17:14:46.790000,2017-01-04 18:50:14.485000
+NCL000041,Tony Rand,Tony,,Rand,,,False,nc,,,,,2010-08-03 17:14:46.797000,2011-01-11 21:12:17.711000
+NCL000042,David Rouzer,David,,Rouzer,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/234.jpg,2010-08-03 17:14:46.804000,2013-01-03 19:15:16.092000
+NCL000043,Bob Rucho,Bob,,Rucho,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/11.jpg,2010-08-03 17:14:46.812000,2017-01-04 18:50:14.507000
+NCL000044,Larry Shaw,Larry,,Shaw,,,False,nc,,,,,2010-08-03 17:14:46.819000,2011-01-11 21:12:17.711000
+NCL000045,John Snow,John,,Snow,,,False,nc,,,,,2010-08-03 17:14:46.826000,2011-01-11 21:12:17.716000
+NCL000046,R. C. Soles Jr.,R. C.,,Soles,Jr.,,False,nc,,,,,2010-08-03 17:14:46.833000,2011-01-11 21:12:17.716000
+NCL000047,Josh Stein,Josh,,Stein,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/267.jpg,2010-08-03 17:14:46.840000,2016-04-26 17:15:18.176000
+NCL000048,Richard Stevens,Richard,,Stevens,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/115.jpg,2010-08-03 17:14:46.847000,2012-12-17 19:32:33.081000
+NCL000049,A. B. Swindell,A. B.,,Swindell,,,False,nc,,,,,2010-08-03 17:14:46.854000,2011-01-11 21:12:17.709000
+NCL000051,Don Vaughan,Don,,Vaughan,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/237.jpg,2010-08-03 17:14:46.868000,2013-01-03 19:15:16.093000
+NCL000052,Michael P Walters,Michael,P,Walters,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/269.jpg,2010-08-03 17:14:46.885000,2015-01-14 17:25:29.903000
+NCL000053,David F Weinstein,David,F,Weinstein,,,False,nc,,,,,2010-08-03 17:14:46.892000,2011-01-11 21:12:17.710000
+NCL000054,Alma Adams,Alma,,Adams,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/18.jpg,2010-08-03 17:14:46.900000,2017-06-01 04:34:13.521000
+NCL000056,Martha B Alexander,Martha,B,Alexander,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/20.jpg,2010-08-03 17:14:46.924000,2013-01-03 19:15:16.016000
+NCL000057,Lucy T Allen,Lucy,T,Allen,,,False,nc,,,,,2010-08-03 17:14:46.932000,2011-01-11 21:12:17.703000
+NCL000058,Cary D Allred,Cary,D,Allred,,,False,nc,,,,,2010-08-03 17:14:46.958000,2011-01-11 21:12:17.705000
+NCL000059,Marilyn Avila,Marilyn,,Avila,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/568.jpg,2010-08-03 17:14:46.965000,2017-01-04 18:50:14.489000
+NCL000060,Jeff Barnhart,Jeff,,Barnhart,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/285.jpg,2010-08-03 17:14:46.973000,2012-06-05 19:47:04.164000
+NCL000063,Curtis Blackwood,Curtis,,Blackwood,,,False,nc,,,,,2010-08-03 17:14:46.997000,2011-01-11 21:12:17.707000
+NCL000067,Alice L Bordsen,Alice,L,Bordsen,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/333.jpg,2010-08-03 17:14:47.029000,2013-01-03 19:15:16.018000
+NCL000068,Richard Vance Braxton,Richard,Vance,Braxton,,Van,False,nc,,,,,2010-08-03 17:14:47.037000,2011-01-11 21:12:17.694000
+NCL000070,Larry R Brown,Larry,R,Brown,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/518.jpg,2010-08-03 17:14:47.061000,2012-10-12 15:22:30.010000
+NCL000071,Harold J Brubaker,Harold,J,Brubaker,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/10.jpg,2010-08-03 17:14:47.069000,2012-08-14 14:59:41.735000
+NCL000074,Pearl Burris-Floyd,Pearl,,Burris-Floyd,,,False,nc,,,,,2010-08-03 17:14:47.103000,2011-01-11 21:12:17.695000
+NCL000077,Lorene Coates,Lorene,,Coates,,,False,nc,,,,,2010-08-03 17:14:47.146000,2011-01-11 21:12:17.707000
+NCL000078,Nelson Cole,Nelson,,Cole,,,False,nc,,,,,2010-08-03 17:14:47.154000,2011-01-11 21:12:17.705000
+NCL000079,Linda Coleman,Linda,,Coleman,,,False,nc,,,,,2010-08-03 17:14:47.162000,2011-01-11 21:12:17.700000
+NCL000080,Tricia Ann Cotham,Tricia,Ann,Cotham,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/576.jpg,2010-08-03 17:14:47.170000,2017-01-04 18:50:14.505000
+NCL000081,James W Crawford Jr.,James,W,Crawford,Jr.,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/29.jpg,2010-08-03 17:14:47.178000,2013-01-03 19:15:16.019000
+NCL000082,William A Current Sr.,William,A,Current,Sr.,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/541.jpg,2010-08-03 17:14:47.187000,2013-01-03 19:15:16.021000
+NCL000083,Namon Leo Daughtry,Namon,Leo,Daughtry,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/26.jpg,2010-08-03 17:14:47.195000,2017-01-04 18:50:14.492000
+NCL000085,Jerry C Dockham,Jerry,C,Dockham,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/33.jpg,2010-08-03 17:14:47.221000,2013-07-17 13:13:03.514000
+NCL000088,Bob England M.D.,Bob,,England,M.D.,,False,nc,,,,,2010-08-03 17:14:47.246000,2011-01-11 21:12:17.696000
+NCL000089,Bill Faison,Bill,,Faison,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/499.jpg,2010-08-03 17:14:47.264000,2013-01-03 19:15:16.022000
+NCL000093,Dale R Folwell,Dale,R,Folwell,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/521.jpg,2010-08-03 17:14:47.296000,2013-01-03 19:15:16.024000
+NCL000094,Phillip Frye,Phillip,,Frye,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/420.jpg,2010-08-03 17:14:47.316000,2013-01-03 19:15:16.025000
+NCL000095,Pryor Gibson,Pryor,,Gibson,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/139.jpg,2010-08-03 17:14:47.324000,2011-03-21 20:43:36.629000
+NCL000097,Mitch Gillespie,Mitch,,Gillespie,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/157.jpg,2010-08-03 17:14:47.342000,2013-01-30 15:17:11.902000
+NCL000098,Rick Glazier,Rick,,Glazier,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/317.jpg,2010-08-03 17:14:47.350000,2015-09-08 18:38:27.723000
+NCL000099,Bruce Goforth,Bruce,,Goforth,,,False,nc,,,,,2010-08-03 17:14:47.358000,2011-01-11 21:12:17.696000
+NCL000100,Melanie Wade Goodwin,Melanie Wade,,Goodwin,,,False,nc,,,,,2010-08-03 17:14:47.366000,2011-01-11 21:12:17.706000
+NCL000101,W. Robert Grady,W. Robert,,Grady,,,False,nc,,,,,2010-08-03 17:14:47.374000,2011-01-11 21:12:17.697000
+NCL000102,W. David Guice,W. David,,Guice,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/585.jpg,2010-08-03 17:14:47.382000,2012-06-05 19:46:11.161000
+NCL000103,Jim Gulley,Jim,,Gulley,,,False,nc,,,,,2010-08-03 17:14:47.391000,2011-01-11 21:12:17.695000
+NCL000104,Joe Hackney,Joe,,Hackney,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/45.jpg,2010-08-03 17:14:47.399000,2013-01-03 19:15:16.028000
+NCL000105,Robert Phillip Haire,Robert,Phillip,Haire,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/162.jpg,2010-08-03 17:14:47.407000,2013-01-03 19:15:16.029000
+NCL000106,Larry D Hall,Larry,D,Hall,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/572.jpg,2010-08-03 17:14:47.425000,2017-02-22 03:30:27.165000
+NCL000107,Ty Harrell,Ty,,Harrell,,,False,nc,,,,,2010-08-03 17:14:47.433000,2011-01-11 21:12:17.701000
+NCL000109,Chris Heagarty,Chris,,Heagarty,,,False,nc,,,,,2010-08-03 17:14:47.449000,2011-01-11 21:12:17.701000
+NCL000110,Dewey L Hill,Dewey,L,Hill,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/51.jpg,2010-08-03 17:14:47.458000,2013-01-03 19:15:16.030000
+NCL000111,Mark K Hilton,Mark,K,Hilton,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/251.jpg,2010-08-03 17:14:47.476000,2013-01-03 19:15:16.032000
+NCL000112,Hugh Holliman,Hugh,,Holliman,,,False,nc,,,,,2010-08-03 17:14:47.484000,2011-01-11 21:12:17.707000
+NCL000113,Bryan R Holloway,Bryan,R.,Holloway,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/531.jpg,2010-08-03 17:14:47.512000,2015-12-11 22:52:44.695000
+NCL000115,Sandra Hughes,Sandra,,Hughes,,,False,nc,,,,,2010-08-03 17:14:47.528000,2011-01-11 21:12:17.698000
+NCL000118,Dan W Ingle,Dan,W,Ingle,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/596.jpg,2010-08-03 17:14:47.553000,2013-01-03 19:15:16.034000
+NCL000121,Maggie Jeffus,Maggie,,Jeffus,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/93.jpg,2010-08-03 17:14:47.578000,2013-01-03 19:15:16.035000
+NCL000123,Earl Jones,Earl,,Jones,,,False,nc,,,,,2010-08-03 17:14:47.594000,2011-01-11 21:12:17.704000
+NCL000124,Carolyn H Justice,Carolyn,H,Justice,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/431.jpg,2010-08-03 17:14:47.602000,2013-01-03 19:15:16.037000
+NCL000125,Carolyn K Justus,Carolyn,K,Justus,,,False,nc,,,,,2010-08-03 17:14:47.611000,2011-01-11 21:12:17.697000
+NCL000126,Ric Killian,Ric,,Killian,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/562.jpg,2010-08-03 17:14:47.629000,2013-01-03 19:15:16.038000
+NCL000127,James H Langdon Jr.,James,H,Langdon,Jr.,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/482.jpg,2010-08-03 17:14:47.637000,2017-01-04 18:50:14.484000
+NCL000129,Jimmy L Love Sr.,Jimmy,L,Love,Sr.,,False,nc,,,,,2010-08-03 17:14:47.654000,2011-01-11 21:12:17.703000
+NCL000131,Paul Luebke,Paul,,Luebke,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/63.jpg,2010-08-03 17:14:47.670000,2017-01-04 18:50:14.495000
+NCL000132,Nick Mackey,Nick,,Mackey,,,False,nc,,,,,2010-08-03 17:14:47.678000,2011-01-11 21:12:17.709000
+NCL000134,John May,John,,May,,,False,nc,,,,,2010-08-03 17:14:47.695000,2011-01-11 21:12:17.703000
+NCL000135,Daniel F McComas,Daniel,F,McComas,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/66.jpg,2010-08-03 17:14:47.703000,2012-09-28 20:00:45.086000
+NCL000136,Darrell G McCormick,Darrell,G,McCormick,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/587.jpg,2010-08-03 17:14:47.711000,2013-01-03 19:15:16.045000
+NCL000138,William C McGee,William,C,McGee,,Bill,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/343.jpg,2010-08-03 17:14:47.728000,2013-01-03 19:15:16.046000
+NCL000139,Marian N McLawhorn,Marian,N,McLawhorn,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/191.jpg,2010-08-03 17:14:47.736000,2013-01-03 19:15:16.048000
+NCL000141,Grey Mills,Grey,,Mills,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/588.jpg,2010-08-03 17:14:47.763000,2013-01-03 19:15:16.049000
+NCL000142,Annie W Mobley,Annie,W,Mobley,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/575.jpg,2010-08-03 17:14:47.771000,2015-01-14 17:25:29.858000
+NCL000144,Wil Neumann,Wil,,Neumann,,,False,nc,,,,,2010-08-03 17:14:47.788000,2011-01-11 21:12:17.695000
+NCL000145,Bill Owens,Bill,,Owens,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/81.jpg,2010-08-03 17:14:47.796000,2013-01-03 19:15:16.050000
+NCL000146,Diane Parfitt,Diane,,Parfitt,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/600.jpg,2010-08-03 17:14:47.805000,2013-01-03 19:15:16.051000
+NCL000147,Earline W Parmon,Earline,W,Parmon,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/372.jpg,2010-08-03 17:14:47.813000,2015-02-12 20:34:34.969000
+NCL000150,Ray Rapp,Ray,,Rapp,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/424.jpg,2010-08-03 17:14:47.849000,2013-01-03 19:15:16.055000
+NCL000151,Johnathan Rhyne Jr.,Johnathan,,Rhyne,Jr.,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/590.jpg,2010-08-03 17:14:47.857000,2012-06-05 19:49:21.891000
+NCL000152,Deborah K Ross,Deborah,K,Ross,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/311.jpg,2010-08-03 17:14:47.865000,2017-06-01 04:34:13.522000
+NCL000153,Efton M Sager,Efton,M,Sager,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/591.jpg,2010-08-03 17:14:47.874000,2013-01-03 19:15:16.058000
+NCL000154,Ruth Samuelson,Ruth,,Samuelson,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/563.jpg,2010-08-03 17:14:47.882000,2015-01-14 17:25:29.844000
+NCL000156,Timothy L Spear,Timothy,L,Spear,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/573.jpg,2010-08-03 17:14:47.899000,2013-01-03 19:15:16.059000
+NCL000157,Paul Stam,Paul,,Stam,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/309.jpg,2010-08-03 17:14:47.907000,2017-01-04 18:50:14.497000
+NCL000158,Edgar V Starnes,Edgar,V,Starnes,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/91.jpg,2010-08-03 17:14:47.915000,2015-01-14 17:25:29.872000
+NCL000159,Fred F Steen II,Fred,F,Steen,II,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/462.jpg,2010-08-03 17:14:47.924000,2013-01-03 19:15:16.061000
+NCL000161,Randy Stewart,Randy,,Stewart,,,False,nc,,,,,2010-08-03 17:14:47.954000,2011-01-11 21:12:17.699000
+NCL000162,Bonner L. Stiller,Bonner L.,,Stiller,,,False,nc,,,,,2010-08-03 17:14:47.962000,2011-01-11 21:12:17.698000
+NCL000163,Ronnie Sutton,Ronnie,,Sutton,,,False,nc,,,,,2010-08-03 17:14:47.971000,2011-01-11 21:12:17.702000
+NCL000164,Cullie M Tarleton,Cullie,M,Tarleton,,,False,nc,,,,,2010-08-03 17:14:47.979000,2011-01-11 21:12:17.708000
+NCL000165,Thom Tillis,Thom,,Tillis,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/565.jpg,2010-08-03 17:14:47.987000,2015-01-14 17:25:29.901000
+NCL000166,Joe P Tolson,Joe,P,Tolson,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/48.jpg,2010-08-03 17:14:47.996000,2015-01-14 17:25:29.853000
+NCL000167,Russell E Tucker,Russell,E,Tucker,,,False,nc,,,,,2010-08-03 17:14:48.025000,2011-01-11 21:12:17.700000
+NCL000168,Alice Graham Underhill,Alice,Graham,Underhill,,,False,nc,,,,,2010-08-03 17:14:48.034000,2011-01-11 21:12:17.699000
+NCL000169,William L Wainwright,William,L,Wainwright,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/102.jpg,2010-08-03 17:14:48.042000,2012-08-14 14:56:32.126000
+NCL000170,Edith D Warren,Edith,D,Warren,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/195.jpg,2010-08-03 17:14:48.051000,2013-01-03 19:15:16.062000
+NCL000171,Ray Warren,Ray,,Warren,,,False,nc,,,,,2010-08-03 17:14:48.059000,2011-01-11 21:12:17.708000
+NCL000172,Jennifer Weiss,Jennifer,,Weiss,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/198.jpg,2010-08-03 17:14:48.068000,2013-01-03 19:15:16.063000
+NCL000173,Roger West,Roger,,West,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/267.jpg,2010-08-03 17:14:48.076000,2017-01-04 18:50:14.504000
+NCL000174,Jane Whilden,Jane,,Whilden,,,False,nc,,,,,2010-08-03 17:14:48.094000,2011-01-11 21:12:17.697000
+NCL000175,Laura I Wiley,Laura,I,Wiley,,,False,nc,,,,,2010-08-03 17:14:48.103000,2011-01-11 21:12:17.705000
+NCL000176,W. A. Wilkins,W. A.,,Wilkins,,Winkie,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/503.jpg,2010-08-03 17:14:48.111000,2015-01-14 17:25:29.851000
+NCL000177,Arthur Williams,Arthur,,Williams,,,False,nc,,,,,2010-08-03 17:14:48.120000,2011-01-11 21:12:17.704000
+NCL000178,Larry Womble,Larry,,Womble,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/107.jpg,2010-08-03 17:14:48.128000,2013-01-03 19:15:16.066000
+NCL000180,Douglas Y Yongue,Douglas,Y,Yongue,,,False,nc,,,,,2010-08-03 17:14:48.146000,2011-01-11 21:12:17.702000
+NCL000181,Patsy Keever,Patsy,,Keever,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/602.jpg,2010-09-14 08:01:04.890000,2013-01-03 19:15:16.067000
+NCL000184,Thomas Goolsby,Thomas,,Goolsby,,Thom,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/331.jpg,2011-01-14 22:24:08.505000,2014-08-25 14:01:21.291000
+NCL000189,Eric Mansfield,Eric,,Mansfield,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/292.jpg,2011-01-14 22:24:08.179000,2013-01-03 19:15:16.096000
+NCL000191,E. S. Newton,E. S.,,Newton,,Buck,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/362.jpg,2011-01-14 22:24:08.179000,2017-01-04 18:50:14.508000
+NCL000195,Daniel Soucek,Daniel,,Soucek,,Dan,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/297.jpg,2011-01-14 22:24:08.503000,2016-04-27 20:20:52.662000
+NCL000197,Glen Bradley,Glen,,Bradley,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/607.jpg,2011-01-14 22:24:08.175000,2013-01-03 19:15:16.068000
+NCL000198,Marcus Brandon,Marcus,,Brandon,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/608.jpg,2011-01-14 22:24:08.176000,2015-01-14 17:25:29.865000
+NCL000200,Rayne Brown,Rayne,,Brown,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/610.jpg,2011-01-14 22:24:08.177000,2017-01-04 18:50:14.500000
+NCL000207,Mike Hager,Mike,,Hager,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/616.jpg,2011-01-14 22:24:08.495000,2017-01-04 18:50:14.490000
+NCL000208,Susi H Hamilton,Susi,H,Hamilton,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/617.jpg,2011-01-14 22:24:08.497000,2017-02-22 03:25:49.575000
+NCL000210,Mark W. Hollo,Mark W.,,Hollo,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/619.jpg,2011-01-14 22:24:08.177000,2015-01-14 17:25:29.867000
+NCL000214,Stephen A LaRoque,Stephen,A,LaRoque,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/622.jpg,2011-01-14 22:24:08.174000,2012-08-14 14:58:58.573000
+NCL000216,Tim D Moffitt,Tim,D,Moffitt,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/623.jpg,2011-01-14 22:24:08.174000,2015-01-14 17:25:29.849000
+NCL000218,Tom Murry,Tom,,Murry,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/625.jpg,2011-01-14 22:24:08.175000,2015-01-14 17:25:29.856000
+NCL000219,Gaston Pridgen,Gaston,,Pridgen,,G.L.,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/626.jpg,2011-01-14 22:24:08.336000,2013-01-03 19:15:16.072000
+NCL000222,Mike C Stone,Mike,C,Stone,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/629.jpg,2011-01-14 22:24:08.176000,2017-06-01 04:34:13.524000
+NCL000225,Stan White,Stan,,White,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/365.jpg,2011-02-01 17:38:00.795000,2013-01-03 19:15:16.098000
+NCL000226,Frank McGuirt,Frank,,McGuirt,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/631.jpg,2011-03-08 00:13:52.500000,2013-01-03 19:15:16.076000
+NCL000231,Chris Carney,Chris,,Carney,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/366.jpg,2012-01-04 00:36:09.050000,2013-01-03 19:15:16.099000
+NCL000232,Trudi Walend,Trudi,,Walend,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/196.jpg,2012-01-05 00:36:39.521000,2013-01-03 19:15:16.077000
+NCL000233,Wes Westmoreland,Wes,,Westmoreland,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/367.jpg,2012-01-28 00:46:35.158000,2013-01-03 19:15:16.100000
+NCL000242,Barbara Lee,Barbara,,Lee,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/634.jpg,2012-08-10 02:06:05.871000,2013-01-03 19:15:16.103000
+NCL000244,Karen Kozel,Karen,,Kozel,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/636.jpg,2012-09-01 01:50:29.737000,2013-01-03 19:15:16.102000
+NCL000256,Gene McLaurin,Gene,,McLaurin,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/371.jpg,2013-01-03 19:15:14.335000,2015-01-14 17:25:29.907000
+NCL000266,Nathan Baskerville,Nathan,,Baskerville,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/649.jpg,2013-01-03 19:15:14.540000,2017-01-04 18:50:14.494000
+NCL000268,C. Robert Brawley,C. Robert,,Brawley,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/641.jpg,2013-01-03 19:15:14.595000,2015-01-14 17:25:29.874000
+NCL000270,Brian Brown,Brian,,Brown,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/655.jpg,2013-01-03 19:15:14.628000,2016-02-05 02:32:41.251000
+NCL000271,Rob Bryan,Rob,,Bryan,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/678.jpg,2013-01-03 19:15:14.647000,2017-01-04 18:50:14.503000
+NCL000273,Rick Catlin,Rick,,Catlin,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/668.jpg,2013-01-03 19:15:14.687000,2017-01-04 18:50:14.501000
+NCL000279,"Jim Fulghum, M.D.",Jim,,Fulghum,M.D.,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/651.jpg,2013-01-03 19:15:14.863000,2014-08-25 13:58:04.287000
+NCL000287,Charles Jeter,Charles,,Jeter,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/677.jpg,2013-01-03 19:15:15.065000,2017-01-04 18:50:14.473000
+NCL000291,Deb McManus,Deb,,McManus,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/656.jpg,2013-01-03 19:15:15.172000,2014-01-31 14:45:13.562000
+NCL000295,Nathan Ramsey,Nathan,,Ramsey,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/653.jpg,2013-01-03 19:15:15.292000,2015-01-14 17:25:29.847000
+NCL000299,Jacqueline Michelle Schaffer,Jacqueline Michelle,,Schaffer,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/647.jpg,2013-01-03 19:15:15.350000,2016-05-20 15:50:14.041000
+NCL000305,Paul Tine,Paul,,Tine,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/654.jpg,2013-01-03 19:15:15.458000,2017-01-04 18:50:14.499000
+NCL000307,Ken Waddell,Ken,,Waddell,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/673.jpg,2013-01-03 19:15:15.491000,2017-01-04 18:50:14.487000
+NCL000309,Chris Whitmire,Chris,,Whitmire,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/660.jpg,2013-01-03 19:15:15.524000,2017-01-04 18:50:14.476000
+NCL000315,Roger Younts,Roger,,Younts,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/682.jpg,2013-07-17 02:06:41.183000,2015-01-14 17:25:29.870000
+NCL000323,Gary Pendleton,Gary,,Pendleton,,Brig Gen,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/685.jpg,2014-08-20 00:02:14.169000,2017-01-04 18:50:14.478000
+NCL000327,Ralph C. Johnson,Ralph C.,,Johnson,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/699.jpg,2014-12-03 01:25:23.535000,2016-04-27 20:21:57.200000
+NCL000337,Jane W. Smith,Jane W.,,Smith,,,False,nc,,,,http://www.ncga.state.nc.us/Senate/pictures/hiRes/390.jpg,2015-01-14 17:25:28.134000,2017-01-04 18:50:14.511000
+NCL000340,Brad Salmon,Brad,,Salmon,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/693.jpg,2015-01-14 17:25:28.428000,2017-01-04 18:50:14.472000
+NCL000343,Dan Bishop,Dan,,Bishop,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/698.jpg,2015-01-14 17:25:28.738000,2017-01-04 18:50:14.477000
+NCL000348,George S. Robinson,George S.,,Robinson,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/701.jpg,2015-02-04 00:16:49.943000,2017-01-04 18:50:14.483000
+NCL000359,Chris Sgro,Chris,,Sgro,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/705.jpg,2016-04-27 04:41:21.898000,2017-01-04 18:50:14.475000
+NCL000385,Philip A. Lehman,Philip A.,,Lehman,,,False,nc,,,,http://www.ncga.state.nc.us/House/pictures/hiRes/729.jpg,2017-01-04 18:50:13.997000,2017-04-10 13:37:42.754000
+NCL000055,Kelly M Alexander Jr.,Kelly,M,Alexander,Jr.,,True,nc,lower,107,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/579.jpg,2010-08-03 17:14:46.908000,2017-06-01 04:34:48.954000
+NCL000061,Larry M Bell,Larry,M,Bell,,,True,nc,lower,21,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/301.jpg,2010-08-03 17:14:46.981000,2017-06-01 04:34:49.686000
+NCL000062,Hugh Blackwell,Hugh,,Blackwell,,,True,nc,lower,86,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/580.jpg,2010-08-03 17:14:46.989000,2017-06-01 04:34:49.502000
+NCL000065,John M Blust,John,M,Blust,,,True,nc,lower,62,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/234.jpg,2010-08-03 17:14:47.013000,2017-06-01 04:34:49.674000
+NCL000066,James L Boles Jr.,James,L,Boles,Jr.,,True,nc,lower,52,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/581.jpg,2010-08-03 17:14:47.021000,2017-06-01 04:34:49.196000
+NCL000069,William D Brisson,William,D,Brisson,,,True,nc,lower,22,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/558.jpg,2010-08-03 17:14:47.053000,2017-06-01 04:34:49.653000
+NCL000073,Justin P Burr,Justin,P,Burr,,,True,nc,lower,67,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/582.jpg,2010-08-03 17:14:47.095000,2017-06-01 04:34:49.427000
+NCL000075,Becky Carney,Becky,,Carney,,,True,nc,lower,102,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/322.jpg,2010-08-03 17:14:47.112000,2017-06-01 04:34:49.558000
+NCL000076,George G Cleveland,George,G,Cleveland,,,True,nc,lower,14,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/476.jpg,2010-08-03 17:14:47.138000,2017-06-01 04:34:49.245000
+NCL000086,Nelson Dollar,Nelson,,Dollar,,,True,nc,lower,36,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/489.jpg,2010-08-03 17:14:47.229000,2017-06-01 04:34:49.599000
+NCL000087,Beverly M Earle,Beverly,M,Earle,,,True,nc,lower,101,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/34.jpg,2010-08-03 17:14:47.238000,2017-06-01 04:34:49.641000
+NCL000090,Jean Farmer-Butterfield,Jean,,Farmer-Butterfield,,,True,nc,lower,24,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/379.jpg,2010-08-03 17:14:47.272000,2017-06-01 04:34:49.633000
+NCL000091,Susan C Fisher,Susan,C,Fisher,,,True,nc,lower,114,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/463.jpg,2010-08-03 17:14:47.280000,2017-06-01 04:34:49.315000
+NCL000092,Elmer Floyd,Elmer,,Floyd,,,True,nc,lower,43,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/583.jpg,2010-08-03 17:14:47.288000,2017-06-01 04:34:49.617000
+NCL000096,Rosa U Gill,Rosa,U,Gill,,,True,nc,lower,33,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/597.jpg,2010-08-03 17:14:47.333000,2017-06-01 04:34:49.676000
+NCL000108,Pricey Harrison,Pricey,,Harrison,,,True,nc,lower,57,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/504.jpg,2010-08-03 17:14:47.441000,2017-06-01 04:34:49.305000
+NCL000114,Julia C Howard,Julia,C,Howard,,,True,nc,lower,79,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/53.jpg,2010-08-03 17:14:47.520000,2017-06-01 04:34:49.580000
+NCL000116,Pat B Hurley,Pat,B,Hurley,,,True,nc,lower,70,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/560.jpg,2010-08-03 17:14:47.537000,2017-06-01 04:34:49.688000
+NCL000117,Frank Iler,Frank,,Iler,,,True,nc,lower,17,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/598.jpg,2010-08-03 17:14:47.545000,2017-06-01 04:34:49.511000
+NCL000119,Verla Insko,Verla,,Insko,,,True,nc,lower,56,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/46.jpg,2010-08-03 17:14:47.561000,2017-06-01 04:34:49.656000
+NCL000120,Darren G Jackson,Darren,G,Jackson,,,True,nc,lower,39,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/595.jpg,2010-08-03 17:14:47.569000,2017-06-01 04:34:49.393000
+NCL000122,Linda P Johnson,Linda,P,Johnson,,,True,nc,lower,83,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/292.jpg,2010-08-03 17:14:47.586000,2017-06-01 04:34:49.531000
+NCL000128,David R. Lewis,David R.,,Lewis,,,True,nc,lower,53,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/389.jpg,2010-08-03 17:14:47.645000,2017-06-01 04:34:49.601000
+NCL000130,Marvin W Lucas,Marvin,W,Lucas,,,True,nc,lower,42,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/216.jpg,2010-08-03 17:14:47.662000,2017-06-01 04:34:49.619000
+NCL000133,Grier Martin,Grier,,Martin,,,True,nc,lower,34,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/487.jpg,2010-08-03 17:14:47.687000,2017-06-01 04:34:49.339000
+NCL000137,Pat McElraft,Pat,,McElraft,,,True,nc,lower,13,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/570.jpg,2010-08-03 17:14:47.720000,2017-06-01 04:34:49.519000
+NCL000140,Henry M Michaux Jr.,Henry,M,Michaux,Jr.,,True,nc,lower,31,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/71.jpg,2010-08-03 17:14:47.754000,2017-06-01 04:34:49.683000
+NCL000143,Tim Moore,Tim,,Moore,,,True,nc,lower,111,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/339.jpg,2010-08-03 17:14:47.780000,2017-06-01 04:34:13.698000
+NCL000148,Garland E Pierce,Garland,E,Pierce,,,True,nc,lower,48,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/497.jpg,2010-08-03 17:14:47.822000,2017-06-01 04:34:49.564000
+NCL000155,Mitchell S Setzer,Mitchell,S,Setzer,,,True,nc,lower,89,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/149.jpg,2010-08-03 17:14:47.890000,2017-06-01 04:34:49.571000
+NCL000160,Sarah Stevens,Sarah,,Stevens,,,True,nc,lower,90,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/592.jpg,2010-08-03 17:14:47.945000,2017-06-01 04:34:49.201000
+NCL000179,Michael H Wray,Michael,H,Wray,,,True,nc,lower,27,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/481.jpg,2010-08-03 17:14:48.137000,2017-06-01 04:34:49.593000
+NCL000199,William Brawley,William,,Brawley,,,True,nc,lower,103,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/609.jpg,2011-01-14 22:24:08.495000,2017-06-01 04:34:49.539000
+NCL000201,Jeffrey Lynn Collins,Jeffrey,Lynn,Collins,,Jeff,True,nc,lower,25,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/611.jpg,2011-01-14 22:24:08.498000,2017-06-01 04:34:49.679000
+NCL000203,Jimmy Dixon,Jimmy,,Dixon,,,True,nc,lower,4,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/613.jpg,2011-01-14 22:24:08.335000,2017-06-01 04:34:48.741000
+NCL000204,John Faircloth,John,,Faircloth,,,True,nc,lower,61,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/603.jpg,2011-01-14 22:24:08.336000,2017-06-01 04:34:49.297000
+NCL000205,Ken Goodman,Ken,,Goodman,,,True,nc,lower,66,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/614.jpg,2011-01-14 22:24:08.500000,2017-06-01 04:34:49.627000
+NCL000206,Charles Graham,Charles,,Graham,,,True,nc,lower,47,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/615.jpg,2011-01-14 22:24:08.499000,2017-06-01 04:34:49.177000
+NCL000209,Kelly E Hastings,Kelly,E,Hastings,,,True,nc,lower,110,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/618.jpg,2011-01-14 22:24:08.334000,2017-06-01 04:34:49.607000
+NCL000211,D. Craig Horn,D. Craig,,Horn,,,True,nc,lower,68,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/604.jpg,2011-01-14 22:24:08.337000,2017-06-01 04:34:49.526000
+NCL000212,Bert Jones,Bert,,Jones,,,True,nc,lower,65,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/620.jpg,2011-01-14 22:24:08.337000,2017-06-01 04:34:49.430000
+NCL000213,Jonathan C Jordan,Jonathan,C,Jordan,,,True,nc,lower,93,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/621.jpg,2011-01-14 22:24:08.501000,2017-06-01 04:34:49.622000
+NCL000215,Chuck McGrady,Chuck,,McGrady,,,True,nc,lower,117,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/605.jpg,2011-01-14 22:24:08.496000,2017-06-01 04:34:49.291000
+NCL000217,Rodney W. Moore,Rodney W.,,Moore,,,True,nc,lower,99,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/624.jpg,2011-01-14 22:24:08.178000,2017-06-01 04:34:49.561000
+NCL000221,Phil R Shepard,Phil,R,Shepard,,,True,nc,lower,15,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/628.jpg,2011-01-14 22:24:08.496000,2017-06-01 04:34:49.437000
+NCL000223,John A Torbett,John,A,Torbett,,,True,nc,lower,108,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/606.jpg,2011-01-14 22:24:08.334000,2017-06-01 04:34:49.495000
+NCL000224,Harry Warren,Harry,,Warren,,,True,nc,lower,77,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/630.jpg,2011-01-14 22:24:08.500000,2017-06-01 04:34:49.259000
+NCL000228,Jason Saine,Jason,,Saine,,,True,nc,lower,97,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/632.jpg,2011-08-25 01:16:11.953000,2017-06-01 04:34:49.500000
+NCL000229,Larry G. Pittman,Larry G.,,Pittman,,,True,nc,lower,82,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/633.jpg,2011-10-12 01:28:39.044000,2017-06-01 04:34:49.278000
+NCL000243,Allen McNeill,Allen,,McNeill,,,True,nc,lower,78,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/635.jpg,2012-08-17 02:06:22.231000,2017-06-01 04:34:49.671000
+NCL000245,"Ted Davis, Jr.",Ted,,Davis,Jr.,,True,nc,lower,19,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/637.jpg,2012-09-25 01:04:18.921000,2017-06-01 04:34:49.188000
+NCL000265,Dean Arp,Dean,,Arp,,,True,nc,lower,69,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/640.jpg,2013-01-03 19:15:14.524000,2017-06-01 04:34:49.553000
+NCL000267,"John R. Bell, IV",John R.,,Bell,IV,,True,nc,lower,10,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/661.jpg,2013-01-03 19:15:14.548000,2017-06-01 04:34:48.974000
+NCL000269,Mark Brody,Mark,,Brody,,,True,nc,lower,55,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/663.jpg,2013-01-03 19:15:14.620000,2017-06-01 04:34:49.282000
+NCL000272,Dana Bumgardner,Dana,,Bumgardner,,,True,nc,lower,109,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/659.jpg,2013-01-03 19:15:14.662000,2017-06-01 04:34:49.551000
+NCL000274,Debra Conrad,Debra,,Conrad,,,True,nc,lower,74,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/675.jpg,2013-01-03 19:15:14.712000,2017-06-01 04:34:49.250000
+NCL000275,Carla D. Cunningham,Carla D.,,Cunningham,,,True,nc,lower,106,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/642.jpg,2013-01-03 19:15:14.730000,2017-06-01 04:34:49.636000
+NCL000276,Jeffrey Elmore,Jeffrey,,Elmore,,,True,nc,lower,94,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/643.jpg,2013-01-03 19:15:14.798000,2017-06-01 04:34:49.695000
+NCL000277,Carl Ford,Carl,,Ford,,,True,nc,lower,76,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/644.jpg,2013-01-03 19:15:14.847000,2017-06-01 04:34:49.383000
+NCL000281,George Graham,George,,Graham,,,True,nc,lower,12,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/672.jpg,2013-01-03 19:15:14.912000,2017-06-01 04:34:49.193000
+NCL000282,Duane Hall,Duane,,Hall,,,True,nc,lower,11,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/679.jpg,2013-01-03 19:15:14.927000,2017-06-01 04:34:49.328000
+NCL000283,"Edward Hanes, Jr.",Edward,,Hanes,Jr.,,True,nc,lower,72,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/674.jpg,2013-01-03 19:15:14.952000,2017-06-01 04:34:49.568000
+NCL000284,Jon Hardister,Jon,,Hardister,,,True,nc,lower,59,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/645.jpg,2013-01-03 19:15:14.960000,2017-06-01 04:34:49.703000
+NCL000285,Yvonne Lewis Holley,Yvonne Lewis,,Holley,,,True,nc,lower,38,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/650.jpg,2013-01-03 19:15:14.991000,2017-06-01 04:34:49.556000
+NCL000288,Donny Lambeth,Donny,,Lambeth,,,True,nc,lower,75,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/646.jpg,2013-01-03 19:15:15.097000,2017-06-01 04:34:49.691000
+NCL000289,Chris Malone,Chris,,Malone,,,True,nc,lower,35,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/648.jpg,2013-01-03 19:15:15.135000,2017-06-01 04:34:49.658000
+NCL000290,Susan Martin,Susan,,Martin,,,True,nc,lower,8,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/667.jpg,2013-01-03 19:15:15.143000,2017-06-01 04:34:49.612000
+NCL000292,Chris Millis,Chris,,Millis,,,True,nc,lower,16,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/639.jpg,2013-01-03 19:15:15.197000,2017-06-01 04:34:48.750000
+NCL000293,Michele D. Presnell,Michele D.,,Presnell,,,True,nc,lower,118,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/670.jpg,2013-01-03 19:15:15.274000,2017-06-01 04:34:49.333000
+NCL000296,Dennis Riddell,Dennis,,Riddell,,,True,nc,lower,64,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/665.jpg,2013-01-03 19:15:15.301000,2017-06-01 04:34:48.241000
+NCL000298,Stephen M. Ross,Stephen M.,,Ross,,,True,nc,lower,63,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/664.jpg,2013-01-03 19:15:15.322000,2017-06-01 04:34:49.669000
+NCL000301,Michael Speciale,Michael,,Speciale,,,True,nc,lower,3,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/671.jpg,2013-01-03 19:15:15.382000,2017-06-01 04:34:49.255000
+NCL000302,Bob Steinburg,Bob,,Steinburg,,,True,nc,lower,1,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/666.jpg,2013-01-03 19:15:15.408000,2017-06-01 04:34:48.978000
+NCL000303,John Szoka,John,,Szoka,,,True,nc,lower,45,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/662.jpg,2013-01-03 19:15:15.433000,2017-06-01 04:34:49.604000
+NCL000304,Evelyn Terry,Evelyn,,Terry,,,True,nc,lower,71,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/676.jpg,2013-01-03 19:15:15.441000,2017-06-01 04:34:49.344000
+NCL000306,Rena W. Turner,Rena W.,,Turner,,,True,nc,lower,84,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/658.jpg,2013-01-03 19:15:15.483000,2017-06-01 04:34:13.682000
+NCL000312,Bobbie Richardson,Bobbie,,Richardson,,,True,nc,lower,7,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/680.jpg,2013-01-09 16:47:28.843000,2017-06-01 04:34:49.614000
+NCL000313,Josh Dobson,Josh,,Dobson,,,True,nc,lower,85,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/681.jpg,2013-01-30 00:34:14.679000,2017-06-01 04:34:49.643000
+NCL000317,Graig R. Meyer,Graig R.,,Meyer,,,True,nc,lower,50,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/683.jpg,2013-11-01 02:15:14.650000,2017-06-01 04:34:48.966000
+NCL000320,"Robert T. Reives, II",Robert T.,,Reives,II,,True,nc,lower,54,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/684.jpg,2014-01-31 01:02:16.958000,2017-06-01 04:34:48.969000
+NCL000328,Larry Yarborough,Larry,,Yarborough,,,True,nc,lower,2,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/694.jpg,2015-01-14 17:25:27.389000,2017-06-01 04:34:49.403000
+NCL000331,"John R. Bradford, III",John R.,,Bradford,III,,True,nc,lower,98,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/690.jpg,2015-01-14 17:25:27.515000,2017-06-01 04:34:49.019000
+NCL000332,John Ager,John,,Ager,,,True,nc,lower,115,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/689.jpg,2015-01-14 17:25:27.626000,2017-06-01 04:34:49.248000
+NCL000333,John A. Fraley,John A.,,Fraley,,,True,nc,lower,95,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/686.jpg,2015-01-14 17:25:27.724000,2017-06-01 04:34:49.596000
+NCL000334,Sam Watford,Sam,,Watford,,,True,nc,lower,80,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/687.jpg,2015-01-14 17:25:27.968000,2017-06-01 04:34:49.609000
+NCL000338,Jay Adams,Jay,,Adams,,,True,nc,lower,96,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/697.jpg,2015-01-14 17:25:28.255000,2017-06-01 04:34:48.944000
+NCL000339,Cecil Brockman,Cecil,,Brockman,,,True,nc,lower,60,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/691.jpg,2015-01-14 17:25:28.406000,2017-06-01 04:34:49.705000
+NCL000341,Gale Adcock,Gale,,Adcock,,,True,nc,lower,41,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/688.jpg,2015-01-14 17:25:28.504000,2017-06-01 04:34:49.485000
+NCL000342,"Howard J. Hunter, III",Howard J.,,Hunter,III,,True,nc,lower,5,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/692.jpg,2015-01-14 17:25:28.616000,2017-06-01 04:34:49.625000
+NCL000344,Shelly Willingham,Shelly,,Willingham,,,True,nc,lower,23,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/700.jpg,2015-01-14 17:25:28.905000,2017-06-01 04:34:49.181000
+NCL000345,Lee Zachary,Lee,,Zachary,,,True,nc,lower,73,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/695.jpg,2015-01-14 17:25:28.915000,2017-06-01 04:34:49.375000
+NCL000347,Brian Turner,Brian,,Turner,,,True,nc,lower,116,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/696.jpg,2015-01-14 17:25:29.157000,2017-06-01 04:34:49.493000
+NCL000352,William O. Richardson,William O.,,Richardson,,,True,nc,lower,44,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/702.jpg,2015-09-03 20:21:52.933000,2017-06-01 04:34:49.543000
+NCL000354,"Gregory F. Murphy, MD",Gregory F.,,Murphy,MD,,True,nc,lower,9,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/703.jpg,2015-10-27 04:42:10.157000,2017-06-01 04:34:49.646000
+NCL000356,Kyle Hall,Kyle,,Hall,,,True,nc,lower,91,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/704.jpg,2015-11-26 05:52:51.838000,2017-06-01 04:34:49.709000
+NCL000361,Scott Stone,Scott,,Stone,,,True,nc,lower,105,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/706.jpg,2016-05-14 04:42:04.081000,2017-06-01 04:34:48.985000
+NCL000363,John Sauls,John,,Sauls,,,True,nc,lower,51,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/393.jpg,2017-01-04 18:50:13.228000,2017-06-01 04:34:49.638000
+NCL000364,Andy Dulin,Andy,,Dulin,,,True,nc,lower,104,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/717.jpg,2017-01-04 18:50:13.268000,2017-06-01 04:34:49.681000
+NCL000365,Kevin Corbin,Kevin,,Corbin,,,True,nc,lower,120,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/716.jpg,2017-01-04 18:50:13.285000,2017-06-01 04:34:49.588000
+NCL000366,Beverly G. Boswell,Beverly G.,,Boswell,,,True,nc,lower,6,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/714.jpg,2017-01-04 18:50:13.303000,2017-06-01 04:34:49.648000
+NCL000368,John Autry,John,,Autry,,,True,nc,lower,100,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/710.jpg,2017-01-04 18:50:13.334000,2017-06-01 04:34:49.497000
+NCL000369,Larry C. Strickland,Larry C.,,Strickland,,,True,nc,lower,28,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/727.jpg,2017-01-04 18:50:13.340000,2017-06-01 04:34:49.336000
+NCL000370,Destin Hall,Destin,,Hall,,,True,nc,lower,87,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/719.jpg,2017-01-04 18:50:13.351000,2017-06-01 04:34:49.524000
+NCL000371,Holly Grange,Holly,,Grange,,,True,nc,lower,20,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/709.jpg,2017-01-04 18:50:13.375000,2017-06-01 04:34:48.774000
+NCL000373,Mary Belk,Mary,,Belk,,,True,nc,lower,88,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/713.jpg,2017-01-04 18:50:13.520000,2017-06-01 04:34:49.271000
+NCL000374,Cynthia Ball,Cynthia,,Ball,,,True,nc,lower,49,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/711.jpg,2017-01-04 18:50:13.588000,2017-06-01 04:34:49.573000
+NCL000376,Joe John,Joe,,John,,,True,nc,lower,40,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/722.jpg,2017-01-04 18:50:13.616000,2017-06-01 04:34:49.536000
+NCL000377,Mike Clampitt,Mike,,Clampitt,,,True,nc,lower,119,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/715.jpg,2017-01-04 18:50:13.628000,2017-06-01 04:34:48.933000
+NCL000379,Terry E. Garrison,Terry E.,,Garrison,,,True,nc,lower,32,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/718.jpg,2017-01-04 18:50:13.683000,2017-06-01 04:34:49.326000
+NCL000380,Chaz Beasley,Chaz,,Beasley,,,True,nc,lower,92,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/712.jpg,2017-01-04 18:50:13.701000,2017-06-01 04:34:49.014000
+NCL000381,"Amos L. Quick, III",Amos L.,,Quick,III,,True,nc,lower,58,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/725.jpg,2017-01-04 18:50:13.742000,2017-06-01 04:34:49.700000
+NCL000383,Linda Hunt Williams,Linda Hunt,,Williams,,,True,nc,lower,37,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/721.jpg,2017-01-04 18:50:13.876000,2017-06-01 04:34:49.021000
+NCL000384,Donna McDowell White,Donna McDowell,,White,,,True,nc,lower,26,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/728.jpg,2017-01-04 18:50:13.893000,2017-06-01 04:34:49.661000
+NCL000386,Brenden H. Jones,Brenden H.,,Jones,,,True,nc,lower,46,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/723.jpg,2017-01-04 18:50:14.009000,2017-06-01 04:34:13.536000
+NCL000387,Cody Henson,Cody,,Henson,,,True,nc,lower,113,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/720.jpg,2017-01-04 18:50:14.040000,2017-06-01 04:34:48.959000
+NCL000389,David Rogers,David,,Rogers,,,True,nc,lower,112,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/707.jpg,2017-01-04 18:50:14.052000,2017-06-01 04:34:49.707000
+NCL000390,Larry W. Potts,Larry W.,,Potts,,,True,nc,lower,81,Republican,http://www.ncga.state.nc.us/House/pictures/hiRes/724.jpg,2017-01-04 18:50:14.119000,2017-06-01 04:34:49.663000
+NCL000391,Deb Butler,Deb,,Butler,,,True,nc,lower,18,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/730.jpg,2017-02-07 04:06:45.048000,2017-06-01 04:34:49.280000
+NCL000392,MaryAnn Black,MaryAnn,,Black,,,True,nc,lower,29,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/731.jpg,2017-02-16 04:09:04.619000,2017-06-01 04:34:49.650000
+NCL000393,Marcia Morey,Marcia,,Morey,,,True,nc,lower,30,Democratic,http://www.ncga.state.nc.us/House/pictures/hiRes/732.jpg,2017-04-06 04:29:46.048000,2017-06-01 04:34:49.693000
+NCL000007,Phil Berger,Phil,,Berger,,,True,nc,upper,26,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/64.jpg,2010-08-03 17:14:46.509000,2017-06-01 04:34:13.761000
+NCL000010,Dan Blue,Dan,,Blue,,,True,nc,upper,14,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/268.jpg,2010-08-03 17:14:46.531000,2017-06-01 04:34:49.029000
+NCL000012,Andrew C Brock,Andrew,C,Brock,,,True,nc,upper,34,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/104.jpg,2010-08-03 17:14:46.555000,2017-06-01 04:34:49.122000
+NCL000013,Harry Brown,Harry,,Brown,,,True,nc,upper,6,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/139.jpg,2010-08-03 17:14:46.562000,2017-06-01 04:34:49.041000
+NCL000018,Don Davis,Don,,Davis,,,True,nc,upper,5,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/230.jpg,2010-08-03 17:14:46.597000,2017-06-01 04:34:49.141000
+NCL000036,Floyd B McKissick Jr.,Floyd,B,McKissick,Jr.,,True,nc,upper,20,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/228.jpg,2010-08-03 17:14:46.743000,2017-06-01 04:34:49.474000
+NCL000050,Jerry W Tillman,Jerry,W,Tillman,,,True,nc,upper,29,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/99.jpg,2010-08-03 17:14:46.861000,2017-06-01 04:34:49.066000
+NCL000072,Angela R Bryant,Angela,R,Bryant,,,True,nc,upper,4,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/382.jpg,2010-08-03 17:14:47.077000,2017-06-01 04:34:49.111000
+NCL000149,Shirley B Randleman,Shirley,B,Randleman,,,True,nc,upper,30,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/374.jpg,2010-08-03 17:14:47.840000,2017-06-01 04:34:48.611000
+NCL000182,Warren Daniel,Warren,,Daniel,,,True,nc,upper,46,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/295.jpg,2011-01-14 22:24:08.503000,2017-06-01 04:34:49.069000
+NCL000183,Jim Davis,Jim,,Davis,,,True,nc,upper,50,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/357.jpg,2011-01-14 22:24:08.339000,2017-06-01 04:34:49.048000
+NCL000185,Rick Gunn,Rick,,Gunn,,,True,nc,upper,24,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/276.jpg,2011-01-14 22:24:08.180000,2017-06-01 04:34:48.625000
+NCL000186,Kathy Harrington,Kathy,,Harrington,,,True,nc,upper,43,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/283.jpg,2011-01-14 22:24:08.181000,2017-06-01 04:34:49.059000
+NCL000187,Ralph Hise,Ralph,,Hise,,,True,nc,upper,47,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/298.jpg,2011-01-14 22:24:08.504000,2017-06-01 04:34:49.477000
+NCL000188,Brent Jackson,Brent,,Jackson,,,True,nc,upper,10,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/281.jpg,2011-01-14 22:24:08.178000,2017-06-01 04:34:49.115000
+NCL000190,Wesley Meredith,Wesley,,Meredith,,,True,nc,upper,19,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/305.jpg,2011-01-14 22:24:08.502000,2017-06-01 04:34:49.093000
+NCL000192,Louis Pate,Louis,,Pate,,,True,nc,upper,7,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/273.jpg,2011-01-14 22:24:08.505000,2017-06-01 04:34:49.459000
+NCL000193,William Peter Rabon Dr.,William,Peter,Rabon,Dr.,Bill,True,nc,upper,8,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/303.jpg,2011-01-14 22:24:08.181000,2017-06-01 04:34:49.026000
+NCL000194,Gladys A Robinson,Gladys,A,Robinson,,,True,nc,upper,28,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/364.jpg,2011-01-14 22:24:08.502000,2017-06-01 04:34:49.466000
+NCL000196,Tommy Tucker,Tommy,,Tucker,,,True,nc,upper,35,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/310.jpg,2011-01-14 22:24:08.338000,2017-06-01 04:34:49.463000
+NCL000202,Bill Cook,Bill,,Cook,,,True,nc,upper,1,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/381.jpg,2011-01-14 22:24:08.499000,2017-06-01 04:34:49.136000
+NCL000220,Norman W Sanderson,Norman,W,Sanderson,,,True,nc,upper,2,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/375.jpg,2011-01-14 22:24:08.498000,2017-06-01 04:34:49.144000
+NCL000246,Joyce Krawiec,Joyce,,Krawiec,,,True,nc,upper,31,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/384.jpg,2012-10-11 01:34:21.327000,2017-06-01 04:34:49.471000
+NCL000248,Tamara Barringer,Tamara,,Barringer,,,True,nc,upper,17,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/368.jpg,2012-10-18 00:59:05.891000,2017-06-01 04:34:49.146000
+NCL000249,Chad Barefoot,Chad,,Barefoot,,,True,nc,upper,18,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/369.jpg,2013-01-03 19:15:14.095000,2017-06-01 04:34:49.050000
+NCL000250,Ben Clark,Ben,,Clark,,,True,nc,upper,21,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/380.jpg,2013-01-03 19:15:14.166000,2017-06-01 04:34:49.038000
+NCL000252,David L. Curtis,David L.,,Curtis,,,True,nc,upper,44,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/378.jpg,2013-01-03 19:15:14.191000,2017-06-01 04:34:49.163000
+NCL000255,Joel D. M. Ford,Joel D. M.,,Ford,,,True,nc,upper,38,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/370.jpg,2013-01-03 19:15:14.225000,2017-06-01 04:34:49.043000
+NCL000259,Ronald J. Rabin,Ronald J.,,Rabin,,,True,nc,upper,12,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/373.jpg,2013-01-03 19:15:14.382000,2017-06-01 04:34:49.153000
+NCL000262,Jeff Tarte,Jeff,,Tarte,,,True,nc,upper,41,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/376.jpg,2013-01-03 19:15:14.451000,2017-06-01 04:34:49.171000
+NCL000263,Trudy Wade,Trudy,,Wade,,,True,nc,upper,27,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/377.jpg,2013-01-03 19:15:14.482000,2017-06-01 04:34:49.127000
+NCL000264,Mike Woodard,Mike,,Woodard,,,True,nc,upper,22,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/379.jpg,2013-01-03 19:15:14.501000,2017-06-01 04:34:49.160000
+NCL000278,Valerie P. Foushee,Valerie P.,,Foushee,,,True,nc,upper,23,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/383.jpg,2013-01-03 19:15:14.855000,2017-06-01 04:34:49.165000
+NCL000308,Andy Wells,Andy,,Wells,,,True,nc,upper,42,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/388.jpg,2013-01-03 19:15:15.508000,2017-06-01 04:34:49.096000
+NCL000321,Terry Van Duyn,Terry,,Van Duyn,,,True,nc,upper,49,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/385.jpg,2014-05-06 00:10:53.445000,2017-06-01 04:34:48.843000
+NCL000322,Jeff Jackson,Jeff,,Jackson,,,True,nc,upper,37,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/386.jpg,2014-05-09 23:55:19.364000,2017-06-01 04:34:49.158000
+NCL000324,Michael V. Lee,Michael V.,,Lee,,,True,nc,upper,9,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/387.jpg,2014-08-20 00:02:14.519000,2017-06-01 04:34:49.151000
+NCL000329,Tom McInnis,Tom,,McInnis,,,True,nc,upper,25,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/389.jpg,2015-01-14 17:25:27.422000,2017-06-01 04:34:49.139000
+NCL000330,Joyce Waddell,Joyce,,Waddell,,,True,nc,upper,40,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/393.jpg,2015-01-14 17:25:27.471000,2017-06-01 04:34:49.100000
+NCL000335,Erica Smith-Ingram,Erica,,Smith-Ingram,,,True,nc,upper,3,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/391.jpg,2015-01-14 17:25:28.058000,2017-06-01 04:34:49.108000
+NCL000346,"John M. Alexander, Jr.",John M.,,Alexander,Jr.,,True,nc,upper,15,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/392.jpg,2015-01-14 17:25:28.960000,2017-06-01 04:34:49.134000
+NCL000349,"Paul A. Lowe, Jr.",Paul A.,,Lowe,Jr.,,True,nc,upper,32,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/394.jpg,2015-02-04 00:16:50.079000,2017-06-01 04:34:49.469000
+NCL000357,Jay J. Chaudhuri,Jay J.,,Chaudhuri,,,True,nc,upper,16,Democratic,http://www.ncga.state.nc.us/Senate/pictures/hiRes/395.jpg,2016-04-27 04:41:20.161000,2017-06-01 04:34:49.132000
+NCL000358,Deanna Ballard,Deanna,,Ballard,,,True,nc,upper,45,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/396.jpg,2016-04-27 04:41:20.877000,2017-06-01 04:34:49.167000
+NCL000367,Cathy Dunn,Cathy,,Dunn,,,True,nc,upper,33,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/401.jpg,2017-01-04 18:50:13.321000,2017-06-01 04:34:49.117000
+NCL000372,Rick Horner,Rick,,Horner,,,True,nc,upper,11,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/400.jpg,2017-01-04 18:50:13.483000,2017-06-01 04:34:49.148000
+NCL000375,Paul Newton,Paul,,Newton,,,True,nc,upper,36,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/402.jpg,2017-01-04 18:50:13.611000,2017-06-01 04:34:49.113000
+NCL000378,Chuck Edwards,Chuck,,Edwards,,,True,nc,upper,48,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/397.jpg,2017-01-04 18:50:13.640000,2017-06-01 04:34:49.169000
+NCL000382,"Danny Earl Britt, Jr.",Danny Earl,,Britt,Jr.,,True,nc,upper,13,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/399.jpg,2017-01-04 18:50:13.803000,2017-06-01 04:34:49.155000
+NCL000388,Dan Bishop,Dan,,Bishop,,,True,nc,upper,39,Republican,http://www.ncga.state.nc.us/Senate/pictures/hiRes/398.jpg,2017-01-04 18:50:14.046000,2017-06-01 04:34:49.461000
