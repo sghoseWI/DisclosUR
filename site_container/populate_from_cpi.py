@@ -3,10 +3,10 @@ import django
 import os
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "disc_site.settings")
 django.setup()
-from legislator.models import * #be specific later
+from legislator.models import Lawmaker, FinancialInterest 
 import pandas as pd
 
-cpi_file = 'cpi_with_party.csv'
+cpi_file = 'cpi_cleaned.csv'
 df = pd.read_csv(cpi_file, index_col = "lawmaker_id", encoding = "ISO-8859-1")
 
 for index, row in df.iterrows():
