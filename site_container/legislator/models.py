@@ -25,6 +25,8 @@ class FinancialInterest(models.Model):
     name = models.TextField()
     industry = models.TextField()
     lawmaker = models.ForeignKey(Lawmaker, on_delete=models.CASCADE)
+    state = models.TextField() # this is technically the lawmaker's state; hide from user
+    made_api_call = models.BooleanField(default=False) # for managing OpenCorp API calls only; hide from user
 
     def __str__(self):
         return self.name
@@ -42,7 +44,11 @@ class OpenCorps(models.Model):
     registered_address_in_full	= models.TextField(null=True)
     registry_url = models.URLField(null = True)
     ultimate_beneficial_owners = models.TextField(null = True)
+    inactive = models.NullBooleanField(default=False)
+    officers = models.TextField(null = True)
+    status = models.TextField(null=True)
     finterest = models.ForeignKey(FinancialInterest,on_delete=models.CASCADE)
+
 
     def __str__(self):
         return self.name
