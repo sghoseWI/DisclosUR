@@ -49,8 +49,8 @@ def get_legislator_names(address):
     rv = []
     metadata = get_legislator_data(address)
     for i, legislator in enumerate(metadata):
-        last = metadata[i]['last_name'].upper()
-        first = metadata[i]['first_name'].upper()
+        last = metadata[i]['last_name'].title()
+        first = metadata[i]['first_name'].title()
         rv.append("{}, {}".format(last, first))
     return rv
     
