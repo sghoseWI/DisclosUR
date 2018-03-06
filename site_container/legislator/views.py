@@ -22,7 +22,7 @@ def home(request):
         # if form.is_valid():
             # process the data in form.cleaned_data as required
             # redirect to a new URL:
-        return HttpResponseRedirect('http://127.0.0.1:8000/full_results')
+        return full_results(request)
     # if a GET (or any other method) we'll create a blank form
     else:
         form = AddressForm()

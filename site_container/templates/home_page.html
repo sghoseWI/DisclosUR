@@ -3,13 +3,13 @@
 
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
     <title>
+      DisclosUR$ Home
     </title>
     <link href="https://netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"
     rel="stylesheet">
@@ -65,7 +65,7 @@
             <div class="form-group">
               <form action="/home/" method="post">
               {% csrf_token %}
-              <select class="form-control">
+              <select class="form-control" name = "state">
                 <option value="AL">Alabama</option>
               	<option value="AK">Alaska</option>
               	<option value="AZ">Arizona</option>
