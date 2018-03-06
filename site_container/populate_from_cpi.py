@@ -6,10 +6,13 @@ django.setup()
 from legislator.models import Lawmaker, FinancialInterest 
 import pandas as pd
 
-cpi_file = 'cpi_cleaned.csv'
-df = pd.read_csv(cpi_file, index_col = "lawmaker_id", encoding = "ISO-8859-1")
+cpi_path = '../data_wrangling/CPI/'
+standard = 'cpi_cleaned.csv'
+std_df = pd.read_csv(cpi_path+standard,
+                      index_col="lawmaker_id",
+                      encoding="latin1")
 
-for index, row in df.iterrows():
+for index, row in std_df.iterrows():
 #    check database to see if legislator id exists
     if not Lawmaker.objects.filter(pk=index).exists():
         # create the lawmaker
@@ -25,7 +28,8 @@ for index, row in df.iterrows():
         print('saving', lawmaker)
 
     lawmaker = Lawmaker.objects.get(pk=index)
-    # create the financial interest entity and associate it to the lawmaker
+    
+    # create FI object  and associate it to the lawmaker
     fi_entity = FinancialInterest.objects.create(name = row["employer_business_interest"],
             industry = row["industry"],
             lawmaker = lawmaker)
