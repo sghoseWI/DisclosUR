@@ -1,24 +1,69 @@
 from django import forms
+STATES = {
+         'Alaska'                   : 'AK',
+         'Alabama'                  : 'AL',
+         'Arkansas'                 : 'AR',
+         'American Samoa'           : 'AS',
+         'Arizona'                  : 'AZ',
+         'California'               : 'CA',
+         'Colorado'                 : 'CO',
+         'Connecticut' : 'CT',
+         'District of Columbia': 'DC',
+         'Delaware'                 : 'DE',
+         'Florida'                  : 'FL',
+         'Georgia'                  : 'GA',
+         'Guam'                     : 'GU',
+         'Hawaii'                   : 'HI',
+         'Iowa'                     : 'IA',
+         'Idaho'                    : 'ID',
+         'Illinois'                 : 'IL',
+         'Indiana'                  : 'IN',
+         'Kansas'                  : 'KS',
+         'Kentucky'                 : 'KY',
+         'Louisiana'                : 'LA',
+         'Massachusetts'            : 'MA',
+         'Maryland'                 : 'MD',
+         'Maine'                    : 'ME',
+         'Michigan'                 : 'MI',
+         'Minnesota'                : 'MN',
+         'Missouri'                 : 'MO',
+         'Northern Mariana Islands' : 'MP',
+         'Mississippi'              : 'MS',
+         'Montana'                  : 'MT',
+         'National'                 : 'NA',
+         'North Carolina'           : 'NC',
+         'North Dakota'             : 'ND',
+         'Nebraska'                 : 'NE',
+         'New Hampshire'            : 'NH',
+         'New Jersey'               : 'NJ',
+         'New Mexico'               : 'NM',
+         'Nevada'                   : 'NV',
+         'New York'                 : 'NY',
+         'Ohio'                     : 'OH',
+         'Oklahoma'                 : 'OK',
+         'Oregon'                   : 'OR',
+         'Pennsylvania'             : 'PA',
+         'Puerto Rico'              : 'PR',
+         'Rhode Island'             : 'RI',
+         'South Carolina'           : 'SC',
+         'South Dakota'             : 'SD',
+         'Tennessee'                : 'TN',
+         'Texas'                    : 'TX',
+         'Utah'                     : 'UT',
+         'Virginia'                 : 'VA',
+         'Virgin Islands'  : 'VI',
+         'Vermont'                  : 'VT',
+         'Washington'  : 'WA',
+         'Wisconsin' : 'WI',
+         'West Virginia' : 'WV',
+         'Wyoming': 'WY'}
 
-class AddressForm(forms.Form):
+class DataForm(forms.Form):
     '''
-    Very simple input form for just Address.
-    The GoogleMaps API handles validation.
+    Let's hope this works.
     '''
-    address = forms.CharField(label='Enter an Address:')
-    input_type = 'text'
-    template_name = 'django/forms/widgets/text.html'
+    address =  forms.CharField(label='Your home address', required=False)
+    state = forms.ChoiceField(label='state', required=False, choices=STATES)
+    district = forms.CharField(label='state', required=False)
+    lawmaker = forms.CharField(label='lawmaker', required=False)
 
-
-
-
-'''
-When we want to search by individual lawmaker - we could do this
-#from models import Lawmaker
-class LawmakerForm(forms.ModelForm):
-
-    class Meta:
-        Information that doesn't define the form belongs here.
-        model = Lawmaker
-
-'''
