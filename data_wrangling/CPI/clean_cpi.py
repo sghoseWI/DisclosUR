@@ -9,8 +9,8 @@ import csv
 import sqlite3
 import pandas as pd
 
-df = pd.read_csv('cpi_data_entities.csv')
-
+standard_df = pd.read_csv('cpi_std_unclean.csv',encoding='latin1')
+nonstandard_df = pd.read_csv('cpi_nonstd_unclean.csv',encoding='latin1')
 SELECT = 'SELECT party FROM '
 WHERE = ' WHERE full_name = ?'
 
@@ -35,13 +35,18 @@ def get_party(name, state):
         return 'Not in Open States'
     return party_val
 
-if __name__ == "__main__":
-    db = sqlite3.connect('legislator_db.sqlite3')
-    c = db.cursor()
+def clean_df(df, c):
     for index, row in df.iterrows():
         name,state = clean_name_state(row.lawmaker.split(),row.state.lower())
         party_val = get_party(name, state)
         df.loc[index, 'party'] = party_val 
         df.loc[index, 'lawmaker'] = name[0]
         print(name[0], '-->', party_val) 
-    df.to_csv('cpi_cleaned.csv')
+    
+if __name__ == "__main__":
+    db = sqlite3.connect('../open_states/legislator_db.sqlite3')
+    c = db.cursor()
+    clean_df(standard_df, c)
+    clean_df(nonstandard_df, c)
+    standard_df.to_csv('cpi_cleaned.csv')
+    nonstandard_df.to_csv('cpi_nonstd_cleaned.csv')
