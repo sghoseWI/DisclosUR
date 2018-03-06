@@ -14,9 +14,7 @@
     <link href="https://netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"
     rel="stylesheet">
   </head>
-
   <body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
     <span class="badge"></span>
     <div class="container">
       <div class="jumbotron">
@@ -43,16 +41,15 @@
         <b>
     Enter Your Home Address:
   </b>
+  <input id = 'adr1' name = 'address' type="text" class="form-control">
+  <form action="/home/" method="post">
+  {% csrf_token %}
       </h3>
-      <input id = 'adr1' name = 'address' type="text" class="form-control">
-      <form action="/home/" method="post">
-      {% csrf_token %}
       <h3 class="text-center">
         <div>
           <div>
             <i></i>
           </div>
-            <input type="submit" value="Submit">
             <div class="form-group">
             </div>
             <div>
@@ -66,6 +63,7 @@
               <form action="/home/" method="post">
               {% csrf_token %}
               <select class="form-control" name = "state">
+                <option value= ></option>
                 <option value="AL">Alabama</option>
               	<option value="AK">Alaska</option>
               	<option value="AZ">Arizona</option>
@@ -125,7 +123,6 @@
             </div>
             <div>
               <div>
-                  <input type="submit" value="Submit">
                 <div class="form-group">
                 </div>
               </div>

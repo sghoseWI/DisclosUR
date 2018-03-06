@@ -3,8 +3,7 @@ from django import forms
 class AddressForm(forms.Form):
     '''
     Very simple input form for just Address.
-    The GoogleMaps API handles validation, however
-    document that testing!
+    The GoogleMaps API handles validation.
     '''
     address = forms.CharField(label='Enter an Address:')
     template_name = 'django/forms/widgets/text.html'

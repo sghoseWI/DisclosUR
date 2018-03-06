@@ -1,8 +1,11 @@
 div {
     padding-top: 5px;
-    background: LightGray
+    background: LightGray;
 }
 
 body {
     padding-top: 10px;
+    border-style: solid;
+    border-width: 40px;
+    border-color: Green;
 }
