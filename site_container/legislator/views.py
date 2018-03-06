@@ -9,9 +9,11 @@ from django.http import HttpResponseRedirect
 from django.shortcuts import render
 from django.template import loader, Context
 
-
-def index(request):
-    return HttpResponse("This is the legislator application index")
+def test(request):
+    mr_dude = Lawmaker.objects.filter(name='WILLIAMS, PHILLIP')[0]
+    output_string = '{} serves in {} {} district {}'.format(mr_dude.name,
+            mr_dude.state, mr_dude.body, mr_dude.district)
+    return HttpResponse(output_string)
 
 def home(request):
     # if this is a POST request we need to process the form data

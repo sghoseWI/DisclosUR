@@ -6,6 +6,7 @@ class AddressForm(forms.Form):
     The GoogleMaps API handles validation.
     '''
     address = forms.CharField(label='Enter an Address:')
+    input_type = 'text'
     template_name = 'django/forms/widgets/text.html'
 
 
