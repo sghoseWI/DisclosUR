@@ -62,7 +62,7 @@ def from_address(request, address):
         print('YOOOO')
         return HttpResponseRedirect('/legislator/no/known/entities/{}/'.format(address), address)
     
-    return render(request, 'state_table.html', {"state_table":lm_set})
+    return render(request, 'by_state_temp.html', {"lm_table":lm_set})
 
 def no_known(request, address):
     legislators = get_legislator_names(address)
