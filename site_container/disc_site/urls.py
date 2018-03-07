@@ -10,8 +10,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('legislator/', include('legislator.urls')),
     path('home/', views.home, name="home"),
-    path('non_disc/', views.non_disc, name="non_disc"),
-    path('full_results/', views.full_results, name="full_results"),
+    #path('non_disc/', views.non_disc, name="non_disc"),
+    #path('full_results/', views.full_results, name="full_results"),
     path('', RedirectView.as_view(url='/home/')),
 ]
 
