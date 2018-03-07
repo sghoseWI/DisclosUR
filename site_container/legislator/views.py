@@ -14,7 +14,8 @@ def state_dist(request, state, district):
     usr_state = state
     usr_dist = district
     q_set = Lawmaker.objects.filter(state=usr_state)
-    return HttpResponse('This is a test for {} {}'.format(state, district))
+    #filter columns, bring in OC data from class
+    return render(request, 'state_table.html', {"state_table":q_set})
 
 def by_lawmaker(request, lawmaker):
     form = request.GET
@@ -23,7 +24,7 @@ def by_lawmaker(request, lawmaker):
         lm = qset[0]
         print(lm)
         return HttpResponse('{} {} {}'.format(lm.name, lm.state, lm.district))
-        return HttpResponseRedirect('/legislator/lawmaker_exists/',lm)       
+        return HttpResponseRedirect('/legislator/lawmaker_exists/',lm)
     return HttpResponse('Lawmaker not found - sorry!')
 
 def home(request):
@@ -45,7 +46,7 @@ def non_disc(request):
 
 def from_address(request, address):
     '''
-    This view takes in an address as a string, and returns a 
+    This view takes in an address as a string, and returns a
     data structure containing law maker names....
     It will do other things too.
     '''
@@ -55,6 +56,5 @@ def from_address(request, address):
 
 def full_results(request, lm):
     #lm.name, rv.state, rv.district
- 
-    return render(request, 'full_info.html', context={})
 
+    return render(request, 'full_info.html', context={})

@@ -12,8 +12,8 @@ class Lawmaker(models.Model):
     disclosure_url = models.URLField(null = True)
     lawmaker_id = models.IntegerField(primary_key = True)
     cpi_2015 = models.BooleanField(default=False)
-    non_standard_FI = models.TextField(default='')
-    non_standard_IN = models.TextField(default='')
+    # non_standard_FI = models.TextField(default='')
+    # non_standard_IN = models.TextField(default='')
 
     def __str__(self):
         return self.name
