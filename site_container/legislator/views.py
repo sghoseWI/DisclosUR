@@ -50,7 +50,7 @@ def from_address(request, address):
     data structure containing law maker names....
     It will do other things too.
     '''
- # OPEN_STATES thing Nick Made goes here (import that thing too)
+    # OPEN_STATES thing Nick Made goes here (import that thing too)
     return HttpResponse('Address is {}'.format(address))
 
 
