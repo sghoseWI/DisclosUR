@@ -8,7 +8,8 @@ from legislator.forms import DataForm
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
 from django.template import loader, Context
-# import dynamic_address_query
+from .dynamic_address_query import get_legislator_names
+from .tables import LawmakerTable
 
 def state_dist(request, usr_state, usr_dist):
     if usr_dist == 'ALL':
@@ -52,9 +53,12 @@ def from_address(request, address):
     data structure containing law maker names....
     It will do other things too.
     '''
-    # OPEN_STATES thing Nick Made goes here (import that thing too)
-     
-    return HttpResponse('Address is {}'.format(address))
+    legislators = get_legislator_names(address)
+    for dude in legislators:
+        print(dude)
+    q_set = Lawmaker.objects.filter(name__in=legislators)
+    return render(request, 'state_table.html', {"state_table":q_set})
+
 
 def full_results(request, lm):
     #lm.name, rv.state, rv.district
