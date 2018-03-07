@@ -59,7 +59,11 @@ def from_address(request, address):
     q_set = Lawmaker.objects.filter(name__in=legislators)
     return render(request, 'state_table.html', {"state_table":q_set})
 
+
 def full_results(request, lm):
     #lm.name, rv.state, rv.district
 
     return render(request, 'full_info.html', context={})
+
+def data_viz(request):
+    return render(request, 'data_viz.html', context={})
