@@ -2,7 +2,7 @@
 {% load render_table from django_tables2 %}
 {% load static %}
 {% load staticfiles %}
-<link rel="stylesheet" href="{% static 'no_fi.css' %}">
+<link rel="stylesheet" href="{% static 'has_oc.css' %}">
 
 <!DOCTYPE html>
 
@@ -12,11 +12,17 @@
 'ticket/static/css/screen.css' %}" />
     </head>
     <body>
-      <h1> Sorry! The Center for Public Integrity does not have any financial interest data for your state legislator. But you can
-      see their financial disclosure forms below. </h1>
+      <h1> See your state legislator's financial interests summarized below!  </h1>
       <br>
     </br>
         {% render_table lm_table %}
         <br>
+      </br>
+        <br>
+        {% render_table fi_table %}
+      </br>
+      <br>
+      {% render_table oc_table %}
+    </br>
     </body>
 </html>
