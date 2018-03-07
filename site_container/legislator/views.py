@@ -84,7 +84,7 @@ def from_address(request, address):
         return HttpResponseRedirect('/legislator/no/known/entities/{}/'.format(address), address)
 
     fi_names = [fi.name for fi in fi_set]
-    oc_set = OpenCorps.objects.filter(finterests__name__in=fi_names)
+    oc_set = OpenCorps.objects.filter(finterest__name__in=fi_names)
     if not oc_set:
         return HttpResponseRedirect('/legislator/has/fi/but/no/oc/{}/'.format(address), address)
     return render(request, 'by_state_temp.html', {"lm_table":lm_set})
@@ -113,5 +113,4 @@ def no_oc(request, address):
     legislators = get_legislator_names(address)
     lm_set = Lawmaker.objects.filter(name__in=legislators)
     fi_set = FinancialInterest.objects.filter(lawmaker__name__in=legislators)
-    context_args = {"lm_table":lm_set, "fi_table":fi_set}
-    return render(request, 'no_oc_temp.html', context_args=context_args)  
+    return render(request, 'no_oc_temp.html', {"lm_table":lm_set, "fi_table":fi_set})
