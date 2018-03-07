@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'legislator.apps.LegislatorConfig',
+    'django_tables2',
 ]
 
 MIDDLEWARE = [

@@ -67,4 +67,3 @@ class DataForm(forms.Form):
     state = forms.ChoiceField(label='state', required=False, choices=STATES)
     district = forms.CharField(label='state', required=False)
     lawmaker = forms.CharField(label='lawmaker', required=False)
-
