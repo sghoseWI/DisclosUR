@@ -14,4 +14,5 @@ urlpatterns = [
         path('<lawmaker>/', views.by_lawmaker, name='by_law'),
         path('lawmaker_exists/', views.full_results, name='lm_exists'),
         path('from/address/<address>/', views.from_address, name='address'),
+        path('no/known/entities/<address>/', views.no_known, name='no_known'), 
 ]

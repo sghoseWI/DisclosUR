@@ -3,7 +3,7 @@ views file for legislator  app
 '''
 from django.shortcuts import render_to_response
 from django.http import HttpResponse
-from legislator.models import Lawmaker
+from legislator.models import Lawmaker, FinancialInterest, OpenCorps
 from legislator.forms import DataForm
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
@@ -56,10 +56,20 @@ def from_address(request, address):
     legislators = get_legislator_names(address)
     for dude in legislators:
         print(dude)
-    q_set = Lawmaker.objects.filter(name__in=legislators)
-    return render(request, 'state_table.html', {"state_table":q_set})
+    lm_set = Lawmaker.objects.filter(name__in=legislators)
+    fi_set = FinancialInterest.objects.filter(lawmaker__name__in=legislators)
+    if not fi_set: #CPI has no known data on these legislators.
+        print('YOOOO')
+        return HttpResponseRedirect('/legislator/no/known/entities/{}/'.format(address), address)
+    
+    return render(request, 'state_table.html', {"state_table":lm_set})
+
+def no_known(request, address):
+    legislators = get_legislator_names(address)
+    lm_set = Lawmaker.objects.filter(name__in=legislators)
+    return render(request, 'state_table.html', {"state_table":lm_set})
+
 
 def full_results(request, lm):
     #lm.name, rv.state, rv.district
-
     return render(request, 'full_info.html', context={})
