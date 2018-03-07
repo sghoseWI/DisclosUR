@@ -16,7 +16,7 @@ def state_dist(request, usr_state, usr_dist):
         q_set = Lawmaker.objects.filter(state=usr_state)
     else:
         q_set = Lawmaker.objects.filter(state=usr_state, district = usr_dist)
-    return render(request, 'state_table.html', {"state_table":q_set})
+    return render(request, 'by_state_temp.html', {"state_table":q_set})
 
 def by_lawmaker(request, lawmaker):
     form = request.GET

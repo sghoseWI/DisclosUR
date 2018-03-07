@@ -62,5 +62,3 @@ if __name__ == "__main__":
     pop_from_df(std_df, False)
     pop_from_df(non_std_df, True)
 
-
-
