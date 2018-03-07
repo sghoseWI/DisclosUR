@@ -8,13 +8,13 @@ from legislator.forms import DataForm
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
 from django.template import loader, Context
+# import dynamic_address_query
 
-def state_dist(request, state, district):
-    form = request.GET
-    usr_state = state
-    usr_dist = district
-    q_set = Lawmaker.objects.filter(state=usr_state)
-    #filter columns, bring in OC data from class
+def state_dist(request, usr_state, usr_dist):
+    if usr_dist == 'ALL':
+        q_set = Lawmaker.objects.filter(state=usr_state)
+    else:
+        q_set = Lawmaker.objects.filter(state=usr_state, district = usr_dist)
     return render(request, 'state_table.html', {"state_table":q_set})
 
 def by_lawmaker(request, lawmaker):
@@ -36,7 +36,9 @@ def home(request):
 
         if form.data['legislator']:
             return HttpResponseRedirect('/legislator/{}/'.format(form.data['legislator'], form.data['legislator']))
-        return HttpResponseRedirect('/legislator/{}/{}/'.format(form.data['state'], form.data['district']))
+        usr_dist = 'ALL' if not form.data['district'] else form.data['district']
+        usr_state = form.data['state']
+        return HttpResponseRedirect('/legislator/{}/{}/'.format(form.data['state'], usr_dist))
     else:
         form = DataForm()
     return render(request, 'home_page.html', {'form': form})
@@ -51,6 +53,7 @@ def from_address(request, address):
     It will do other things too.
     '''
     # OPEN_STATES thing Nick Made goes here (import that thing too)
+     
     return HttpResponse('Address is {}'.format(address))
 
 
