@@ -57,18 +57,27 @@ def state_dist(request, usr_state, usr_dist):
         q_set = Lawmaker.objects.filter(state=usr_state)
     else:
         q_set = Lawmaker.objects.filter(state=usr_state, district = usr_dist)
-    return render(request, 'by_state_temp.html', {"state_table":q_set})
+    return render(request, 'by_state.html', {"state_table":q_set})
 
 def by_lawmaker(request, lawmaker):
     form = request.GET
-    qset = Lawmaker.objects.filter(name=lawmaker)
-    if qset:
-        lm = qset[0]
-        print(lm)
-        return HttpResponse('{} {} {}'.format(lm.name, lm.state, lm.district))
-        return HttpResponseRedirect('/legislator/lawmaker_exists/',lm)
-    return HttpResponse('Lawmaker not found - sorry!')
+    lm_set = Lawmaker.objects.filter(name=lawmaker)
+    if not lm_set:
+        return HttpResponse('Lawmaker not found - sorry!')
+    
+    lm_names = [lm.name for lm in lm_set] 
+    fi_set = FinancialInterest.objects.filter(lawmaker__name__in=lm_names)
+    if not fi_set: #CPI has no known data on these legislators.
+        return render(request, 'no_fi.html', {"lm_table":lm_set})
 
+    fi_names = [fi.name for fi in fi_set]
+    oc_set = OpenCorps.objects.filter(finterest__name__in=fi_names)
+    if not oc_set:
+       return render(request, 'no_oc.html', {"lm_table":lm_set, "fi_table":fi_set})
+    
+    return render(request, 'has_oc.html', {"lm_table":lm_set,
+                                           "fi_table":fi_set,
+                                           "oc_table":oc_set})
 
 def from_address(request, address):
     '''
@@ -87,7 +96,7 @@ def from_address(request, address):
     oc_set = OpenCorps.objects.filter(finterest__name__in=fi_names)
     if not oc_set:
         return HttpResponseRedirect('/legislator/has/fi/but/no/oc/{}/'.format(address), address)
-    return render(request, 'by_state_temp.html', {"lm_table":lm_set})
+    return HttpResponseRedirect('/legislator/has/fi/and/oc/{}/'.format(address), address)
 
 def no_known(request, address):
     '''
@@ -99,7 +108,7 @@ def no_known(request, address):
     '''
     legislators = get_legislator_names(address)
     lm_set = Lawmaker.objects.filter(name__in=legislators)
-    return render(request, 'no_fi_temp.html', {"lm_table":lm_set})
+    return render(request, 'no_fi.html', {"lm_table":lm_set})
 
 def no_oc(request, address):
     '''
@@ -113,4 +122,22 @@ def no_oc(request, address):
     legislators = get_legislator_names(address)
     lm_set = Lawmaker.objects.filter(name__in=legislators)
     fi_set = FinancialInterest.objects.filter(lawmaker__name__in=legislators)
-    return render(request, 'no_oc_temp.html', {"lm_table":lm_set, "fi_table":fi_set})
+    return render(request, 'no_oc.html', {"lm_table":lm_set, "fi_table":fi_set})
+
+def has_oc(request, address):
+    '''
+    This view is to show lawmakers with CPI and OC data,
+    resulting from an address search.
+
+    It displays a table for lawmakers, a table for their financial
+    interests, and a table for their open corporates metadata.
+    '''
+    legislators = get_legislator_names(address)
+    lm_set = Lawmaker.objects.filter(name__in=legislators)
+    fi_set = FinancialInterest.objects.filter(lawmaker__name__in=legislators)
+    oc_set = OpenCorps.objects.filter(finterest__name__in=fi_names)
+    return render(request, 'has_oc.html', {"lm_table":lm_set,
+                                           "fi_table":fi_set,
+                                           "oc_table":oc_set})
+
+

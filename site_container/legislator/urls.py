@@ -16,4 +16,5 @@ urlpatterns = [
         path('from/address/<address>/', views.from_address, name='address'),
         path('no/known/entities/<address>/', views.no_known, name='no_known'),
         path('has/fi/but/no/oc/<address>/', views.no_oc, name='no_oc'),
+        path('has/fi/and/oc/<address>/', views.has_oc, name='has_oc'),
 ]
