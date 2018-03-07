@@ -53,8 +53,10 @@ def from_address(request, address):
  # OPEN_STATES thing Nick Made goes here (import that thing too)
     return HttpResponse('Address is {}'.format(address))
 
-
 def full_results(request, lm):
     #lm.name, rv.state, rv.district
 
     return render(request, 'full_info.html', context={})
+
+def data_viz(request):
+    return render(request, 'data_viz.html', context={})
