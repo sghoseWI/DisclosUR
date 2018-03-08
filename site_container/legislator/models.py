@@ -24,6 +24,7 @@ class FinancialInterest(models.Model):
     """
     name = models.TextField()
     industry = models.TextField()
+    state = models.TextField() # technically the lawmaker's state
     lawmaker = models.ForeignKey(Lawmaker, on_delete=models.CASCADE)
     made_API_call = models.BooleanField(default=False)
 

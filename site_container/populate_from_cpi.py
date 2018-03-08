@@ -3,7 +3,7 @@ import django
 import os
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "disc_site.settings")
 django.setup()
-from legislator.models import Lawmaker, FinancialInterest 
+from legislator.models import Lawmaker, FinancialInterest
 import pandas as pd
 
 cpi_path = '../data_wrangling/CPI/'
@@ -16,15 +16,16 @@ non_std_df = pd.read_csv(cpi_path + non_std,
                       index_col="lawmaker_id",
                       encoding="latin1")
 
-def create_fi(row, lawmaker): 
+def create_fi(row, lawmaker):
     '''
     Create FI object and associate it to the lawmaker
     '''
     fi_ob = FinancialInterest(name=row.employer_business_interest,
                               industry=row.industry,
+                              state=row.state,
                               lawmaker=lawmaker)
     fi_ob.save()
- 
+
 
 def create_lm(index, row, non_standard):
     '''
@@ -61,4 +62,3 @@ def pop_from_df(df, non_standard):
 if __name__ == "__main__":
     pop_from_df(std_df, False)
     pop_from_df(non_std_df, True)
-
