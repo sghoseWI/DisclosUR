@@ -9,9 +9,11 @@ open_corp_key = get_key(find_dotenv(), "OPEN_CORP_KEY")
 open_corp_key = "api_token=" + open_corp_key
 
 def get_company_numbers(name, state):
-    # for each business / employer interest listed by a legislator, call the
-    # OpenCorp search API, filtering out results whose incorporation post-dates
-    # the CPI dataset
+    '''
+    for each business / employer interest listed by a legislator, call the
+    OpenCorp search API, filtering out results whose incorporation post-dates
+    the CPI dataset
+    '''
     juris_code = "us_" + state.lower()
     company_numbers = []
     company_name = name.replace(" ", "+")
@@ -38,9 +40,11 @@ def get_company_numbers(name, state):
     return company_numbers
 
 def get_open_corps(company_numbers):
+    '''
+    Calls OpenCorp API for each call number and collects
+    the metadata that corresponds to that number.
+    '''
     company_list = []
-    # for each company number, call the OpenCorp API and collect the info dict
-    # that corresponds to that number
     if company_numbers is None:
         pass
     else:

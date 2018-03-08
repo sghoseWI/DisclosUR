@@ -1,0 +1,23 @@
+{# yonetim/templates/list.html #}
+{% load render_table from django_tables2 %}
+{% load static %}
+{% load staticfiles %}
+<link rel="stylesheet" href="{% static 'state_table.css' %}">
+
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="{% static
+'ticket/static/css/screen.css' %}" />
+    </head>
+    <body>
+      Lawmaker Table
+        {% render_table lm_table %}
+
+      Financial Interests Table
+        {% render_table fi_table %}
+
+      Corporations Table
+        {% render_table oc_table %}
+    </body>
+</html>
