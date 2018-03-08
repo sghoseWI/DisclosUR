@@ -11,6 +11,9 @@ from django.template import loader, Context
 from .dynamic_address_query import get_legislator_names
 from .tables import LawmakerTable
 
+def explore(request):
+    return render(request, 'data_viz.html')
+
 def home(request):
     '''
     This is the main view of the website. Users input into one
@@ -35,14 +38,14 @@ def home(request):
 
         if form.data['legislator']:
             return HttpResponseRedirect('/legislator/{}/'.format(form.data['legislator'], form.data['legislator']))
-        
+
         usr_dist = 'ALL' if not form.data['district'] else form.data['district']
         usr_state = form.data['state']
         return HttpResponseRedirect('/legislator/{}/{}/'.format(form.data['state'], usr_dist))
-    
+
     else:
         form = DataForm()
-   
+
     return render(request, 'home_page.html', {'form': form})
 
 def state_dist(request, usr_state, usr_dist):
@@ -64,8 +67,8 @@ def by_lawmaker(request, lawmaker):
     lm_set = Lawmaker.objects.filter(name=lawmaker)
     if not lm_set:
         return HttpResponse('Lawmaker not found - sorry!')
-    
-    lm_names = [lm.name for lm in lm_set] 
+
+    lm_names = [lm.name for lm in lm_set]
     fi_set = FinancialInterest.objects.filter(lawmaker__name__in=lm_names)
     if not fi_set: #CPI has no known data on these legislators.
         return render(request, 'no_fi.html', {"lm_table":lm_set})
@@ -74,7 +77,7 @@ def by_lawmaker(request, lawmaker):
     oc_set = OpenCorps.objects.filter(finterest__name__in=fi_names)
     if not oc_set:
        return render(request, 'no_oc.html', {"lm_table":lm_set, "fi_table":fi_set})
-    
+
     return render(request, 'has_oc.html', {"lm_table":lm_set,
                                            "fi_table":fi_set,
                                            "oc_table":oc_set})
@@ -87,7 +90,7 @@ def from_address(request, address):
     '''
     legislators = get_legislator_names(address)
     lm_set = Lawmaker.objects.filter(name__in=legislators)
-    
+
     fi_set = FinancialInterest.objects.filter(lawmaker__name__in=legislators)
     if not fi_set: #CPI has no known data on these legislators.
         return HttpResponseRedirect('/legislator/no/known/entities/{}/'.format(address), address)
@@ -139,5 +142,3 @@ def has_oc(request, address):
     return render(request, 'has_oc.html', {"lm_table":lm_set,
                                            "fi_table":fi_set,
                                            "oc_table":oc_set})
-
-
