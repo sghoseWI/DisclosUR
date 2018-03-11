@@ -22,17 +22,18 @@ for finterest in all_finterest:
             if officer_name is None or officer_position is None:
                 pass
             else:
-                officer_list += '* Officer: ' + officer_name + ' Position: ' + officer_position + ' *'
+                officer_list += '* Officer: ' + officer_name + ' Position: ' + officer_position + ' *' 
         open_corp = OpenCorps.objects.create(name = entry['name'],
-        company_number = entry['company_number'],
-        company_type = entry['company_type'],
-        incorporation_date = entry['incorporation_date'],
-        opencorporates_url = entry['opencorporates_url'],
-        alternative_names = entry['alternative_names'],
-        registered_address_in_full	= entry['registered_address_in_full'],
-        registry_url = entry['registry_url'],
-        ultimate_beneficial_owners = entry['ultimate_beneficial_owners'],
-        inactive = entry['inactive'],
-        officers = officer_list,
-        status = entry['current_status'],
-        finterest = finterest)
+            company_number = entry['company_number'],
+            company_type = entry['company_type'],
+            incorporation_date = entry['incorporation_date'],
+            opencorporates_url = entry['opencorporates_url'],
+            alternative_names = entry['alternative_names'],
+            registered_address_in_full	= entry['registered_address_in_full'],
+            registry_url = entry['registry_url'],
+            ultimate_beneficial_owners = entry['ultimate_beneficial_owners'],
+            inactive = entry['inactive'],
+            officers = officer_list,
+            status = entry['current_status'],
+            finterest = finterest)
+        print('Saving -->', entry['name'])

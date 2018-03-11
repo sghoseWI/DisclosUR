@@ -14,7 +14,7 @@ To install dependent packages by running:
 pip3 install -r requirements.txt
 ```
 
-From the top level directory, we recommend using a virtual environment.
+from the top level directory - we recommend using a virtual environment.
 
 ### Required Modules
 
@@ -30,6 +30,10 @@ From the top level directory, we recommend using a virtual environment.
 ## Data Sources & APIs
 
 ### Open States
+An organization and suite of tools to collect data on bills, legislators, committees, and events. We interacted with this data using the python API listed above, and through using [their website](https://openstates.org/).
+
+### Center for Public Integrity
+Data-driven independent reporting since 1989. CPI  believes "in the democratic process and seek transparency, accountability and efficiency in our government."
 
 Contribute
 ---------

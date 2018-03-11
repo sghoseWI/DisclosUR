@@ -66,7 +66,7 @@ def by_lawmaker(request, lawmaker):
     form = request.GET
     lm_set = Lawmaker.objects.filter(name=lawmaker)
     if not lm_set:
-        return HttpResponse('Lawmaker not found - sorry!')
+        return render(request,'not_found.html')
 
     lm_names = [lm.name for lm in lm_set]
     fi_set = FinancialInterest.objects.filter(lawmaker__name__in=lm_names)
