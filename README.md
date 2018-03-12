@@ -24,6 +24,7 @@ from the top level directory - we recommend using a virtual environment.
 * [python-dotenv](https://github.com/theskumar/python-dotenv)
 * [re](https://docs.python.org/3/library/re.html)
 * [django](https://www.djangoproject.com/)
+* [django-tables2](put link here)
 * [sqlite3](https://docs.python.org/3/library/sqlite3.html)
 * [pandas](https://pandas.pydata.org/)
 

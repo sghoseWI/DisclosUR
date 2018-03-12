@@ -3,3 +3,4 @@ python-dotenv
 django
 pandas
 pyopenstates
+django-tables2
