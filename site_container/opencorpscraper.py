@@ -10,7 +10,7 @@ open_corp_key = "api_token=" + open_corp_key
 
 def get_company_numbers(name, state):
     ''' Takes the name of an entity (an employer or business interest of a
-    legislator) and the state of a legislator. Calls the OpenCorporates
+    legislator) and the two-letter state code of a legislator. Calls the OpenCorp
     Company Name Search API with the name of the company and collects all the
     company numbers of entities that may potentially match the employer /
     business interest. If there are multiple positive name matches, filters out
@@ -47,7 +47,7 @@ def get_open_corps(company_numbers):
     and calls the OpenCorp API Company Search to get information on each of
     the entities. Returns a list of JSON dictionaries, each dictionary
     corresponding to one entity.
-    ''' 
+    '''
 
     company_list = []
     # for each company number, call the OpenCorp API and collect the info dict

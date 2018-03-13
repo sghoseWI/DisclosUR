@@ -1,16 +1,15 @@
 import requests
 import json
 import urllib
-from django.db import models
-from dotenv import get_key, find_dotenv
+
 
 def search_by_officer(name, state):
-    '''Takes the name of a legislator and their state as strings;
+    '''Takes the name of a legislator and their two-letter state code as strings;
     calls the OpenCorporates API to do an officer name search within
     that state. Returns a list of officers who are a positive name-match,
     their companies, and their positions at those companies.
     '''
-    
+
     juris_code = "&jurisdiction_code=us_" + state.lower()
     name = name.replace(" ", "+")
     search_url = "https://api.opencorporates.com/v0.4/officers/search?q=" + name + juris_code
