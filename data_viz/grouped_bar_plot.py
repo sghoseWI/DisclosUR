@@ -1,3 +1,5 @@
+# Did not make it to final project but used this to experiment with data visualizations
+
 # libraries
 import numpy as np
 import matplotlib.pyplot as plt
