@@ -57,12 +57,11 @@ STATES = {
          'Wisconsin'                : 'WI',
          'West Virginia'            : 'WV',
          'Wyoming'                  : 'WY'}
+         
+         # Above dictionary adapted from:
          #http://code.activestate.com/recipes/577305-python-dictionary-of-us-states-and-territories/
 
 class DataForm(forms.Form):
-    '''
-    Let's hope this works.
-    '''
     address =  forms.CharField(label='address', required=False)
     state = forms.ChoiceField(label='state', required=False, choices=STATES)
     district = forms.CharField(label='state', required=False)
