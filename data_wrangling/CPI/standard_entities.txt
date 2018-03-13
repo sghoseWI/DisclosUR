@@ -1,4 +1,6 @@
-Excludes:
+Information excluded from CPI_STD dataset:
+
+Excludes lawmakers with the following 'industries':
 Civil Servants/Public Officials
 Elderly / Social Security
 Trade Unions
@@ -8,6 +10,7 @@ Public Sector Unions
 Retired
 Transportation Unions
 
+Excludes lawmakers with the following employer / business interests: 
 Anyone who described themselves as "self-employed" without providing an entity name
 Any variation on "rental income" or 'investment income' which did not include an entity name
 Generic 'law office' without entity name
