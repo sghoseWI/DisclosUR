@@ -18,7 +18,7 @@ repopulate - Flushes db.sqlite3, migrates the models from legislator,
 
 static - Location for all CSS styling files that link to HTML templates
 
-templates - Location for all Django view templates that connect to 
+templates - Location for all Django view templates that connect to CSS static files
 
 opencorp_officer_query.py - sam
 
