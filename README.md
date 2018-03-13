@@ -48,7 +48,7 @@ Made connections to CPI data source and created dynamic data visualizations usin
 ### Populating the database
 
 ### Using the website
-You can query our database through four separate ways: 1) Enter your home address 2) Enter your state 3) Enter your state and legislative district 4) Enter the name of your state legislator.  After entering location information into the web form in one of those ways and clicking submit, users will see information about the state legislators that represent their location.  They will also see links, if available, to the public financial disclosure forms filed by their state legislators.  If available, users will also see information about the corporations compensating those state legislators -- as revealed by the CPI data. 
+Users can query our database through the home page in four separate ways: 1) Enter your home address 2) Enter your state 3) Enter your state and legislative district 4) Enter the name of your state legislator.  After entering location information into the web form in one of those ways and clicking submit, users will see information about the state legislators that represent their location.  They will also see links, if available, to the public financial disclosure forms filed by their state legislators.  If available, users will also see information about the corporations compensating those state legislators -- as revealed by the CPI data. 
 
 A separate feature of the site is the "explore your data" link on the home page.  When users click this link, they are taken to a page with dynamic data visualizations of the major business industries compensating state legislors -- filterable by state, legislative district, and legislative body.  The top visualization is a bubble chart in which each bubble represents an industry and the size is a factor of count of industries compensating state legislators (dynamic to the filter).  The bottom visualization is a color differentiated map of the United States showing the biggest industries by state that are compensating state legislators.   In each of these visualizations, users can hover over a part of the chart/map and export the underlying fitlered data.  
 
@@ -57,13 +57,6 @@ Contribute
 
 - Issue Tracker: https://github.com/ndtallant/DisclosUR/issues
 - Source Code: https://github.com/ndtallant/DisclosUR
-
-## Explanation of code
-Generated from scratch:
-All API connections, the OpenCorporates webscraper, as well as Django views and models.
-
-Modified code:
-Incorporated Django Tables2 to build tables within our Django templates.  Used bootstrap for guidance on HTML and CSS styling. 
 
 ## Project Responsibilities
 Worked on Together: Django views/models, cleaning data, building database ADD
