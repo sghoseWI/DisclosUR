@@ -14,7 +14,7 @@ Install dependent packages by running:
 pip3 install -r requirements.txt
 ```
 
-from the top level directory - we recommend using a virtual environment.
+from the top level directory - we recommend using a virtual environment. To populate the database, please see 'Populating the database' under 'Usage'.
 
 ## Required Modules
 
@@ -50,6 +50,13 @@ Made connections to CPI data source and created dynamic data visualizations usin
 ## Usage
 
 ### Populating the database
+If you have a demo of this project on a flashdrive, this is unnecessary.
+
+Have a file `.env`, in the `site_container` directory with the google maps, open states, and open corporates API keys. (The local demo on a flash drive has this already).
+
+In the `site_container` directory, run `repopulate`. This will reset the django database with lawmakers pandas financial interests. It should take about 2 minutes to run.
+
+Run `populate_open_corps.py`. This may take some time depending on the internet connection.
 
 ### Using the website
 Users can query our database through the home page in four separate ways: 1) Enter your home address 2) Enter your state 3) Enter your state and legislative district 4) Enter the name of your state legislator.  After entering location information into the web form in one of those ways and clicking submit, users will see information about the state legislators that represent their location.  They will also see links, if available, to the public financial disclosure forms filed by their state legislators.  If available, users will also see relevant information about the corporations compensating those state legislators -- as revealed by the CPI data.
