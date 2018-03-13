@@ -58,13 +58,6 @@ Contribute
 - Issue Tracker: https://github.com/ndtallant/DisclosUR/issues
 - Source Code: https://github.com/ndtallant/DisclosUR
 
-## Explanation of code
-Generated from scratch:
-All API connections, the OpenCorporates webscraper, as well as Django views and models.
-
-Modified code:
-Incorporated Django Tables2 to build tables within our Django templates.  Used bootstrap for guidance on HTML and CSS styling. 
-
 ## Project Responsibilities
 Worked on Together: Django views/models, cleaning data, building database ADD
 
