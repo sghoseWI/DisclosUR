@@ -46,6 +46,8 @@ https://api.opencorporates.com/documentation/API-Reference
 
 ## Project / Data Limitations
 
+While the data from Open States is from 2017, the data from CPI is from 2015. This may leave some lacking results when the user searches for a legislator that was not in office in 2015. Furthermore, legislators that are not currently in office may not have appropriate information about their political party. Furthermore, financial interests connected to these legislators are typically small enough to not be found in the Open Corporates data. 
+
 ## Data Visualization
 Made connections to CPI data source and created dynamic data visualizations using Tableau.  Hosted dynamic data visualizations on Tableau's public server [here](https://public.tableau.com/profile/saptarshi.ghose#!/vizhome/CPIDataViz/Dashboard1) and [here](https://public.tableau.com/profile/saptarshi.ghose#!/vizhome/cs_map_final/Sheet1) and used HTML embedding to incorporate data visualizations into our website.  
 
