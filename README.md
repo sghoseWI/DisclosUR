@@ -1,14 +1,14 @@
 DisclosUR
 =========
 
-Financial disclosure for legislators at the state level and its relation to corporate entities.
+Financial disclosures for US legislators at the state level and their relation to corporate entities.
 
 ## Contributors
 
 [Nick Tallant](https://github.com/ndtallant) | [Saptarshi Ghose](https://github.com/saptarshighose) |  [Sam Gallicchio](https://github.com/SRGallicchio)
 
 ## Installation
-To install dependent packages by running:
+Install dependent packages by running:
 
 ```
 pip3 install -r requirements.txt
@@ -48,9 +48,9 @@ Made connections to CPI data source and created dynamic data visualizations usin
 ### Populating the database
 
 ### Using the website
-Users can query our database through the home page in four separate ways: 1) Enter your home address 2) Enter your state 3) Enter your state and legislative district 4) Enter the name of your state legislator.  After entering location information into the web form in one of those ways and clicking submit, users will see information about the state legislators that represent their location.  They will also see links, if available, to the public financial disclosure forms filed by their state legislators.  If available, users will also see information about the corporations compensating those state legislators -- as revealed by the CPI data. 
+Users can query our database through the home page in four separate ways: 1) Enter your home address 2) Enter your state 3) Enter your state and legislative district 4) Enter the name of your state legislator.  After entering location information into the web form in one of those ways and clicking submit, users will see information about the state legislators that represent their location.  They will also see links, if available, to the public financial disclosure forms filed by their state legislators.  If available, users will also see relevant information about the corporations compensating those state legislators -- as revealed by the CPI data. 
 
-A separate feature of the site is the "explore your data" link on the home page.  When users click this link, they are taken to a page with dynamic data visualizations of the major business industries compensating state legislors -- filterable by state, legislative district, and legislative body.  The top visualization is a bubble chart in which each bubble represents an industry and the size is a factor of count of industries compensating state legislators (dynamic to the filter).  The bottom visualization is a color differentiated map of the United States showing the biggest industries by state that are compensating state legislators.   In each of these visualizations, users can hover over a part of the chart/map and export the underlying fitlered data.  
+A separate feature of the site is the "explore your data" link on the home page.  When users click this link, they are taken to a page with dynamic data visualizations of the major business industries compensating state legislors -- filterable by state, legislative district, and legislative body.  The top visualization is a bubble chart in which each bubble represents an industry and the size is a factor of count of industries compensating state legislators (dynamic to the filter).  The bottom visualization is a color differentiated map of the United States showing the biggest industries by state that are compensating state legislators.   In each of these visualizations, users can hover over a part of the chart/map and export the underlying filtered data.  
 
 Contribute
 ---------
