@@ -1,6 +1,7 @@
 # CAPP 30122: Group Project
 # Saptarshi Ghose
 
+# Did not make it to final project but used this to experiment with data visualizations
 
 import seaborn as sns
 import pandas as pd
