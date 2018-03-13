@@ -16,11 +16,9 @@ populate_from_cpi.py - Programmatically populates db.sqlite3 with
 repopulate - Flushes db.sqlite3, migrates the models from legislator,
              and runs populate_from_cpi.py
 
-front_end - sap
+static - Location for all CSS styling files that link to HTML templates
 
-static - sap
-
-templates - sap
+templates - Location for all Django view templates that connect to 
 
 opencorp_officer_query.py - sam
 
