@@ -93,6 +93,6 @@ Nick:
 * Connected views and urls to Saptarshi's work on the front end.
 * Implemented the final version of CPI data.
 
-Saptarshi: Django templates and static files for views, django tables, dynamic data visualizations, bootstrap, html and css.
+Saptarshi: Built Django templates and static files for models and views relating to each of the pages in our application.  These include responsive input form creation, dropdown menus, buttons, using bootstrap for HTML and CSS styling, and rendering Django tables. Also made dynamic data visualizations in Tableau and Seaborn and connected relevant visualizations to our front-end.  
 
 Sam: OpenCorporates scrapers and database population script. OpenCorps officer query function (houesd in opencorp_officer_query.py; intended to be incorporated into Django application, but ultimately was not due to difficulties in rendering the output in a comprehensible way. Can be used independently of the web app in IPython3 by passing the function a legislator name (does not need to be exact) and two-letter state code (e.g. "IL")). All OpenCorp-related code is original work.
