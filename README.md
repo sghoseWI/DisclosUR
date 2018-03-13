@@ -96,7 +96,7 @@ Nick:
 Saptarshi: 
 * Built Django templates and static files for models and views relating to each of the pages in our application.  
 * These include responsive input form creation, dropdown menus, buttons, using bootstrap for HTML and CSS styling, and rendering Django tables. 
-* Also made dynamic data visualizations in Tableau and Seaborn, set up Tableau public server data visualization hosting, and incorporated relevant visualizations to our front-end.  
+* Also made dynamic data visualizations in Tableau and Seaborn, set up Tableau public server data visualization hosting, and incorporated relevant visualizations to our front-end templates and views.
 
 Sam: 
 * OpenCorporates scrapers and database population script. 
