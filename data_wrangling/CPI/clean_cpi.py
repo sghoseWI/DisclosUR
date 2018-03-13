@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 '''
-This reads in cpi_data_entities.csv
-querys legislator_db by state table
-makes and writes a new line to cleaned.csv
+This reads in the original CPI csvs,
+querys the legislator_db by state table, and
+creates two csv files with cleaned data - ex:
+names no longer UPPERCASE, null values, etc.
 '''
 
 import csv
@@ -15,6 +16,18 @@ SELECT = 'SELECT party FROM '
 WHERE = ' WHERE full_name = ?'
 
 def clean_name_state(name_as_list, state):
+    '''
+    Prepares input for the get_party function.
+
+    Input: name_as_list (list), state (string)
+        Name of the legislator as a list from the
+        original CPI data. State as a 2 character string.
+
+    Output: [name] (list), state (string)
+        Legislator name as ['First Last'] to be used in a query of
+        the sqlite3 db of open states data. State as a string,
+        correcting for 'in' and 'or', which can't be table names.
+    '''
     name_as_list.reverse()
     name = ' '.join(name_as_list)
     name =  name.replace(',','')
@@ -26,6 +39,13 @@ def clean_name_state(name_as_list, state):
     return [name], state
 
 def get_party(name, state):
+    '''
+    Finds political party of legislator from open states.
+
+    Input: name (list of a single string), state (string)
+
+    Return: party_val (string)
+    '''
     r = c.execute(SELECT+state+WHERE, name)
     party_list = r.fetchall()
     if not party_list:
@@ -36,6 +56,9 @@ def get_party(name, state):
     return party_val
 
 def clean_df(df, c):
+    '''
+
+    '''
     for index, row in df.iterrows():
         name,state = clean_name_state(row.lawmaker.split(),row.state.lower())
         party_val = get_party(name, state)

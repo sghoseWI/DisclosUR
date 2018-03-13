@@ -1,11 +1,15 @@
 #!/usr/bin/python3
 '''
+This file was not used in the final implementation - we were
+advised to populate from a csv (which turned out to be much easier).
+
 Meant to populate the main database with all legislators from the
 2015 CPI dataset. This will return a list of tuples, with each tuple
 being:
 
     lawmaker, state, district, body, corp, industry
 '''
+
 import sqlite3
 
 def get_cpi_tuples():
@@ -48,23 +52,3 @@ def clean_record(record):
         corp = 'unicode error'
     industry = record[5].decode('utf-8')
     return lawmaker, state, district, body, corp, industry
-
-
-# test code, please ignore
-'''
-import os, sys
-
-proj_path = "/path/to/my/project/"
-# This is so Django knows where to find stuff.
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "myproject.settings")
-sys.path.append(proj_path)
-
-# This is so my local_settings.py gets loaded.
-os.chdir(proj_path)
-
-# This is so models get loaded.
-from django.core.wsgi import get_wsgi_application
-application = get_wsgi_application()
-
-<your script goes here>
-'''
