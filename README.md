@@ -44,6 +44,8 @@ The largest open database on companies in the world. Their goal is to "make info
 Documentation for the API:
 https://api.opencorporates.com/documentation/API-Reference
 
+## Project / Data Limitations
+
 ## Data Visualization
 Made connections to CPI data source and created dynamic data visualizations using Tableau.  Hosted dynamic data visualizations on Tableau's public server [here](https://public.tableau.com/profile/saptarshi.ghose#!/vizhome/CPIDataViz/Dashboard1) and [here](https://public.tableau.com/profile/saptarshi.ghose#!/vizhome/cs_map_final/Sheet1) and used HTML embedding to incorporate data visualizations into our website.  
 
@@ -59,7 +61,17 @@ In the `site_container` directory, run `repopulate`. This will reset the django 
 Run `populate_open_corps.py`. This may take some time depending on the internet connection.
 
 ### Using the website
-Users can query our database through the home page in four separate ways: 1) Enter your home address 2) Enter your state 3) Enter your state and legislative district 4) Enter the name of your state legislator.  After entering location information into the web form in one of those ways and clicking submit, users will see information about the state legislators that represent their location.  They will also see links, if available, to the public financial disclosure forms filed by their state legislators.  If available, users will also see relevant information about the corporations compensating those state legislators -- as revealed by the CPI data.
+Users can query our database through the home page in four separate ways:
+
+1) Enter your home address
+
+2) Enter your state
+
+3) Enter your state and legislative district
+
+4) Enter the name of your state legislator.  
+
+After entering information into the web form and submitting, users will see information about the state legislators relevant to their query.  They will also see links, if available, to the financial disclosure forms filed by their state legislators.  If available, users will also see relevant information about the corporations compensating those state legislators.
 
 A separate feature of the site is the "explore your data" link on the home page.  When users click this link, they are taken to a page with dynamic data visualizations of the major business industries compensating state legislors -- filterable by state, legislative district, and legislative body.  The top visualization is a bubble chart in which each bubble represents an industry and the size is a factor of count of industries compensating state legislators (dynamic to the filter).  The bottom visualization is a color differentiated map of the United States showing the biggest industries by state that are compensating state legislators.   In each of these visualizations, users can hover over a part of the chart/map and export the underlying filtered data.  
 
@@ -70,10 +82,17 @@ Contribute
 - Source Code: https://github.com/ndtallant/DisclosUR
 
 ## Project Responsibilities
-Worked on Together: Django views/models, cleaning data, building database ADD
+Worked on Together:
+* Creating classes found in models.py, used in the main database.
+* Cleaning the CPI dataset
+* Integrating the separate components of the project.
 
 Nick:
+* Obtained Open States data through a script accessing their API, as well as obtaining/cleaning their bulk data.
+* Implemented the original django framework, and maintained the versions of the back-end throughout the project (migrating model changes, etc).
+* Connected views and urls to Saptarshi's work on the front end.
+* Implemented the final version of CPI data.
 
 Saptarshi: Django templates and static files for views, django tables, dynamic data visualizations, bootstrap, html and css.
 
-SSam: OpenCorporates scrapers and database population script. OpenCorps officer query function (houesd in opencorp_officer_query.py; intended to be incorporated into Django application, but ultimately was not due to difficulties in rendering the output in a comprehensible way. Can be used independently of the web app in IPython3 by passing the function a legislator name (does not need to be exact) and two-letter state code (e.g. "IL")). All OpenCorp-related code is original work.
+Sam: OpenCorporates scrapers and database population script. OpenCorps officer query function (houesd in opencorp_officer_query.py; intended to be incorporated into Django application, but ultimately was not due to difficulties in rendering the output in a comprehensible way. Can be used independently of the web app in IPython3 by passing the function a legislator name (does not need to be exact) and two-letter state code (e.g. "IL")). All OpenCorp-related code is original work.
