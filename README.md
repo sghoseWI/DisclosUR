@@ -5,7 +5,7 @@ Financial disclosures for US legislators at the state level and their relation t
 
 ## Contributors
 
-[Nick Tallant](https://github.com/ndtallant) | [Saptarshi Ghose](https://github.com/saptarshighose) |  [Sam Gallicchio](https://github.com/SRGallicchio)
+[Saptarshi Ghose](https://github.com/saptarshighose) | [Nick Tallant](https://github.com/ndtallant) | [Sam Gallicchio](https://github.com/SRGallicchio)
 
 ## Installation
 Install dependent packages by running:
